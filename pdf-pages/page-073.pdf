@@ -1,0 +1,799 @@
+%PDF-1.4
+%âãÏÓ
+5 0 obj 
+<<
+/Subtype /XML
+/Type /Metadata
+/Length 8571
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c014 79.156797, 2014/08/20-09:53:02        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/">
+         <xmp:CreateDate>2015-04-03T14:30:58-05:00</xmp:CreateDate>
+         <xmp:ModifyDate>2015-05-03T12:33:13-05:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe Illustrator CC 2014 (Macintosh)</xmp:CreatorTool>
+         <xmp:MetadataDate>2015-05-03T12:33:13-05:00</xmp:MetadataDate>
+         <pdf:Producer>Mac OS X 10.10.2 Quartz PDFContext</pdf:Producer>
+         <dc:format>application/pdf</dc:format>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>8.111111</stDim:w>
+            <stDim:h>5.777778</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Delicious-Roman</stFnt:fontName>
+                  <stFnt:fontFamily>Delicious</stFnt:fontFamily>
+                  <stFnt:fontFace>Roman</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Delicious-Roman.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Delicious-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Delicious</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Delicious-Bold.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <illustrator:Type>Document</illustrator:Type>
+         <xmpMM:DocumentID>xmp.did:b64a9790-87b4-424d-98a9-15c376173571</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:956f5a94-8aa0-c342-b1f9-396a4f7f9838</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:1821055d-4e6e-4f45-9462-83a0dda43605</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1821055d-4e6e-4f45-9462-83a0dda43605</stEvt:instanceID>
+                  <stEvt:when>2015-04-02T11:46:59-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b64a9790-87b4-424d-98a9-15c376173571</stEvt:instanceID>
+                  <stEvt:when>2015-04-03T14:30:58-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:a07acaa3-8766-48d0-90af-76fa0c42d6e4</stRef:instanceID>
+            <stRef:documentID>xmp.did:a07acaa3-8766-48d0-90af-76fa0c42d6e4</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:1821055d-4e6e-4f45-9462-83a0dda43605</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <ExtensisFontSense:slug>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Delicious</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>001.000</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>1745965579</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Delicious-Roman</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>1745965579</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Delicious</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>001.000</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>2174784439</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Delicious-Bold</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>2174784439</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+            </rdf:Bag>
+         </ExtensisFontSense:slug>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+endstream 
+endobj 
+4 0 obj 
+<<
+/Metadata 5 0 R
+>>
+endobj 
+7 0 obj 
+<<
+/Subtype /XML
+/Type /Metadata
+/Length 8033
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c014 79.156797, 2014/08/20-09:53:02        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/">
+         <xmp:CreateDate>2015-04-03T14:06:31-05:00</xmp:CreateDate>
+         <xmp:ModifyDate>2015-05-03T12:32:27-05:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe Illustrator CC 2014 (Macintosh)</xmp:CreatorTool>
+         <xmp:MetadataDate>2015-05-03T12:32:27-05:00</xmp:MetadataDate>
+         <pdf:Producer>Mac OS X 10.10.2 Quartz PDFContext</pdf:Producer>
+         <dc:format>application/pdf</dc:format>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>8.111111</stDim:w>
+            <stDim:h>5.777778</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Delicious-Roman</stFnt:fontName>
+                  <stFnt:fontFamily>Delicious</stFnt:fontFamily>
+                  <stFnt:fontFace>Roman</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Delicious-Roman.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Delicious-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Delicious</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Delicious-Bold.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <illustrator:Type>Document</illustrator:Type>
+         <xmpMM:DocumentID>xmp.did:a07acaa3-8766-48d0-90af-76fa0c42d6e4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:51d22980-1358-164a-b56e-166a049496f4</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:1821055d-4e6e-4f45-9462-83a0dda43605</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1821055d-4e6e-4f45-9462-83a0dda43605</stEvt:instanceID>
+                  <stEvt:when>2015-04-02T11:46:59-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a07acaa3-8766-48d0-90af-76fa0c42d6e4</stEvt:instanceID>
+                  <stEvt:when>2015-04-03T14:06:31-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:4f0e0845-5319-774d-9cde-d6f8137fb366</stRef:instanceID>
+            <stRef:documentID>xmp.did:7d5cbeb8-845e-4f70-9a40-2bbb958abef0</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:1821055d-4e6e-4f45-9462-83a0dda43605</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <ExtensisFontSense:slug>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Delicious</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>001.000</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>1745965579</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Delicious-Roman</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>1745965579</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Delicious</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>001.000</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>2174784439</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Delicious-Bold</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>2174784439</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+            </rdf:Bag>
+         </ExtensisFontSense:slug>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+endstream 
+endobj 
+6 0 obj 
+<<
+/Metadata 7 0 R
+>>
+endobj 
+10 0 obj 
+<<
+/Subtype /Type1C
+/Filter /FlateDecode
+/Length 2891
+>>
+stream
+H‰|•kPWÇ»éééaÔVÄ¦ Ûô ¢N\Ô¨ˆŠ¨ƒˆ¢(AğÃ{x?4„ááƒ‰ŠPd@Ğay(>xG]t£%`$‹‰" ¸¨9­Wk·IöÃ~ÚºU·êvßÿ¹¿{ëÎÁ1‰†ã¸™Ÿ¯j»Ê÷OnÁ‘áêğ˜¤„ù®1‘AlfH„™“'”øÁ÷ƒù¶ª!w
+L›
+ËM3'õMÇŒpÜÚ^›–hé°t©Ó|qZlk¹!&ÁÒ5)|_pth€ı:ïmÉ±Á–,ƒ‚C0fŒcSŒ09fa6fa¶Ã\e˜§ó–`~ƒa¶"%&Á(l)‹åcUØ÷ø4ÜÂïâÿ6r7*5ê$\‰o‰n‰Tâ)9*yDš™dô3iª´›’QEÔ2R6W–*«“½3ö0N2ş§|š|³<C~_ş³ğ”F$íR3@@§7ƒLÆT0±`İV0¹‡O$‘Ã<D %È‹E±cˆÄğôj%­ğ”/DÀäğŠOw a²K'²BÖ,Z¤BÓÉ\>o	+aÆ(Ì„X–Fö]Ç”¦„WFqûãÓÓµŠã‡t‡²ÛB7GîæïîmkozPıĞ‚C†âõAÀa‘ÆÅZ°ÄoÃöŞaê¢Ê‚C#ÕåqµWª«®ğ´vãç_Ã®×„àYğ0)ÂMBÖhjš	
+Pt€9˜òsÌĞ¤àÁ=cµ::j×)yZ§È=šqñAÌ„´ÅTÚ2=(àP ·dYŠÖ@×µïÁÖlyQ}íÏ^ÿÆ©®ÛnsKTóÅKÈŠÊÖó×¸êŠdµ=r@Ö«çV´à8€Cõ[B˜õ+Óåõ÷ÕßğMúÎûìı_¬ß¢‰ØÊ—9“º_ÛÅEÚ„¤ä})i|htP´:ÉçùrêÄ¥KÇ+¹Æû<Ğd¾S™­XKóQXô¶±´nH Eî’1BXm6´U°MÙ"SGÄnAÊ“ËÌ!ñcÀKç1ÈBZÕó§Æd4ZÚ™C`;ˆ?êHf=ÊŒ¸µ-ü:åHv
+’°zé¥QèYĞXy¦…3Ô%ú¡ÉÈl‡ÂYOÁÂlpW–ÖBf/~eVÂˆgú=úìbÕâùë£ß_lWwš#Gdh´…EÆW‘Ø ûÈaos‚Ùúg;—5É iÖ;—£çO—”œ.ån×DmRĞÈM/ÜÁÁ0J¬°iGÏæC*•‰\ç¡0%²Øm$Ì…RğAæ¸öâÍcğÅnÑŒhLpzNSÒÀ6œ«o¼y>ÆŸ×£6Æ/ÜÇg{XKckå¥«e¼!¾=Ú‹}›Ã<ñ­WUñm•µuØqÖYÊ•›m<kw7FñêÀËÙÙOWÕ×ré…£ÏğJñâoaÄ10=¢ÈÂ[¼ª±²Ëu´¨:ïT¿ëóe[çï¼¸ÂœîÁàa;«œÙŸ½?ë+>=!òpçV³ıäXO÷·ˆÚ®øÃîğùÿ³<\‘ÔE]¿…ÿO¼ÒéaÑKèÓãB–Úù^N:H‘ÿ'9	¤ô¸“`#½ƒÜÉÅPÎØJo€I?ÕQÃx3à„ ¹ÊìxD&Dø§qH– ³úÀ~¸¦éğşJEıdEÀÚ_¹¸ h²ï@kÀãVWQAAƒ•˜>Ïõ¢—pğšˆ•hö^pê£R÷x«KkK©æ‘%t’hÆ'¹¸çƒ´şğş=IzHÔæü®]
+!|mf ĞzØDºóê$îıÈ•G³W&I! %‘jaã²Å-.2_YM½¨Uo9fk_
+ez¼[Üé3Á‘:F0EøGSJuPéèxpô>ÿß5âZ‘)Ø‚m+˜ÇÓ-Ú>x5ˆ×‚R4òo˜Ø2+33+“Ó)8«€ZêåƒÃÆuAşj¾z#Y^Ñ\nàªÎg+ü(¤±#ScS#Y'ƒÏÀw5e×Êù=§şkàJKOå)3ìa6;{D¥\¸XS˜SÀƒå-’Ï=Şó\#5\`Àh+LA&{ââ“xÈ´şdA7vÄŞãÀ©€…Âò ³Y‹,–ÅkòöñPHÓ×W\äºÎÚ‰Ş9ª€—ıxıD±ifB»ÈÄh¿ØÎ%Œo·_âayMêşEKyY³QïÇ!KOd#Öã ØÖ{å5—ô¨öMp •+â™_®¬Q ¥ó-Dvh–Xb™‡ân­¡¢Ï;“P¬•ı%ıòqkÙŒ¯aëOòkOxwí=;Ú[İœ¢ãé["äÚç?âWÅZª‚¦øhq1;œµâ—yâœÅş!H	Êöîºê«Š°d\ø¶˜ nMÂx{®.÷X®ÜŸ3h¹´!ï¼¡‰k*Û»+GÌSÑJÓûÁwâ=	¨z/g’“:´)Ù±Ş«¨{äGå[aÎ‹şMÔÏ£¹"J=ò{,v¨¯`á Ş4kşEë±ï˜PyñÑ91œ•Û:Kï2÷[	Š°´°˜ 6ü¯åGøŸ¬í°æÉ;0¾ò.¯:¯‘&:ºPi8U˜£8{"ïXŞqÙıµÛ?±¥‡Ë—ğN*f¯ÖÿK¯Œ†Â†æ–Â/÷ğuè=ãù:«6¦©3
+s…öv®\Íô¢pá½ˆKœfšˆßÆ¸eF3%j¥†-Õ›ÜV°€Ä:Û1.Æ»?F4¡U*­T¥Ôì@L5Ñdƒ„i‚šHÑøqÉ¹ğvÆCù½¿oîsrŸssg§e—Yj¾í»*“¿´˜,‰Ü8RÉI`XU8ÂøÄ¹OÓJvÙªË“Ê(Pğ­Å'Ø#tœvI"ı„^¹	‘~ÈdÑÈ6¢‘}p±®&øˆ5`1—Y%sû¡p$ÔŞI8ºYöN,ô2ıø©)ãğp}l$k@ÙÛÏU&±yÁü«ÀJ)©;2ÔìCë M5–Ú­$P'µ…ıå¿ÙÅky	—	¶ù|ÿõ.!ÔTm©¢¨ÖÓÚu¥ê-bb›$‡Eÿ‡Y8Y%I¬cŠ˜sšØ0:ÍËçLFP]ÀmBQ1Û(Á“;ëÍ„{³H^F¾e½Á`‰†÷õ…×­ ÜºÉ¹/`ôÕÔÂàÂU€—¦0 -­o áÿ-3{ åOGT€oÃ°ô"Miä‹Ó¹ß­q¾ À±­¾Ğå¨0tv±Qä–"›Ì×Ì”Ü êâå:·t°øgK!•aåHO›?xÅvÚñ`„éù ÙxcæA6³Åöùğç4ö¦*Ï¥¬PçÅ«¡è1›ŸÜ½£éµniıIÈ_½wÉş%a»x£¦·öFÎW°Wf›ÒS›·Š”nÖTtöWÄ„±xì½Èåâò>Š3OŞ¦Âu7oÒÈ•®ÚšS-İÏâù£ß¬øñ{öŸ±[…bî¦‹İ„w¼T³ñ‚ODêæå#î,ua¶¾Öj:$	æ ¨¦ä%RØe‘=on´_é$gª#ÖàI×…=(Bß1`hšÖFg–Q¦˜¦åÂØ|ªÑÂ–„ƒéäÿk{aƒ‹R£w‚GÄNDä"`N9óå~5\kêdTšª…	—½ÌYsØyÌY×`môm˜/z"mÒŸ}TuÀb·{*4Âd20Nb`t¸U§f»oÓR“%ş¾*õ_Äg*_ÆÏèõ£çõéè9µh®ºœÿ,À Ù•Üa
+endstream 
+endobj 
+9 0 obj 
+<<
+/Descent -224
+/FontStretch /Normal
+/FontWeight 700
+/StemV 104
+/Ascent 898
+/FontName /ZXHUHX+Delicious-Bold
+/ItalicAngle 0
+/CharSet (/A/C/N/R/U/a/b/c/colon/comma/d/e/eight/endash/f/five/four/g/h/hyphen/i/l/m/n/nine/o/one/p/parenleft/parenright/period/r/s/seven/six/space/t/three/two/u/v/y/zero)
+/FontBBox [-87 -224 964 898]
+/Type /FontDescriptor
+/CapHeight 630
+/Flags 32
+/FontFile3 10 0 R
+/XHeight 490
+>>
+endobj 
+8 0 obj 
+<<
+/Encoding /WinAnsiEncoding
+/Widths [300 0 0 0 0 0 0 0 0 0 0 0 258 0 0 0 450 450 0 0 0 450 450 450 450 450 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 505 0 0 0 0 0 0 0 0 0 0 0 0 0 0 466 0 412 512 471 0 0 519 238 0 0 236 771 519 488 0 0 319 419 306 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 358]
+/Subtype /Type1
+/Type /Font
+/FirstChar 32
+/LastChar 150
+/FontDescriptor 9 0 R
+/BaseFont /ZXHUHX+Delicious-Bold
+>>
+endobj 
+13 0 obj 
+<<
+/Subtype /Type1C
+/Filter /FlateDecode
+/Length 4590
+>>
+stream
+H‰ŒUkPÙîfèîaFĞVìÑÀ,ø ]W”âä¨‚¼qP4ƒQˆ¨ `Ôß£" @E@‘á)ewÜ¬å+1®{š½J³Yó'U©­[Õ?úóós¾sqÌØÃq|ş¶pß-¾áK½’”ŠEz¶jyhúÎ¸´™«Oø…8¿À˜_4‹ñD;~ı‘&aîwKÌ`9xYÔ/œgg‰‰p\l¿&-^•—”±7S!OÎ²^éì¼z¹ğY³ÌÚ?]eí™­Ø”&sôÛ¼7#ÉÚÉ:1i†áÂÁafæ˜­æÁb
+KÇ°=vÃº0¬ÃàøaÒÅŒ1
+ËÃj°¯ñ¹¸¾ÏÆá}ø;£µFŒE¢Ã¢Fc;ãcÆí„áITïI'2œT“]ä;Š¢¨pju›úV¼R¼Gü­‰³É1“&/%Æ_I®¤L2hºÁô¬é‹Yn³ÎÎ4K4»h¦£h':Œ®¡'ÌíÍ˜?m<;qöùÙ‹(‹ƒ¥‰e¤¥ÒòåÀœs†çFÍÕÏíåÛh´˜>®ÖOšjğ.ƒáîÀ¨.Ài¦:»FËnWÅG«¹heâÊålgï—ßj>ÅAØÔzæ¿Úu8È¡nÔæ^Ï)k³J¹y1ş„øQôfjé¡à¬­!ŞÁ¡TÂñ/5òKYÁV™ûîŠCîvR9¯ëş†¥‘¬šd™œô}E²¢ãyjö@aîáßpù©{S·ßUZ½ü[ıD[¤Ğîähë¦èÖ2Èêƒ7,w†Á	æ|Åå·Èaùä†|X$Ÿ@¶à‚,8z1¨;Dš¼Èä‡0ç‹ä„Xäæ¡6ÜÉ \ÀblAÎ‚·¸£¥¯9lâ—%„l [‡·A˜Âm…C) ¨ÁZ[µÌÍŒ«Êe†"µLUYUY^ÅÑ«áÕäQ&D¥ÿZDèIZ­ç9=^>ÅC"Èæ72oË©«k2µ·Ï Sƒ¡LßÊ E0@‡‡lMâèGˆ°yĞ]¤áß+Öà="‚–yü~oJGäïL9”*Ë©µ]ÔË›vãğHèòş8ã)Ï‰	“!nÔ5—5Kµªp[´-û,JvN¨ÎÓ^”I6TÔÔVß7µj‡ÙïWq4Ü…Ããg"(0BİÊHÙ¥­„¦úé­ZiUådåîÌ¬½²DelZŒ*æUU\^^\!íÍ]gã¾b·ìP–ê°JRBÁš£àøüÙ?{·ºpºjƒÖÀmiôÈôğö•ÛÃ"Şe^O ïêLÙ£ùNH†Kü­ qƒÀ‘^=ò%µ ÑƒÑà{1ğ¥ÿz>}&â¼a^ºi×•pyùÇò¤¹¹GäÊ.Àv|tè™¾!ÎÔÖ®“v¶îòñIØ¤”Åd…¨#„	-¡:õç^¿ºÓ4ú¥Õ:¨o†|Ş4;…òş2¯‹W|–	æ}×Š¯¸Ê½QVZ%Ö&ºË~Ç»0ÈÑÍN ‹ˆ:´JèÓüVƒø­O¿C¬*/7‰«ÉHË?ôbyiøçB[ú‡Dü|~?ƒÆà4‰‚~…
+1²ãzÓ	0Æƒ›à'äÒguÒ†wÂÆ'3¹83A1ı|c:õ]M-eœNŞ—ãÌî†!Æ#:'4‹¼*/Ì¶V?hïªJäŞ ~æßM÷:îñµö–>öïÁÍ®¡IÉœwjDàzÖá…çw`ü¢Äı¡txãÈOÌŸƒ?³/=>/UêÛ¬RúáÕËkˆöÍ<’Y ’-g‚<#Qj6wgÈò4W
+®Hµ—OoÅ ËÏCò‡P+Xİ«`1±@ÄÁzdÃıG6úÿ¤:ãÿ•“ ×;ş2á>†K?ƒ§ªæè¾"ôÂkaêNñw˜§¨RX*$¢+Šš”Ÿ“(jZB¼ û †€MdŠ!èu?ö@l>6›‹xKdVÆ¯ÍÜõû“*rŸP_¨íd
+¨g|"ü8ˆ!{îgyÊ«„)™ÆÈıÍÛ"ów½`5İ¿æ„¬í|}OÛ«lºÆ•*“‹S¤t›º‡¯ĞãÇD¼²Q4òÍ¹ÑR´@^ka˜ŞkÌËjU´Ñç¶J‘Ç¯Q ²C+tÈÚ‡4·îÊè÷Eİ|a7>öNŒ‹à¯g€½Œ–~b“‰l+[Á’ÿìfÿ´ÜIğî‚Õ°–EÀÈWFŸ)€ìˆêØŠøO'%'ĞIÈ†àQp„¤•B)Ë`{ïOv³fìîOKÆ 	Ül%I«»ùÊ.œñ‰g8ãâ©ƒ™òÃRÄ¦ÀÊï…¹sJÛtPU'«l%*BÎùı—•S'ò„Àû'/keô÷BÀò~(ÒÌ´!Gˆ™<oR²iPhÖÍD¾9èE£8aINV‘ğîH×i‰AØØÛø4ø„ğÏ9™\â:mMmKTÅår·‡kÇYºág?z×¼«”À·
+`”XC¢TO@ıOQ.Pp] èÂ­¬…é$Dqj¤íE;IZ>âğ.c¢IáÒFúT
+â+ƒ÷$«ZŠ8ğ›:K<!Á/%Š
+¶*Ø)÷1ŠÑGØ/¤’6ÃrêßtW{PçewqÔ½V]”¬î
+x1¢­Xu¢¢´¢€ÈC¤B‘ğ
+Q¢EÁG”A¸1!ÈC•òFĞJo%ğQm½×Û^{çlæ‹3÷™şÑæ¯ÌÎwÎùs~çÅQñçã²ã9-¤ŒëØDjÏhOk8øÜ”OĞ¿§İ®İ7GZ72®¦è×ºu±8SĞ”XğÕLáï["ÉnŒlM;ÂII;ƒØìÆóGÂÓM8Îá í7#øk‹Åzúm¤“[¨»KrtşE¹T&ĞBs<ÎéeÕ'¯³ğŞğ@¦´£98[È‚ÿ éeÓêÁ(Ñ„©Is[7,Må.!¤Íw=~`ssÏËåKÄécÇÎcƒ¤7ªbxaô¯}¢ûpÌ'¤°‘{­•+.æãÍí Ìøy˜jÚÎàÄúÀ§Äoê¯_¼MÀå&]ÉÏ,È*8ûÑ‘t&/‚ş1àQ*7Ú0öî¾‹yÌÿ²Ld-ò–J½#ƒ5eñ\´!«ëIüŠıõùÀÿx¢Ò£ u6V~}³>5®ŒÓß$šã¼¯ïféHŒ²vĞœOx¡“41ğ¾©ó±Ğ‰óNáv¨-†Gà$ö!2ÁÆÕÄP.G‘¥­½,G9ÁÚü‰¾Bs`8¶Â{0¬«™	#œÇT“ÈÅ¤CAG¬!!7³—˜’—Ç_wáëH“qâ€*V%B”G¸’ˆ2å*•îD5ç(øaÂƒ>'ÁRÈKSşK·LQX£ ÍĞA¸H„”ˆ¥Ù–'êA;‘xAâ¦Ÿb”MĞšq!Â]3ÛÆ¦lÑ´˜x™ì	¤%.Zw˜*la®hŠqg?“W(Ê?wé‹".·R]WÙ$Õ-XíøéÜÙ«>©àèÒ´Á®Ï¢a|qñuCã)]æ–\[_œ£¾PÈû#–¢ÓÌá›Ä©¬Œ3™ìáôü+<tQ¯v6¬õŞÁiB‰j]{m«¯Tìå½)tl)‘¬Œ”‹Ö7ù?éêÓus{ª´])Í½XÄÑ=i½Ââ{°AmñÄ ñ8{3¡ÙtÙŠeû
+Ë´Qåúk·ØWEhªÿ8Ÿyót(&ƒL·w‹¨˜†„6Ö5ót,öbIE^aæ70IÍDjBH¢ŒuŒƒyßÿSû©²6íP_¥'t1WÂXÄù"1šfv#¸;åº~ˆ•Ø÷šqµ>†Ã8(˜mhš‹$fôÿR³€ÖÔœ<^Îı×´‘g«ªÕ"áÚGåÅÄæÈX$ùÙ£¿Û·¡y@wôk»ùƒ¹±…J®HyùLÉY+Zƒ·"E'ÌÀHqïü†M¶ÔõßcïÕxûó#~ÌÙbUñÙb«ezş,fÑüh.š‰¦7!'°ïü¶¶¶‘O¾CŒÙº?’uJ v¿ ÊÉÁWÁ*Ì§.V[¼ÂÀµÆ…ÌÑn"8ÍJE”hÃöê~ar7î¯»¨~¿ğ§Â?.@¡í°öÃŞ‹ï wá#¦±TB‘-g—y|,ŞÖàÓ¯à#”A)A¢h]Rõ).X¾Wî)rz•8ô+Lïj  vMÆ¯8ãÖÓmÿ°¤­û‘H{¢.­œ^ÍÊvùúÊºïŞ½ÑİÕucW WgšÉl]îZÒÑ¤/¯Qsİd}{Ö6`W\û&è3êe-XQC©]ö{¶È“£98éöÎÓ ,¤J®İ¯hg[óäa¼ÉjbTµ½µx‚w.'¼n6¥?"—)&®<E«Õ\ÕU$–ÄÇ'ŒÅ+P8Ú­6ŸxëËúÍ¦›”4,ş3<ÂöƒêoªFDË›ÿD¡ÑÎmše}™BIp	>†(b‰<P8!¼oå¤¢r‚FûÇŸ°G£'Æ”Iú}¹VÀ“‡>¿÷PDÃè˜¿fgıàg˜fÜfö÷§ğÆUaîÉ	¸ÛŠ½¹R6$T‘Á×¸™ÒÍ®kª›J›Ù–K‰Rìº?ÏSåÍã4U­Å·'?S‘ü‹0NªR—~£ûCõ“•˜H§_æiš³iSš-‘DÁì¡¡˜ó”ï±DìNä€(Dõ¢% Q/,
+¨à€Xş¯è`;¦ê™ã"_€‹|ë1$^±4f}ÏÁJ[Ñ¢m09áÁ/‡SŒ4à`œŒ¯u{÷6N–6'u° ®„M`5Ş &Õö
+¶}­Ãc5jÄ‚ŞiÎ»¢¸Œ4eÖÖ1ŸŞü÷kmMÖqo0ı‡1rTñ—¼Xó¸Í@–Íøµ7_»[Æ£ÌœÙ8P«ÍI…˜9ªƒ…rŸdYJ
+W·Ñ¤9TI‰¶²ŠÕ¥«xZ‘Ö-8t[4ÁV|kM‡¹L¿¬ÁOÃ­Ôq…WêDÍwÔõ·ô)	îÖ-¢)Úçª?ëº6råªÈ69ÿ6¨TV¤ì„¤„FU”Æq	„¬¶#©•}ù¼ñO£E¸?ZwYü‚/•ª0Gš	•ìh’BYĞÈÁ³×]âk<Æê½¤œëš»nkpÒúWó5–ki5“r^uµH$¬v3YSq²-ò068SÓÈVn8Í«+¥?·õ_­®ç¢¾¬H©fé<=x ya÷İÈxÄ£E~ˆA¬ ^à‚×ZS:1DcxÔ3>í°ÀGd2bcÍ>dm/Ø-XO®0Ù!KÁCX†%Ÿá ›(ê-øOKNE»8•¹–J¸Q²>ÔƒDë­èÃœ¬‘3\Äcï(–_‚6ÚÂFBBât­Dˆ…ş0ùt>òQgcŸ1ØÿWúoå„ßŠ!¿e[×6®mXı›íûU	kPÍØVWT™QV)YVYXYĞ:;PbÇ´-³W­ÿòïå÷;[Aş©ê>óıïiÆƒßåŸœØ™ßKØ¯}zğçÅwV³¿¯z¯e×şÍlõ[Àş·‡;_ß÷-DÖ°¿]ÅˆªˆÍ¾—güşëûFÑß¿ü¿ÿbZaøSŠ¨îÙwW1b”ñ}·ü^vœñÇ—ï›Dÿ|ñÿñ…Zû×NÏ€Ã·¢!›ƒ÷'LL^'±sñæë6®Kİ”¶«ˆvÕäwå¢İaNjNr«ãX¿sœ8®[
+aÛİW@û&¼=ü–šv~úÁ)º¨bNinAn^éœš+V-])÷]OCŒv¾®ùşŞû’ùúHì8Ÿp:“ƒïw_Í¬u³¾ÎÚ3ƒíwÌbv¹Å!ò<œ'¹®sïÉÃslï0‘ş¢   ªU
+endstream 
+endobj 
+12 0 obj 
+<<
+/Descent -210
+/FontStretch /Normal
+/FontWeight 500
+/StemV 76
+/Ascent 890
+/FontName /ZXHUHX+Delicious-Roman
+/ItalicAngle 0
+/CharSet (/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/a/acircumflex/b/c/colon/comma/d/dollar/e/eacute/edieresis/egrave/eight/emdash/endash/f/five/four/g/h/hyphen/i/j/k/l/m/n/nbspace/nine/o/one/p/parenleft/parenright/period/q/quotedblleft/quotedblright/quoteleft/quoteright/r/s/semicolon/seven/six/slash/space/t/three/two/u/v/w/x/y/z/zero)
+/FontBBox [-73 -210 958 890]
+/Type /FontDescriptor
+/CapHeight 630
+/Flags 32
+/FontFile3 13 0 R
+/FontFamily (Delicious)
+/XHeight 490
+>>
+endobj 
+11 0 obj 
+<<
+/Encoding /WinAnsiEncoding
+/Widths [300 0 0 0 0 0 0 0 0 0 0 0 258 0 258 0 450 450 450 450 450 450 450 450 450 450 258 0 0 0 0 0 0 510 0 0 0 0 0 524 0 238 0 0 0 0 554 0 0 0 0 434 0 0 0 0 0 0 0 0 0 0 0 0 0 466 503 412 512 471 286 455 519 238 0 0 236 771 519 488 516 0 319 420 306 519 0 0 0 454 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 358]
+/Subtype /Type1
+/Type /Font
+/FirstChar 32
+/LastChar 150
+/FontDescriptor 12 0 R
+/BaseFont /ZXHUHX+Delicious-Roman
+>>
+endobj 
+15 0 obj 
+<<
+/BaseEncoding /WinAnsiEncoding
+/Type /Encoding
+/Differences [1 /zero.taboldstyle /one.taboldstyle /nine.taboldstyle /eight.taboldstyle /seven.taboldstyle /six.taboldstyle /five.taboldstyle /f_f_i /four.taboldstyle /three.taboldstyle /d.sc /f_f /two.taboldstyle /f_l /f_i /T_h /s.sc /m.sc /a.sc /l.sc /n.sc /o.sc /c.sc /e.sc /ampersand.sc /h.sc /t.sc /u.sc /r.sc /v.sc /i.sc 127 /p.sc /k.sc /uni00A0 /j.sc 141 /y.sc 143 /b.sc /f_f_l 157 /g.sc 160 /f.sc 173 /w.sc]
+>>
+endobj 
+16 0 obj 
+<<
+/Filter /FlateDecode
+/Length 845
+>>
+stream
+H‰\•ÍnÛ0„ï~
+“C`‘\’peÈ¡?hÚpl&5ĞÈ†âòöåpØlZ¶‡¾Yî’Ëáns7/ÍòÛ|Úß§Kóxœsz9½ÎûÔ<¤§ã´0¶9÷—Ú*¿ûçİy±Ìƒïß^.éùnz<-no›å÷üòå2¿5WëÃé!]/–_çCšÓSsõs¸¿n–÷¯çóïôœ¦KÓ6«UsHy¢Ï»ó—İsj–eØÍİ!¿?^Şnòíñãíœ[Ú†0ûÓ!½œwû4ï¦§´¸mógÕÜnógµHÓá¿÷¦m9îáqÿk7çş&÷n[×®²¶ÔÚQ÷ĞBİA{ê¨t¤öĞ]Ñ!Ôo™£ç{^S;èOì[Æ¡½a?=ê»í­¶1¿iKÛKnƒÓĞWÄ†¾Âš¾<ú*óú
+#4}…-4}…2Oõ†~,8ıp]ú‰ğcè'–şôáÅĞK,c«x°ô`±–üœ–Ì–Ìó[2[ÌoƒòXrZğØÊYæ'[şËšlŞ-Ù,âcÉfK6‹8¸VóÄÍguœÓ}u¢ûí¼æ†û3.j.¹NsÌõš{®æÊšüü®æ˜98…l6!›€MÈ&`²	Ø„l6!›€MÈ&`²	Ø„l6!›€MÈ&`ÆV[!§€S[Al…Ìf_s±õä÷à÷ä÷à÷ä÷à÷RsšüüüüüüüüüüüüüüÌÌœœÁhí„ZS`Nk$ˆÖsğZ/¡ÖØB­)°…Nk'ôZ¡ÖØB=#À­Ù°y¯ë|ÒÕMÌ¿\µ°ÃV;2èAõ°€±hµP£ÓC$ŠvôZØ1h1G‹0i,ÂX¤±c‘Æ"ŒÅ­2t­šìÈ³.Ï­¢Ãº–EŞmtÎn«›Ñ·ÿ¾ToÊ8–ŞRc\ï¨K¡Æ¦÷u2_àsÄ ÔˆA¿ÑM\ÿ]š¼kŒ]o4c0`İ{2`OFöÑdüFô¿Ì#Ç;2FÄiä<#æÙròß‡dÀ˜ïéæıvİ¿Îs¾XËe^nTÜ¥Ç)½ß÷çÓ¹É£ğ]ü` Â°ÈÈ
+endstream 
+endobj 
+18 0 obj 
+<<
+/Subtype /Type1C
+/Filter /FlateDecode
+/Length 12897
+>>
+stream
+H‰|•iTYÇ_QT‚
+Q…XÑª[6Y¸/3Øv;"Î "Ê&t€"DB’*D@[T\AQl TvšYô(M« n¸ j­GmeDí™ã>fz
+{Îı2~ï¼ÿ½ïşß{U·NaÀÒ`6%"lyèò°™¡zµF!ÑÇ{­áä©J™v,É˜¿ÀÌ–æ/­Iäö½?3òOb$`âÈvÛ³SiìÀLŞØHÁ°È@
+0€í ƒPêAø´³àøô€«à&¸ƒgà%¿‚wà=ø7fÃl0[ŒÄ(ŒÆœ1ì7ëN«öÖËbÕÊxŞ¨äÔ*îc©R|ª9…<Qÿq@Ç8Õ'EúÇ2AaøÄ !&!F‘ NÕ~Ô'j¹OVÅ{ëâø•ú4õ§µJ¾xmL¢O'óÈx”<*5O7OÖpZL5f“È£çIåÑòx<¤±¸J!•.‘nä§FØßwQÊÇ&<i<KÕ£vìæ¬ïüyó=ùq¾ôÃèûaôódı¤R?vI¼:–cCŒ:=—¬cUqj­F­•éùë°K”Jöƒ…ÕòMkşŞ¬BÇr
+}"§ee|R®àëµ\<«×Êâ¹d™6‰Ue>’	ÿg+V¡by/6T¥S!z>¨cùgáÃ»¨?ì§NUéµ
+Nçí³,d­QÃ±óØx.ğ=†aÀR ¬'ğİœ)ğ $|Ç j ô ¤` €F Z ¸ÀUÜÀÀ- îìk7°g¬[q  +A;¶{mqÚân‡âIøQ¼ïÇ‡,çX¦[öáD½@"Ø!x Ş°šdõ•UÖ80.{¼p¼l|÷„E*¬ë=Öİ6„Í^›ÑFÑ«‰›&I'5ÙN³ÕØØ-µ{ Î±ÇìÃí·ÚWÙwØ“:rØaÃÙÉv““¥åhJô”çKuI¼$:Éß§~5õÌ4fZÔ´^Ú>ÇÈ™×ì¶”q²vòrÊuzàôÆ9ÇùŞtÓôÑÏ’?{?#qF—‹§‹Æ¥Áuªë×'nnîuî/=T½3“fvx.÷|åUì=Ş»Ô‡õQú¼‘.”æû
+|»ü|ıt~—ıÿìßàÿbÖêY÷gı4›}xİœçsÃç^˜½J„îŠĞYœhîL³» mĞ8(_‡“aÙlA´ìË.]'Y—“³—iAˆ#l,ı¶©Û­¯à$	º¹¼\[Çˆ ¶âX©9‡}f1©A8,' NÀı‡:A+$bÑ(@ø-ˆáÅLAV1$Pó^‚Ìp~‰B‰A;% ş_ÑÆ‹aÁ¡NÂ]PÉ[ŠvÕ˜¨Á:î½m€?áĞh¶%#‹CKoPw.U}G7ì&ëw4¥”…XmÙ`ûaÉ‘“E•«»±‡¹Á}!ôÍóA”´5Rqôn´Sµ;ò(wÊáÜœƒ™’ô”4•òûepÆ×ŒgÃKaôª„¬ªGT3³Ó¼¥mP­ f%oØM‹ ÑT+ª5§¡¾¡è´İ™AÈŞ€Nƒâ:“¹';Êbİ¤†ÈˆH}û³áo¿kaĞË·½@,¢ÇÅ5j%ÂhfÄçL#‹IåBŸ±y[’¹[ó3ñ5SIJòáH‰kDëXùúuGÄÆ*ÚsËsÑpµ`T4ÚwRo^?@ğëGdd{™Ì]šnhöª¬ùÿŠüMçÃOl3˜GªíZ‡ÒïC—A8á©¸Vš%;ÊcÃW%skäŒ¼YßÒF]8Qw†>XMzÿ)p~PUä©F\¼tÃŠo
+;ŸAÉ­‹¥ç{ñÂ›¡•¦‡ÛkòÅ‘ûNl(
+¸_?¥ûJcïñKU;kÕú=êmÚ-VùùÆ4*È´$j==ûnPïÚ+Vƒ-WªïPâ¢‡+ÚÑââh€ì	¸ğøVŠøØ¬É¼ÀîÇ·kKK:n^+°<ÁÏ™åäñ¢¯ï|ÿmêØæÊ-GhİèÔ,“UQFáÆÍÔš-ë¹õ´ UUï-*±~ÆátxŠ„CÏ•Ğ•B»Ñf
+e^B©pC]%\pÌó¼Mı¯
+näË6ÂIÎÉ UBq°á&
+fCŠ>@«…Ó_¸¡[”è¯ëÂ`vŞ9†!®r0¼…Ã¨@…Â"t¹ÂFìo¿àÈ,Ë ®]¿x÷U’Uµé­İ©ãÏ_`<”œA-5FÅ…òçŸ£z°^˜÷Âbr%Ìîò&&h]68œd"Ë*køÏPw’“ÈuÉrE¹º–9ùTamğ!>äOÂê‘ÂˆTı¯C„ÈTk¨ÅŞBÍ[æ›ßO¿A,ÿ‡÷HE¬¿Ÿ²Ğz|Ù'L~-‰üÖ"£à.DC)”vAÃàH#F´ë7àl¿YD™@ã^áf?‡SÂÅˆ´|Ó:ÊÜ&Ü¾E«ğgq4o†êv¤«óèÅ¹„R(Ú5h.­Åà£w¸9z“ÊÄçÉYÙ
+	:((mı±óÉe«ç}ı£àd¯v7Ä|éµ6©rSYqAañ^úúÑÚ«×$7ËW9Ç®Ÿû9ƒ÷ˆYk
+²Í”€¿'ìl€yµv°ÿİ|ˆ‰ø‚4n=L—î:Ø*hš‹,ÂâÿßzÁÈİ–U˜)Ñ§¤+âº—AN{Ú­¡ÂÊÖ0{…â7êÿÃh•G5qçq23ØmTÆéb²;S{Xu-õ€´hëQWë…TP´ d„ ç«HQ‘+)r%’Q‚Š(r¹ÖƒÅ>j½ª–ïïğ~îº“(Ú¾vßÛ?ò^ŞÌûÎg>ŸÏ÷÷™Ï=8NªûŸûùšŠ‚İ»ÿ¾'›îĞ­ÍâÎü¹K7ÏüŒ	Vå&ˆÉ»[RRv‰h^"‡œd+7W©öÔÂêCœMVÆeÒK”‚(È­ÀWjñêmZƒèa¯Õƒ›ğ9>G4É½¯•»²R¦³ı0îÜB.ÚÉ]<^=ğğ‰7«£*¯mÓ
+¶ıM‘å%FAXjÚFt³l« ¾ö@éqqK[æ6Kâ';x&Ù«Lİù8Q–À®î˜#`bç}x¨é§è'—³ŒJ]
+~‚Òlmv‘ØÕuÖšôƒ¢ß	,$å»4rå:&T*óDn"Ò9>€Ñ·€„‘Ó:Üg-\ÉFÓ*¤'n^«+”êédVQ,Ö—”×¬lAÎL:Lµœ\Ü7ÌùLvN×ûæÅs'{Rò\AÒKÿn€ X4Y`ÄòJe{4ûëÄP„%Ëæ-‘„I?zOQşMUy‰¶2ƒVdŠn—ÿ|°“&-­OëÛŒ@¤æ¹ÙÔ›Acr5=™ú <ğ~L>5œ§º,ş“}"ü}§E´]½ni»Ä œÁóìŞşyGü
+5Nö6ïm8tUôhêi49NYôÁÄÆˆS›iN>òKš»bŒÈ£c
+xĞd¯^P•wœí¬jho¯’Î`æíûÍµ‹·©šMÕ}İçáE9^n52;°	| ¼½xCm}<½K™¶S!NŒKÚÚÄå¶Ê3s ±´Ä" b¿³Òuá:1N‘ ?¢¡=óï3æFjFèÙÛ?š:.ıÓâñq¢*>}3³fsDü
+ñË€€Ğ×!—m)abLƒ)±~½-%Ğçßd„Ë0Ò•Ÿığ.Ùø?ÇIûséÿ“aùO›`Ü)ÇC\Œÿ ¸SÏC0TàÌ…4ñ„ï&ÃÛ7­Ü;WëO;îøÂ[ÅwÉg;0Bâ`ïµ¡Õ)ú|½ÆÀ4ï¨¬;*>¶o½ôkyHp0CŞ—J#W¯­ª\×ª/ËÍ/¤¿Å³”Êíéâ„¨½Uú²ê
+æ|SEM«ˆ|Ö-m}—&o)şíMÕ|»¯Ú[¶ï,J7U3Â§Û 7CYïö×màw`&Ù=àÊ§Y€&%;é¨¨X‰é˜ò›ƒVÍA³–§&/Ì$XXgÀƒ4QÙ™y¹¥£ö.9©;G@8¶[Ví^°*/Z™™’áÆâéPK¡Ù[y·º¯¢›ÈÆÈn½ÿ1ô¾n!¼¾İÀšà¸Ô&™Ñ\ú!âÉ´gdüşÑi’á=Jµ*Pô\†ªT>é4ÇB)~½³¨¦±ôÖ¸ø˜ş²›æ·6şvÑÉ#İ"‰œõÈ+¡js´çé‹;.D{ŠÆ/Ù0–^ˆ…;·cd¸´¿‡œ}Ã%3RòÏğ½ÀUaâ™ÿl8sãö;qW`!5V2	Å( @ Mğ	ÌêmACŠ˜ı0Ó…|Qè-F.Öû-a–~Åz¡$ør€ø®…ûÓ{`Š@a6~Ü&Ö`'÷œI6ríÔ­¦‚Zø´óBiÈÉyI¶ìºD£ùœ‘"Y;ñe¿ Î²pŒ}[¹¾¸‰i^0©abáQÂ55°{PB™±ÀHÖËêÕp<Ë)ñøB!,nM,*F)íT†áW4Q_å2F—a‹R3äŸ‰Ñ0ˆÃªrrªè12á™>Æ=Ÿ¿ıñóŒŒ´DXÌïNe”½íƒ6Ğ^»oİ¿ñ“÷ÔfªOˆ€…ø•vÁNş™¬óOÍˆá!G`d¤á†œl
+:¹§ÔÂ\…	rĞcv=Ì;ñ¢?ÔHrC€¥ähÚ´´±ø½tMú*…Ë¶&'n£Sc¢•¬ÉÂa9à0¦¼`>C>yÂûç¢³qÁŠƒgëÆ‹Q2"ŠFÃº_b¤¯§t‹IîÜ=]q¿	<Gkäm²võ;qfè¢P¾ì+—ğ¬E\~"[İ­¡H7È£.¶]ï±]×¿V%âõ¼Ş€ûØç!‰o7Ë·¸6,>2Yî5øÄ’ßÑ³ä%ò	¾²18Âp~(æÕM‹_M·-Æ'*VÄÊé„Mñi‘išMn5ÙUÙ–BâÚü+½"!`Êò8°İÆ\ø’L|³:¿ âdøo^~*¡üùï8g6¡ÄÉú“>g'^òiòkP´e¶gºe•‡ídõëšzëÓÍ¿ß~áâwÍGïº¢!HÁâ–L™X’¥ŞKØVŠ5s=ö%&åü1±³¹aC,D$-oÎ„œå¸ÿfË042Nš8–ßê­E­Œsä•¼É‹âbåòy]öò‰¶€ªôZ"Ã 2ó\œÕxú3ŸÇÑ¢³>†?A{Œ!²ŸGa™¿²×Î½ÑÎİ€p)Ê3ÎZ„Ü6¦H`æ—ğ	eØ+›ø7Ï`éôµ‘Aßø`Í ·VÎ§Şi ‡[ŸP›rŒ´öà>õ±Âˆ¶ÈğÖŒ*•6”ÈaÕáüştâYjş,NG"X6<G!ÿ—ËDèÅk¹¶ØFªÓ2tRã Bânh!„åoRÎNğŸ!ŸZĞ4¾ëÒ_#_$A’0ğå».mi aÔf
+±cƒÖ Õù&ÿ¥»Ì£šºò8n&&/ö´™)oâ@¾W·eTF[*(®È&"BÙDvD›²eaIBa‰°	!ˆ0UQ«u
+.£ƒ¥Ô¥g¦¿Ç\§gØöôÌtş½ïwßçŞûûü¾7ô;æégà¿(tŒšQœ4ÀİŸôó=>#Ìb¯,È)u'L\Z/ª'ÛdJ=uçìHÌŞ‰ìö¯%ëì/r"P%ÓşGvL=ô}Amá™áÉ+KÏÓgÃØâóÌ}Óíi„EuÿŸäè;’àÿ&	_6K²ë1Zî©”å¥ñoˆÆš‚%)çädfæf'(¯¤NÔÆ×¤kx`{ş6,†ÂyIş†·QÕ?‰6h†7®†¹W;“Ë©Â¥}±o_iSü 1¦ãÚŸ9Õqıô£è[Ë«yùØxùµ¾gÂ§¾wĞupU”?Ÿ9|Š›Ûš[8|k4}¸Ò7h¹ƒËOİD³qHŸÜÑ€?§wÑ)X„U…8Wìfú‘å~ô{4ïAÀÔ1
+}3v,`«p“—ïÆ]G¾%Ã¹Åh'èâhò¶^ş
+~»±	qÚ©ıÚO÷„7/ö’øóûFo«2Š?Ä„øfî9Î§çèYšp	õl˜¢ô3†.‹C,ãÒÍo;Ñæf@U®…9DßÛjn€4ÕSB–p"àªó‘q<äåEF5Ìß¿¬g={¾aÓNL³øY–Ãzÿ8ÂĞb´à8ğCÂğ¯(õ>æVì]Fş¹c*î1ùªj¢ƒ*k(î¾"„¯fK”QÆŸÊ}½9~šUo– »Á xbÂìT—¥¥÷h÷—Èc¹ñîroÁşÇ{6TKòL2¦
+Â1“øœ4/]”l}¥#rqGVR™¹üÉ	>uë­üLU~·Â¼ãÓì\Àh¹•vÓ,dOb¦ŠÀ³µÒüq‚E$"<‘OšÏ“pÂ6wpô[=7­pGG|Ğ§¼îaXçkCà™:…¢JvIa®Câ¬_R$V{ö#ÚÛÃ”ğ(·]Q3xyÜ´½mëB6¼¯¸İ°}›`CYŸJ>È¸ã=«@³lXÌÁ•ñúRæ.ÉÔ¦Ká©<Qq‘Ú¢ín×=£LÓ{¯4nW&gf&J½²Í# N‡9*Ò¢ÚıoXé5fúkÿÖ¶îE>ãmÿÌ(®ÌÉ;–dzÀoŸï.†¿İî:aJ«”)ËórA]Í)Îª?Ôära-Î[ì;è îŸ!Ù—=#ÆËïLÎc¯à= Øôù³QAfÂbL+SU—¾üB·ÎTXøóX¯¸\šŸ™hqÂÅaî‹{N¹~ëÿ$£L®TçÌ,¡<ë‘*³µA}«†uYó”	ò“‰BDb^‰ÕŒføƒ¹zLŸª2kÑã·Z˜C[õ°”Õç@@À.š‡ö1'2šñŠ"Õœ>Ë­'N(3èƒ–h;o‚ùLÊ@,~+[Åá£Hä\?=ÕÈÖ6lŸ^"0ªd—“hÓ«aS=ö‰"EŞ!üÅ{FØ°ÀJà—"Ş "ÃÁæ_«‘M(öX¬’ø
+ù.è½.V.Æ¦ÃvŞ†ùĞa\>ÒĞŞPÃêgƒû´· ¡œãììao/LRG—"«%Æª’b^jEFƒZ8PÚ×l"ùi½±è3ãKØ9éÕ0%èOø-AslİF4¤h4…Ê2yûlƒ¦™06ÇÙQáØ‰Xëvq<§øxo_¡C×gƒ&ƒæ\RÔ@ÚJÔZ
+O_H•œÊÍY$ËO•]âÆuE;·Ä×¨ÖşÖ¤!›J»+Îªxüú4½(ŞÔñ	çÌN@ök\ÿşN€G½ı'†·Wd6ë9I­I·	ø~3×’a²qp?Œ‚N,K¬â81˜AÄÁõÕÒQˆp
+ªòË
+ÕdGUóÙ^¢åA<ÚˆØ­9¢í:Ie—åj´BşŞ4½DÏ2¾fÓ)p
+	sdC4Ì ªàóöšH¯JêdAAf¡i*1tì¾´ÙîGï#­İ<m|SKñ[Ò.4Ğ+ôïŒ¯!{¢ÿÀ0 5˜êxh‘?aëHøÇî±âzDİXxÏ¥ª6“Å½`}æ,çw	éi,[ÖÌà´28QÕRƒóÖ}.®ÏMÉ:Iú$%&Öû=|Ğş·í†ø£L—9™—+ä¥õ@`3¬™A‚@†jHg+
+u‰Lç·CË£EÈrÈÖş£oğ^©æxÄ„úÙˆwXßæSyÍ‚V5`“OŠ×MÊN;Nò‘ˆ©Ga+7²&'ØĞBÛZ-±œ¦C7.­S••Å"Ïj*]^˜¥&4uåµ5q-¶èƒ`ËÅTĞ®Àëè)æ#‘:‰˜N–¥Ã
+3sº„ğã¡=¹?¦‡à¡h½Yı£S‚Ûdè|ò4=‡Ş/¨ŒñRúh¹÷úíÖı!S))†¿8}01<&Xb8Ö)"™©m©±NB«I?`_ïRÖu’íµúîkÂ7úå$şæô'\§tmyí…•œiëçr”Ä³W˜×œÒtªŒºÇ­Ê,â03"éQAWg˜µm` ÇÁÏšÇwéº)æëÚÿN°~¯ñ¦NUUYJ©5çúˆç=q;íw‡8ÍæÚüÇ£;>‘_ãÆ|%bçŞd¶G‘-ëd®8˜6¿´@E6k.^è&>×‡n¡şÃv•G5ufñÒ˜¼`OÓJ|ûŞè¸¶:uA´vªu¤RÅ¢8**q	[€„=‚†€lÙ @ Ù÷M°Ë"¨K=E­KÅVE±c§Ú©szóyNç{<ötÎÉ?ùŞ}÷ûİí÷~E4zÖ.®ğ0i²ºEL<Şûù*÷ÃrÿVgÙnxgª¹kt&m0fˆ|§{l]ì0Óaìç?vÃÜ‰¿²èÈ šh«µº¦‘¶•uAbáÏGÈéô«ˆOLz¶Ëf©ÙèèI¿Õúlë·ÇLì˜r|ìÿÌ:÷GÇÑuÁØq7’/9©Ñ›Rå"ô„X¯ıû±*>"&rg‚)Ôé³‹eÖº³£phD$kÍQfáIHÌ—P“Å¢Óa‚S[¦f@¨dşËÆ==Ô“3ğM¢ÅsÈµo_“¬ı¸%/lüZÏ5¹GòCOyÛ<8 ÉMÏÉ2u÷×Õ›«-Õ's/äğO.")ZåQZ¨ŒY†^‹‘ó¨0½abùˆ–)S)Úb²¸†A¤N'_ÏÆ‡Aà[Áñ(€”ıÍ^ûøé3õ²­ŒZü2.w•±0»ˆj-koèäyyÑ(ŒğÑ§M·ÅV“ÎxFr¢ÆX]L´´›ûüÆæÀD¬¥.më”G¶LÄqnÅúŞ±
+ê´2èÔñ&¯QÁtòu´äE	lu|PñˆÃ¤À-ò±÷ç.›zQ	×Ñ\ÖºqÚµ¿GÏ¢ÂÍj,Ê-¢ZÊ;ÌgÅ_6­£'1m™²ÛjÃ$(:neVÙ¸&ëgÔ2¡$ZúÑ
+´-ıÇ
+x–İ|KaÙÆ‡h)„·ÚGîŞkÿ9"ÒïÃÕ®~#0›´¡¨p·2´cÉŸ3†Ş&%:ƒ-†âC“†µ€H*ïJêÃl°»{†Uà‚Ö¹ï> ¤¾Bó§{Y—gäÑ&²:«0·”ê¬l«>+nU"W4GúÑ{û«O«iMizy¥H`±]<ÀÌµ… ÁÉŠfd$Ï7Œ[.“äûŠ7ìPJ¥,gê*BKFßŞ@OMK•†<¹­ác`›¶æËáy4M•ª¦|TÁÇöŠ—û~ÿ+Øw<øç™&•¤”ÎVUJ<d.xaxøŸ·ãÆƒí0H^o¬«*.Ñ«¦„×´¹9éÙâêÊzsUBm`P¸r—'øZø»IE¾İ–Ìb­ívši+†Cÿ·àú½§+»'0JŸ(—ûä/Ø¼¥ë¹°Ñp¼\8Ò£Ü'’ø‡K6Ü>J…òN 7¹Šæs	çÄ0cèÒèwN-²Ò~…ÛkûDgšëzğpÅìí•CPøñAæõN\(ô3kÈNôÌ#°áºI¯¢[¼¥Ã	M½-*¥›¤Œ7(ÅòĞª¯ih!]ø+ÙÀ¸a‚q‡GB	Óïhc>vŞ¡Á|¢Â¡Z§ÉÉˆHC¬6‰’ÆŠğïökºAÃW6òRqÃ§›>D„Œze(äÚí¡¢“”P’·‹+Ø•~K³¡	Ş•h%£Cîà.‚zGaÇ ,º
+›/[ò²;3°Äw—=ºCF¢.Á9Êu/š+_åcà¿eÏdÏ4e™¹eYN&'ºôyº¢ ³HØ‹{°„ÀîôûPúä¨Ù!…½g"mƒmÂ–FJ†­úb}APšu‘­hÿ&Ox	¸Ÿq3yÀCÏ¸øm¼=kjo•ôæeõfñÍh[(1 )I3&èTÎ‰»¢Åáóğ¦ ¼†øğwÙ¡ß¸¬2ğjØ/áO´å¦ÜÒK¦“™¸áÙŸgqĞÃV´	$7À-†ÂLÎ³4#.3Úzè’tèĞ_ø¥·ùtKWÍ©Â¬n6nrÌrÅ†´äÔDç˜àÿH?¬à£,AıÇê5ùÆü"c}&N€DN´NªBÛvuììğäíÜ°/*$V'Õñ°µğ7ÅùÙùÎm–.sŞK
+TgÿV)Ë‹3$Ç§ùk°ÊŞâ¯3ãf»8pØÂ‹¶tõá°3k9Ç{DsüĞ«¸R˜áÿSà¿´¥†¼ªŒv““E„İúÚRß^4ãÚWãnŠËRâø‡R"Ö+ÄÉÉ™%qô‰¤”¬DñQed¸².ª½­¯ è3ôXwÔõ—KÛ²sØL‚õéVFÔ_äĞkÁ„ï‚A<ç¢…Şİ‚ŠÚ§âŸx.è­wÑ‚ÅHœïÄye°ˆÂ[©SÎ£Wp	ÆAŒ•â@ñ1ã}˜J†cí¬?buÁ#ó‰ˆÔ%Súª›k€¦–·ÃÆëßE;ùnò‰ñ4ò™¹D¡Ecqã«rrSÅµ•¥§,i¤‡ˆç†.å¡#ÏD°æÎIk&%˜gÓø×Æn<à@ Vù1¬ÊßóBå×ê»ªòóøÇ_Rù°Ú¯Ÿü?£Ö¨Ğ¶
+ì Éy»FÀé<r'#8OĞ›·á¼İyèæÀaf6¹ÖÃcÕŠ¡OïÜúâÑ}ËëhŒeÆòËØÍ1ÎgŒŒ¬Tq¯\¾)*‹¯/¦¢2IJäç«N„¨E;¼ı½)pu¬Pq¯N©ëÕÅ”%&ò^2ÀP"Ì¶¬‚×a%80+‘l­ªo2ÒÍJs``T¨,¸6¼™‹cÛä©1Ú –Eãóšp+ÓçJs€lÒÚJ	˜÷l1NŒMÆ81†cÄúMÑ­­P`•[Àş)È-%ái°'½†÷5X+-QqåïˆT‰fâ!©äK|áâ[Søö\Ú29Ï+YñW1zğÌYYfêOûkUô’"üxÅóhÓÇm†Á[b‘àÜÃ5çWå•‹*Tæ8u|r”œZøŞ÷â!¾oùù¶Ø?á€‚¹ø?ÚË<*ªóã Ş¹h<“È=cñ^3·-Æ.9E”VE@SÄµpAYAvĞfƒaØ÷E˜d›aˆ¨¸ ÕÅ@#6Šˆ¨´.Xßk>ÏI¿Ô¤IsNÛäÌ÷|ç~ï{Ÿ÷yçù	N¥¨úS…5¨äõ^‰ÈñêÄPRM.J“«NÑ_½œ‚çxÄn2A¼ÜğÑuvrVÂÌºoP~wg‚öÚ:Ú‹şwÚkÿO´wÒˆ bMB.¥QÈÌÎHÎ>8sM&økÑ^ØOPL¿ş?€Ùo»Ã/Yï•)‰D¡²Y¶‡Dù%Ä'''å¡DB¶&±œ©èÉì»àVà§fµÍ—2ºë5÷fşô„&A„ Ş}N”.*,¤KƒK$Q¿páBÄo/ìÅ»õ‰+LÁq~ÓêÁOp3õ-æ(oîe¡:}©¦6™Õa&ÂÇ3Ş<}èı˜Ÿ£{Ü|aÁB`]xT¡„‘E„KŠ$Úö-ÄÀ²;†(ÔZÅmàŒ#›Hp¨…üµP}cÜBÜlÿÑO¥xÎÿÏ`
+ÙĞú£Æê9[qËc~lêXÌ¾:€÷•µÓ ¶ëhƒp¸f,«âÜ}µhz_´|éR¿nxfé¿èeùIuÜC"ßaª³QEÚg‘ªéÕaQÇED“·â‰Ez|Îâ	
+áÒx"€ä"¢Ï@“Îø“GôÈ”\¨ ñ-ÀK€îß6x¶S__Í&+ˆÙ»±~³ı¼3Ò÷ãÄÄ²¦˜“lî…¹à ;l»Ğtö—h…àËÊO{®7ÚÏõNŒŠ‹ìó	`ì|ÎßÆµÆÖ¶öëğ±{ NÃKÿA=ƒœ{¯6m[h'r¶w]ºq»ñØŸSOÂ;£«\rXIœÎmÓõÓm[Í]ànµ¸Í÷tŒPNRÏ\bVûXĞhÚ]7˜‚‘W÷+C/½päÄÅ‹•në“Y—äçÕ?3ÇqÑ}“.ÎO F+•Dw]Zörxá[¶;ûºš®³^3í[©«)ÈÏ—	•²Âz°òVk¯°óá¹‡9W¤™æÙ ı¬h6nzÑL8îª Kâ›íÊ ¿X#´¹õ}„v	Óœ.X­^ëå½‡Uğ`“úùåA¦B/O,cÑ",økÇNkÿô¹÷ [•ŸšÃêrÏâr¯êZÁâf*wè)5ÌYræªOw;^MPÃÒ¸¶'ïĞ!êÔ šõM%Ç˜sAÈxß†e{k»ö³²øl	¹×½s#L9½·ÀŞıs2r[!òeª
+°#JRÔêb†÷è×2 SåºÀ:l+ğ˜d5D]‰Õàpãù9xã«„jÒqœBÀ?Íœøùò´øä6:XÁÓ¦ÅíaÑÑoóŸIÛhÎŒ”¦2‘KÂr1<eƒ²IQozGY‘‘Ïä(·jØØÔ´Ä<¦T{X[^ë€Şñšg©d=‘IõÆ*õŠz¥Şô¶¢Ï+LÚ¢aãÔé	†ã¥š²°z4u÷<KÖ—¤î½dÀSàìï_‚—V‘ÿµ×íÃ«ŒØuz’ğnÄ8ÕÚ%@ƒàpïèàë%¤ë´…n±N6¿pT@uuÜŞÅ¯LU¨7.P~=„ëÌàÒS»ç˜˜ÂO ïİ;<0³ÈsW³)$õädF¯nb^¥åG6‡”ï;\”šU”&<[XÖØÁ\Î[ãá½q9ëœ¹Ÿ‰MŒ“HÒe³Eåéz†¾Ö¼ÃvŞŸ®"ÍÕ¶HŸÅ„Eìuëp3–?”T#Òq:qµÙ‹PúŒÃ6ÎNP•q˜ã¢÷“¥ØfSDÖI!ŞæVªPL^‘¥)]itƒt“*WÊ„”XR;xúeØr#òü®f¶y×ªR†nl`û›Q úÿû€á–ß“ŠF¥^xGq$Ó Õ˜²êôqe5š0½ı˜²ãÂtÕÑwLnQÒÛ³š±³ãS€eÅ«ï:7Yg}£&ÜªG®IÓ4ÈË×¶VöTš>hè+zÔî$ÜhëPUV’™“«Ş-©­9Å\>¼uÓ:ÿlaWú8®ˆ]ŸgÎoÄÓMà]'œhx¤ÌĞp÷6<ø´i©lÀÕ›(ª2ò¾3³åÚòr)[  4RµÜŸ~UüíñwJ•şú“¹¯R	jY…¹ÑÁ™^ÙßX°äX-æ-Ù‘#0E=öù=Àø×CÔg?TĞ²Té¸+HÍ÷½6qYv›_öÙ[¿ÕT1½«¨ÊÌS¥ìßJ5Øoö†b,ÙØlğØàŸ}!~{ŠCuºM­nŸÖåsÇU†9ºæH-ş™•Ô‚çc88CÔı’—¿ ùµäÓm)3ç_ixŠ˜­r¡»œCg5é‘BlU+²[hNÓI~yY.­a_•’Ûe²±’T“Î©‰)Çh“eÉ¹éyÂ†â–ªvæÓ:ÿÅ,
+"·%Ê'Î­IMT·Òpˆ|èvÆzÕN‘×!õ¨N†Ï;ÚaGì"ùötœ‡Şì£Å±FßÑ±F!·`í€S5ÕÃM$€id©ŸkÎV¬³³Í‡ı¢ş`–>%éZGoòX·d×ÙÁ0a /Í"öÖ}‚ÁIò‹¿ıİ±fş–êñÈw.ºD·×Tu^ÔïYXŒ)Ä3©†ûà"¦‚}j…ğ5¤J¨ê`¦¬x¦¼LYÑ„#	èTd+2‚IHSºÑ´Š×ü[°»ŒLSĞ3›T±Z.AL¹*%Au‚Æ¯¹ALKºªÆqŞ‰ô[à€ÖûşÉTÎÛ9ê3İaª)Z-âa'ag‘»Aò0¡"2úD)–›ÿ‹ó*ŠâÊÂ!HU¡¤ã¡ì	İ}¦ÚC¢&ƒzŒ:šÃâ
+Tš "‚ «4(¢,Ò¬BÓMÓİÕìôÂp¡hqAÁ}&QG'JÜ2&c4îkBâ­3ÏsœW€ãüš¿¯^½÷î÷}÷ŞïÊHAK™&uCü\ôôA°¾?‚Ÿ°FÖ¸ªz£^^¶=Kƒ÷B¶•ŒÔÊµyí±ƒ^¸œ)b=¢æ¡ñy	ùŠ0%ƒ@+ÁfjÔu¬YTÙfì1Ú)˜Ñ-D“	únã‰İORZ‚¾VÚõ~c%ªX¾”ût*ü§z˜î”L¥d…Ês©ììTE¼d²RõÎ‡Ù²‹|”j9İõªj¥âPn`ïãguxf‡íœRør#ª$cÕ©ªtF¹5·(»4^‰ƒ	·’±,Æ¾Rõ¥HÕ\ºÓ.†-ù½ÿšz‰¨oá>±GÛÊîd4fcµYÛÎºYQ˜ŒÜ«l)­Û®Ëé¶hÒbÄh3YZ:\ÿô E‚«C¢rè„¯á8·YÎİÈe"‡œ‰¨8oÃ;vNR]§ÍŸå¼÷M˜>7'|2ë1ò–
+Z‡:4ßX9%·U¸®) æsÍLíüÍ‘Ôšğ´åsÄhÉí¹°ìôéê–#L-ˆœd„ß–¬ÀIôa"0àİ#aìÛò@£ÔB¶ò`CŒ‚øáwˆÅmå»é*Ú6
+ié§*<¨Ê8OÒSœREröºÜLÈÆ’U’éùU“ÂÄûä©ÚÌUåÒ6XœB„(òó%Saa.¯41:}À–ãY#İï‚ëùG"¬…œÚæÚ'ı;|6A=·[H×Îı,Ø+ª9®E&¥M£¢Óç‰§¬<s¬aÏa†ö:µ«x wv7:\g¯îŠ·‰º;¾¾®>N5)›sMÌ6íÆ’ÌLJ›£İ¶MU–Å|õÅÑõ©Ëû5Ó¦óá½ºV•(ìü29.dË¦ÕÉÒd›¼£K|`§¥“1<Ò¦ù+zz›­-Féşğ,<¿‚¢ksr¢äIØ½S$¡‚±´îAá=Gˆ «D£i§x:^2PXÉOY…¦_3 Í Ãj~½'îğ:N[ığÿÅ£ÿ‹H#Î×æĞli÷`ªÅr±Â>âRCÒ¼*©&=F“,Ä•ªÆöK’¾çï«‹Ë<ùƒ›­¤7[TvX,ø9ÏÆ­´8<ºì-GÀä6ù\rJìÊ¿Î=ù„\|¿ßoAÅ£ß3IôÁÕ˜ÌwÇÁ,£æŞC
+t„5°fD9Ÿ<ÅU"²…'‰¯¶®®‘V&ëªS¨CkV¯ä²•Ø¶¥ÜP -¨S˜‹»óOe™k¤XòBÍ1ÛEñ•ğ>4AU£ué5ØüÙbıŒÙad÷:)Ÿë¿i)HšËnpã­jœ#‘°Ò‘sÊñş³Z·½$G”áíÖ§-ÅÅ/BÁ5œF]QÛÏç®\Fö)«Uæ˜>$8‹æö#	u‘8
+îW!Ô~Óh«aê(+)@©˜ ¦ó|C8T]‡aR¼á•~÷^AÆÇÃê||Ÿâ" X¨2í(İ%9} ¶¥[ÚÙÜºçœÆ}lÂ 
+\ÿ‡pÊ­¤[4ŒÀƒ1mµlßÅõsb½¢²MMŒÀZfÍÌhËàğ5·aÌ¦Í°æå;Ïé°œ
+ßÈdÊn27cfQÔÚ‚‚|QÄAË¨’^Û|lş± ÈÜª¥n´·¾-¹"µJÖ!
+:åó0æô¡¾ş¾ƒönË.İR—1XøàŒ±JÀç¾)èŸÈ™ùë²2˜Ì­¹%Šò·mƒ¦Ó@]k3œÿ^,Ø†±öëÀ„.°ß³ÃGõ¡{U5ÊúÔıKÍ³/¡Êty™âÙ<>‹x|tVrñP$·È&¶®ÒÈØÿÙû¯¶};ºk*²”-‘]J#D‘\´9$Î?Æ—*%R…]ßx¼ÈÀV™4v,RP7T
+m°tˆ°ûàóØç)nãKa‡Œ<‹‰¡ç-.=	o=Ú÷Ë-ß–¥•R–¤3.Uuï?!ş!Ä†Şef,¶t{4Ìß5'²Šı5ëÒü%ÁDâ˜“¸^=æé½*5xÉö†Ò—CÕï|4Äß¦ÿ?ãÔONOöL!è^NJª6~ô1½òÓ¼ëTb×Ù¢d•š"Şu–Ÿòjèú6EèCŞp¦ÎX÷‘™êñk#UİFª–tìÓÇÆ~ä.İ@
+ÎäÚ`E;äuºöBÃ½Dı+WÁ¥	›¢>“ åS¦¡E³[ú"¥1ÎgÜ–ĞÜÙS}¯$d¹¦ŸeÚQQùo¥£ş1™©Ø«`JrR•›$È}H°ë=ü8ô¯¿X|/+k‡ĞNX;’o~]ıpˆ¾kCôñê»Âëß_Å$AE;é9ä—`âÜ¶ÒC*¤Éj§UÅùò@‰Aß‡Å¤Y_YÏ|KXä^µ¸³áŞò²'Şœëo/^Üå¢{Á[®jHâ–ƒ3½vX°ûUÕªÚØô^/rß‡>¢®tòÏœ«“èA®İh|rã×Ì`ÚQğİ}Ã°·BßÏ‹õsy´¤QÍ*REyA‘h¦l"V+İãcàÏq0Z@|ğÜÍIEĞk“Åƒs
+8*šôú:Í^=¯b¹‰‹®o4SÁl6¨À@2Mã7^¸8—¹Œ³½3ÎÂº¸ÜÑ²Z—w8Õn‡ğ¿ â†œ 
+endstream 
+endobj 
+17 0 obj 
+<<
+/Descent -252
+/FontStretch /Normal
+/FontWeight 400
+/StemV 92
+/Ascent 864
+/FontName /ZXHUHX+UtopiaStd-Regular
+/ItalicAngle 0
+/CharSet (/zero.taboldstyle/one.taboldstyle/nine.taboldstyle/eight.taboldstyle/seven.taboldstyle/six.taboldstyle/five.taboldstyle/f_f_i/four.taboldstyle/three.taboldstyle/d.sc/f_f/two.taboldstyle/f_l/f_i/T_h/s.sc/m.sc/a.sc/l.sc/n.sc/o.sc/c.sc/e.sc/ampersand.sc/h.sc/t.sc/u.sc/r.sc/v.sc/i.sc/space/exclam/numbersign/dollar/percent/ampersand/parenleft/parenright/plus/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon/equal/question/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/bracketleft/bracketright/underscore/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/p.sc/k.sc/uni00A0/j.sc/ellipsis/y.sc/b.sc/f_f_l/quoteleft/quoteright/quotedblleft/quotedblright/bullet/endash/emdash/g.sc/f.sc/cent/w.sc/Eacute/Icircumflex/acircumflex/ccedilla/egrave/eacute/edieresis/icircumflex/ocircumflex)
+/FontBBox [-150 -252 1061 864]
+/Type /FontDescriptor
+/CapHeight 650
+/Flags 34
+/FontFile3 18 0 R
+/FontFamily (Utopia Std)
+/XHeight 461
+>>
+endobj 
+14 0 obj 
+<<
+/Encoding 15 0 R
+/ToUnicode 16 0 R
+/Widths [501 501 501 501 501 501 501 868 501 501 620 586 501 568 568 1080 453 734 553 477 616 607 554 506 614 639 506 631 532 551 309 206 231 0 500 500 758 688 0 357 357 0 543 250 368 250 423 500 500 500 500 500 500 500 500 500 500 250 250 0 543 0 422 0 635 614 655 739 577 548 710 756 333 331 643 548 894 734 725 577 725 615 512 589 706 626 896 620 582 587 312 0 312 0 470 0 498 561 467 568 490 287 490 577 275 268 497 269 869 583 543 568 561 369 411 310 573 474 722 458 470 452 0 0 0 0 510 561 206 309 0 0 840 0 0 0 0 0 0 0 511 0 542 868 262 262 424 424 405 470 940 0 0 0 0 0 593 0 0 479 0 500 0 0 0 0 0 0 0 0 0 0 760 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 577 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 498 0 0 0 0 467 490 490 0 490 0 0 275 0 0 0 0 0 543]
+/Subtype /Type1
+/Type /Font
+/FirstChar 1
+/LastChar 244
+/FontDescriptor 17 0 R
+/BaseFont /ZXHUHX+UtopiaStd-Regular
+>>
+endobj 
+19 0 obj 
+<<
+/Encoding /WinAnsiEncoding
+/Widths [300 0 0 0 0 0 0 0 0 0 0 0 258 0 0 0 0 450 0 0 0 0 450 450 450 450 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 554 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 466 503 412 512 471 286 0 519 238 0 0 236 771 519 488 0 0 319 419 306 519 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 358]
+/Subtype /Type1
+/Type /Font
+/FirstChar 32
+/LastChar 150
+/FontDescriptor 9 0 R
+/BaseFont /ZXHUHX+Delicious-Bold
+>>
+endobj 
+20 0 obj 
+<<
+/Encoding /WinAnsiEncoding
+/Widths [300 0 0 0 0 0 0 0 0 0 0 0 258 0 258 0 450 450 450 450 450 450 450 450 450 450 258 0 0 0 0 0 0 510 0 497 0 0 0 524 0 238 0 0 0 0 554 0 0 0 505 434 0 0 0 0 0 0 0 0 0 0 0 0 0 466 503 412 512 471 286 455 519 238 0 0 236 771 519 488 516 0 319 420 306 519]
+/Subtype /Type1
+/Type /Font
+/FirstChar 32
+/LastChar 117
+/FontDescriptor 12 0 R
+/BaseFont /ZXHUHX+Delicious-Roman
+>>
+endobj 
+21 0 obj 
+<<
+/CA 1.0
+/OPM 1
+/SA true
+/ca 1.0
+/AIS false
+/BM /Normal
+/Type /ExtGState
+/OP false
+/SMask /None
+/op false
+>>
+endobj 
+22 0 obj 
+<<
+/CA 1.0
+/OPM 1
+/SA true
+/ca 1.0
+/AIS false
+/BM /Normal
+/Type /ExtGState
+/OP true
+/SMask /None
+/op true
+>>
+endobj 
+23 0 obj 
+<<
+/Filter /FlateDecode
+/Length 3922
+>>
+stream
+H‰”W]o·ı+|”Šˆæğ›E ¶“ éunn½oqQ¨ÖÚVbK®$£è¿¿gÈ•V®œj‰ 2w–‡Î™=mÄÉÛÕf~3½Şˆ×¯Oş+Nş3ı{ù´oŞœŸ	¡ò?ßÅÉ‡K%n×â¤¡ßÙÒÜˆ”_&a\Ú„$¼#émÄËñuÔŒ‰FWÊhüW¢„+¥	ÍxâeÂkíñäÆnt¥É‰+­ñ£ŒÊk>‰wpãü|?¿}ZµìåÅÙÇsa”3[/O¾ÜO¯ÛÙ—ó÷/•ÈÆÓF(¬Ç¯ù×GüÆËih{z~O’T"aµĞ¸rŠ>Á9?jTöŒ¤±ÀFI“fbôùéáv%–7b½yšµ‹ÍzÜ|VFÅ¤ŸÇ‹EË‹E7B”(¦¼ºR[C"»İò¬ÄFg™~–Í³ìnäò_<Dˆ)ÀOëRvP±?øí„F¢|6j¥²]mmçbd;[ó“ù½qìÆ…5÷Ö µ7‰ú·ä!]†ZX/]°QÇvôa5}¼ÄN‡.éPì¨fo¾~=ÚõœC:ŸŞ‹õõİry/ÚÅ
+öåıÌ¯Ä6AA‰ÍRPò.Âç@ì¥9fO"§Y[•„UHŒF˜rš/—O¼èuû³ø¸˜Í§ñöfWÓèf:_­Åt1Ÿ—«Í]»*¯âîÅâ	®1¸}Ä„µÄëØ€©{Şl}ÿ»®ÆIK½Úßh»Úz³||lg";o$îg-tôÙm2_ÜŠåâÙŞ/G	û”8Ér§š.7J:ñKşı4qâ1ú†ÿŸ„øJú‚•š+§’ôÉqıß<àâ+x…»%îÅ¥øß‹0'wÆ(’!8€L”ÊîağÖ"
+Ib$$]‡ÁÅ¶6™*ŒÁ¢¯ÛÇ"îH}Æ9™œ¯Ãx/C2u˜$t¤£´,¥5˜”¤Q¶
+cII2!Va´’)Ø*Ì£ÑÉHĞè::©TĞûìü¯é:Òt0¤çç`HOÏÁƒ!=9Czn†ôÔ
+Ùcæ`HOÌ¡ŞƒZé«ôÖ¡CµwC0 =_u5nJ¬SRÈ¿®SBÅÅIê0:J“ê”†LBãJUmĞá6„ÆèÂ¼¨ÌÀa¹=8àË1ÀY"÷¼j   »JA¿&-½Èà-â NÇ‡:Š8ˆÔQÄA¨"bõ#á†*_W»ÈCVâZƒkÁÄ:LÔˆ”«Ã$T/ÒU­ `6ÕaUa4
+˜Vus¡c¡`ÉÖaj>ãª0
+æc&¢Š)ªêeußL¬ê™wıÕàÊ×W¤¡ˆ¾ EìÕ£Á¾†ôÕh0¤/Fƒ!½r†ôÂ1ÒëÆ`H/ƒ!½j…ì‰Æ`H¯ƒ!½d†ôŠ1ÒÆ`H¯ƒ!½\†ôj1Ò‹ÅPÈ¶Iú§ºí/ş	x^d•¸ƒJò—~}ÄoLQü‚%şÏÚt+]ÜÕŸ¸W¶'ûôî¡½}¼;èşµQsÇádğfU|B¿¤V×Rk¬ê~Ä‡F4Ç¸ªülñAq:‹°ò3¼ÄrQzkùYÎhÑìKr.°N?¡›qrXi(ïhpE™<g€´W5şt†„{o„Æ×XÈ^àœ«áS3 ÉÏÁ¾Ke²_ˆ1Jğ¾<[IÈ+ÜWå è£Ü 4`yúC‹`e¿=CqA6ò3QÀ|ó„ qç-48‚3G‰4äç$¹†xœ.¯á\À¾:Ïİ¢Æs,Y2xV.æg
+aK1àf²„ Ú’’<4±Çµ
+®‹„öšÔ O!À-;ƒÃ!İÜC’â¤>'É@'lAYS<#¤ÆâÈ* 
+åùâÊ²hm½<àjRL |™bR2KÈz&óÈRa”Åâ	v%_Ö²`<b2ùT|r¨K’|ı²ÅIÚL°qôeuSBş'ØØë‚ó»…]*”ö È3±h”}ñòx’FJÊ=&Oò±3t ³±;$Ê«‚S®ì¹ùˆ0áFtIŠ!³rbnx‰LûÀ‚	Netq…Ø¤’+&dŒbS,œÓ
+,d·ØdC1‡àUw²,³ØBwM$vË!µ±Ì"îG‡„ù­‘r›/q‡–ï‡LP±€•Ù)î™ò‘nÜ\„Á!°S|UcÌ&ëºYHyö
+;8n Ú½£Î„˜j0©’/TZ0
+;zÄ½\^ÍÇ`·<œ¡â)ïÄdC*©h™æ5˜lÈ¥*Ka	m¾»–:HÊ\ÈR&–¨"”ï³ó"­aBwA,àŞ³Sh-¹Á‡W`ªE¤­³¸|…&	$ìä/¢M©D”‡ìÿ-R¢"	°É”e7Ù”Êù ¸–”M(®Å9ÁÅÏ&—7¸¢ËNÀ¹;HêÊºˆ´·(eUò¹¤@§ARv“u§ÜÈ9‡&*ÎÈ{P:›BÉ—À³ÔOpU.¦1ÜÊÄlê’c òÎ¤b*Ô2¸X”İ‚©@Qï²Ag]ç*÷îâL”Ÿ“÷óÛ§U+^¿>¹8ûxô›7§çüîËıôº}9/ğ’D66?¬ÌßÅIC¿ÔÎæU |áz™(¸†H¥ÚŠæAŒ>?=üÑ®ÄòF¬¯ï–Ëûµ˜.fbÕ®ç³vqİ®ÇÍ7Ü`¿è_À©›™)¶«®Jg)']òZY*eAÕx««éãĞŒdmñ±ùI|İób5v£²ùf>½îÔîüz…Ù‡+}h~ÿÖ|Ú?8t7fwò ÷Ç3çˆ¯®G„7_G—Ë'^ñºıY|\ÌæÓEŞäórµ¹kWñöf.¥ÑÍt¾Z‹³éb:›¾ÚÎüõ¹———ğà#“²¯Ğ*Çq5Áq<áM»ÙÜ·˜+ŞŞæ“–4Î$3äÇfÇjË§åŞÁC¼òi9ZcT0Œ»aRıP÷CÛ{XŒÛüYÊ=Kæud@GÒÖœ‹‘Îdvdv#»¹İÈïFa7Š»QÊ£‰ù¶kçİ²ù]ÓÑ’‹v¿Ê=oI¡{JAá¹(¢·KûM4wœÁ„ƒ¶8òT4)58uÄ½ª!«
+xJ‘ru –±¨¨»rPº**0zÄºˆ“·\NuuO…ÊPÄPv+s›¸cDsUÒ\¼R4´&p¨¡hY›*½3ÜXèº€sï¸i¬Awm¨¤«ümà*Ï„–_‰•!G×`“«»‚Ü« §®»M]ëÿ9/—$Émˆ^E	ş×¯&|ï}}?€ÕE²ÔmQŞLLe+ùI€@¢ÆôìxA0kxîg$`[~Ü€W­ë“ç’Ô£ú‡å5¨¡mò,!ö4åøğxXS¬ü³$)Í?Ì×ÌpÀ·T4\oN`"¤İüGƒ®ô	ƒÙCşŒÃXÔ(³8Òü³Û0gæ<«¶Á!N.ÔG÷ÑyÖÅ‡æÖ(øäÎ0ñ$s dü§±I˜lÆ.cxŒ]Æ0»Œá.vÃZì2†¯ØeS±Ëx;Š]Â°»Œá%6ÃHì†‹Øe±Ëşa—1ÌÃ.c8‡]Æ°»ŒávÃ0l2&·°ËVa—1|Â.c˜„]ÆÛ!ì†=Øeo°ËÆ`—1\Á.cX‚MÆävÂğÚD¤ò’¿³Qş¤fß´4:AıvÚDõ¿c|5ÁÇ‡ºtÍõb\]Ğ-ãÃİ~q@·Œ‹ÿ¹e\ÜÏ-ãâ}nçsÇĞzıV4¾Rä¿SäÅ¸Æï–ñ¿Ûï/ñ»e\âwË¸Äï–q‰ß-ã¿;Æ5~wŒ«Óı‘ñõb/Œ5GÜëûßàÎÿß–‰ÏÂ²á¯ÿÇÄtÕãç}¦Âú`óTüTÕâ(|˜vú%„»ñdÉßÇ¯Ä‘è%¤&ªğ»2°™œ-$ıí»@(Á€p†Xf #¨Ì@=³îM»õ`ÈY['Éö Ù;ú™í!™ÿ5ÔÙZ5 A˜ºCˆ1dÈZŸ°G‰”3ğzy“Á5¢#KÕ!%Ú‘î€»wújkFî§ßÉA P«oKbáõŠ¬,}‚‹ óÛM‹£+Õbò’Ğ¡ÊAÿ‘hwÅÔ»di›R1 CÉGÉlk¿¹;²TÌc³%
+wOñ¨™%l“™$âÑ"vÆŠ‡ê~öy"wWä5Û.•ËQ“pfß¿áöúÒIÆî¯Óáˆvßæ´k”³‰íÔH\§ˆPúú7H@fD!ƒ“CZ?ò
+Û“N©g…w(¡™õJ9ƒ%O7ód¦«Šdâ;„)­P¡üƒtéáQYj—­ÍaJª’`0t¥=Éâ‰K×ŸéQtb‘Qİ17ÒwjÁtªp7†¡úZ‰¬‰úôf(Âû€EßßP€A$Æ¡xx}“p	Mô¢Mk]Ş„&É/Š3¡oB´‚è”×•%}@õÔê5/Nß)š‚3„.êÏ'¢&yø€x*n=(3M,ëA)î^3ÑëMK‡²i´@(£¹8AL;ÉE}7>,"ñXeÎ qH£É8C1¯âX6rW³“@ˆcÙ8 6¯ªkfß‰¾ÿuÊPA¯v&"–ş	¢–F}¶#µ°9ó
+!NXJMMn=WĞç˜–CPW«%åô¥Ê­Ğ—õ\T×jzMPb¦+Ëµ)ŒZ\ÇëŠl%ÈÍşŞ,¨²Ô#bIé Â´©şÑÙà€À	½¡PfW§fé šĞ:ÈÁàJG²ÕB¢† ÙÈ¾v¢Ô
+ÉùUÏ…Z‹§˜Ôˆ‡¾¥Ö{µV‡{¼ÎB©­e’ú¾©)•–8xî©ëB¥­$ 3mı¸­' µôW.!¢?õ/¡ÒjÛ|·¼@MäŞÔ&É	µÁ3‚Hœ½aCĞAïİ±§è;}wì ÏÓ­BhÖ„%E“îm‚6pk_n"PbSY‘jÎnB(±Mè„ F“K	A³As‹–%©ê•gDı¶=Î úpQé¤º6I˜KjGĞu¾ µUşõÇÑÿùW€ Ö'œD
+endstream 
+endobj 
+3 0 obj 
+<<
+/StructParents 184
+/Resources 
+<<
+/Font 
+<<
+/T1_2 8 0 R
+/T1_1 11 0 R
+/T1_0 14 0 R
+/T1_4 19 0 R
+/T1_3 20 0 R
+>>
+/Properties 
+<<
+/MC1 4 0 R
+/MC0 6 0 R
+>>
+/ProcSet [/PDF /Text]
+/ExtGState 
+<<
+/GS1 21 0 R
+/GS0 22 0 R
+>>
+>>
+/Rotate 0
+/TrimBox [0.0 0.0 486.0 702.0]
+/Contents 23 0 R
+/Parent 1 0 R
+/Type /Page
+/ArtBox [0.0 0.0 486.0 702.0]
+/MediaBox [0.0 0.0 486.0 702.0]
+/CropBox [0.0 0.0 486.0 702.0]
+/BleedBox [0.0 0.0 486.0 702.0]
+>>
+endobj 
+1 0 obj 
+<<
+/Kids [3 0 R]
+/Type /Pages
+/Count 1
+>>
+endobj 
+24 0 obj 
+<<
+/Subtype /XML
+/Type /Metadata
+/Length 5624
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 81.157285, 2014/12/12-00:43:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/">
+         <xmp:CreateDate>2015-05-31T00:49:47-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2015-05-31T01:43:02-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2015-05-31T01:43:02-05:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 2014 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:6673920a-d8f2-9f4f-ad8f-4a177dcf5e4c</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:552cbed7-838c-4dd6-8979-924628ae5ce4</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:9c5d6846-0875-4b52-8f0f-85613fb17036</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2015-05-31T00:49:47-05:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:78d55f58-d70e-4e63-be54-8549df1ba302</stRef:instanceID>
+            <stRef:documentID>xmp.did:552cbed7-838c-4dd6-8979-924628ae5ce4</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:552cbed7-838c-4dd6-8979-924628ae5ce4</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <dc:format>application/pdf</dc:format>
+         <pdf:Producer>Adobe PDF Library 11.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+         <ExtensisFontSense:slug>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Utopia Std</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>2.098</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>Adobe Systems</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>809206352</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>UtopiaStd-Regular</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>809206352</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+            </rdf:Bag>
+         </ExtensisFontSense:slug>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstream 
+endobj 
+25 0 obj 
+<<
+/Metadata 24 0 R
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj 
+26 0 obj 
+<<
+/ModDate (D:20150531014302-05'00')
+/CreationDate (D:20150531004947-05'00')
+/Trapped /False
+/Creator (Adobe InDesign CC 2014 \(Macintosh\))
+/Producer (Adobe PDF Library 11.0)
+>>
+endobj xref
+0 27
+0000000000 65535 f 
+0000048595 00000 n 
+0000000000 65535 f 
+0000048144 00000 n 
+0000008671 00000 n 
+0000000015 00000 n 
+0000016828 00000 n 
+0000008710 00000 n 
+0000020276 00000 n 
+0000019852 00000 n 
+0000016867 00000 n 
+0000026040 00000 n 
+0000025417 00000 n 
+0000020733 00000 n 
+0000042051 00000 n 
+0000026530 00000 n 
+0000027017 00000 n 
+0000040930 00000 n 
+0000027938 00000 n 
+0000043005 00000 n 
+0000043465 00000 n 
+0000043889 00000 n 
+0000044018 00000 n 
+0000044145 00000 n 
+0000048654 00000 n 
+0000054364 00000 n 
+0000054433 00000 n 
+trailer
+
+<<
+/Info 26 0 R
+/ID [<e153b4e2ac3ac1d09647caf0330d521c><ce08cf0a3ed9f3bcc03f714a0abd63c1>]
+/Root 25 0 R
+/Size 27
+>>
+startxref
+54630
+%%EOF

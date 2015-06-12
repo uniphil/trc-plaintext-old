@@ -1,0 +1,13 @@
+310 · Truth & Reconciliation Commission
+Call to Action
+71) We call upon all chief coroners and provincial vital statistics agencies that have not provided to the Truth and Reconciliation Commission of Canada their records on the deaths of Aboriginal children in the care of residential school authorities to make these documents available to the National Centre for Truth and Reconciliation.
+The completion and maintenance of the National Residential School Student Death Register will require ongoing financial support.
+Call to Action
+72) We call upon the federal government to allocate sufficient resources to the National Centre for Truth and Reconciliation to allow it to develop and maintain the National Residential School Student Death Register established by the Truth and Reconciliation Commission of Canada.
+There is also a need for information sharing with the families of those who died at the schools. As the historical record indicates, families were not adequately informed of the health condition of their children. There is a need for the federal government to ensure that appropriate measures are undertaken to inform families of the fate of their children and to ensure that the children are commemorated in a way that is acceptable to their families.
+Calls to Action
+73) We call upon the federal government to work with churches, Aboriginal communities, and former residential school students to establish and maintain an online registry of residential school cemeteries, including, where possible, plot maps showing the location of deceased residential school children.
+74) We call upon the federal government to work with the churches and Aboriginal community leaders to inform the families of children who died at residential schools of the child's burial location, and to respond to families' wishes for appropriate commemoration ceremonies and markers, and reburial in home communities where requested.
+As Commissioners, we have been honoured to bear witness to commemoration ceremonies held by communities to remember and honour children who died in the residential schools. Such ceremonies have played an important role in the reconciliation process. At the Alberta National Event, the board members of the Remembering the Children Society offered an expression of reconciliation. They spoke about the process they undertook to identify children who had died while attending the Red Deer Industrial School. Richard Lightning said,
+
+
