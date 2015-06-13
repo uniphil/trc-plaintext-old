@@ -36,7 +36,6 @@ def pdf_to_text(name):
     result = subprocess.call(['pdftotext', pdfpath, txtpath])
     if result is not 0:
         raise SystemExit('Failed to extract text from', name['orig'])
-    shutil.copyfile(txtpath, mdpath)
     shutil.copyfile(pdfpath, pdfoutpath)
 
 
