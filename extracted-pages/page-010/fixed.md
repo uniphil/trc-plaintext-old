@@ -1,6 +1,6 @@
 _4 · Truth & Reconciliation Commission_
 
-(photo)
+[!The Mission, British Columbia](image-0000.jpg)
 
 The Mission, British Columbia, school opened in the early 1860s and remained in operation until 1984. Mission Community Archives.
 
