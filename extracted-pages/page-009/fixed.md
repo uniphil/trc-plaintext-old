@@ -1,5 +1,5 @@
 ---
-clean_pagebreak: true
+clean_pagebreak: false
 ---
 
 is not a single Indian in Canada that has not been absorbed into the body politic."9 These goals were reiterated in 1969 in the federal government's Statement on Indian Policy (more often referred to as the "White Paper"), which sought to end Indian status and terminate the Treaties that the federal government had negotiated with First Nations. [10]

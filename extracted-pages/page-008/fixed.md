@@ -1,5 +1,5 @@
 ---
-clean_pagebreak: true
+clean_pagebreak: false
 ---
 
 ![Alert Bay, British Columbia, school, 1885. The federal government has estimated that over 150,000 students attended Canada's residential schools. Library and Archives Canada, George Dawson, PA-037934.](image-0000.jpg)

@@ -1,5 +1,5 @@
 ---
-clean_pagebreak: true
+clean_pagebreak: false
 ---
 
 ![The Mission, British Columbia, school opened in the early 1860s and remained in operation until 1984. Mission Community Archives.](image-0000.jpg)
