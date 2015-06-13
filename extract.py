@@ -59,6 +59,15 @@ def extract(name):
         shutil.copyfile(pdfpath, pdfoutpath)
 
 
+def insert_frontmatter(fname):
+
+    fcontent = "---\nclean_pagebreak: true\n---\n\n"
+    with open(fname) as f:
+        fcontent += f.read()
+    with open(fname, 'w') as f:
+        f.write(fcontent)
+
+
 if __name__ == '__main__':
     print('splitting pages...')
     split_pages()
@@ -68,3 +77,5 @@ if __name__ == '__main__':
             filter(is_pdf,
                 os.listdir(
                     PDF_DIR))))
+    print('insert frontmatter...')
+    map(insert_frontmatter, glob.glob('{0}/*/fixed.md'.format(OUT_DIR)))
