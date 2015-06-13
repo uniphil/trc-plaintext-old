@@ -10,17 +10,10 @@ Physical genocide is the mass killing of the members of a targeted group, and bi
 
 In its dealing with Aboriginal people, Canada did all these things.
 
-Canada asserted control over Aboriginal land. In some locations, Canada negotiated Treaties with First Nations; in others, the land was simply occupied or seized. The negotiation of Treaties, while seemingly honourable and legal, was often marked by fraud and coercion, and Canada was, and remains, slow to implement their provisions and intent. [1][1]
+Canada asserted control over Aboriginal land. In some locations, Canada negotiated Treaties with First Nations; in others, the land was simply occupied or seized. The negotiation of Treaties, while seemingly honourable and legal, was often marked by fraud and coercion, and Canada was, and remains, slow to implement their provisions and intent. [[1]]
 
-On occasion, Canada forced First Nations to relocate their reserves from agriculturally valuable or resource-rich land onto remote and economically marginal reserves. [<sup>[2]</sup>][2]
+On occasion, Canada forced First Nations to relocate their reserves from agriculturally valuable or resource-rich land onto remote and economically marginal reserves. [[2]]
 
-Without legal authority or foundation, in the 1880s Canada instituted a "pass system" that was intended to confine First Nations people to their reserves. [3][3]
+Without legal authority or foundation, in the 1880s Canada instituted a "pass system" that was intended to confine First Nations people to their reserves. [[3]]
 
-Canada replaced existing forms of Aboriginal government with relatively powerless band councils whose decisions it could override and whose leaders it could depose. [4][4] In the process, it disempowered Aboriginal women, who had held significant influence and powerful roles in many First Nations, including the Mohawks, the Carrier, and Tlingit. [5][5]
-
-
-[1]:nolink...
-[2]:http://www.biographi.ca/en/bio/mistahimaskwa_11E
-[3]:nolink
-[4]:nolink
-[5]:nolink
+Canada replaced existing forms of Aboriginal government with relatively powerless band councils whose decisions it could override and whose leaders it could depose. [[4]] In the process, it disempowered Aboriginal women, who had held significant influence and powerful roles in many First Nations, including the Mohawks, the Carrier, and Tlingit. [[5]]
