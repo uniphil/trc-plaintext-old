@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 225
 of child-welfare agencies. Research in British Columbia found that 35.5% of youth in care are also involved in the youth justice system, as compared with only 4.4% of youth who are not in care.159 The Commission believes that there are ways to reduce the growing overrepresentation of Aboriginal youth, but that they will be found primarily outside the justice system. There is an urgent need to support Aboriginal families and alleviate the poverty experienced by many Aboriginal communities. The federal government should take the lead by committing the resources necessary to eliminating the overrepresentation of Aboriginal children and youth in care and custody. Part of that commitment should include collecting and publishing better data to measure progress.
 Call to Action

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 351
 that are consistent with this purpose and, in principle, can justify the infringement of aboriginal title.272
 Governments must also demonstrate that any infringement of Aboriginal rights is consistent with the Crown's fiduciary duty towards Aboriginal peoples and upholds the honour of the Crown. To meet these legal obligations, governments in all jurisdictions have developed Aboriginal consultation policies.

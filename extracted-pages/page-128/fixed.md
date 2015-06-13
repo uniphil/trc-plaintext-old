@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 122 · Truth & Reconciliation Commission
 than corporal punishment. After being subjected to ongoing sexual abuse, Anthony Wilson ran away from the Alberni school.569
 In the 1940s, Arthur McKay regularly ran away from the Sandy Bay school. "I didn't even know where my home was, the first time right away. But these guys are the ones; my friends were living in nearby reserve, what they call Ebb and Flow, that's where they were going so I followed."570 Ivan George and a group of his friends ran away from the Mission, British Columbia, school when he was eleven years old. They were strapped on their return. Despite this, he ran away two more times that school year.571

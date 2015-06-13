@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 300 · Truth & Reconciliation Commission
 objectives include the presentation of competing and contentious historical narratives of Confederation and the two world wars, and the use of "selected commemorations to explore concepts of myth, memory, and nation." The museums intended to "present honestly, but respectfully, for public understanding issues of contention or debate ... [through] deliberate exploration of traumatic pasts (e.g. Africville or residential schools)."140
 Drawing on research showing that Canadians valued their "personal and family connections to history," the Canadian Museum of History said that it intended to "explore the realities of contemporary life for Canada's First Peoples [including] cultural engagements with modernity, environmental change, and globalization, evolving concepts of tradition, political mobilization, and new avenues of social expression ... [and] the impact of rapid change in Canada's North, especially for Inuit."141 Another key research theme is "First Peoples," with a particular focus on Aboriginal histories.

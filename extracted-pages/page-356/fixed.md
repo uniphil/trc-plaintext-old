@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 350 · Truth & Reconciliation Commission
 devastating consequences that building a pipeline through the North would have for Dene and Inuvialuit peoples and for the fragile ecosystems. His observations, made almost forty years ago, foreshadow similar controversies and conflicts over proposed pipelines still occurring in various regions of Canada as the trc has prepared this final report.269
 The political and legal landscape has shifted significantly since Justice Berger issued his report in 1977. As Canada maps its economic future in regions covered by historical Treaties, modern land-claims agreements, and unceded Aboriginal title, governments and industry must now recognize that accommodating the rights of Aboriginal peoples is paramount to Canada's long-term economic sustainability. Governments aim to secure the necessary economic stability and growth to ensure prosperity for all Canadians. Corporations invest time and resources in developing large-scale projects that create jobs and aim to produce profits for their shareholders. Although the corporate sector is not a direct party to Treaty and land-claims agreement negotiations, industry and business play an extremely significant role in how the economic, social, and cultural aspects of reconciliation are addressed, including the extent to which opportunities and benefits are truly shared with Indigenous peoples and the environment of traditional homelands is safeguarded.

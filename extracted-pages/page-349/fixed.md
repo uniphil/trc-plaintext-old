@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 343
 Educating journalists for reconciliation
 In a submission to the Royal Commission on Aboriginal Peoples (rcap) in 1993, the Canadian Association of Journalists noted, "The country's large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs.... The result is that most Canadians have little real knowledge of the country's Native peoples, or the issues that affect them."246 In 1996, the rcap report had noted,

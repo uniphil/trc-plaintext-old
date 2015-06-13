@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 81
 Carpenter's shop in the Battleford school, 1894. Saskatchewan Archives Board, R-B7.
 recreation. The parents cannot understand that the pupils are here to learn how to work as well as to read and write, we therefore cannot at present devote too much time to the former."247 Inspector Wadsworth returned to the issue of overwork in 1893, when he said that much of the farm work at the Middlechurch, Manitoba, school was too much for the boys. The girls were also set to work in the laundry at a "tender age."248 Gilbert Wuttunee, who attended the Battleford school in the first decade of the twentieth century, recalled, "They didn't do any farm work or any kind of work until you got to, at that time, standard three, whether you were nine years old or fifteen years old." After he turned nine, he "never saw another full day of school until I left." By then, the school had drastically reduced the number of trades it taught: "There was just blacksmithing, carpentering and farming."249 According to Lillian Elias, each fall, a barge would arrive in Aklavik, loaded with logs for the school furnace. The students would form a long chain leading from the barge to the furnace room and, with the assistance of the school staff, unload the barge.250

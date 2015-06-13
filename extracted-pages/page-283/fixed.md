@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 277
 defence against further government encroachments on their lives. Yet they continued to abide by the terms of the treaties trusting in the honour of the Crown to no avail. They were mortally wounded in mind, body, heart, and spirit that turned them into the walking dead. Recovery would take time, and fortunately they took their sacred traditions underground to be practised in secret until the day of revival that would surely come.... I am happy that my ancestors saw fit to bring their sacred beliefs underground when they were banned and persecuted. Because of them and the Creator, my people are alive and in them I have found my answers.79
 Jennie Blackbird, who attended the Mohawk Institute in Brantford, Ontario, explained it this way:

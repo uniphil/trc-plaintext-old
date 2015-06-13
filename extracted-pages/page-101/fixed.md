@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 95
 Graph 4 Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965.
 9 Death rate per 1,000 students

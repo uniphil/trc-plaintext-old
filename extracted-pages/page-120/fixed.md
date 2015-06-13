@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 114 · Truth & Reconciliation Commission
 Grandin College girls' basketball team, Northwest Territories. One Grandin student wrote in the school newsletter, "At Grandin, Education comes first." Although students could participate in school sports teams, "if you are behind in your school work, you are forced to quit your sports." Deschatelets Archives.
 Saskatchewan midget hockey championship. The following year, it won the provincial championship.500 According to the Prince Albert Daily Herald, "While the Duck Lake boys were outweighed in their midget series they made it up in hockey know-how, skating ability and shooting accuracy. Their drives, from any angle, had the Regina players scared and baffled at the same time."501 Among the players on the 1949 Duck Lake provincial championship team was Fred Sasakamoose, who went on to become the first status Indian to play in the National Hockey League.502

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 135
 Endnotes
 1. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.

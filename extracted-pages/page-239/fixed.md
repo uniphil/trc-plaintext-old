@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 · 233
 92. Email from Glenn Morrisson, Policy Manager of the Aboriginal Affairs Directorate in the Citizenship Participation Branch, to the Truth and Reconciliation Commission (July 9, 2012).
 93. Canada, Department of Canadian Heritage, 2012­2013 Report on Plans and Priorities, 26. 94. Canada, Standing Senate Committee on Legal and Constitutional Affairs, Language Rights in

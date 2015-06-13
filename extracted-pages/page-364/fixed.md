@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 358 · Truth & Reconciliation Commission
 Intergenerational youth across cultures
 At the British Columbia National Event, the Commission, in partnership with the Inspirit Foundation, hosted a Youth Panel, "Be the Change: Young People Healing the Past and Building the Future." In this cross-cultural dialogue, youth leaders described the intergenerational impacts of human rights violations such as the residential schools, the Holocaust, Canada's internment of Japanese Canadians during World War Two, and the head tax imposed on Chinese immigrants to Canada. They spoke about community and about turning reconciliation into action. Tsilhqot'in intergenerational Survivor Kim Harvey said,

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 111
 the general operation of the school. The fact that Catholic and Protestant church leaders continued to disparage one another's religions throughout this period meant that conflicts between students could also take on religious overtones, particularly in communities with more than one residential school, such as Inuvik in the Northwest Territories.
 Student victimization of students was an element of the broader abusive and coercive nature of the residential school system. Underfed, poorly housed, and starved for affection, students often formed groups based on age, community of origin, or First Nation. Such groups gave students a measure of identity and status, but also provided protection to their members and dominated more vulnerable students.

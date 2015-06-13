@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 # Introduction
 
 For over a century, the central goals of Canada's Aboriginal policy were to eliminate Aboriginal governments; ignore Aboriginal rights; terminate the Treaties; and, through a process of assimilation, cause Aboriginal peoples to cease to exist as distinct legal, social, cultural, religious, and racial entities in Canada. The establishment and operation of residential schools were a central element of this policy, which can best be described as "cultural genocide."

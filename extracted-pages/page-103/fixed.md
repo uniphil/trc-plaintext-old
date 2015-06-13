@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 97
 The Roman Catholic school at Sturgeon Landing, Saskatchewan, was destroyed by fire in September 1952. There was no loss of life. St. Boniface Historical Society Archives, Roman Catholic Archbishop of Keewatin-The Pas Fonds, N3637.
 When E. A. Côté, the deputy minister responsible for Indian Affairs, met with church and school representatives to discuss the brief, he told them that only emergency repairs would be undertaken at schools that Indian Affairs intended to close.359

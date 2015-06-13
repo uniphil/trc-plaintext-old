@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 64 · Truth & Reconciliation Commission
 Aboriginal family at the Elkhorn, Manitoba, school. Indian Affairs took the position that once parents enrolled their children in a residential school, only the government could determine when they would be discharged. General Synod Archives, Anglican Church of Canada, P75-103-S8-56.
 opinion to the effect that "the fact of a parent having signed such an application is not sufficient to warrant the forcible arrest against the parents' will of a truant child who has been admitted to an Industrial School pursuant to the application." It was held that, without legislative authority, no form could provide school administrators with the power of arrest.132 Despite this warning, well into the twentieth century, Indian Affairs would continue to enforce policies regarding attendance for which it had no legal authority.133 This is not the only example of the government's use of unauthorized measures. In the 1920s, students were to be discharged from residential school when they turned sixteen. Despite this, William Graham, the Indian commissioner, refused to authorize discharge until the students turned eighteen. He estimated that, on this basis, he rejected approximately 100 applications for discharge a year.134

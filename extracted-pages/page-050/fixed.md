@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 44 · Truth & Reconciliation Commission
 Boys at the Sioux Lookout, Ontario, school in the 1930s in their school uniforms. General Synod Archives; Anglican Church of Canada; P75-103-S7-127.
 went to the Pine Creek, Manitoba, school in the 1950s. "My mom had prepared me in Native clothing. She had made me a buckskin jacket, beaded with fringes.... And my mom did beautiful work, and I was really proud of my clothes. And when I got to residential school, that first day I remember, they stripped us of our clothes."18 On her arrival at the Presbyterian school in Kenora, Ontario, Lorna Morgan was wearing "these nice little beaded moccasins that my grandma had made me to wear for school, and I was very proud of them." She said they were taken from her and thrown in the garbage.19

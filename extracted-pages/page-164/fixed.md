@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 158 · Truth & Reconciliation Commission
 371. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. J. Denovan, 1 May 1901. [EDM-009805]
 372. For Regina, see: TRC, NRA, Library and Archives Canada, RG10, volume 3927, file 116836-1A, J. A. Graham to J. A. Sinclair, 2 February 1904. [RIS-000075] For Onion Lake, see: TRC, NRA, Library and Archives Canada, RG29, volume 2915, file 851-1-A671, part 1a, Lang Turner to Secretary, Indian Affairs, 31 October 1921. [NPC-602633] For Mission, see: TRC, NRA, Library and Archives Canada, RG10, volume 6470, file 890-5, part 2, A. O'N. Daunt, 18 December 1924. [MIS-004992] For Muncey, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207, file 468-5, part 7, A. F. MacKenzie to K. J. Beaton, 9 July 1935. [MER-000845]

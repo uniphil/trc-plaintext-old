@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 213
 corroboration in the form of physical evidence.121 This approach was based on an unwillingness to take the complainant's own evidence as sufficient to justify a prosecution. It betrays an unwillingness to take the evidence of Aboriginal people as being worthy of belief. At best, the refusal to prosecute without corroboration was based on a belief that the denial of any accused person who occupied a position of authority at the schools would be sufficient to create a reasonable doubt about guilt.
 Since 1982, the requirement for corroboration was specifically dropped for sexual offences, and it was never required for non-sexual offences.122 The Commission is concerned that a continued insistence on corroboration has resulted in discriminatory treatment of Aboriginal victims.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 is not a single Indian in Canada that has not been absorbed into the body politic."9 These goals were reiterated in 1969 in the federal government's Statement on Indian Policy (more often referred to as the "White Paper"), which sought to end Indian status and terminate the Treaties that the federal government had negotiated with First Nations. [10]
 
 The Canadian government pursued this policy of cultural genocide because it wished to divest itself of its legal and financial obligations to Aboriginal people and gain control over their land and resources. If every Aboriginal person had been "absorbed into the body politic," there would be no reserves, no Treaties, and no Aboriginal rights.

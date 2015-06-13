@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 217
 Newfoundland and Labrador have been excluded, as have students who attended government-funded schools that were not identified as residential schools. These exclusions have led to new civil lawsuits against the government. The Commission urges all parties to seek expedited means of resolving this litigation.
 Call to Action

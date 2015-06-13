@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 101
 blood, we immediately branded him for the grave. He had consumption: he had to die."383 Simon Baker's brother Jim died from spinal meningitis at the Lytton, British Columbia, school. "I used to hear him crying at night. I asked the principal to take him to the hospital. He didn't. After about two weeks, my brother was in so much pain, he was going out of his mind. I pleaded with the principal for days to take him to a doctor."384
 Ray Silver said that he always blamed the Alberni school for the death of his brother Dalton. "He was a little guy, laying in the bed in the infirmary, dying, and I didn't know 'til he died. You know that's, that was the end of my education."385 The death of a child often prompted parents to withdraw the rest of their children from a school. One former student said her father came to the school when her sister became ill at the Anglican school at Aklavik, Northwest Territories. "He came upstairs and there we were. He cried over us. He took me home. He put her in a hospital, and she died."386

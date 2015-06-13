@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 252 · Truth & Reconciliation Commission
 too often these rights exist without an effective remedy. There are many solutions that have the potential of moving us to where we need to be. Such solutions include the negotiation of modern-day treaties, agreements and other constructive arrangements, consistent with the principles of the Proclamation.40
 Across the river from the parliament buildings in Ottawa that October, Idle No More supporters gathered in Gatineau, Québec, at the Canadian Museum of Civilization, to commemorate the Royal Proclamation as part of a national and international day of action. One of the organizers, Clayton Thomas-Muller, said, "We are using this founding document of this country and its anniversary to usher in a new era of reconciliation of Canada's shameful colonial history, to turn around centuries of neglect and abuse of our sacred and diverse nations."41

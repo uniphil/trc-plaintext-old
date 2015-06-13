@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 184 · Truth & Reconciliation Commission
 their extended families, and their communities. Children who were abused in the schools sometimes went on to abuse others. Many students who spoke to the Commission said they developed addictions as a means of coping. Students who were treated and punished like prisoners in the schools often graduated to real prisons. For many, the path from residential school to prison was a short one. Mervin Mirasty was a student at the Beauval residential school.
 I ran away from school. I'd go out, I'd walk around town, and steal whatever I could steal.... I started stealing cars. I got caught at fifteen. I ended up in jail. From that point of fifteen years old 'til ... to the year 2000, I got sentenced to twenty-five years all together, twenty-five years all together. And I don't know what I was fighting, what I was trying to do. I didn't care who I stole from. I drank. I started drinking when I was about seventeen, eighteen. I drank, I stole, I hardly worked. I used the system, the welfare system, and plus I stole, and I drank.3

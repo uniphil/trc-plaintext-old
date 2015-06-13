@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 264 · Truth & Reconciliation Commission
 Survivors and their families needed to hear those words. They had lived with pain, fear, and anger for most of their lives, resulting from the abrupt separation from their families and their experiences at residential schools, and they wanted desperately to begin their healing. They needed to have validated their sense that what had been done to them was wrong. They wanted to believe that things would begin to change--not the schools, which had long been closed, but the attitude and behaviours that lay behind the existence of the schools. They wanted to believe that the government that had so long controlled their lives and abused its relationship with them now "saw the light." They wanted to believe that the future for their children and their grandchildren would be different from their own experiences; that their lives would be better. The apology gave them cause to think that their patience and perseverance through the trauma and negativity of their experiences in and beyond the residential schools had been worth the struggle. It gave them hope.
 At the trc's Saskatchewan National Event, National Chief of the Assembly of First Nations Shawn A-in-chut Atleo said,

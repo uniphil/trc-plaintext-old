@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 186 · Truth & Reconciliation Commission
 and child-welfare facilities. By 1960, the federal government estimated that 50% of the children in residential schools were there for child-welfare reasons. 9
 The residential school experience was followed by the "Sixties Scoop"--the wide-scale national apprehension of Aboriginal children by child-welfare agencies. Child-welfare authorities removed thousands of Aboriginal children from their families and communities and placed them in non-Aboriginal homes without taking steps to preserve their culture and identity. Children were placed in homes across Canada, in the United States, and even overseas. This practice actually extended well beyond the 1960s, until at least the mid- to late 1980s.10

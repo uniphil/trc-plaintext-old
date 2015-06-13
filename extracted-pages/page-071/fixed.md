@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 65
 The Roman Catholic school in Fort George, Quebec, opened in 1931. Deschatelets Archives.
 reportedly 28,429 school-aged Aboriginal children. This meant that 31.1% of the schoolaged Aboriginal children were in residential school.135

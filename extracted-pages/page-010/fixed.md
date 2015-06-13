@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 ![The Mission, British Columbia, school opened in the early 1860s and remained in operation until 1984. Mission Community Archives.](image-0000.jpg)
 
 dangerous and harsh institutions that sought to raise their children in alien ways. Once in the schools, brothers and sisters were kept apart, and the government and churches even arranged marriages for students after they finished their education.

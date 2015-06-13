@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 253
 ii. Adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples as the framework for reconciliation.
 iii. Renew or establish Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.

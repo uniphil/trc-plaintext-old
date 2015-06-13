@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 102 · Truth & Reconciliation Commission
 Residential school students at the Roman Catholic cemetery in Fort George, Québec. Deschatelets Archives.
 the local community, and the missionaries themselves. For example, the cemetery at the Roman Catholic St. Mary's mission, near Mission, British Columbia, was intended originally for priests and nuns from the mission as well as for students from the residential school.388

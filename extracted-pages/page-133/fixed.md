@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 127
 Lytton school was headed for a nervous breakdown in 1922. According to Ball, the man was "acting as teacher, minister, janitor and general handy man around the School. He also has charge of the boys [sic] dormitory at night."620
 Staff meals were generally superior to those provided to the students. Staff members, particularly in the early years of the system, had greater immunity than their students to many of the diseases that plagued residential schools. Despite this, the living conditions that prevailed in many schools took a toll on staff. In 1896, E. B. Glass, the principal of the Whitefish Lake school in what is now Alberta, said the deterioration in the health of one staff member was the result of having to work in an inadequately heated and poorly insulated schoolhouse in which the "cold wind whistled up through the floor." Glass said that "the Department which charges itself with building, repairing and furnishing school houses, should also charge itself with neglect and the suffering endured by the teacher from that neglect."621

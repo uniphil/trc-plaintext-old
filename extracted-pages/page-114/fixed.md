@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 108 · Truth & Reconciliation Commission
 In 1939, Indian Affairs officials recommended that Kuper Island school staff suspected of sexually abusing students leave the province, allowing them to avoid prosecution. British Columbia Archives, pdp05505.
 was not until 1968 that Indian Affairs began to compile and circulate a list of former staff members who were not to be hired at other schools without the approval of officials in Ottawa.442 The churches and the government remained reluctant to take matters to the police. As a result, prosecutions were rare.

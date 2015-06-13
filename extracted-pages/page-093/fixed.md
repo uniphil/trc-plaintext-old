@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 87
 they raised their daughter to speak English.301 When Bruce Dumont was sent to residential school in Onion Lake, Saskatchewan, his mother warned him not to speak Cree.302
 Arranging and blocking marriages

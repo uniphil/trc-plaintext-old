@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 51
 A Church Missionary Society school, in Freetown, Sierra Leone. In the nineteenth century, European-based missionary societies established residential schools around the world in an effort to spread the Christian gospel and civilize the `heathen.' Mary Evans Picture Library, 10825826.
 race, whether in Great Britain, or the United States, or the Colonies, or wherever it may be, that rest the highest hopes of those who try to penetrate the dark future, or who seek to raise and better the patient masses of mankind."65 Residential schools were established in the shadow of these ideas. In the year that Rosebery gave this speech, the Canadian government opened its first industrial residential school for Aboriginal people at Battleford on the Canadian Prairies.66

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 367
 31. Onondaga Nation, "Oren Lyons Presents," http://www.onondaganation.org/news/2014/oren-lyons-presents-at-u-n-51514/ (accessed 21 March 2015). Article 7, paragraph 2 of the Declaration affirms that "Indigenous peoples have the collective right to live in freedom, peace and security as distinct peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group."
 32. Kelly, "Confessions of a Born Again Pagan," 22­23. 33. See, for example: Treaty 7 Tribal Council et al., True Spirit and Original Intent; Miller, Compact,

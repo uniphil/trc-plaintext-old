@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 304 · Truth & Reconciliation Commission
 Lawyers besieged the archives. Archivists, caught between the vagaries of old informal recordkeeping practices in church schools across the country, legal demands for instant and full access and obligations to employer and profession, struggled to uphold their ideal of the honest stewardship of the records.... This process has tested the capacity of the archives and our professional ability to respond.151
 These challenges did not end with the implementation of the 2007 Settlement Agreement. The trc's own difficulties in gaining access to government records held in lac demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.

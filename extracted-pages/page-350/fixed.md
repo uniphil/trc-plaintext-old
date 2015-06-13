@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 344 · Truth & Reconciliation Commission
 to `progress' in Canada? Are attitudes of distrust and fear underlying our decisions to dispatch a crew to the latest Aboriginal blockade? Is there no iconic photo of reconciliation, because no one from the newsrooms believes harmony between Aboriginal peoples and settlers is `newsworthy'?253
 Historian J. R. Miller has observed that when conflicts between Aboriginal peoples and the state have occurred in places like Oka or Ipperwash Park, for example, "politicians, journalists and ordinary citizens understood neither how nor why the crisis of the moment had arisen, much less how its deep historical roots made it resistant to solutions.... [This] does not bode well for effective public debate or sensible policy-making."254

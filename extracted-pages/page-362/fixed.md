@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 356 · Truth & Reconciliation Commission
 I'll know that reconciliation is happening in Canadian society when Canadians, wherever they live, are able to say the names of the tribes with which they're neighbours; they're able to pronounce names from the community, or of people that they know, and they're able to say hello, goodbye, in the language of their neighbours.... That will show me manners. That will show me that they've invested in finding out the language of the land [on] which they live ... because the language comes from the land ... the language is very organic to where it comes from and the invitation to you is to learn that and to be enlightened by that and to be informed by [our] ways of thinking and knowing and seeing and understanding. So that, to me, is reconciliation.285
 Former public school teacher Lynne Phillips cautioned that establishing trust will be one of the major challenges of the reconciliation process. She said,

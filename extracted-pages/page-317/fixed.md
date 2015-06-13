@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 311
 My father, Albert Lightning, and his younger brother, David, from Samson First Nation, went to the Red Deer Industrial School, which was operated by the Methodist Church from 1893 to 1919. Albert Lightning survived this school experience, but David died of Spanish flu in 1918. In 1986, Albert visited the Red Deer and District Museum and Archives, saying to the staff person, Lyle Keewatin-Richards, "Oh, there you are. You're the one who is going to find my little brother." Lyle learned that along with three other students who had died at the same time, David was buried in the Red Deer City Cemetery. Lyle also became aware of the existence of the school cemetery beside Sylvan Creek.
 Rev. Cecile Fausak164 explained,

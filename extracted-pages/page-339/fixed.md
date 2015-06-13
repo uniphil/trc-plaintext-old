@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 333
 partners and organizations to undertake community-based, regional or national projects. The Commission evaluated and made recommendations to the Department of Aboriginal Affairs and Northern Development Canada, which was responsible for administering the funding for the commemoration projects.
 Unlike more conventional state commemorations, which have tended to reinforce Canada's story as told through colonial eyes, residential school commemorative projects challenged and recast public memory and national history. Many First Nations, Inuit, and Métis communities partnered with regional or national Aboriginal organizations, and involved local churches, governments, and their non-Aboriginal neighbours. The scope, breadth, and creativity of the projects were truly impressive. Projects ranged from traditional and virtual quilts, monuments and memorials, traditional medicine gardens, totem pole and canoe carving, oral history, community ceremonies and feasts, land-based culture and language camps, cemetery restoration, film and digital storytelling, commemorative walking trails, and theatre or dance productions.216

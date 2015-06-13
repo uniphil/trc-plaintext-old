@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 55
 Manitoba, northern Québec, northern Ontario, the Northwest Territories, and Nunavut from the Hudson's Bay Company to the Canadian government. The following year, British Columbia was brought into Confederation by the promise of a continental rail link.
 Canadian politicians intended to populate the newly acquired lands with settlers from Europe and Ontario. These settlers were expected to buy goods produced in central Canada and ship their harvests by rail to western and eastern ports and then on to international markets. Settling the "Northwest"--as this territory came to be known--in this manner meant colonizing the over 40,000 Indigenous people who lived there.88

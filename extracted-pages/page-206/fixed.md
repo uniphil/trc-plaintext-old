@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 200 · Truth & Reconciliation Commission
 schools as well as other challenges faced by Aboriginal people. In addition to fair and adequate funding, there is also a need to maximize Aboriginal control over Aboriginal education, and to facilitate instruction in Aboriginal cultures and languages. These educational measures will offer a realistic prospect of reconciliation on the basis of equality and respect.
 Language and culture

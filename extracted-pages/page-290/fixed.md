@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 284 · Truth & Reconciliation Commission
 approve projects. In broad terms, the reconciliation projects funded by the Settlement Agreement churches have had three primary purposes:
 1) Healing. The Toronto Urban Native Ministry, funded by Anglican, United, and Roman Catholic churches, "reaches out to Aboriginal people on the street, in hospitals, in jails, shelters and hostels."97 The ministry works with all Aboriginal people who are socially marginalized and impoverished, including Survivors and intergenerational family members who have been impacted by residential schools. Anamiewigumming Kenora Fellowship Centre, with funds from the Presbyterian Church in Canada, developed "A Step Up . . . tools for the soul," in partnership with local Aboriginal organizations. Under the program, a series of ten teaching events led by Aboriginal Elders, teachers, and professionals were held to support Survivors and family members on their healing journey, featuring education about culture and tradition, with the goal of fostering reconciliation.98

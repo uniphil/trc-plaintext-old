@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 276 · Truth & Reconciliation Commission
 host a national Native spiritual gathering in Prince Rupert this summer.... So, we are very much holding the church's feet to the fire and making sure that there are real commitments to putting life to the apologies.77
 What Alvin Dixon told us is consistent with what the Commission heard from Survivors about Canada's apology. Official apologies made on behalf of institutions or governments may be graciously received but are also understandably viewed with some skepticism. When trust has been so badly broken, it can be restored only over time as Survivors observe how the churches interact with them in daily life. He explained, in practical terms, how Survivors would continue to hold the churches accountable. Apologies mark only a beginning point on pathways of reconciliation; the proof of their authenticity lies in putting words into action. He emphasized how important it was to Survivors that the churches not only admit that condemning Indigenous spirituality was wrong, but also that they go one step further and actively support traditional spiritual gatherings. That action, however, calls for ongoing commitment to educate church congregations into the future on the need for such action.

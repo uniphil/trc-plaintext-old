@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 270 · Truth & Reconciliation Commission
 education, it will be important to ensure all Canadians have the educational resources and practical tools required to advance reconciliation.
 Calls to Action

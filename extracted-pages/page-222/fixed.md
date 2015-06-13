@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 216 · Truth & Reconciliation Commission
 Because the Settlement Agreement would involve the termination of a number of class-action proceedings that the courts had already authorized, it was necessary for courts in most provinces and territories to consider whether the Settlement Agreement was a fair resolution of the claims and, in particular, whether it adequately protected the interests of all the class members.
 The Settlement Agreement included a Common Experience Payment (cep) for everyone who attended one of the residential schools listed in the Agreement. In addition to the cep, an Independent Assessment Process (iap) was established to pay compensation to those who suffered sexual or serious physical assaults, such as severe beating, whipping, and second-degree burning, at the schools. The process also included compensation for assaults by other students if they were the result of a lack of reasonable supervision.

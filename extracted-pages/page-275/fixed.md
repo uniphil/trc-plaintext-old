@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 269
 In a post-apology era, the honour of the Crown must be a defining feature in the new relationship where legal obligations are vigilantly observed, where First Nations are diligently consulted and accommodated on all matters affecting our lives, and our right to free, prior and informed consent is respected.... Let it be clear that First Nations care deeply about our human rights--the human rights of the women in our communities, our children, our families and our communities.
 The principles of reconciliation, such as mutual respect, coexistence, fairness, meaningful dialogue, and mutual recognition, are not empty words. These principles are about action; that is, they give shape and expression to the material, political and legal elements of reconciliation. It has been an eventful year in Canadian and global politics, society and the economy since last June. First Nations have been affected by the decisions of the Government of Canada during this time.... Given the level of poverty among First Nations, our economies and communities are at an alarmingly high risk of sinking further into the bleakness and despair of poverty. We, as a society, must not let this happen....

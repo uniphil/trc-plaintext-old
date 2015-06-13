@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 345
 The trc provided regular information briefings to the media who attended the National Events. We discussed earlier how students must not only learn the truth about what happened in residential schools, but also understand the ethical dimensions of this history. So too must journalists. Many of the reporters who covered the National Events were themselves deeply affected by what they heard from Survivors and their families. Some required the assistance of health-support workers. Some told us in off-the-record conversations that their perspectives and understanding of the impacts of residential schools, and the need for healing and reconciliation, had changed, based on their observations and experiences at the National Events.
 Call to Action

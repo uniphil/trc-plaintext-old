@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 360 · Truth & Reconciliation Commission
 pain and warts in its background. We shouldn't be afraid to talk about that and to institutionalize the healing process at a national level.295
 Newcomers to Canada

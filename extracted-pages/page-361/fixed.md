@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 355
 their families. More recent immigrants have struggled with racism and misconceptions as they come to take their place in the Canadian nation.
 Despite the many barriers to reconciliation, this Commission remains cautiously optimistic. At the Alberta National Event in March 2014, trc Honorary Witness Wab Kinew spoke about the changes that are already happening across this land that give rise to hope. He began by explaining that all day he had been carrying with him

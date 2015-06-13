@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 256 · Truth & Reconciliation Commission
 When they do so, it is with the knowledge that the courts still are reluctant to recognize their own traditional means of dispute resolution and law.
 Reconciliation will be difficult to achieve until Indigenous peoples' own traditions for uncovering truth and enhancing reconciliation are embraced as an essential part of the ongoing process of truth determination, dispute resolution, and reconciliation. No dialogue about reconciliation can be undertaken without mutual respect as shown through protocols and ceremony. Just as the mace, for example, is essential to a session of Parliament, the presence of the pipe for some Tribes would be necessary to a formal process of reconciliation.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 40 · Truth & Reconciliation Commission
 Endnotes
 1. In this context, the Commission defines a "visit" as one person attending one day of one National Event. The Commission made daily attendance estimates of its National Events but did not attempt to track those individuals who attended more than one day of any single National Event.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 260 · Truth & Reconciliation Commission
 the immense damages from colonialism. As Chief Doug S. White III (Kwulasultun) puts it ... "Indigenous law is the great project of Canada and it is the essential work of our time. It is not for the faint of heart, it is hard work. We need to create meaningful opportunities for Indigenous and non-Indigenous people to critically engage in this work because all our futures depend on it."51
 Call to Action:

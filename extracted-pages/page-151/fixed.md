@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 145
 174. TRC, NRA, DIAND, file 1/25-13, volume 13, R. F. Battle to Deputy Minister, 2 February 1968; [AEMR-014646] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, 1/25-13, 01/68­07/68, volume 13, R. F. Davey to Regional Superintendent of Schools, 13 June 1968. [LOW-016591]
 175. Canada, Annual Report of the Department of Indian Affairs, 1969­1970, 128. 176. TRC, NRA, DIAND HQ, file 1/25-13-2, volume 2, 06/1968­03/1969, J. A. MacDonald to J.

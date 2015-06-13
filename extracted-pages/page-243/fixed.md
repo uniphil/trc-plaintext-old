@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation
 Setting the context
 Canada has a long history of colonialism in relation to Aboriginal peoples. That history and its policies of cultural genocide and assimilation have left deep scars on the lives of many Aboriginal people, on Aboriginal communities, as well as on Canadian society, and have deeply damaged the relationship between Aboriginal and non-Aboriginal peoples. It took a long time for that damage to have been done and for the relationship we see to have been created, and it will take us a long time to fix it. But the process has already begun.

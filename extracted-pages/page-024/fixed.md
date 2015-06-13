@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 18 · Truth & Reconciliation Commission
 Aboriginal and non-Aboriginal Canadians, from an Aboriginal perspective, also requires reconciliation with the natural world. If human beings resolve problems between themselves but continue to destroy the natural world, then reconciliation remains incomplete. This is a perspective that we as Commissioners have repeatedly heard: that reconciliation will never occur unless we are also reconciled with the earth. Mi'kmaq and other Indigenous laws stress that humans must journey through life in conversation and negotiation with all creation. Reciprocity and mutual respect help sustain our survival. It is this kind of healing and survival that is needed in moving forward from the residential school experience.
 Over the course of its work, the Commission created space for exploring the meanings and concepts of reconciliation. In public Sharing Circles at National Events and Community Hearings, we bore witness to powerful moments of truth sharing and humbling acts of reconciliation. Many Survivors had never been able to tell their own families the whole truth of what happened to them in the schools. At hearings in Regina, Saskatchewan, Elder Kirby Littletent said, "I never told, I just told my children, my grandchildren I went to boarding school, that's all. I never shared my experiences."48

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 62 · Truth & Reconciliation Commission
 Funding: The dream of self-supporting schools
 In announcing the construction of the three initial industrial schools, Indian Commissioner Edgar Dewdney said that although the starting costs would be high, he could see no reason why the schools would not be largely self-supporting in a few years, due to the skills in farming, raising stock, and trades that were being taught to the students.119 In supporting an Anglican proposal for two industrial schools in Manitoba, Indian Affairs Deputy Minister Lawrence Vankoughnet wrote to Prime Minister Macdonald that it would be "well to give a Grant of money annually to each school established by any Denomination for the industrial training of Indian children." He said that system worked well in Ontario, and it "costs the Government less than the whole maintenance of the School would cost and it enlists the sympathies and assistance of the religious denominations in the education and industrial training of the Indian children."120

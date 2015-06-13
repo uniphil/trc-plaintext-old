@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 318 · Truth & Reconciliation Commission
 to restore those connections. They believe that reconciliation with other Canadians calls for changing the country's collective, national history so that it is based on the truth about what happened to them as children, and to their families, communities, and nations.
 Public memory is important. It is especially important to recognize that the transmission of that collective memory from generation to generation of First Nations, Inuit, and Métis individuals, families, and communities was impaired by the actions of those who ran residential schools.

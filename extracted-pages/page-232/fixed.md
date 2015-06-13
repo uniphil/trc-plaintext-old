@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 226 · Truth & Reconciliation Commission
 victimized by violent crime in 2009.163 In the same year, one in ten Aboriginal people reported being a victim of a non-spousal violent crime, more than double the rate reported by non-Aboriginal people.
 It is difficult to obtain accurate information about the rate of victimization in Aboriginal communities. According to some studies, less than one-third of victims of crime report their victimization to police, and police forces across the country do not have a consistent method for recording the Aboriginal identity of victims.164 Statistics Canada does not provide the kinds of supports necessary to permit some Aboriginal victims to comfortably disclose their experience to researchers. The most recent Statistics Canada data on homicide and family violence fail to report how many victims were Aboriginal, although older data suggest the homicide victimization rate of Aboriginal people between 1997 and 2000 was seven times that of non-Aboriginal people.165

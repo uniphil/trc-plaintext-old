@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 84 · Truth & Reconciliation Commission
 Inuit students at the Joseph Bernier School, Chesterfield Inlet, 1956. Diocese of Churchill-Hudson Bay.
 the strict enforcement of prohibitions against speaking Aboriginal languages. In his opinion, "The forbidding of children to speak Indian, even during recreation, was so strict in some of our schools that any lapse would be severely punished--to the point that children were led to consider it a serious offense."270

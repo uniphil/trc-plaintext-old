@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 242 · Truth & Reconciliation Commission
 treatment of Aboriginal peoples in these other countries has strong parallels to what happened to Aboriginal peoples in Canada. Specifically, Canada objected to the Declaration's
 provisions dealing with lands, territories and resources; free, prior and informed consent when used as a veto; self-government without recognition of the importance of negotiations; intellectual property; military issues; and the need to achieve an appropriate balance between the rights and obligations of Indigenous peoples, member States and third parties.10

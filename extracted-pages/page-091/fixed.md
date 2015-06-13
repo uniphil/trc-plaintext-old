@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 85
 hear them. "When we'd go up in the dormitories in the evening I had a friend from Sarnia who I could talk with."276
 Many of the students came to the school fluent in an Aboriginal language, with little or no understanding of French or English. This trend continued well into the post-war period. For these children, the first few months in the school were disorienting and frightening. Arthur McKay arrived at the Sandy Bay, Manitoba, school in the early 1940s with no knowledge of English. "They told me not to speak my language and everything, so I always pretended to be asleep at my desk so they wouldn't ask me anything."277 Peter Nakogee recalled being punished for writing in his notebook in Cree syllabics at the Fort Albany, Ontario, school.278

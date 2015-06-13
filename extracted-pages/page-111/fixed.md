@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 105
 and chocolates from a staff member, he had the suspects thrashed with a seven-thonged strap and then placed on bread-and-water diets.405
 Some schools had a specific room set aside to serve as a "punishment room."406 After a 1907 inspection of the Mohawk Institute in Brantford, the Ontario inspector for Indian agencies, J. G. Ramsden, reported, "I cannot say that I was favourably impressed with the sight of two prison cells in the boys [sic] play house. I was informed, however, that these were for pupils who ran away from the institution, confinement being for a week at a time when pupils returned."407 In 1914, a father successfully sued the Mohawk Institute principal for locking his daughter in a cell for three days on what was described as a "water diet."408

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 · 229
 Endnotes
 1. TRC, AVS, Johanne Coutu-Autut, Statement to the Truth and Reconciliation Commission of Canada, Rankin Inlet, Nunavut, 21 March 2011, Statement Number: 2011- 0160.

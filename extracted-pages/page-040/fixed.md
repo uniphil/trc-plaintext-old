@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 34 · Truth & Reconciliation Commission
 Concert showcasing local Aboriginal talent, Atlantic National Event, Halifax, 2011.
 As much as possible, the observances followed the cultural protocols, customs, and traditions of the Aboriginal peoples in whose territories the Commission was a guest. Similar ceremonies were held at Regional and Community Events.

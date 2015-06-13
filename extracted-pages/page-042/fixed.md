@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 36 · Truth & Reconciliation Commission
 special event called Witnessing the Future at Rideau Hall in Ottawa on October 15, 2009. In the following years, the current governor general of Canada, His Excellency the Right Honourable David Johnston; two former prime ministers, the Right Honourable Joe Clark and the Right Honourable Paul Martin; two former national Aboriginal leaders, Chief Phil Fontaine of the Assembly of First Nations and former Ambassador Mary Simon, Past President of Inuit Tapiriit Kanatami; and a host of other distinguished individuals have all agreed to serve as Honorary Witnesses.
 The Commission also invited Canadians to make expressions of reconciliation at its National and Regional Events. The Commission received more than 180 expressions from individuals, organizations, and the parties to the Settlement Agreement who wished to publicly state their commitment to the journey of healing and reconciliation and speak to the ways in which they are contributing to that journey. Documents and items related to each expression of reconciliation were placed in ceremony in the beautiful Bentwood Box created by Coast Salish carver Luke Marston. The box will become part of the permanent legacy of the trc housed in the National Centre for Truth and Reconciliation.

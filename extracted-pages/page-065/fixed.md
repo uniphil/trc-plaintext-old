@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 59
 Aboriginal policy. Dennis advised Macdonald that the long-term goal should be to instruct "our Indian and half-breed populations" in farming, raising cattle, and the mechanical trades, rendering them self-sufficient. This would pave the way "for their emancipation from tribal government, and for their final absorption into the general community." Dennis argued that residential schools were key to fulfilling these goals. It was his opinion that in a short time, schools might become "self-sustaining institutions."108
 In the following year, Nicholas Davin, a failed Conservative candidate, carried out a brief study of the boarding schools that the United States government had established for Native Americans. He recommended that Canada establish a series of such schools on the Prairies. Davin acknowledged that a central element of the education provided at these schools would be directed towards the destruction of Aboriginal spirituality. Since all civilizations were based on religion, it would be inexcusable, he thought, to do away with Aboriginal faith "without supplying a better [one]." For this reason, he recommended that while the government should fund the schools, the churches should operate them.109

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy
 I want Canadians to understand that [the legacy of the residential schools] does not just affect the lives of the person who actually attended the school, but family members, such as spouses and children, are also very deeply affected about this sad legacy in history.
 -- Johanne Coutu-Autut, spouse of former Turquetil Hall resident1

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 241
 to be unilateral and divisive, and Aboriginal peoples continue to resist such actions. Negotiations on Treaties and land-claims agreements continue with a view to reconciling Aboriginal title and rights with Crown sovereignty. However, many cases remain unresolved. The courts have produced a body of law on reconciliation in relation to Aboriginal rights, which has established some parameters for discussion and negotiations, but there remains no ongoing national process or entity to guide that discussion. What is clear to this Commission is that Aboriginal peoples and the Crown have very different and conflicting views on what reconciliation is and how it is best achieved. The Government of Canada appears to believe that reconciliation entails Aboriginal peoples' acceptance of the reality and validity of Crown sovereignty and parliamentary supremacy, in order to allow the government to get on with business. Aboriginal people, on the other hand, see reconciliation as an opportunity to affirm their own sovereignty and return to the `partnership' ambitions they held after Confederation.
 The United Nations Declaration on the Rights of Indigenous Peoples as a framework for reconciliation

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 297
 Role of Canada's museums and archives in education for reconciliation
 Museums and archives, as sites of public memory and national history, have a key role to play in national reconciliation. As publicly funded institutions, museums and archives in settler colonial states such as Canada, New Zealand, Australia, and the United States have interpreted the past in ways that have excluded or marginalized Aboriginal peoples' cultural perspectives and historical experience. Museums have traditionally been thought of as places where a nation's history is presented in neutral, objective terms. Yet, as history that had formerly been silenced was revealed, it became evident that Canada's museums had told only part of the story.130 In a similar vein, archives have been part of the "architecture of imperialism"--institutions that held the historical documents of the state.131 As Canada confronts its settler colonial past, museums and archives have been gradually transforming from institutions of colony and empire into more inclusive institutions that better reflect the full richness of Canadian history.

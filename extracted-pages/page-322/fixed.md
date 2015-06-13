@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 316 · Truth & Reconciliation Commission
 The University of Manitoba and its partners173 have emphasized that the centre recognizes the
 paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the irs records, through co-curation and participatory archiving; and committed to continuing the work of the trc of statement-gathering, public education, engagement and outreach.174

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 275
 Call to Action
 58) We call upon the Pope to issue an apology to Survivors, their families, and communities for the Roman Catholic Church's role in the spiritual, cultural, emotional, physical, and sexual abuse of First Nations, Inuit, and Métis children in Catholic-run residential schools. We call for that apology to be similar to the 2010 apology issued to Irish victims of abuse and to occur within one year of the issuing of this Report and to be delivered by the Pope in Canada.

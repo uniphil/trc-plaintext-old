@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 244 · Truth & Reconciliation Commission
 all aspects of the relationship between Aboriginal and non-Aboriginal Canadians, and to set the standard for international achievement in its circle of hesitating nations.
 Aboriginal peoples' right to self-determination must be integrated into Canada's constitutional and legal framework and civic institutions, in a manner consistent with the principles, norms, and standards of the Declaration. Aboriginal peoples in Canada have Aboriginal and Treaty rights. They have the right to access and revitalize their own laws and governance systems within their own communities and in their dealings with governments. They have a right to protect and revitalize their cultures, languages, and ways of life. They have the right to reparations for historical harms.

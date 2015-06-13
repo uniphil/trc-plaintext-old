@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 296 · Truth & Reconciliation Commission
 in Saskatchewan.127 Some of the youth also presented this documentary to international policymakers at the United Nations Permanent Forum on Indigenous Issues in 2012.128
 The Commission's interactions with youth indicated that young people care deeply about the past. They understand that knowing the whole story about Canada's history is relevant for today and crucial for their future. This was evident, for example, in an expression of reconciliation made to the trc at the Alberta National Event on March 27, 2014, by a group of Aboriginal and non-Aboriginal youth from the Centre for Global Education in Edmonton. One of the non-Aboriginal youth, Hanshi Liu, told us about the project. First, the group--made up of youth from First Nations reserves, the rural communities of High Prairie and Fort MacLeod, and the city of Edmonton--spent a month studying and talking about residential schools and their shared history. They then held a virtual town hall where over 300 students talked about their vision for reconciliation.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 13
 Another descendant of Survivors, Daniel Elliot, told the Commission,
 I think all Canadians need to stop and take a look and not look away. Yeah, it's embarrassing, yeah, it's an ugly part of our history. We don't want to know about it. What I want to see from the Commission is to rewrite the history books so that other generations will understand and not go through the same thing that we're going through now, like it never happened.36

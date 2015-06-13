@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 176 · Truth & Reconciliation Commission
 579. TRC, AVS, Mel H. Buffalo, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.
 580. Canada, Annual Report of the Department of Indian Affairs, 1907, 189. 581. United Church of Canada Archives, Toronto, Archive accession information: Fonds,

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 107
 The failure to develop, implement, and monitor effective discipline sent an unspoken message that there were no real limits on what could be done to Aboriginal children within the walls of a residential school. The door had been opened early to an appalling level of physical and sexual abuse of students, and it remained open throughout the existence of the system.
 Abuse: "And he did awful things to me."

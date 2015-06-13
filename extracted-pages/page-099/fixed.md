@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 93
 the previous year, but not to name them.350 It was not until 1935 that Indian Affairs adopted a formal policy on how deaths at the schools were to be reported and investigated.351
 There can be no certainty that all deaths were, in fact, reported to Indian Affairs--the Truth and Reconciliation Commission of Canada has located reports of student deaths in church records that are not reported in government documents.352 In some cases, school officials appear not to have recognized a responsibility to report student deaths to provincial vital statistics officials, meaning that these records may also be deficient.353

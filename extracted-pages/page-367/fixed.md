@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 361
 continue to see today.... It's a very toxic legacy.... One of the truths about Canada is that it was created as a white man's country and this term was used over and over again.... Twenty years ago, I became a Canadian citizen and one of the things that wasn't made clear to me ... was that when we took that oath [of allegiance] we would become party to the Treaties that were signed.... We were given this very uplifting lecture on the rights of Canadian citizenship but what was excluded was [information] on our responsibility and obligations ... as now being parties to these Treaties.297
 Winnie Ng said,

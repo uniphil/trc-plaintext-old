@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 90 · Truth & Reconciliation Commission
 Students working in the kitchen at the Cross Lake, Manitoba, school in the early 1920s. St. Boniface Historical Society Archives; Roman Catholic Archbishop of Keewatin-The Pas Fonds; N1826.
 producing satisfactorily, the students did not always get the full benefit. Often, the milk was separated, with the skimmed milk served to the children.326 The milk fat was turned to butter and cream, which was frequently sold to raise funds for the schools. Inspector W. Murison noted in 1925 that the cows at the Elkhorn, Manitoba, school were producing enough milk for the school, but the students were not getting "the full benefit of this milk as I found that they were making about 30 lbs. of butter a week, and a great deal of the milk given the children is separated milk, which has not much food value."327

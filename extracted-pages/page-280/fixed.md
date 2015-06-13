@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 274 · Truth & Reconciliation Commission
 schools, and has permitted many Catholic nuns and priests to maintain that the allegations against their colleagues are false. A statement of regret that children were harmed in the schools is a far cry from a full and proper apology that takes responsibility for the harms that occurred.
 The Commission notes that in 2010, Pope Benedict XVI responded to the issue of the abuse of children in Ireland differently and more clearly when he issued a pastoral letter, a public statement that was distributed through the churches to all Catholics in Ireland. He acknowledged that the church had failed to address the issue of child abuse in Catholic institutions. He said:

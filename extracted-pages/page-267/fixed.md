@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 261
 Speaking at the British Columbia National Event, Honorary Witness and former lieutenant governor of British Columbia, the Honourable Steven Point, said:
 We got here to this place, to this time, because Aboriginal Survivors brought this [residential schools] to the Supreme Court of Canada. The churches and the governments didn't come one day and say, "Hey, you know, we did something wrong and we're sorry. Can you forgive us?" Elders had to bring this matter to the Supreme Court of Canada. It's very like the situation we have with Aboriginal rights, where nation after nation continues to seek the recognition of their Aboriginal title to their own homelands.54

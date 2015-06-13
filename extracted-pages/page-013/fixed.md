@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 7
 Survivors' Sharing Circle at Truth and Reconciliation Commission Manitoba National Event, June 2010.
 a twenty-first-century global world. At stake is Canada's place as a prosperous, just, and inclusive democracy within that global world. At the trc's first National Event in Winnipeg, Manitoba, in 2010, residential school Survivor Alma Mann Scott said,

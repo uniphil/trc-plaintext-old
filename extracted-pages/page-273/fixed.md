@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 267
 the Interior's Office of the Solicitor made public its legal opinions on a range of issues affecting Native Americans, but also these are now widely available online.63
 Call to Action

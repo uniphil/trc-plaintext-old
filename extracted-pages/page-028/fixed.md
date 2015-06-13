@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 22 · Truth & Reconciliation Commission
 Endnotes
 1. For coercion, see: Ray, Illustrated History, 151­152. For fraud, see: Upton, "Origins of Canadian Indian Policy," 56. For failure to implement Treaties, see: Sprague, Canada's Treaties with Aboriginal People, 13. For taking land without Treaty, see Fisher, Contact and Conflict.

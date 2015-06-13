@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 207
 The children in residential schools were powerless to take healing measures. They were denied access to traditional foods and to families, traditional healers, and communities who could have helped them, according to Aboriginal ways, to deal with the physical, mental, emotional, and spiritual elements of ill health. Because of the isolated location of many of the schools, students were also often denied access to `Western' doctors and nurses. This double denial of health care, based in government policy, continues to this day, due to the relative isolation of many Aboriginal communities, many of which have no road access, and limited access to local health resources.
 Health care is a right enshrined in international and constitutional law as well as in Treaties. The United Nations Declaration on the Rights of Indigenous Peoples recognizes that Indigenous peoples have the right to physical and mental integrity, as well as the right to equal enjoyment of the highest attainable standard of physical and mental health. In taking measures to achieve these goals, states are obligated to pay particular attention to the rights and special needs of Elders, women, youth, children, and persons with disabilities.101 Indigenous peoples have the right to be actively involved in developing, determining, and administering health programs that affect them.102 Indigenous peoples also have the right to traditional medicines and to maintain their traditional health practices.103

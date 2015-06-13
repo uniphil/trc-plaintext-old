@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 346 · Truth & Reconciliation Commission
 People ask me, "Why don't you just enjoy life now instead of working so hard on reconciliation and talking about residential schools? What do you expect to achieve?" The answer is "freedom." I am free.257
 Later that same day, journalist Laura Robinson's expression of reconciliation was a copy of the documentary FrontRunners, which she produced for aptn, about some residential school athletes who had made history. She said,

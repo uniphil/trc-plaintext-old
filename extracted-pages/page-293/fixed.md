@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 287
 themselves, as though there were no external causes. Aboriginal peoples have therefore been characterized as a social and economic problem that must be solved.
 By the 1990s, textbooks emphasized the role of Aboriginal peoples as protestors, advocating for rights. Most Canadians failed to understand or appreciate the significance of these rights, given the overriding perspective of Aboriginal assimilation in Canada's education system.

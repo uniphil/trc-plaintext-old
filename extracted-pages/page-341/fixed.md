@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 335
 Working under the direction of these community members, and in collaboration with her colleague, Qwul'sih'yah'maht (Dr. Robina Thomas), and trc staff, Walsh began preparations to bring the artwork to the Learning Place at the trc's Victoria Regional Event in April 2012. In a powerfully moving ceremony, Nuu-chah-nulth Elders, Survivors, and Hereditary Chiefs drummed, sang, and danced the art into the Learning Place. In this way, each painting, carried with respect and love by a Nuu-chah-nulth woman dressed in button blanket regalia, was brought out to be shared with others.
 The community later received commemoration project funding to hold a traditional feast on March 30, 2013, in Port Alberni to reunite artists and their families with the paintings. Robert Aller's family members were also invited to attend. They were visibly moved when they heard the stories of the paintings, and said that Aller would have been happy that the paintings were being returned. Paintings were returned to those who wished to have them; the remaining art was loaned to the University of Victoria, where it will be housed, cared for, and exhibited, based on agreed-upon protocols with Survivors and their families.219

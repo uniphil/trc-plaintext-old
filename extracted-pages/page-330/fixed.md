@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 324 · Truth & Reconciliation Commission
 And from my English ancestors, I apologize today for what my people did to you. I taught in two residential schools. In 1954, I taught in Norway House United Church Residential School for three or four years, and then I taught in the Alberni United Church Indian Residential School in bc. I worked very hard to be the best teacher I could be, and I did not know about the violence and cruelty going on in the dormitories and in the playrooms. But I have found out through one of my former students, who was five years old when he came to Norway House, his name is Edward Gamblin, and Edward Gamblin and I have gone through a personal truth and reconciliation.196
 In a media interview afterwards, Ms Kaefer said that she contacted Mr. Gamblin after

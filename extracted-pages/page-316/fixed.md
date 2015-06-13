@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 310 · Truth & Reconciliation Commission
 Call to Action
 71) We call upon all chief coroners and provincial vital statistics agencies that have not provided to the Truth and Reconciliation Commission of Canada their records on the deaths of Aboriginal children in the care of residential school authorities to make these documents available to the National Centre for Truth and Reconciliation.

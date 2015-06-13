@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Commission activities · 37
 Commission issued two separate calls for commemoration project proposals. The maximum funding award for a project advanced by a single group was $50,000. Up to ten communities could collaborate on a submission for a maximum contribution of $500,000, and a commemoration project of national scope was eligible for a contribution of up to $2 million. The Commission recommended 152 projects to the federal Department of Aboriginal Affairs and Northern Development for funding, and 143 projects were approved.11
 It is important to note that the Commission's work inspired others to undertake commemorative projects using their own resources. One example is the Government of Canada's decision to memorialize the legacy of Indian residential schools through the permanent installation of a stained-glass window in the Centre Block of Parliament Hill. The design selected for the window was created by Aboriginal artist Christi Belcourt and is entitled Giniigaaniimenaaning or Looking Ahead.

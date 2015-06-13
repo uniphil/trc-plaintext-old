@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 255
 Revitalizing Indigenous law: Truth, reconciliation, and access to justice
 Until recently, Canadian law was used by Canada to suppress truth and deter reconciliation. Parliament's creation of assimilative laws and regulations facilitated the oppression of Aboriginal cultures and enabled the residential school system. In addition, Canada's laws and associated legal principles fostered an atmosphere of secrecy and concealment. When children were abused in residential schools, the law, and the ways in which it was enforced (or not), became a shield behind which churches, governments, and individuals could hide to avoid the consequences of horrific truths. Decisions not to charge or prosecute abusers allowed people to escape the harmful consequences of their actions. In addition, the right of Aboriginal communities and leaders to function in accordance with their own customs, traditions, laws, and cultures was taken away by law. Those who continued to act in accordance with those cultures could be, and were, prosecuted. Aboriginal people came to see law as a tool of government oppression.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 302 · Truth & Reconciliation Commission
 discourse about the past through a reconciliation lens would open up new and exciting possibilities for a future in which Aboriginal peoples take their rightful place in Canada's history as founding nations who have strong and unique contributions to make to this country.
 In the Commission's view, there is an urgent need in Canada to develop historically literate citizens who understand why and how the past is relevant to their own lives and the future of the country. Museums have an ethical responsibility to foster national reconciliation, and not simply tell one party's version of the past. This can be accomplished by representing the history of residential schools and of Aboriginal peoples in ways that invite multiple, sometimes conflicting, perspectives, yet ultimately facilitate empathy, mutual respect, and a desire for reconciliation that is rooted in justice.

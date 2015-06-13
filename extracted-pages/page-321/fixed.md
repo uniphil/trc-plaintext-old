@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 315
 to their own history and to Canada's national memory. In March 2011, the trc hosted an international forum in Vancouver, "Sharing Truth: Creating a National Research Centre on Residential Schools," to study how records and other materials from truth and reconciliation commissions around the world have been archived.170 Several speakers talked about their vision for the nctr. Georges Erasmus, former co-chair of the Royal Commission on Aboriginal Peoples, and then president of the Aboriginal Healing Foundation, said,
 Those who become the keepers of the archives become stewards of human stories and relationships, of what has been an endowment to what will be. Because no legacy is enriched by counterfeit; a nation is ill served by a history which is not genuine. This is a high calling indeed and it must be said that too often the promise and the potential of this stewardship has gone unrealized.... If the stories of our people are not accessible to the general public, it will be as if their experiences never occurred. And if their voices are rendered as museum pieces, it will be as if their experience is frozen in time. What we need are open, dynamic, interactive spaces and participatory forms of narrative, knowledge, and research. This would be a fitting way to step into the twenty-first century and into a new kind of relationship.... The National Research Centre ought to be a treasure valued by all sorts of people.171

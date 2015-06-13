@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 220 · Truth & Reconciliation Commission
 schools or other background or contextual factors that help explain why an Aboriginal offender is before the courts.139
 Even if excellent Gladue reports were prepared from coast to coast, they would still fail to make a difference in the amount of Aboriginal overrepresentation in the prison system without the addition of realistic alternatives to imprisonment, including adequate resources for intensive community programs that can respond to the conditions that caused Aboriginal offending.

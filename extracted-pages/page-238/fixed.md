@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 232 · Truth & Reconciliation Commission
 67. Hodgson-Smith, State of Métis Nation Learning, 4, 26, http://www.ccl-cca.ca/pdfs/AbLKC/StateOfMetisNationLearning.pdf.
 68. Hodgson-Smith, State of Métis Nation Learning, 4, 17, 82, http://www.ccl-cca.ca/pdfs/AbLKC/ StateOfMetisNationLearning.pdf.

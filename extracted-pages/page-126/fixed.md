@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 120 · Truth & Reconciliation Commission
 Boys cutting wood at the Williams Lake, British Columbia, school in either the late nineteenth or early twentieth century. In February 1902 Duncan Sticks froze to death after running away from the school. Museum of the Cariboo Chilcotin.
 informing police or Indian Affairs.549 The boys were never found--community members continued to search for their remains decades after their disappearance.550

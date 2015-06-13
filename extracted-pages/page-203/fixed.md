@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 197
 providing a better basis for success. Albert Marshall, a former student of the Shubenacadie residential school in Nova Scotia, made this point forcefully to the Commission.
 The current education system has been designed to completely eradicate who I am and to kill that Indian Mi'kmaq spirit that's in me. But I do know I need knowledge and I need education. But the kind of education I need has to be reflective of who I am as a Mi'kmaq. And that knowledge that I get, that I will receive, I have a responsibility with that knowledge to pass it down so others will benefit from it.... The kind of legacy that I want to leave my children in the future generations is one of which they will be able to excel, they will be able to compete without having to worry about is the education system going to further eradicate their selves.65

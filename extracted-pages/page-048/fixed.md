@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 42 · Truth & Reconciliation Commission
 and they would start to cry as well. "That train I want to call that train of tears."3 Florence Horassi was taken to the Fort Providence, Northwest Territories, school in a small airplane. On its way to the school, the plane stopped at a number of small communities to pick up students. "When the plane took off, there's about six or five older ones, didn't cry, but I saw tears come right out of their eyes. Everybody else was crying. There's a whole plane crying. I wanted to cry, too, 'cause my brother was crying, but I held my tears back and held him."4
 The arrival at school was often even more traumatizing than the departure from home or the journey. Lily Bruce's parents were in tears when they left her and her brother at the Alert Bay, British Columbia, school.5 At Fort Chipewyan in northern Alberta, Vitaline Elsie Jenner fought to stay with her mother. "I was screaming and hollering. And in my language I said, `Mama, Mama, kâya nakasin' and in English it was, `Mom, Mom, don't leave me.' 'Cause that's all I knew was to speak Cree. And so the nun took us."6

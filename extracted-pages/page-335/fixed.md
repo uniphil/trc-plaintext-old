@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 329
 The arts: Practising resistance, healing, and reconciliation
 The reconciliation process is not easy. It asks those who have been harmed to revisit painful memories and those who have harmed others--either directly or indirectly--to be accountable for past wrongs. It asks us to mourn and commemorate the terrible loss of people, cultures, and languages, even as we celebrate their survival and revitalization. It asks us to envision a more just and inclusive future, even as we struggle with the living legacies of injustice. As the trc has experienced in every region of the country, creative expression can play a vital role in this national reconciliation, providing alternative voices, vehicles, and venues for expressing historical truths and present hopes. Creative expression supports everyday practices of resistance, healing, and commemoration at individual, community, regional, and national levels.

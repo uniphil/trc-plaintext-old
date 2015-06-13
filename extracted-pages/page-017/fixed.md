@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 11
 Truth and Reconciliation Commission Traditional Knowledge Keepers Forum, June 2014. University of Manitoba, Adam Dolman.
 the horrible things that happened, and that a whole lot of people now recognize that the crime happened and that we need to make amends for it."29

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 150 · Truth & Reconciliation Commission
 243. TRC, AVS, Madeleine Dion Stout, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-059.
 244. TRC, NRA, Library and Archives Canada, RG10, volume 6191, file 462-1, part 1, Russell T. Ferrier to George Prewer, 8 February 1922. [CRS-001015]

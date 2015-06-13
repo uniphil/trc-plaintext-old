@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 342 · Truth & Reconciliation Commission
 Aboriginal programming and dedicated news coverage on Aboriginal issues, and to increase the number of Aboriginal people in staff and leadership positions. As of March 31, 2014, Aboriginal people made up 1.6% of the cbc workforce, well below the demographic makeup of Aboriginal people, who represent 4.3% of the total Canadian population.243
 The Aboriginal Peoples Television Network (aptn), an independent, non-profit broadcaster, has taken a leadership role since the 1990s, in part to make up for the programming and scheduling limitations of cbc/Radio-Canada, to provide nationwide programming and news that reflects Aboriginal peoples' perspectives, concerns, and experiences. The aptn has provided an outlet for Aboriginal journalists, producers, directors, writers, artists, and musicians, and attracts a wide Aboriginal and non-Aboriginal Canadian and international audience.244 As of 2014, over 75% of aptn employees were Aboriginal, and 28% of its programming was broadcast in various Aboriginal languages.245 In the Commission's view, the aptn is well positioned to provide media leadership to support the reconciliation process.

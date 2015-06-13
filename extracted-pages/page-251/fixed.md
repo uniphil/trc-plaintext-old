@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 245
 Doctrine of Discovery
 Earlier in this report, we recalled how European states relied on the Doctrine of Discovery and the concept of terra nullius (lands belonging to no one) to justify empire building and the colonization of Aboriginal peoples and their lands in North America and across the globe. Far from being ancient history with no relevance for reconciliation today, the Doctrine of Discovery underlies the legal basis on which British Crown officials claimed sovereignty over Indigenous peoples and justified the extinguishment of their inherent rights to their territories, lands, and resources.

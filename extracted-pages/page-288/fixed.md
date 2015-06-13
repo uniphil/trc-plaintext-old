@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 282 · Truth & Reconciliation Commission
 your spirituality and ours is possible through listening and learning with open hearts.92
 Unlike the Protestant churches, in which theological reflection and institutional reform have been undertaken at the national level, the Roman Catholic Church in Canada's approach to Indigenous spirituality has emphasized decision making at the local diocesan level. However, in a submission to the Royal Commission on Aboriginal Peoples in 1993, the Canadian Conference of Catholic Bishops expressed its views on Indigenous spirituality:

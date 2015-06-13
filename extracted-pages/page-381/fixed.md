@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 375
 167. United Church of Canada, Residential School Archive Project, "The Children Remembered," http://thechildrenremembered.ca/about/ (accessed 15 April 2015).
 168. Ian Wilson makes this point. See: Wilson, "Peace, Order and Good Government," 238. 169. This is based on the concept and philosophy of "sites of conscience," as described by the Interna-

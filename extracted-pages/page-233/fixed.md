@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 227
 A lot of other girls my age were [in Blue Quills], but I only know of one that survived, all the rest are dead today. Some died on the street. Some died prostituting. Others into alcoholism got run over by vehicles. But their children are still alive today.... I can't to this day wear a dress because of all the things that happened in the school. It was like a sanctuary for pedophiles I would call it, that's probably why I blocked out so much of my life is because of that.167
 The most disturbing aspect of this victimization is the extraordinary number of Aboriginal women who have been murdered or are reported as missing. A report by the rcmp, released in 2014, found that between 1980 and 2012, 1,017 Aboriginal women and girls were killed and 164 were missing. Two hundred and twenty-five of these cases remain unsolved.168

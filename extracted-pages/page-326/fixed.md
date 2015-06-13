@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 320 · Truth & Reconciliation Commission
 and because they connect people, preparing them to listen respectfully to each other in a difficult dialogue. Ceremonies are an affirmation of human dignity; they feed our spirits and comfort us even as they call on us to reimagine or envision finding common ground. Ceremonies validate and legitimize Treaties, family and kinship lines, and connections to the land. Ceremonies are also acts of memory sharing, mourning, healing, and renewal; they express the collective memory of families, communities, and nations.
 Ceremonies enable us to set aside, however briefly, our cynicism, doubts, and disbelief, even as they console us, educate us, and inspire hope.185 They have an intangible quality that moves us from our heads to our hearts. They teach us about ourselves, our histories, and our lives. Ceremony and ritual have played an important role in various conflict and peace-building settings across the globe, including North America, where Indigenous nations have their own long histories of diplomacy and peacemaking. Ceremonial rituals have three functions in the peacemaking process. First, they create a safe space for people to interact and learn as they take part in the ceremony. Second, they enable people to communicate non-verbally and process their emotions. Third, ceremonies create an environment where change is made possible; world views, identities, and relationships with others are transformed.186

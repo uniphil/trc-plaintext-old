@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 5
 The goal of residential schooling was to separate children from their families, culture, and identity. Saskatchewan Archives Board, R-A2690.
 beliefs."15 United Church official George Dorey told the same committee that he questioned whether there was such a thing as "native religion."16

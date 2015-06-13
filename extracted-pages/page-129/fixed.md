@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 123
 Staff outside the entrance of the Brandon, Manitoba, school in 1946. National Film Board of Canada. Photothèque, Library and Archives Canada, PA-048575.
 The staff: "My aim was to do something good."

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 23
 Ken S. Coates, "Aboriginal Women Deserve Much More than an Inquiry," National Post, 16 February 2015, http://news.nationalpost.com/2015/02/16/ken-s-coates-aboriginal-women-deservemuch-more-than-an-inquiry/.
 On economic development issues, see, for example: Jeff Lewis, "TransCanada CEO Says Canada Needs to Resolve Conflicts over Pipelines," Globe and Mail, 4 February 2015, http://www.theglobeandmail.com/report-on-business/economy/transcanada-ceo-says-canada-needs-to-resolve-conflicts-over-pipelines/article22798276/; Daniel Schwartz and Mark Gollom, "NB Fracking Protests and the Fight for Aboriginal Rights," CBC News Canada, 19 October 2013, http://www.cbc.ca/ news/canada/n-b-fracking-protests-and-the-fight-for-aboriginal-rights-1.2126515; Michael MacDonald, "Shale Gas Conflict in New Brunswick Underscores Historical Grievances, Rights of First Nations," Toronto Star, 25 December 2013, http://www.thestar.com/news/canada/2013/12/25/ shale_gas_conflict_in_new_brunswick_underscores_historic_grievances_rights_of_first_nations. html. 23. On the role of the courts in Aboriginal rights and reconciliation, see: Joseph Brean, "`Reconciliation' with First Nations, Not the Charter of Rights & Freedoms, Will Define the Supreme Court in Coming years, Chief Justice Says," National Post, 13 March 2014, http://news.nationalpost. com/2014/03/13/reconciliation-with-first-nations-not-the-charter-of-rights-freedoms-will-define-the-supreme-court-in-coming-years-chief-justice-says/.

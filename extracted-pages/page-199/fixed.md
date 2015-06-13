@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 193
 actually wear shoes, we wore moccasins. And so our identity was immediately taken away when we entered those schools.37
 In addition to the emotional and psychological damage they inflicted, one of the most far-reaching and devastating legacies of residential schools has been their impact on the educational and economic success of Aboriginal people. The lack of role models and mentors, insufficient funds for the schools, inadequate teachers, and unsuitable curricula generally taught in a foreign language--and sometimes by teachers who were also not proficient in the language of instruction--have all contributed to dismal success rates for Aboriginal education. These conditions were compounded for many students by the challenges of trying to learn in environments rendered traumatic by homesickness, hunger, fear, abuse, and institutionalized helplessness. The Commission has heard many examples of students who attended residential school for eight or more years, but left with nothing more than Grade Three achievement, and sometimes without even the ability to read. According to Indian Affairs annual reports, in the 1950s, only half of each year's enrolment got to Grade Six.38

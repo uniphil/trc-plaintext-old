@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 151
 262. TRC, NRA, Library and Archives Canada, RG10, volume 6452, file 884-1, part 1, Microfilm reel 8773, "Rules and Regulations, Kootenay Industrial School." [AEMR-011621A]
 263. Library and Archives Canada, RG10, volume 3836, file 68557, H. Reed, Suggestions for the Government of Indian schools, 27 January 1890.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 234 · Truth & Reconciliation Commission
 120. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 27, 32, 45. [RCMP-564517]
 121. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 40. [RCMP-564517]

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 271
 iii. The educational and income attainments of Aboriginal peoples in Canada compared with non-Aboriginal people.
 iv. Progress on closing the gaps between Aboriginal and non-Aboriginal communities in a number of health indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.

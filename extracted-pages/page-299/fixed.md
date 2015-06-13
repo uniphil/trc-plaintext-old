@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 293
 and resiliency of First Nations people and communities provides hope for healing and reconciliation over the next seven generations.118
 In 2012, a digital storytelling project was undertaken by Aboriginal women at the Prairie Women's Health Centre of Excellence: "Nitâpwewininân: Ongoing Effects of Residential Schools on Aboriginal Women--Towards Inter-Generational Reconciliation." Using ceremony and protocols throughout the project, the first workshop began with a pipe ceremony, followed by a Sharing Circle in which participants talked about their lives and the group discussed their individual and collective needs for support. They later moved on to making videos of their individual stories, which were screened in March 2012 at the University of Winnipeg.119 One of the participants, Lorena Fontaine, said,

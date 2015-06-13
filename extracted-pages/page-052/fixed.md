@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 46 · Truth & Reconciliation Commission
 the target, the victim. You know, you weren't going to have to suffer any form of humiliation."30 Shirley Waskewitch said that in Kindergarten at the Catholic school in Onion Lake, Saskatchewan, "I learned the fear, how to be so fearful at six years old. It was instilled in me."31
 At the Fort Alexander, Manitoba, school, Patrick Bruyere used to cry himself to sleep. "There was, you know, a few nights I remember that I just, you know, cried myself to sleep, I guess, because of, you know, wanting to see my mom and dad."32 Ernest Barkman, who attended the Pine Creek school, recalled, "I was really lonely and I cried a lot, my brother who was with me said I cried a lot."33 Paul Dixon, who attended schools in Québec and Ontario, said that at night, children tried to weep silently. "If one child was caught crying, eh, oh, everybody was in trouble."34 Betsy Annahatak grew up in Kangirsuk, in northern Québec, which was then known as Payne Bay. When her parents were on the land, she lived in a small hostel in the community. "When one person would start crying, all the, all the little girls would start crying; all of us. We were different ages. And we would cry like little puppies or dogs, right into the night, until we go to sleep; longing for our families."35
