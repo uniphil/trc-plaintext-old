@@ -1,5 +1,3 @@
-_2 · Truth & Reconciliation Commission_
-
 ![Alert Bay, British Columbia, school, 1885. The federal government has estimated that over 150,000 students attended Canada's residential schools. Library and Archives Canada, George Dawson, PA-037934.](image-0000.jpg)
 
 Canada denied the right to participate fully in Canadian political, economic, and social life to those Aboriginal people who refused to abandon their Aboriginal identity. [6]
