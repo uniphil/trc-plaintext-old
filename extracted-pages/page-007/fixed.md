@@ -8,7 +8,7 @@ In its dealing with Aboriginal people, Canada did all these things.
 
 Canada asserted control over Aboriginal land. In some locations, Canada negotiated Treaties with First Nations; in others, the land was simply occupied or seized. The negotiation of Treaties, while seemingly honourable and legal, was often marked by fraud and coercion, and Canada was, and remains, slow to implement their provisions and intent. [1][1]
 
-On occasion, Canada forced First Nations to relocate their reserves from agriculturally valuable or resource-rich land onto remote and economically marginal reserves. [2][2]
+On occasion, Canada forced First Nations to relocate their reserves from agriculturally valuable or resource-rich land onto remote and economically marginal reserves. [<sup>[2]</sup>][2]
 
 Without legal authority or foundation, in the 1880s Canada instituted a "pass system" that was intended to confine First Nations people to their reserves. [3][3]
 
