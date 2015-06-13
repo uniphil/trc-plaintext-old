@@ -24,6 +24,16 @@ These steps are automated with the script [`extract.py`](extract.py):
 $ python extract.py
 ```
 
+## Fixup Conventions
+
+  * **Photos**: available, auto-extracted from PDF. Perhaps files can be discovered and auto-renamed based on markdown + alt text.
+  * **Citations**: no solution yet. For now, using `[[intro:N]]` format, like `[[intro:3]]`, where the number matches the citation number in the Report source. `intro:` prefix is necessary because the TRC numbers reset for each section. `[[]]` convention is made-up, but it should be possible to script a fix if it has to change for a better solution.
+  * **Paragraphs spanning page breaks**: flag in front matter to deal with this, `clean_pagebreak`.
+  * **Real page numbers vs. TRC page numbers**: No resolution at the moment, can be scripted later if needed.
+  * **Medium-specific strings**: removed, including the table of contents, which we can auto-generate.
+
+Fixup example: [Pages 1-10](https://github.com/uniphil/trc-plaintext/pull/1/files).
+
 
 ## To do
 
