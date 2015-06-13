@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Commission activities · 31
 over of documents. Once the Commission's document-collection processes began, it became increasingly apparent that Canada would not produce numerous documents that appeared to be relevant to the Commission's work.2
 First, the federal government declined to produce all relevant documents held in its national archives, Library and Archives Canada. Library and Archives Canada took a position that it was not required to organize and produce to the Commission up to five million documents in its possession that were directly relevant to residential schools. Library and Archives Canada maintained that the Settlement Agreement required it to provide the Commission only with access to its archives. A lengthy process, which included the filing of written arguments, affidavit evidence, and court-ordered mediation between Canada and the Commission, culminated in a hearing before the Honourable Justice Stephen Goudge of the Ontario Court of Appeal (sitting as an Ontario Superior Court Justice) on December 20 and 21, 2012. By judgment dated January 30, 2013, Justice Goudge ruled in favour of the Commission's position, that the terms of the Settlement Agreement provided that all relevant documents held by the Government of Canada, wherever they may be held, must be produced to the Commission.3 Following the ruling, the Government of Canada began producing documents from Library and Archives Canada to the Commission.

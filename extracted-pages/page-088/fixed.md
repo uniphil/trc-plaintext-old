@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 82 · Truth & Reconciliation Commission
 Mount Elgin, Ontario, laundry room. Clothes wringers, such as the one shown here, were a source of injury at a number of residential schools. The United Church of Canada Archives, 90.162P1173.
 this school for several years and all the girls are familiar with its operation." Indian Affairs secretary A. F. MacKenzie concluded that "all the necessary precautions were taken, and, while the accident to Florence McLeod is regretted, it was through no fault of the school management."253 The school's failure to protect its students can be seen in the fact that McLeod's father, Henry, had been injured in a similar fashion when he was a student at the same school.254 In 1941, a twelve-year-old boy lost all the fingers on one hand in an accident in the Brandon, Manitoba, school barn.255 Eight years later, fifteen-year-old Rodney Beardy died in a tractor accident at the same school.256 A student at the Edmonton school lost a foot in 1944 after an accident during the operation of a machine used in the preparation of fodder.257 Two boys from the Birtle, Manitoba, school were injured in a truck accident in 1942. From Indian Affairs correspondence, it appears that the accident involved a truck carrying seventy boys who were being taken from the school to the fields to do farm work. Indian Affairs official R. A. Hoey criticized the principal for allowing the practice to take place, noting that "it is almost unbelievable that the principal should permit 70 pupils to be conveyed in a truck."258

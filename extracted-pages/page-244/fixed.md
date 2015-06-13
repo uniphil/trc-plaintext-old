@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 238 · Truth & Reconciliation Commission
 The history and destructive legacy of the residential school system is a powerful reminder that Canada disregarded its own historical roots. Canada's determination to assimilate Aboriginal peoples, in spite of the early relationship established at first contact and formalized and maintained in Treaties, attests to that fact. As Gerry St. Germain (Métis), then a Canadian senator, said,
 There can be no doubt that the founders of Canada somehow lost their moral compass in their relations with the people who occupied and possessed the land.... While we cannot change history, we can learn from it and we can use it to shape our common future.... This effort is crucial in realizing the vision of creating a compassionate and humanitarian society, the society that our ancestors, the Aboriginal, the French and the English peoples, envisioned so many years ago--our home, Canada.2

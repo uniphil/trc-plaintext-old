@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 181
 648. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, NCRE4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Management Discussion Paper, 8 February 1994. [NCA-016023-0002]
 649. TRC, NRA, Anglican Church of Canada, General Synod Archives, file 1, Visit Reports of the Superintendent 02/54­12/54, pg. 004126-004227, Accession GS 75-103, series 2:15, box 24, "Superintendent's Visit to Chooutla School, Carcross, Y.T., December 3th­6th, 1954." [DYK-201620]

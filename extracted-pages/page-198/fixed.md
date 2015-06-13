@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 192 · Truth & Reconciliation Commission
 Call to Action
 5) We call upon the federal, provincial, territorial, and Aboriginal governments to develop culturally appropriate parenting programs for Aboriginal families.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 221
 Call to Action
 32) We call upon the federal government to amend the Criminal Code to allow trial judges, upon giving reasons, to depart from mandatory minimum sentences and restrictions on the use of conditional sentences.

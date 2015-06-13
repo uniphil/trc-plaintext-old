@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 116 · Truth & Reconciliation Commission
 Resistance: "I am the father of this child."
 Parents and children developed a variety of strategies to resist residential schooling. Parents might refuse to enrol students, refuse to return runaways, or they might refuse to return students to school at the end of the summer holidays. They also called on the government to increase school funding; to establish day schools in their home communities; and to improve the quality of education, food, and clothing. In taking such measures, they often put themselves at risk of legal reprisals. Almost invariably, the system declined to accept the validity of parental and student criticisms. Parental influences were judged by school and government officials to be negative and backward. The schools also suspected parents of encouraging their children in acts of disobedience.509 Once parents came to be viewed as the `enemy,' their criticisms, no matter how valid, could be discounted.

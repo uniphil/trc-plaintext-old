@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 43
 "The only building that I knew up to that time, that moment in my life was the one-storey house that we had. And when I got to the residential school, I seen this big monster of a building, and I've never seen any buildings that, that large, that high." ­ Calvin Myerion, Brandon, Manitoba, school. United Church of Canada Board of Home Missions, 86.158P/ 22N.
 school. "The only building that I knew up to that time, that moment in my life was the one-storey house that we had. And when I got to the residential school, I seen this big monster of a building, and I've never seen any buildings that, that large, that high."13 Archie Hyacinthe compared the experience to that of being captured and taken into captivity. "That's when the trauma started for me, being separated from my sister, from my parents, and from our, our home. We were no longer free. It was like being, you know, taken to a strange land, even though it was our, our, our land, as I understood later on."14 When she first went to the Amos, Québec, school, Margo Wylde could not speak any French. "I said to myself, `How am I going to express myself? How will I make people understand what I'm saying?' And I wanted to find my sisters to ask them to come and get me. You know it's sad to say, but I felt I was a captive."15

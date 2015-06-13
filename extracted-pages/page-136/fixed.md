@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 130 · Truth & Reconciliation Commission
 these can be seen as positive, not negative, activities. For the most part, the school staff members were not responsible for the policies that separated children from their parents and lodged them in inadequate and underfunded facilities. In fact, many staff members spent much of their time and energy attempting to humanize a harsh and often destructive system. Along with the children's own resilience, such staff members share credit for any positive results of the schools.
 Agreement and apologies

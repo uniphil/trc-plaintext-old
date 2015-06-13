@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 379
 238. Jeff Corntassel et al., "Indigenous Story-telling, Truth-telling and Community Approaches to Reconciliation," English Studies in Canada 35, 1 (2009): 143, cited in Cooper-Bolam, "Healing Heritage," 98.
 239. Cooper-Bolam, "Healing Heritage," 97­99. 240. Cooper-Bolam, "Healing Heritage," ii. 241. Broadcasting Act (1991), last revised 2014, http://laws-lois.justice.gc.ca/PDF/B-9.01.pdf. 242. David, "Aboriginal Languages Broadcasting in Canada," 14, http://aptn.ca/corporate/PDFs/Ab-

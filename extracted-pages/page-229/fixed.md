@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 223
 a few provinces, such as British Columbia, have Aboriginal justice strategies that include cultural awareness training for officials and contracting with Aboriginal communities to provide spiritual leadership, counselling, and cultural programming for prisoners. 151
 The need for cultural programs in jail was expressed by a former residential school student who was an inmate at a correctional facility in Yellowknife. The Survivor told the Commission, "It would be nice if our own people would come in here and teach us about life ... you know, how to live. This is not the way of life for us. It's not the way for us people. But if they would teach a program like that, that will catch somebody for sure."152

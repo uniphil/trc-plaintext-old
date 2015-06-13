@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 279
 abuse and the damage that has been done in residential schools, one of the primary sources of that is the church. And the church has to take ownership for that. But what bothers me about it is that the church continues to have a hold on our people.... Just get out of the way for awhile so that we can do what we need to do because as long as you are standing there thinking that you are supporting us, you are actually preventing us from getting to our own truth about this and our own healing about this. But I think the other thing that's being avoided by the church is their need to reconcile with the Spirit.... I think that the church has to reconcile with the Creator.... I'm not a Christian but I have a high regard for this Spirit ... who is called Jesus.... What I think is that when the church can reconcile with their God and their Saviour for what they have done, then maybe we can talk to them about reconciling amongst ourselves.83
 In contrast, Aboriginal Christians who also practise Indigenous spirituality seek Indigenous and Christian spiritual and religious coexistence within the churches themselves. United Church Rev. Alf Dumont, the first speaker of the All Native Circle Conference, said,

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 21
 governments, building a respectful relationship involves dismantling a centuries-old political and bureaucratic culture in which, all too often, policies and programs are still based on failed notions of assimilation. For churches, demonstrating long-term commitment requires atoning for actions within the residential schools, respecting Indigenous spirituality, and supporting Indigenous peoples' struggles for justice and equity. Schools must teach history in ways that foster mutual respect, empathy, and engagement. All Canadian children and youth deserve to know Canada's honest history, including what happened in the residential schools, and to appreciate the rich history and knowledge of Indigenous nations who continue to make such a strong contribution to Canada, including our very name and collective identity as a country. For Canadians from all walks of life, reconciliation offers a new way of living together.
 

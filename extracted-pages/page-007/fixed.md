@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction
 For over a century, the central goals of Canada's Aboriginal policy were to eliminate Aboriginal governments; ignore Aboriginal rights; terminate the Treaties; and, through a process of assimilation, cause Aboriginal peoples to cease to exist as distinct legal, social, cultural, religious, and racial entities in Canada. The establishment and operation of residential schools were a central element of this policy, which can best be described as "cultural genocide."
 Physical genocide is the mass killing of the members of a targeted group, and biological genocide is the destruction of the group's reproductive capacity. Cultural genocide is the destruction of those structures and practices that allow the group to continue as a group. States that engage in cultural genocide set out to destroy the political and social institutions of the targeted group. Land is seized, and populations are forcibly transferred and their movement is restricted. Languages are banned. Spiritual leaders are persecuted, spiritual practices are forbidden, and objects of spiritual value are confiscated and destroyed. And, most significantly to the issue at hand, families are disrupted to prevent the transmission of cultural values and identity from one generation to the next.

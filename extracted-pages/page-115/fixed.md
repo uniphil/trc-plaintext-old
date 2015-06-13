@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 109
 abusing students at the school. Joseph Jean Louis Comeau, Martin Houston, George Maczynski, and Paul Leroux all worked at Grollier Hall during this period. All were convicted of abusing Grollier Hall students.445 William Peniston Starr served as director of the Gordon's, Saskatchewan, residence from 1968 until 1984.446 Prior to that, he worked at a series of schools in Alberta and Québec.447 In 1993, he was convicted of ten counts of sexually assaulting Gordon's school students.448 Arthur Plint worked as a boys' supervisor at the Alberni residential school for two five-year periods between 1948 and 1968. In 1995, he pleaded guilty to eighteen counts of indecent assault. In sentencing him to eleven years in jail, Justice D. A. Hogarth described Plint as "a sexual terrorist."449
 Physical abuse and sexual abuse often were intertwined. Jean Pierre Bellemare, who attended the Amos, Québec, school, spoke for many students when he told the Commission that he had been subjected to "physical violence, verbal violence, touchings, everything that comes with it."450 Andrew Yellowback was "sexually, physically, emotionally, and mentally abused" at the Cross Lake, Manitoba, school for eight years.451 There was no single pattern of abuse: students of both sexes reported assaults from staff members of both the opposite sex and the same sex as themselves.452

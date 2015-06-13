@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 60 · Truth & Reconciliation Commission
 The Qu'Appelle school at Lebret in what is now Saskatchewan opened in 1884. O.B. Buell, Library and Archives Canada, PA-182246.
 Reformatory Schools Act in 1854 and the Industrial Schools Act in 1857.110 By 1882, over 17,000 children were in Britain's industrial schools.111 Under Ontario's 1880 Act for the Protection and Reformation of Neglected Children, a judge could send children under the age of fourteen to an industrial school, where they might be required to stay until they turned eighteen.112 Such schools could be dangerous and violent places. At the Halifax Boys Industrial School, first offenders were strapped, and repeat offenders were placed in cells on a bread-and-water ration. From there, they might be sent to the penitentiary.113 The Canadian government also drew inspiration from the United States. There, the first in a series of large-scale, government-operated, boarding schools for Native Americans opened in 1879 in a former army barracks in Carlisle, Pennsylvania.114

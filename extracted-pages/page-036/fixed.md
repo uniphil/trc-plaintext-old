@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 30 · Truth & Reconciliation Commission
 The Kuujjuaq community hearing, Nunavik, March 2011. Photo credit: Piita Irniq.
 Territories, recognizing the high rates of incarceration of Aboriginal peoples and how the experience of residential schools has contributed to the kinds of personal struggles that may lead to incarceration. Health-support workers, cultural support workers, and/or professional therapists were present everywhere the Commission gathered statements to provide support and counselling as needed.

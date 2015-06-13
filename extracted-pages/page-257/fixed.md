@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 251
 call you my children; will send warmth (presents) to your country; and your families shall never be in want. Look towards the rising sun. My Nation is as brilliant as it is, and its word cannot be violated.' Father, your words were true--all you promised came to pass. On giving us a Belt of Peace, you said--`If you should ever require my assistance, send this Belt, and my hand will be immediately stretched forth to assist you.' Here the speaker laid down the Belt.37
 Over the years, Indigenous leaders involved in Treaty negotiations not only used wampum belts to recount the Treaty of Niagara, but also presented original copies of the Royal Proclamation to government officials. In 1847, a colonial official reported,

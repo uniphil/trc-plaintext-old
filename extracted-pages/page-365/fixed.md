@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 359
 what it means to me, as an intergenerational Survivor. People who I love and admire were wronged, humiliated, and forgotten, and unjustly imprisoned by the country I ... call home.... [The part of the Japanese redress program that worked best] was the investment in communities and culture ... [and the establishment of ] the Canadian Race Relations Foundation ... to ensure that this never happened again.... Only when "you" and "me" become "us" and "we" can there be any reconciliation.293
 Caroline Wong said that as an intergenerational Survivor of the Chinese head tax, which her grandfathers had to pay when they entered Canada from China,

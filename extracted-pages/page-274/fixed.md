@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 268 · Truth & Reconciliation Commission
 The report of the Royal Commission on Aboriginal Peoples emphasized that the restoration of civic trust is essential to reconciliation. It concluded that "the purpose of engaging in a transaction of acknowledgement and forgiveness is not to bind Aboriginal and non-Aboriginal people in a repeating drama of blame and guilt, but jointly to acknowledge the past so that both sides are freed to embrace a shared future with a measure of trust." The report added that "the restoration of trust is essential to the great enterprise of forging peaceful relations."65 The Truth and Reconciliation Commission of Canada agrees with these findings.
 For reconciliation to take root, Canada, as the party to the relationship that has breached that trust, has the primary obligation to do the work needed to regain the trust of Aboriginal peoples. It is our view that at the time of Confederation, and in subsequent Treaty negotiations, Aboriginal peoples placed a great deal of faith in the words of those speaking for the Crown that the new relationship would be a positive one for both of them. That faith was betrayed, however, by the imposition of the Indian Act, the development of the residential school system, and a series of other repressive measures.

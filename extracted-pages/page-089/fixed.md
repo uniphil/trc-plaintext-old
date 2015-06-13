@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 83
 previous year, he had worked in the school barn every day between "6:00 a.m. and 7:00 a.m. and from 8:00 a.m. to 9:00 a.m. again at recess, from 4:00 p.m. to 6:00 p.m. and had had to stoke up the furnace with coal at 10:00 o'clock before retiring." Ross said that "he liked school but not working like a hired hand." Bell recommended that the amount of student labour being done at the Birtle school be investigated.260
 Language and culture: "The Indian language is indeed seldom heard in the institution."

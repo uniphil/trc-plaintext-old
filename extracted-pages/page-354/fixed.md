@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 348 · Truth & Reconciliation Commission
 system. Aboriginal peoples are also affected by issues of identity and historical trauma.264 Despite this roundtable report based on the 2011 consultation, the Commission notes that the subsequent Canadian Sport Policy released in 2012 contains no specific references to Aboriginal peoples.265
 Call to Action

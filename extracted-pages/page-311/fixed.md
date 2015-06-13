@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 305
 and except for those documents for which solicitor-client privilege applies and is asserted.
 In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected. In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.

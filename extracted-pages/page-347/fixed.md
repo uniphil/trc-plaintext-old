@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 341
 83) We call upon the Canada Council for the Arts to establish, as a funding priority, a strategy for Indigenous and non-Indigenous artists to undertake collaborative projects and produce works that contribute to the reconciliation process.
 Media and reconciliation

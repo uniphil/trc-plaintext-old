@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 79
 Grandin College in Fort Smith, Northwest Territories, developed a positive reputation as a "leadership factory" for the North. Deschatelets Archives.
 world in the 1960s.237 John Amagoalik wrote that at the Churchill Vocational Centre, "we had excellent teachers. To this day we still talk about them.... They treated us as ordinary people. We had never experienced this sort of attitude before and it was, in a way, liberating to be with new teachers that treated you as their equal."238 David Simailak spoke of how his time at residential school gave him a series of new opportunities. He fondly remembers excelling at math and spelling competitions, and travelling to Montreal for Expo '67.239

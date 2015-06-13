@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 117
 Students at the Kitamaat, British Columbia, school. In 1922, parents refused to return their children to school after the death of one student. The United Church of Canada Archives, 93.049P1835.
 mother, Isabel, had been a schoolteacher prior to her marriage, and home-schooled the children.518

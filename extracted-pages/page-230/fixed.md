@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 224 · Truth & Reconciliation Commission
 When the National Parole Board grants parole, correctional programming continues. The early stages of parole are often spent in a residential correctional facility: a halfway house. Although it is not a prison, a halfway house requires the offender to reside there and not be absent except under specific exceptions (for example, supervised absences or employment). It is intended as a transitional phase in an offender's parole, neither full incarceration nor full freedom in the community, with the goal of gradual reintegration into the community. Unfortunately, there are too few halfway houses that provide programming specifically for Aboriginal offenders.
 Call to Action

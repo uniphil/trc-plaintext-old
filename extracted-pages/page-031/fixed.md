@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 25
 Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049. 46. TRC, AVS, Stephen Augustine, Statement to the Truth and Reconciliation Commission of Canada,
 Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048. 47. TRC, AVS, Reg Crowshoe, Statement to the Truth and Reconciliation Commission of Canada, Win-

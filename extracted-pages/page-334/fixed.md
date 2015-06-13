@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 328 · Truth & Reconciliation Commission
 was true for both non-Aboriginal witnesses and Aboriginal witnesses whose own families had been impacted by the schools but who may have had few opportunities to learn more about the residential schools themselves, especially in those many families where no one was yet willing or able to talk about it.
 At the 2011 Northern National Event in Inuvik, Therese Boullard, then the director of the Northwest Territories Human Rights Commission, told us,

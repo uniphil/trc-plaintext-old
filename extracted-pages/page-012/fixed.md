@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 6 · Truth & Reconciliation Commission
 non-Indian Canadian culture through radio, television, public address system, movies, books, newspapers, group activities, etc."19
 Despite the coercive measures that the government adopted, it failed to achieve its policy goals. Although Aboriginal peoples and cultures have been badly damaged, they continue to exist. Aboriginal people have refused to surrender their identity. It was the former students, the Survivors of Canada's residential schools, who placed the residential school issue on the public agenda. Their efforts led to the negotiation of the Indian Residential Schools Settlement Agreement that mandated the establishment of a residential school Truth and Reconciliation Commission of Canada (trc).

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 9
 I'm so filled with belief and hope because when I hear your voices at the table, I hear and know that the responsibilities that our ancestors carried ... are still being carried ... even through all of the struggles, even through all of what has been disrupted ... we can still hear the voice of the land. We can hear the care and love for the children. We can hear about our law. We can hear about our stories, our governance, our feasts, [and] our medicines.... We have work to do. That work we are [already] doing as [Aboriginal] peoples. Our relatives who have come from across the water [non-Aboriginal people], you still have work to do on your road.... The land is made up of the dust of our ancestors' bones. And so to reconcile with this land and everything that has happened, there is much work to be done ... in order to create balance.25
 At the Victoria Regional Event in 2012, Survivor Archie Little said,

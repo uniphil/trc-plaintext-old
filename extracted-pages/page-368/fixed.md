@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 362 · Truth & Reconciliation Commission
 The guide explains the rights and responsibilities of citizenship. In describing Canada's legal system, it states,
 Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the unwritten constitution that we have inherited from Great Britain. Together, these secure for Canadians an 800-year-old tradition of ordered liberty, which dates back to the signing of the Magna Carta in 1215 in England.300

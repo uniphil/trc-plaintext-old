@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 110 · Truth & Reconciliation Commission
 injured, bewildered, and often friendless or subject to ridicule by other students.466 Many students thought they were the only children being abused. This confusion made it difficult for them to describe or report their abuse.467 Some were told they would face eternal damnation for speaking of what had been done to them.468
 Many students fought back against their far larger and more powerful assailants, especially as they got older and stronger.469 Some succeeded in forcing their tormentors to leave them alone.470 Many others, such as Lawrence Waquan, concluded that there was "nothing you can do."471 Some students ran away from school in an attempt to escape abuse.472 Others begged their parents not to return them to school after a break.473

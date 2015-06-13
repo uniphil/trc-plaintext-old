@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 294 · Truth & Reconciliation Commission
 TRC public education forums: Education Days and Youth Dialogues
 Education for reconciliation must happen not only in formal education settings such as elementary and secondary schools and post-secondary institutions, but in more informal places. One of the ways that the Commission fulfilled its public education mandate was through forums such as National Event Education Days and Youth Dialogues. The Commission believes that establishing a strong foundation for reconciliation depends on the achievement of individual self-respect and mutual respect between Aboriginal and non-Aboriginal Canadians. While this is true for adults, it is particularly urgent with regard to young people; they are the lifeblood of reconciliation into the future.

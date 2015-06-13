@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 167
 493. TRC, AVS, Christina Kimball, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 January 2011, Statement Number: 03-001-10-020.
 494. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: 2011-3314.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 134 · Truth & Reconciliation Commission
 The history of residential schools presented in this report commenced by placing the schools in the broader history of the global European colonization of Indigenous peoples and their lands. Residential schooling was only a part of the colonization of Aboriginal people. The policy of colonization suppressed Aboriginal culture and languages, disrupted Aboriginal government, destroyed Aboriginal economies, and confined Aboriginal people to marginal and often unproductive land. When that policy resulted in hunger, disease, and poverty, the federal government failed to meet its obligations to Aboriginal people. That policy was dedicated to eliminating Aboriginal peoples as distinct political and cultural entities and must be described for what it was: a policy of cultural genocide.
 Despite being subjected to aggressive assimilation policies for nearly 200 years, Aboriginal people have maintained their identity and their communities. They continue to assert their rights to self-governance. In this, they are not alone. Like the Settlement Agreement in Canada, the United Nations Declaration on the Rights of Indigenous Peoples is a milestone in a global campaign to recognize and respect the rights of Indigenous peoples. It is time to abandon the colonial policies of the past, to address the legacy of the schools, and to engage in a process of reconciliation with the Aboriginal people of Canada.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 288 · Truth & Reconciliation Commission
 Recommendation 4: The Commission recommends that each provincial and territorial government undertake a review of the curriculum materials currently in use in public schools to assess what, if anything, they teach about residential schools.
 Recommendation 5: The Commission recommends that provincial and territorial departments of education work in concert with the Commission to develop ageappropriate educational materials about residential schools for use in public schools.

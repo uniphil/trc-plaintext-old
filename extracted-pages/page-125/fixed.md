@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 119
 behalf of children who had been injured working at the schools, and to attempt to have their children discharged from school.537
 One of the more unusual protests was mounted by First Nations people (Dene) in the Northwest Territories, who, in 1937, refused to accept their Treaty payments in protest of conditions at the Fort Resolution school. Their children, they said, were "living in hell."538

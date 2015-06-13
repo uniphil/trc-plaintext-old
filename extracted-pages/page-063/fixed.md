@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 57
 The assimilation policy
 From the Canadian government's perspective, the most significant elements in the Treaties were the written provisions by which the First Nations agreed to "cede, release, surrender, and yield" their land to the Crown.100 In the Treaty negotiations, however, federal officials left the impression that the government intended the Treaties to establish a permanent relationship with First Nations. Treaty Commissioner Alexander Morris told the Cree in 1876, "What I trust and hope we will do is not for to-day and tomorrow only; what I will promise, and what I believe and hope you will take, is to last as long as the sun shines and yonder river flows."101 In reality, the federal government policy was very different from what Morris said. The intent of the government's policy, which was firmly established in legislation at the time that the Treaties had been negotiated, was to assimilate Aboriginal people into broader Canadian society. At the end of this process, Aboriginal people were expected to have ceased to exist as a distinct people with their own governments, cultures, and identities.

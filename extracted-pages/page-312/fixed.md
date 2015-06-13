@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 306 · Truth & Reconciliation Commission
 view became that departments need provide the trc only with departmental researcher status to access their archived documents at lac so that the Commission could conduct its own research.
 The trc's position was that Canada was obligated to produce all relevant documents, including those at lac, and had an additional obligation to provide the Commission with access to lac in order to conduct its own research. Although the trc, in the spirit of co-operation, had agreed to obtain departmental researcher status, it maintained that this was unnecessary because the Settlement Agreement already gave the Commission unconditional access to the archives. The end result was that Canada had effectively shifted the onus of its responsibility to produce lac documents onto the trc.

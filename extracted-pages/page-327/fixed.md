@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 321
 The Commission's mandate also instructed that there be a "ceremonial transfer of knowledge" at the National Events. Coast Salish artist Luke Marston was commissioned by the trc to design and carve a Bentwood Box as a symbol of this transfer. The box was steamed and bent in the traditional way from a single piece of west-coast red cedar. Its intricately carved and beautifully painted wood panels represent First Nations, Inuit, and Métis cultures. The Bentwood Box is a lasting tribute to all residential school Survivors and their families, both those who are living and those who have passed on, including the artist's grandmother, who attended Kuper Island residential school. This ceremonial box travelled with the Commission to every one of its seven National Events, where offerings--public expressions of reconciliation--were made by governments, churches and other faith communities, educational institutions, the business sector, municipalities, youth groups, and various other groups and organizations. The Truth and Reconciliation Bentwood Box, along with the many other sacred items the trc received, will be housed permanently in the National Centre for Truth and Reconciliation at the University of Manitoba in Winnipeg.188
 Life stories, testimonies, and witnessing as teachings

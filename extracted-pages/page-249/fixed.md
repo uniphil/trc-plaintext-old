@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 243
 Free, prior and informed consent, as it is considered in paragraphs 3 and 20 of the wcip Outcome Document, could be interpreted as providing a veto to Aboriginal groups and in that regard, cannot be reconciled with Canadian law, as it exists.... Canada cannot support paragraph 4, in particular, given that Canadian law, recently reaffirmed in a Supreme Court of Canada decision, states the Crown may justify the infringement of an Aboriginal or Treaty right if it meets a stringent test to reconcile Aboriginal rights with a broader public interest.13
 In a public statement, Indigenous leaders and their supporters said that Canada's concerns were unfounded, noting that

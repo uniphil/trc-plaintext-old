@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 319
 Unlike some truth and reconciliation commissions that have focused on individual victims of human rights violations committed over a short period of time, this Commission has examined both the individual and collective harms perpetrated against Aboriginal families, communities, and nations for well over a century, as well as the preconditions that enabled such violence and oppression to occur. Of course, previously inaccessible archival documents are critically important to correcting the historical record, but we have given equal weight and greater voice to Indigenous oral-based history, legal traditions, and memory practices in our work and in this final report, since these represent the previously unheard and unrecorded versions of history, knowledge, and wisdom.184 This has significantly informed our thinking about why repairing and revitalizing individual, family, and community memory are so crucial to the truth and reconciliation process.
 Dialogue: Ceremony, testimony, and witnessing

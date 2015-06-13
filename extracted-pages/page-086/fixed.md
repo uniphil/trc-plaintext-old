@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 80 · Truth & Reconciliation Commission
 values and good example I had before I went to residential school by my grandfather and my parents, and all the old people on the reserve where I grew up are the ones who made me a good student."243
 Work: "No idleness here."

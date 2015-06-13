@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 280 · Truth & Reconciliation Commission
 to advocate for Indigenous perspectives and ensure that they are fully represented in the institutional structures, programs, and services of their respective churches.
 The General Assembly of the Presbyterian Church of Canada in 2013 endorsed a report on the development of a theological framework for Aboriginal spirituality within the church. The report noted "the need for Aboriginal Christians to be true to both their Indigenous identity and to their [Christian] faith," and concluded, among other things, that "this conversation has the potential not simply to help us address our relationship as Presbyterians with Aboriginal people; it has the potential to contribute to the renewal of our church."86

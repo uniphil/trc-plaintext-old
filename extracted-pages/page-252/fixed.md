@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 246 · Truth & Reconciliation Commission
 belonged. The Doctrine of Discovery has been a critical component of historical relationships between Europeans, their descendants, and Indigenous peoples, and it underlies their legal relationships to this day, having smoothly and relatively uncritically transitioned from Roman Catholic to international law.19
 In April 2010, the Permanent Observer Mission of the Holy See (the un representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the un Permanent Forum on Indigenous Issues.20 The statement noted that earlier papal bulls regarding territorial expansion and the forced conversion of Indigenous peoples had subsequently been abrogated or annulled by the Roman Catholic Church.

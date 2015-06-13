@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 247
 need to decolonize from the debilitating impacts and ongoing legacy of denial by states of indigenous peoples' inherent sovereignty, laws, and title to the lands, territories, and resources. At the same time, there is a growing movement among faith-based bodies to repudiate the doctrine of discovery.23
 In 2010, the Anglican Church of Canada was the first of the Settlement Agreement churches in Canada to reject the Doctrine of Discovery and to "review the Church's policies and programs with a view to exposing the historical reality and impact of the Doctrine of Discovery and eliminating its presence in its contemporary policies, program, and structures."24 In 2013, the Anglican Church established a Commission on Discovery, Reconciliation, and Justice, which had three goals:

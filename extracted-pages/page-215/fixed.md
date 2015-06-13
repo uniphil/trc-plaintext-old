@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 209
 the reduction of the gap in health status between Aboriginal and non-Aboriginal peoples a national priority. More than a decade later, that gap remains. In fact, the federal government has moved backwards on issues of Aboriginal health since the signing of the Indian Residential Schools Settlement Agreement and Canada's apology to Survivors. It has terminated funding to a number of Aboriginal health organizations, including the Aboriginal Healing Foundation and the National Aboriginal Health Organization. These organizations were committed to models of research and treatment in which Aboriginal communities have ownership, control, access, and possession. Their loss significantly limits the development of accurate information about health issues and solutions under Aboriginal control. Health Canada has also cut funding for a number of Aboriginal primary health programs, including programs that address diabetes, fetal alcohol spectrum disorder, youth suicide, infectious diseases, and maternal and child health.114 These cuts have had a serious impact on Aboriginal communities.
 Trudy King, a former student at Grandin College residential school, is from Fort Resolution in the Northwest Territories.

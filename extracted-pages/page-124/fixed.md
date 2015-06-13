@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 118 · Truth & Reconciliation Commission
 It was not uncommon for the parents of an entire community or region to refuse to return their children to school. In the fall of 1926, for example, parents from communities in Manitoba's Interlake region announced they were not sending their children back to the Elkhorn school. According to the parents, the children were not well fed, the older boys compelled the younger boys to steal, and all children were poorly clothed.523 In October 1927, seventy-five school-aged children from the Blood Reserve in Alberta either had not returned to school or had not been enrolled in school. It took a letter from the police, plus a follow-up visit from the Indian agent, to fill the Anglican and Catholic schools on the reserve.524 Two weeks after the start of the 1940 school year, fifty-four students had yet to return to the Fraser Lake, British Columbia, school. The police were called in, and by October 2, twenty-five of the students had been returned.525 This form of parental action was common throughout the 1940s.526
 Parents were eager to have their children properly educated, and often proposed realistic and effective solutions. In 1905, parents of children attending the Roman Catholic boarding school in Squamish, British Columbia, petitioned to have the school converted into an industrial school. The request was not granted, despite the fact that Indian Affairs officials recognized that the boarding school grant allowed for only "the bare necessities in the line of food and clothing."527

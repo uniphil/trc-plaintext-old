@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 78 · Truth & Reconciliation Commission
 not only the skills required for most permanent wage employment but also those necessary for the traditional economy."226
 The decision to leave curriculum to provincial education departments meant that Aboriginal students were subjected to an education that demeaned their history, ignored their current situation, and did not even recognize them or their families as citizens. This was one of the reasons for the growing Aboriginal hostility to the Indian Affairs integration policy. An examination of the treatment of Aboriginal people in provincially approved textbooks reveals a serious and deep-rooted problem. In response to a 1956 recommendation that textbooks be developed that were relevant to Aboriginal students, Indian Affairs official R. F. Davey commented, "The preparation of school texts is an extremely difficult matter." It was his opinion that "there are other needs which can be met more easily and should be undertaken first."227 In the following years, assessments of public-school textbooks showed that they continued to perpetuate racist stereotypes of Aboriginal people.228 A 1968 survey pointed out that in some books, the word squaw was being used to describe Aboriginal women, and the word redskins used to describe Aboriginal people.229

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 188 · Truth & Reconciliation Commission
 Better research and data are also required in order to monitor and develop strategies to reduce the overrepresentation of Aboriginal children in care.
 Call to Action

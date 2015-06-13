@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 194 · Truth & Reconciliation Commission
 for the non-Aboriginal population. For example, according to the 2006 census, 34% of Aboriginal adults had not graduated from high school, compared with only 15% of their non-Aboriginal counterparts.42 In the 2011 census, these numbers improved slightly, with 29% of Aboriginal people not graduating from high school, compared with 12% in the non-Aboriginal population.43
 It is significant that the lowest levels of educational success are in those communities with the highest percentages of descendants of residential school Survivors: First Nations people living on reserves, and Inuit. Both groups have a high school completion rate of 41% or less.44

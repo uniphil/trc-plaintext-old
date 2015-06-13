@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 132 · Truth & Reconciliation Commission
 the Indian in the child.' Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country."666
 The prime minister was joined by the leaders of the other parties represented in the Canadian House of Commons. The Liberal leader of the opposition, the Honourable Stéphane Dion, recognized that the government's policy had "destroyed the fabric of family in First Nations, Métis and Inuit communities. Parents and children were made to feel worthless. Parents and grandparents were given no choice. Their children were stolen from them."667 The Bloc Québecois leader, the Honourable Gilles Duceppe, asked Canadians to "picture a small village, a small community. Now picture all of its children, gone. No more children between seven and sixteen playing in the lanes or the woods, filling the hearts of their elders with their laughter and joy."668 The New Democratic Party leader, the Honourable Jack Layton, called on Canadians to help

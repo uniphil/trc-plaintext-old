@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 52 · Truth & Reconciliation Commission
 committed to making the greatest changes in the culture and psychology of the colonized. They might, for example, seek to have traders give fair prices and to have government officials provide relief in times of need, but they also worked to undermine relationships to the land, language, religion, family relations, educational practices, morality, and social custom.69
 Missionary zeal was also fuelled by the often violent division that had separated the Christian world into Catholic and Protestant churches. Both Catholics and Protestants invested heavily in the creation of missionary organizations that were intended to engage overseas missionary work. The most well-known Catholic orders were the Franciscans, the Jesuits, and the Oblates. The Oblates originally focused their attention on the poor and working classes of France, but from the 1830s onwards, they engaged in overseas missionary work. They established themselves in eastern Canada, the Pacific Northwest, Ceylon, Texas, and Africa.70 The Oblates administered a majority of the Roman Catholic residential schools in Canada. They could not have done this work without the support of a number of female religious orders, most particularly the Sisters of Charity (the Grey Nuns), the Sisters of Providence, the Sisters of St. Anne, and the Missionary Oblate Sisters of the Sacred Heart and of Mary Immaculate.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 278 · Truth & Reconciliation Commission
 is difficult to shed. It is exacerbated by the fact that Christian doctrine today still fails to accord full and proper respect for Indigenous spiritual belief systems.
 If it were the Survivors alone who faced this dilemma, one could argue that they should be able to resolve this for themselves in whatever way they can, including with the assistance of trusted church allies. However, the dilemma of spiritual conflict is more than a personal one to Survivors. It is one that extends to their children and their grandchildren, who, in these modern times, realize that there is much more to their personal histories than what they have inherited from residential schools and Canadian society. They realize that each Indigenous nation also has its own history and that such histories are part of who they are. Young First Nations, Inuit, and Métis people today are searching for their identities, which include their own languages and cultures.

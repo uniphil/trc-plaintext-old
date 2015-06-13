@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 140 · Truth & Reconciliation Commission
 119. Canada, Annual Report of the Department of Indian Affairs, 1883, 104. 120. Library and Archives Canada, RG10, volume 3924, file 116823, L. Vankoughnet to Sir
 John A. Macdonald, 15 March 1886. 121. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 1, Privy

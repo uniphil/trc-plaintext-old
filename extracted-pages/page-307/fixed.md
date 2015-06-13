@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 301
 Aboriginal Youth Council, and the broader Aboriginal community, in the planning and programs developed by the museum.144
 Given the deep controversies that exist regarding the history of the residential school system, it is perhaps not surprising that the cmhr was criticized by the Southern Chiefs Organization in Manitoba in June of 2013, after media reports that the museum would not "label human rights violations against First Nations as genocide." From the Southern Chiefs Organization's perspective, the museum was "sanitizing the true history of Canada's shameful treatment of First Nations."145 Stuart Murray issued a statement on July 26, 2013, clarifying the museum's position.

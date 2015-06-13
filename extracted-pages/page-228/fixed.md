@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 222 · Truth & Reconciliation Commission
 needed, accompanied by sufficient resources for intensive community programs as realistic alternatives to jail and as support for people living with fasd to avoid repeated conflicts with the law.
 The recent enactment of mandatory minimum sentences for some offences further complicates the situation of offenders with fasd because it denies judges the flexibility to consider individual circumstances in their sentencing. There is a danger that prison will be used unnecessarily as another expensive crisis intervention for Aboriginal offenders with fasd, even though culturally appropriate supports in the community could often be a more appropriate approach.148 As well as amending mandatory minimum sentencing laws, the federal government can do much more to tailor correctional and parole resources to facilitate the reintegration of offenders with fasd into their communities.

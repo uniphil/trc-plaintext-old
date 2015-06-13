@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 88 · Truth & Reconciliation Commission
 the students, since he would "always try to marry them as soon as they leave the school." He wanted to keep one eighteen-year-old student in the school until the fall threshing was complete. Then, she would be married to a former pupil. He wanted to keep another eighteen-year-old until "she gets married during the year."311 In 1922, the head of the Presbyterian Church's Winnipeg Committee on Indian Work urged the government to make it "unlawfull [sic] for a pupil or ex-pupil of the School to marry or be married without the permission of the Indian Agent." The Presbyterians proposed that the children of such unauthorized marriages be denied Treaty annuities until they reached the age of twenty-one and be prohibited from attending school.312 Although the measure was not adopted, it is reflective of the church's lack of respect for the autonomy of Aboriginal people.
 Food: "Always hungry"

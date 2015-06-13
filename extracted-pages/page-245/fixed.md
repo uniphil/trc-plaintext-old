@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 239
 The Aboriginal and non-Aboriginal youth of our country have told the Commission that they want to know the truth about the history and legacy of residential schools. They want to understand their responsibilities as parties to the same Treaties--in other words, as Treaty people. They want to learn about the rich contributions that Aboriginal peoples have made to this country. They understand that reconciliation involves a conversation not only about residential schools, but also about all other aspects of the relationship between Aboriginal and non-Aboriginal peoples.
 As Commissioners, we believe that reconciliation is about respect. That includes both self-respect for Aboriginal people and mutual respect among all Canadians. All young people need to know who they are and from where they come. Aboriginal children and youth, searching for their own identities and places of belonging, need to know and take pride in their Indigenous roots. They need to know the answers to some very basic questions. Who are my people? What is our history? How are we unique? Where do I belong? Where is my homeland? What is my language and how does it connect me to my nation's spiritual beliefs, cultural practices, and ways of being in the world? They also need to know why things are the way they are today. That requires an understanding of the history of colonization, including the residential school system and how it has affected their families, communities, their people, and themselves.

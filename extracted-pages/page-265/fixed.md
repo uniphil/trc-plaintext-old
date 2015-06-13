@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 259
 Indigenous law, like so many other aspects of Aboriginal peoples' lives, has been impacted by colonization. At the trc's Knowledge Keepers Forum in 2014, Mi'kmaq Elder Stephen Augustine spoke about the Mi'kmaq concept for "making things right." He shared a metaphor about an overturned canoe in the river. He said, "We'll make the canoe right and ... keep it in water so it does not bump on rocks or hit the shore.... [When we tip a canoe] we may lose some of our possessions.... Eventually we will regain our possessions [but] they will not be the same as the old ones."50
 When we consider this concept in relation to residential schools, we have repeatedly heard that they caused great and obvious loss. The Mi'kmaq idea for "making things right" implies that sometimes, in certain contexts, things can be made right--but the remedy might not allow us to recapture what was lost. Making things right might involve creating something new as we journey forward. Just as the Canadian legal system has evolved over time, Indigenous law is not frozen in time. Indigenous legal orders adapt with changing circumstances. The development and application of Indigenous law should be regarded as one element of a broader holistic strategy to deal with the residential schools' negative effects.

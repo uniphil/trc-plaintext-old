@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 381
 278. Letter of transmission from Douglas R. Eyford to Prime Minister, 29 November 2013, in Eyford, "Forging Partnerships," np, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/pdf/publications/ForgPart-Online-e.pdf.
 279. The Charrette on Energy, Environment and Aboriginal Issues, "Responsible Energy Resource Development," 2.

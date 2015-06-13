@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 156 · Truth & Reconciliation Commission
 353. TRC, NRA, Library and Archives Canada, RG10, volume 6302, file 650-23, part 2, Inspector, Commanding Prince Albert Sub-Division to The Officer in Charge, RCMP, Regina, Saskatchewan, 10 September 1942. [BVL-000822]
 354. For discussions of the health conditions on the Prairies and the federal government's failure to meet its Treaty commitments, see: Carter, Lost Harvests; Daschuk, Clearing the Plains; and Lux, Medicine that Walks. For food and Treaties, see: Miller, Skyscrapers Hide the Heavens, 228­230.

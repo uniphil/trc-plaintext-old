@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 313
 duration, and affiliation of each cemetery; its legal description; current land ownership and condition; and its location coordinates.
 The complex and sensitive work of documenting, maintaining, commemorating, and protecting residential school cemeteries must be undertaken according to a set of guiding principles that are based on community priorities and knowledge. Any physical investigation of the cemeteries must involve close consultation with interested communities, with identification of community-driven objectives, suitable methodologies, and attention to spiritual and emotional sensitivities.

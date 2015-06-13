@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history
 A group of students and parents from the Saddle Lake Reserve, en route to the Methodist-operated school in Red Deer, Alberta. Woodruff, Library and Archives Canada, PA-040715.
 It can start with a knock on the door one morning. It is the local Indian agent, or the parish priest, or, perhaps, a Mounted Police officer. The bus for residential school leaves that morning. It is a day the parents have long been dreading. Even if the children have been warned in advance, the morning's events are still a shock. The officials have arrived and the children must go.

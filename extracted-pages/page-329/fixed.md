@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 323
 I'm telling my story ... for the education of the Canadian general public ... [so that they] can understand what stolen identity is, you know, how it affects people, how it affects an individual, how it affects family, how it affects community.... I think the non-Aboriginal person, Canadian, has to understand that a First Nations person has a culture.... And I think that we, as Aboriginal people, have so much to share if you just let us regain that knowledge.... And I also take to heart what Elders talk about ... we have to heal ourselves. We have to heal each other. And for Canada to heal, they have to allow us to heal before we can contribute. That's what reconciliation means to me.193
 Survivors told the Commission that an important reason for breaking their silence was to educate their own children and grandchildren by publicly sharing their life stories with them. The effect of this on intergenerational Survivors was significant. At the Manitoba National Event, Desarae Eashappie said,

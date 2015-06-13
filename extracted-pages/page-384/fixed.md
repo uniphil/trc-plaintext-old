@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 378 · Truth & Reconciliation Commission
 219. Debora Steel, "Alberni Residential Students Reunited with Childhood Art," Ha-Shilth-Sa, 2 April 2013, http://www.hashilthsa.com/news/2013-04-03/alberni-indian-residential-students-reunited-childhood-art.
 220. Judith Lavoie, "Paintings Bear Witness to B.C. Residential Schools' Harsh Life," Victoria Times-Colonist, March 31, 2013, http://www.timescolonist.com/news/local/paintings-bear-witness-to-b-cresidential-schools-harsh-life-1.101179.

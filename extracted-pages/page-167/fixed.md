@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 161
 413. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004.
 414. TRC, AVS, Rachel Chakasim, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-4-6NOV10-019.

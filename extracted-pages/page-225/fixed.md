@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 219
 and guns and everything, like you know. I was losing my drinking buddies though; they were being murdered and dying.134
 Action is required now to overcome the legacy of residential schools that has played a major role in the over-incarceration of Aboriginal people.

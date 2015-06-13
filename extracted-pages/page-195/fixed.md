@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 189
 these Aboriginal children died while in the care of a provincial child-welfare agency, and twenty-nine died in the care of an on-reserve First Nations child and family service agency.
 Delivery of child-welfare services

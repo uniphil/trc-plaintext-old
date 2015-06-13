@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 322 · Truth & Reconciliation Commission
 staff also varied. Some were remorseful while others were defensive. Some were proud of their students and their own efforts to support them while others were critical of their own school and government authorities for their lack of attention, care, and resources. The stories of government and church officials involved acknowledgement, apology, and promises not to repeat history. Some non-Aboriginal Canadians expressed outrage at what had happened in the schools and shared their feelings of guilt and shame that they had not known this. Others denied or minimized the destructive impacts of residential schools. These conflicting stories, based on different experiences, locations, time periods, and perspectives, all feed into a national historical narrative.
 Developing this narrative through public dialogue can strengthen civic capacity for accountability and so do justice to victims, not just in the legal sense, but also in terms of restoring human dignity, nurturing mutual respect, and supporting healing. As citizens use ceremony and testimony to remember, witness, and commemorate, they learn how to put the principles of accountability, justice, and reconciliation into everyday practice. They become active agents in the truth and reconciliation process.

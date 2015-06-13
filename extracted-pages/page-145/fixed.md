@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 139
 89. Great Britain, Rupert's Land and North-Western Territory Order (Schedule A), 23 June 1870, http://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t32. html.
 90. Getty and Lussier, Long as the Sun Shines, 35. 91. Banner, How Indians Lost Their Land, 85. 92. Tobias, "Protection, Civilization, Assimilation," 128. 93. Miller, Compact, Contract, Covenant, 156. 94. Miller, Compact, Contract, Covenant, 154. 95. Friesen, "Magnificent Gifts," 205, 212. 96. Erasmus, Buffalo Days, 250. 97. Ray, Illustrated History, 212; Taylor, "Canada's Northwest Indian Policy," 3. 98. Sprague, Canada's Treaties with Aboriginal People, 13. 99. For an example of a request for a day school on a reserve, see: McCullough, "Pey-

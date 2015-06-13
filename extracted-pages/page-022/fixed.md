@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 16 · Truth & Reconciliation Commission
 What is reconciliation?
 During the course of the Commission's work, it has become clear that the concept of reconciliation means different things to different people, communities, institutions, and organizations. The trc mandate describes reconciliation as "an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (irs) students, their families, communities, religious entities, former school employees, government and the people of Canada. Reconciliation may occur between any of the above groups."43

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 196 · Truth & Reconciliation Commission
 likely violates Treaty promises about education, and makes it very difficult to overcome the educational and consequent income gaps.
 In many cases, the fees that First Nations are charged when they send their children to provincial schools are higher than the amount of funding they receive from Canada per student.63

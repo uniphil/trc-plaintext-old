@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 121
 who ran away numerous times also could be charged under the Juvenile Delinquents Act. In such cases, they could be sentenced to a reformatory until they turned twenty-one.556
 The 1894 Indian Act amendments made parents who did not return truants to school subject to prosecution. The Mounted Police were often called in to force parents to send their children to school.557 The Blue Quills, Alberta, school journal entry for May 1, 1932, reads: "The savages having received the order to bring their children to school unless they want the police to get involved, some parents did obey the order today. But there are still those who turn a deaf ear."558 In 1937, a father who refused to return his son to the Sandy Bay, Manitoba, school was sentenced to ten days in jail. To prevent him from running away again, the boy was sent to a school in Saskatchewan.559

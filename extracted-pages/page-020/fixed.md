@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 14 · Truth & Reconciliation Commission
 memories of the schools might differ from those of the Survivors. At a Community Hearing in Thunder Bay, Ontario, Merle Nisley, who worked at the Poplar Hill residential school in the early 1970s, said,
 I think it would be valuable for people who have been involved in the schools to hear stories personally. And I also think it would be valuable, when it's appropriate ... [for] former students who are on the healing path to ... hear some of our stories, or to hear some of our perspectives. But I know that's a very difficult thing to do.... Certainly this is not the time to try to ask all those former students to sit and listen to the rationale of the former staff because there's just too much emotion there ... and there's too little trust ... you can't do things like that when there's low levels of trust. So I think really a very important thing is for former staff to hear the stories and to be courageous enough just to hear them.... Where wrongs were done, where abuses happened, where punishment was over the top, and wherever sexual abuse happened, somehow we need to courageously sit and talk about that, and apologize. I don't know how that will happen.39

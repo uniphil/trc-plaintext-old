@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 195
 Call to Action
 7) We call upon the federal government to develop with Aboriginal groups a joint strategy to eliminate educational and employment gaps between Aboriginal and non-Aboriginal Canadians.

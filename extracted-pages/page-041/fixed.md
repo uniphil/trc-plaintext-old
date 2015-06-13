@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Commission activities · 35
 Her Excellency, the Honorable Michaëlle Jean at the Winnipeg National Event, June 2010.
 culture, language, and artistic expression--cultural forms that residential schools sought to destroy.

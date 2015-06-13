@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 202 · Truth & Reconciliation Commission
 was to respect your Elders and never to, you know, to challenge them. And here I was, eleven years old, and I challenged ... my dad looked at me and I, and I thought he was going to cry. In fact his eyes filled up with tears. He turned to my mom and he says, ... "Then I guess we'll never speak to this little girl again. I don't know her."84
 Some Survivors refused to teach their own children their Aboriginal languages and cultures because of the negative stigma that had come to be associated with them during their school years. This has contributed significantly to the fragile state of Aboriginal languages in Canada today.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 262 · Truth & Reconciliation Commission
 and credibility of the state's justice system. But de Greiff cautions that implementing these measures alone does not guarantee that reconciliation will follow. Apologies, commemoration, public memorials, and educational reform are also required in order to transform social attitudes and foster long-term reconciliation.57
 The Treaty, constitutional, and human rights violations that occurred in and around the residential school system confirm the dangers that exist for Aboriginal peoples when their right to self-determination is ignored or limited by the state, which purports to act "in their best interests." Historically, whenever Aboriginal peoples have been targeted as a specific group that is deemed by government to be in need of protective legislation and policies, the results have been culturally and ethnically destructive.

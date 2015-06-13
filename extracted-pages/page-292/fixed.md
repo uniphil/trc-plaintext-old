@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 286 · Truth & Reconciliation Commission
 how it all began [starting with] Christopher Columbus, from Christianization, then colonization, and then assimilation.... If we put our minds and hearts to it, we can [change] the status quo.104
 At the Commission's Community Hearing in Thunder Bay, Ontario, in 2010, Esther Lachinette-Diabo said,

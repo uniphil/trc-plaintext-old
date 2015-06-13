@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Introduction · 15
 and reconciliation sessions as well as Returning to Spirit sessions, hoping to bring about healing for all concerned. The Oblates desire healing for the abused and for all touched by the past breach of trust. It is our hope that together we can continue to build a better society.40
 Later that same day, Ina Seitcher, who attended the Christie residential school, painted a very different picture of the school from what Brother Cavanaugh had described.

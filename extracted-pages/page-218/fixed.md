@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 212 · Truth & Reconciliation Commission
 To understand the full legacy of the harms of the schools, it is important to examine how the Canadian legal system responded to residential school abuse. Relatively few prosecutions for abuse resulted from police investigations. In some cases, the federal government actually compromised these investigations--and the independence of the Royal Canadian Mounted Police (rcmp)--to defend its own position in civil cases brought against it by residential school Survivors.
 RCMP independence compromised

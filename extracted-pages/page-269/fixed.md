@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 263
 responsible for those harms, the state and the churches accepted their measure of responsibility. The apologies were a necessary first step in the process of reconciliation.
 The history and destructive legacy of residential schools is a sober reminder that taking action does not necessarily lead to positive results. Attempts to assimilate First Nations, Inuit, and Métis peoples into mainstream Canadian society were a dismal failure. Despite the devastating impacts of colonization, Indigenous peoples have always resisted (though in some places not always successfully) attacks on their cultures, languages, and ways of life.

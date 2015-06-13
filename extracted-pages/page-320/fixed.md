@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 314 · Truth & Reconciliation Commission
 The limitations of archives
 We have outlined how Library and Archives Canada has dealt with its residential school records. Other records that are relevant to the history and legacy of the residential school system are scattered across the country in provincial, territorial, municipal, and local archives, as well as in government departments and agencies that were not parties to the Settlement Agreement. All this has made it extremely difficult for Survivors, their families, and communities to access the very records that hold such critical pieces of information about their own lives and the history of their communities.

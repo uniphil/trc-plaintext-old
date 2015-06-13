@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 166 · Truth & Reconciliation Commission
 479. For examples, see: TRC, AVS, Ivan George, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 18 May 2011, Statement Number: 2011-3472; TRC, AVS, Dorothy Jane Beaulieu, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0379; TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.
 480. Ruben, "Abraham Ruben," 136. 481. For examples, see: TRC, AVS, Stella Marie Tookate, Statement to the Truth and Reconcil-

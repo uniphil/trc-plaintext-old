@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The legacy · 185
 Canada's apology in 2008. In fact, some of the damages done by residential schools to Aboriginal families, languages, education, and health may be perpetuated and even worsened as a result of current governmental policies. New policies can easily be based on a lack of understanding of Aboriginal people, similar to that which motivated the schools. For example, current child-welfare and health policies that fail to take into account the importance of community in raising children can result in inappropriate decision making. We must learn from the failure of the schools in order to ensure that the mistakes of the past are not repeated in the future.
 Despite the challenges and failings in responding to the legacy of residential schools, and a concern that the federal government may have lost a sense of urgency on these issues since the 2006 Indian Residential Schools Settlement Agreement and Canada's apology in 2008, the Commission is nonetheless cautiously optimistic that promising pathways to constructive reforms do exist. These could include new strategies based on respect for Aboriginal self-determination and for Canada's obligations under Treaties, and Canada's endorsement of the new United Nations Declaration on the Rights of Indigenous Peoples.

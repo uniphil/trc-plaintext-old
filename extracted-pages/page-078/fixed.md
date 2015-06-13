@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 72 · Truth & Reconciliation Commission
 need during their childhood and adolescence. This failure applied to all students, but was of particular significance in the case of the growing number of social-welfare placements in the schools.170 Some children had to stay in the schools year-round because it was thought there was no safe home to which they could return. The residential school environment was not a safer or more loving haven. These children spent their entire childhoods in an institution.
 The closure of residential schools, which commenced in earnest in 1970, was accompanied by a significant increase in the number of children being taken into care by child-welfare agencies.171 By the end of the 1970s, the transfer of children from residential schools was nearly complete in southern Canada, and the impact of the Sixties Scoop was in evidence across the country. In 1977, Aboriginal children accounted for 44% of the children in care in Alberta, 51% of the children in care in Saskatchewan, and 60% of the children in care in Manitoba.172 In those residences that remained in operation, the percentage of social-welfare cases remained high.173

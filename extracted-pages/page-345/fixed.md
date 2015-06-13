@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 339
 cultural dimension of memorial processes, including where repression has targeted indigenous peoples.233
 The Commission concurs with these conclusions and recommendations. They are consistent with our own findings on the residential schools commemoration projects. These Survivor-driven, community-based initiatives revealed the importance of integrating Indigenous knowledge and revitalizing Indigenous memory practices in commemorating the history and legacy of residential schools. They demonstrated the critical role that artists play in healing and commemoration.

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 48 · Truth & Reconciliation Commission
 By the end of the nineteenth century, the British Empire spanned the globe. This map was intended to convince Britons of the benefits of empire. In it, Canada was primarily valued for its farmland and as a captive market for British goods. Library and Archives Canada, NMC8207, e011076405-v8.
 children in places as distant from one another as East Africa, Australia, and Siberia would be separated from their parents and sent to residential schools.46

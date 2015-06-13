@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 248 · Truth & Reconciliation Commission
 doctrines of superiority, including `discovery,' as a basis for the assumed sovereignty over Indigenous peoples and their lands and resources."29
 In his report to the un Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.

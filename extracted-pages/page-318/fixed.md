@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 312 · Truth & Reconciliation Commission
 healing that has happened as a result of working together for over five years. We will continue to remember the children of the past and present. In the Bentwood Box, as symbols of our work together, we place a program of the first ceremony, a dvd from the museum display, flower and ribbon pins from the third feast, and a copy of guidelines we have published of our experience, for those who wish to undertake a similar recovery of a residential school cemetery.165
 For the most part, the residential school cemeteries and burial sites that the Commission documented are abandoned, disused, and vulnerable to disturbance. While there have been community commemoration measures undertaken in some locations, there is an overall need for a national strategy for the documentation, maintenance, commemoration, and protection of residential school cemeteries. This work is complex and sensitive. Although former schools might be associated with specific Aboriginal communities, the cemeteries may contain the bodies of children from many communities. They may also contain the bodies of teachers (or their children) who died while working at the institutions. No one set of recommendations will serve all circumstances.

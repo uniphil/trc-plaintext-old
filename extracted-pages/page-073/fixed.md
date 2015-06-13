@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 67
 
 Graph 1 Residential school enrolment, 1869­70 to 1965­66

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 152 · Truth & Reconciliation Commission
 287. TRC, AVS, Andrew Bull Calf, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: 2011-0273.
 288. TRC, AVS, Evelyn Kelman, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: SP128.

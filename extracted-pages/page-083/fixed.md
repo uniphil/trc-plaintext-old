@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 77
 then went to work for the New York Life Insurance Company in Pennsylvania. A graduate of the Mohawk Institute, N. E. Lickers, was called to the bar in 1938 and was described by the Branford Expositor as the "First Ontario Indian Lawyer." 214
 Despite these successes, little encouragement generally was offered to students who wished to pursue further education. Oliver Martin, who was raised on the Six Nations Reserve in Ontario and went on to become an Ontario magistrate, recalled being told by Indian Affairs Deputy Minister Duncan Campbell Scott: "It's no use sending you Indians to school you just go back to the reserve anyway."215

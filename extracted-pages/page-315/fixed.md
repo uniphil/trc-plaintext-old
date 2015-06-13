@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The challenge of reconciliation · 309
 Missing children, unmarked graves, and residential school cemeteries
 Over the course of the Commission's work, many Aboriginal people spoke to us about the children who never came home from residential school. The question of what happened to their loved ones and where they were laid to rest has haunted families and communities. Throughout the history of Canada's residential school system, there was no effort to record across the entire system the number of students who died while attending the schools each year. The National Residential School Student Death Register, established by the Truth and Reconciliation Commission of Canada, represents the first national effort to record the names of the students who died at school. The register is far from complete: there are, for example, many relevant documents that have yet to be received, collected, and reviewed.

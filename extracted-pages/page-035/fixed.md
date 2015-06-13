@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 Commission activities · 29
 In recognition of the unique cultures of the Inuit, and of their experiences and the impacts of residential schools on them, the Commission also established an Inuit SubCommission. Seven regional liaison officers were hired with advice from the irssc and were assigned responsibility to work in the following regions: Québec and Atlantic Canada, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and Yukon and the Northwest Territories.
 Meeting from coast to coast

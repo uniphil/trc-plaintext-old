@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 290 · Truth & Reconciliation Commission
 iv. Establish senior-level positions in government at the assistant deputy minister level or higher dedicated to Aboriginal content in education.
 63) We call upon the Council of Ministers of Education, Canada to maintain an annual commitment to Aboriginal education issues, including:

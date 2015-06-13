@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 169
 523. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, A. Ogletree to Deputy Secretary, Department of Indian Affairs, 23 July 1926. [ELK-000331]
 524. TRC, NRA, Library and Archives Canada, RG10, volume 6371, file 764-1, part 1, M. Christianson to W. M. Graham, 28 October 1927. [PUL-001008]

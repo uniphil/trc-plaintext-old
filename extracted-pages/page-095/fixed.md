@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 89
 Ahousaht, British Columbia, students in the school cafeteria. British Columbia Archives, PN-15589.
 their accuracy. "In almost every instance when meals are mentioned by Inspectors they are said to be well cooked. I doubt very much whether they ever took a full regulation school meal of bread and dripping, or boiled beef and potatoes." In Benson's opinion, "The bill of fare is decidedly monotonous and makes no allowance for peculiarities of taste or constitution."322

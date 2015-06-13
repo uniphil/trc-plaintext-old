@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 20 · Truth & Reconciliation Commission
 the heart and of relationship, and not of government policy. Governments do a bad job of that.53
 Church representatives spoke about their struggles to right the relationship with Aboriginal peoples. In Inuvik, Anglican Archbishop Fred Hiltz told us that

@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 368 · Truth & Reconciliation Commission
 46. United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, "Access to Justice," 6, 8, 22­24, http://www.ohchr.org/Documents/Issues/ IPeoples/EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
 47. United Nations General Assembly, "Report of the Special Rapporteur," 13, 20. 48. See, for example: Borrows, Canada's Indigenous Constitution. 49. Canada, Royal Commission on Aboriginal Peoples, Highlights from the Report, http://www.aad-

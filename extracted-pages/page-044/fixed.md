@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 38 · Truth & Reconciliation Commission
 Tens of thousands participate in the Walk for Reconciliation through downtown Vancouver, September 2013.
 governed by a Trust Deed and Administrative Agreement signed by the Commission and the university. A Governing Circle and Survivors Circle play important roles in ensuring the promises undertaken to Survivors are honoured.

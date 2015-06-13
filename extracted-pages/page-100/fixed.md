@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 94 · Truth & Reconciliation Commission
 Graph 3 Residential school death rates for 1,000 students, Named and Unnamed registers combined, 1869 to 1965
 Death rate per 1,000 students 30

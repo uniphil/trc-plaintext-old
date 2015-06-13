@@ -1,3 +1,7 @@
+---
+clean_pagebreak: true
+---
+
 The history · 129
 by First Nations educational authorities. Of the 360 people working in the Saskatchewan schools in 1994, 220 were of Aboriginal ancestry--almost two-thirds of the total.648
 Most of the Aboriginal people who were hired by the schools worked as cooks, cleaners, and handymen. In 1954, Mrs. Clair, a Cree woman who had attended the school at Lac La Ronge, Saskatchewan, was working at the Carcross school in the Yukon. She was described by a superintendent as a "very fine person, willing worker and everyone likes her. Can certainly get the most out of the children."649 At the Wabasca, Alberta, school, Alphonse Alook was seen as being "a tower of strength to the Principal especially of late. Can do fair carpentering and is loyal to the school. Principal recommends an increase in his salary."650 Four young Aboriginal women, three of whom were sisters, had been hired to work at the Fort George, Québec, school in 1953.651 A 1956 report on three of them said, "The Herodier girls are all doing a fine job." They were not, however, being housed in the same way as non-Aboriginal staff. The report observed that it was fortunate that "the native girls do not mind doubling up in cramped quarters otherwise staff accommodation would be insufficient."652
