@@ -12,7 +12,9 @@ Truth & Reconciliation Commission Executive Summary (PDF, 14MB): http://www.trc.
 
 The PDF is split into pages with [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/).
 
-Each page is run thorough [`pdftotext`](http://www.foolabs.com/xpdf/home.html) to extract the text.
+Each page is run thorough [`pdftotext`](http://www.foolabs.com/xpdf/home.html) to extract the text, then through `pdfimages` to extract the images.
+
+The jpgs are all inverted for some reason, so `imagemagick` is used to re-invert them back to normal.
 
 The folder [extracted-pages/](extracted-pages/) contains a subfolder for each page, with the PDF page and extracted text.
 
