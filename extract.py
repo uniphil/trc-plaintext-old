@@ -5,18 +5,16 @@ import glob
 import shutil
 import subprocess
 
-ORIG = 'Exec_Summary_2015_05_31_web_o.pdf'
-PDF_DIR = 'pdf-pages'
-OUT_DIR = 'extracted-pages'
+import config as c
 
 
 def split_pages():
-    if len(os.listdir(OUT_DIR)) > 0:
+    if len(os.listdir(c.OUT_DIR)) > 0:
         return  # already done, delete OUT_DIR contents first to redo
     out_template = 'pdf-pages/page-%03d.pdf'
-    cmd = ['pdftk', ORIG, 'burst', 'output', out_template]
+    cmd = ['pdftk', c.ORIG, 'burst', 'output', out_template]
     if subprocess.call(cmd) is not 0:
-        raise SystemExit('Failed to split pages from', ORIG)
+        raise SystemExit('Failed to split pages from', c.ORIG)
 
 
 def is_pdf(filename):
@@ -30,12 +28,12 @@ def get_name(filename):
     }
 
 def extract(name):
-    pdfpath = '{0}/{1}'.format(PDF_DIR, name['orig'])
-    txtdir = '{0}/{1}'.format(OUT_DIR, name['name'])
-    txtpath = '{0}/{1}/extracted.txt'.format(OUT_DIR, name['name'])
-    mdpath = '{0}/{1}/fixed.md'.format(OUT_DIR, name['name'])
-    pdfoutpath = '{0}/{1}/page.pdf'.format(OUT_DIR, name['name'])
-    imageroot = '{0}/{1}/image'.format(OUT_DIR, name['name'])
+    pdfpath = '{0}/{1}'.format(c.PDF_DIR, name['orig'])
+    txtdir = '{0}/{1}'.format(c.OUT_DIR, name['name'])
+    txtpath = '{0}/{1}/extracted.txt'.format(c.OUT_DIR, name['name'])
+    mdpath = '{0}/{1}/{2}'.format(c.OUT_DIR, name['name'], c.CLEAN)
+    pdfoutpath = '{0}/{1}/page.pdf'.format(c.OUT_DIR, name['name'])
+    imageroot = '{0}/{1}/image'.format(c.OUT_DIR, name['name'])
 
     try:
         os.mkdir(txtdir)
@@ -76,6 +74,6 @@ if __name__ == '__main__':
         map(get_name,
             filter(is_pdf,
                 os.listdir(
-                    PDF_DIR))))
+                    c.PDF_DIR))))
     print('insert frontmatter...')
-    map(insert_frontmatter, glob.glob('{0}/*/fixed.md'.format(OUT_DIR)))
+    map(insert_frontmatter, glob.glob('{0}/*/{1}'.format(c.OUT_DIR, c.CLEAN)))
