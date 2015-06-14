@@ -48,8 +48,11 @@ Fixup example: [Pages 1-10](https://github.com/uniphil/trc-plaintext/pull/1/file
  * [ ] Extract plain-text
       * [x] Split PDF into pages (so that the plain-text produced can be easily sourced back to the original document) [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
       * [x] Extract text strings from each page with [pdftotext](http://www.foolabs.com/xpdf/home.html)
-      * [ ] Extract images from each page with `pdfimages` (also from `xpdf`)
+      * [x] Extract images from each page with `pdfimages` (also from `xpdf`)
       * [ ] Fix and mark up the extracted text, one markdown document per page
+
+ * [ ] Rejoin into a giant markdown document
+      * [ ] Write a python script for it
 
  * [ ] Compile plain-text into useable formats
       * [ ] HTML:
