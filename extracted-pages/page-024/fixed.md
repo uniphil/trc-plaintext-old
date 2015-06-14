@@ -8,7 +8,7 @@ Over the course of its work, the Commission created space for exploring the mean
 
 Many spoke to honour the memory of relatives who have passed on. Simone, an Inuk Survivor from Chesterfield Inlet, Nunavut, said,
 
-> I'm here for my parents--`Did you miss me when I went away?' `Did you cry for me?'--and I'm here for my brother, who was a victim, and my niece at the age of five who suffered a head injury and never came home, and her parents never had closure. To this day, they have not found the grave in Winnipeg. And I'm here for them first, and that's why I'm making a public statement. [[intro:49]]
+> I'm here for my parents--'Did you miss me when I went away?' 'Did you cry for me?'--and I'm here for my brother, who was a victim, and my niece at the age of five who suffered a head injury and never came home, and her parents never had closure. To this day, they have not found the grave in Winnipeg. And I'm here for them first, and that's why I'm making a public statement. [[intro:49]]
 
 Others talked about the importance of reconciling with family members, and cautioned that this process is just beginning. Patrick Etherington, a Survivor from St. Anne's residential school in Fort Albany, Ontario, walked with his son and others from Cochrane, Ontario, to the National Event in Winnipeg. He said that the walk helped him to reconnect with his son, and that he "just wanted to be here because I feel this process that we are starting, we got a long ways to go." [[intro:50]]
 
