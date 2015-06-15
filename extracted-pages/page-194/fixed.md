@@ -4,7 +4,7 @@ clean_pagebreak: true
 
 Better research and data are also required in order to monitor and develop strategies to reduce the overrepresentation of Aboriginal children in care.
 Call to Action
-2) We call upon the federal government, in collaboration with the provinces and territories, to prepare and publish annual reports on the number of Aboriginal children (First Nations, Inuit, and Métis) who are in care, compared with non-Aboriginal children, as well as the reasons for apprehension, the total spending on preventive and care services by child-welfare agencies, and the effectiveness of various interventions.
+2) We call upon the federal government, in collaboration with the provinces and territories, to prepare and publish annual reports on the number of Aboriginal children (First Nations, Inuit, and Mtis) who are in care, compared with non-Aboriginal children, as well as the reasons for apprehension, the total spending on preventive and care services by child-welfare agencies, and the effectiveness of various interventions.
 Death and abuse of children in care
 The child-welfare system apprehends too many Aboriginal children while, at the same time, failing to protect them. The Commission heard many stories of mistreatment in foster homes. One woman told us that her foster parents physically and sexually abused her. Her Aboriginal identity was constantly disparaged. She said, "[My foster parents were] adamant about Aboriginal culture being less than human, living as dirty bush people, eating rats. It made me not want to be one of those people. And for years, I didn't know how to be proud of who I was because I didn't know who I was."21
 Linda Clarke was placed in a foster home with three other children.
