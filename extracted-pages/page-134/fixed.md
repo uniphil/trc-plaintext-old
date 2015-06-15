@@ -81,5 +81,3 @@ Duck Lake, and Qu'Appelle, Saskatchewan; and Fort George, Québec.647 Although th
 number of schools declined rapidly from 1969 onwards, they became a significant source
 
 of Aboriginal employment, particularly in Saskatchewan, where six schools were operated
-
-

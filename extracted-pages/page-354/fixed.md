@@ -10,5 +10,3 @@ The 2010 Winter Olympics in Vancouver, British Columbia, were held on the tradit
 91) We call upon the officials and host countries of international sporting events such as the Olympics, Pan Am, and Commonwealth games to ensure that Indigenous peoples' territorial protocols are respected, and local Indigenous communities are engaged in all aspects of planning and participating in such events.
 Corporate sector: Land, sustainability, and economic development
 Survivors and their family members told us that their hope for the future lies in reclaiming and regenerating their own cultures, spirituality, laws, and ways of life that are deeply connected to their homelands. Indigenous nations are already doing this work in their
-
-

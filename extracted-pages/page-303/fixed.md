@@ -10,5 +10,3 @@ The Commission emphasizes that several articles under the United Nations Declara
 · Indigenous peoples have the right to practise and revitalize their cultural traditions and customs. This includes the right to maintain, protect and develop the past, present and future manifestations of their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and visual and performing arts and literature. [Article 11:1]
 · States shall provide redress through effective mechanisms which may include restitution, developed in conjunction with indigenous peoples, with respect to their cultural, intellectual, religious and spiritual property taken without their free, prior and informed consent or in violation of their laws, traditions and customs. [Article 11:2]
 · Indigenous peoples have the right to manifest, practise, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect and have access in privacy to their religious and cultural sites; the right to use and
-
-

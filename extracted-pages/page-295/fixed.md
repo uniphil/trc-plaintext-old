@@ -12,5 +12,3 @@ Calls to Action
 i. Make age-appropriate curriculum on residential schools, Treaties, and Aboriginal peoples' historical and contemporary contributions to Canada a mandatory education requirement for Kindergarten to Grade Twelve students.
 ii. Provide the necessary funding to post-secondary institutions to educate teachers on how to integrate Indigenous knowledge and teaching methods into classrooms.
 iii. Provide the necessary funding to Aboriginal schools to utilize Indigenous knowledge and teaching methods in classrooms.
-
-

@@ -13,5 +13,3 @@ clean_pagebreak: true
 520. TRC, NRA, English Language Summary of the Fort Resolution Chronicles, Volume 1, 1903­1942, 3. [GNN-000077-0001]
 521. TRC, NRA, Library and Archives Canada, RG10, Perm. volume 6451, file 883-1, part 1, Bella Coola Agency ­ Kitamaat Boarding School ­ General Administration, 1906­1932, FA 10-17, Microfilm reel C-8773; [KMT-095676-0001] TRC, NRA, Library and Archives Canada, "Royal Canadian Mounted Police Report, Re: Kitimat Indian Reserve, Re: Hanna Grant, Deceased, 15 June 1922," I. Fougner to Secretary, Indian Affairs, 15 June 1922. [KMT-095674]
 522. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, 773/251-003, 05/36­09/70, volume 1, RCAP, R. D. Ragan, "Extract from minutes of Blood Indian Council Meeting March 15, 1948." [MRY-000302] For Charron's initials, see: TRC, NRA, National Archives of Canada, RG29, volume 974, file 388-6-4, part 1, 02/1948­07/1949, B. F. Neary to P. A. Charron, 21 July 1948. [120.03363]
-
-

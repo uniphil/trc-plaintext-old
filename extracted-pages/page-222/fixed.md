@@ -12,5 +12,3 @@ Other claimants, such as Amelia Galligos-Thomas, a former student at Sechelt res
 I've been waiting five years now for my appeal, and it hasn't happened yet. And it's almost time for them to stop giving the money out to us. And they opened up all our wounds, for what? To turn us all down? And some people are dying.... My sister's doing drugs, like, 'cause she's tired of waiting. She's living on the streets. So, so, why did they do this to us, again? They hurt us again. They shouldn't go back on their word to us. They already hurt us. Stop hurting us.128
 Exclusions from the Settlement
 Not all Survivors of residential school abuse were included in the Settlement Agreement. For example, day school students, many Métis students, and pupils from schools in
-
-

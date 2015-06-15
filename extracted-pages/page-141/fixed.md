@@ -22,5 +22,3 @@ Endnotes
 16. TRC, AVS, Murray Crowe, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0306.
 17. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.
 18. TRC, AVS, Martin Nicholas, Statement to the Truth and Reconciliation Commission of Canada, Grand Rapids, Manitoba, 24 February 2010, Statement Number: 07-MB-24FB10-001.
-
-

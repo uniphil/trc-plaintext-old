@@ -68,5 +68,3 @@ began taking in students in 1867.87
 
 The colonization of the Northwest
 After the Canadian state was established in 1867, the federal government began making small per-student grants to many of the church-run boarding schools. Federal government involvement in residential schooling did not begin in earnest until the 1880s. The catalyst for this expansion was the 1870 transfer of much of contemporary Alberta, Saskatchewan,
-
-

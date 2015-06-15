@@ -11,5 +11,3 @@ About 1% of Canadian children are born with some form of disability related to p
 Call to Action
 33) We call upon the federal, provincial, and territorial governments to recognize as a high priority the need to address and prevent Fetal Alcohol Spectrum Disorder (fasd), and to develop, in collaboration with Aboriginal people, fasd preventive programs that can be delivered in a culturally appropriate manner.
 It is challenging for courts to deal with offenders with fasd, because obtaining an official diagnosis entails a long and costly process of multidisciplinary referrals. Even if trial judges have been educated about the symptoms of fasd, they are generally unable to take notice of fasd without evidence of a diagnosis.147 Clearly, better diagnostic tools are
-
-

@@ -11,5 +11,3 @@ Language rights
 In interpreting Aboriginal and Treaty rights under Section 35(1) of the Constitution Act, 1982, the Supreme Court of Canada has stressed the relation of those rights to the preservation of distinct Aboriginal cultures.88 The Commission concurs. The preservation of Aboriginal languages is essential and must be recognized as a right.
 Call to Action
 13) We call upon the federal government to acknowledge that Aboriginal rights include Aboriginal language rights.
-
-

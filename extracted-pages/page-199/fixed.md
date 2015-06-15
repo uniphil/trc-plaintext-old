@@ -10,5 +10,3 @@ Education is a fundamental human and Aboriginal right, guaranteed in Treaties, i
 Education and the income gap
 It is not surprising that, faced with terrible conditions and mostly ineffective teaching, many students left school as soon as they could. A 2010 study of Aboriginal parents and children living off reserves found that the high school completion rate is lower for former residential school students (28%) than for those who did not attend (36%).40 Only 7% of the parents who attended residential school have obtained a university degree, compared with 10% for those Aboriginal parents who had never attended these institutions.41
 Although secondary school graduation rates for all Aboriginal people have improved since the closure of the schools, considerable gaps remain when compared with the rates
-
-

@@ -16,5 +16,3 @@ iv. Support for the renewal or establishment of Treaty relationships based on pr
 v. Enabling those excluded from the Settlement Agreement to sign onto the Covenant of Reconciliation.
 vi. Enabling additional parties to sign onto the Covenant of Reconciliation.
 Governments at all levels of Canadian society must also commit to a new framework for reconciliation to guide their relations with Aboriginal peoples.
-
-

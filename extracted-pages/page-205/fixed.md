@@ -11,5 +11,3 @@ Aboriginal families continue to suffer from a general lack of early childhood ed
 Call to Action
 12) We call upon the federal, provincial, territorial, and Aboriginal governments to develop culturally appropriate early childhood education programs for Aboriginal families.
 To close the education and income gaps, there needs to be stable and adequate funding of Aboriginal education that takes into account the challenges of the legacy of residential
-
-

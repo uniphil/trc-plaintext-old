@@ -12,5 +12,3 @@ Call to Action:
 3) We call upon all levels of government to fully implement Jordan's Principle.
 Improving outcomes for children
 Although there is now considerable Aboriginal control of child-welfare services, Aboriginal agencies still struggle for adequate funding. There is a need for more funding and research into preventive services that can support Aboriginal families. At the same time, many of the conditions that result in disproportionate Aboriginal involvement in the child-welfare system are related to more intractable legacies of residential schools,
-
-

@@ -9,5 +9,3 @@ Just as Survivors were involved in the long struggle to achieve a legally bindin
 The power of ceremony
 Sacred ceremony has always been at the heart of Indigenous cultures, law, and political life. When ceremonies were outlawed by the federal government, they were hidden away until the law was repealed. Historically and, to a certain degree, even at present, Indigenous ceremonies that create community bonds, sanctify laws, and ratify Treaty making have been misunderstood, disrespected, and disregarded by Canada. These ceremonies must now be recognized and honoured as an integral, vital, ongoing dimension of the truth and reconciliation process.
 Ceremonies also reach across cultures to bridge the divide between Aboriginal and non-Aboriginal peoples. They are vital to reconciliation because of their sacred nature
-
-

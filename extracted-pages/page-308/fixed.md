@@ -10,5 +10,3 @@ It must be noted that although we have focused on national museums here, regiona
 Calls to Action
 67) We call upon the federal government to provide funding to the Canadian Museums Association to undertake, in collaboration with Aboriginal peoples, a national review of museum policies and best practices to determine the level of compliance with the United Nations Declaration on the Rights of Indigenous Peoples and to make recommendations.
 68) We call upon the federal government, in collaboration with Aboriginal peoples, and the Canadian Museums Association to mark the 150th anniversary of Canadian Confederation in 2017 by establishing a dedicated national funding program for commemoration projects on the theme of reconciliation.
-
-

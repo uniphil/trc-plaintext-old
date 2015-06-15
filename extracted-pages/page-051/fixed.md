@@ -80,5 +80,3 @@ he attended the Hobbema school in Alberta, he "lived with fear."29 Of his years 
 ferent Manitoba schools, Timothy Henderson said, "Every day was, you were in constant
 
 fear that, your hope was that it wasn't you today that we're going to, that was going to be
-
-

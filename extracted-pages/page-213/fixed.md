@@ -11,5 +11,3 @@ Call to Action
 The health gap
 There are troubling gaps in health outcomes between Aboriginal and non-Aboriginal Canadians. For example:
 · The infant mortality rates for First Nations and Inuit children range from 1.7 to over 4 times the non-Aboriginal rate.108
-
-

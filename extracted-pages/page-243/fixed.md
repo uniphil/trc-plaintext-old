@@ -9,5 +9,3 @@ An important process of healing and reconciling that relationship began in the 1
 Reconciliation is in the best interests of all of Canada. It is necessary not only to resolve the ongoing conflicts between Aboriginal peoples and institutions of the country, but also in order for Canada to remove a stain from its past and be able to maintain its claim to be a leader in the protection of human rights among the nations of the world. Canada's historical development, as well as the view held strongly by some that the history of that development is accurate and beneficent, raises significant barriers to reconciliation in the twenty-first century.
 No Canadian can take pride in this country's treatment of Aboriginal peoples, and, for that reason, all Canadians have a critical role to play in advancing reconciliation in ways that honour and revitalize the nation-to-nation Treaty relationship.
 At the Truth and Reconciliation Commission of Canada's (trc) Traditional Knowledge Keepers Forum held in June 2014, Chief Ian Campbell said, "Our history is your history, as Canada ... until Canada accepts that ... this society will never flourish to its full potential."1
-
-

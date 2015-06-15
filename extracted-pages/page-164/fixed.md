@@ -14,5 +14,3 @@ clean_pagebreak: true
 379. Waldram, Herring, and Young, Aboriginal Health in Canada, 188­198; Wherrett, Miracle of the Empty Beds, 109­110.
 380. Library and Archives Canada, Canadian Tuberculosis Association, quoted in Wherrett, Miracle of the Empty Beds, 111.
 381. Library and Archives Canada, RG10, volume 3940, file 121698-13, Summary of statements made at meeting attached to correspondence, H. R. Halpin to Secretary, Indian Affairs, 16 November 1897. For Kah-pah-pah-mah-am-wa-ko-we-ko-chin's name and
-
-

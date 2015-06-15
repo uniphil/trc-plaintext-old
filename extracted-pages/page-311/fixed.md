@@ -11,5 +11,3 @@ Gaining access to archival government records about the administration of the re
 In April 2012, the Commission was compelled to file a "Request for Direction" in the Ontario Superior Court of Justice regarding access to relevant federal records housed in the national archives. At issue was the question of what Canada's obligations were under the Settlement Agreement with respect to providing to the trc archived government documents housed at Library and Archives Canada. The Commission, Aboriginal Affairs and Northern Development Canada, the Department of Justice, and Library and Archives Canada had very different views as to how the trc should acquire these records.
 In lac's view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
 Faced with the onerous task of conducting its own research through lac's vast holdings, Canada's position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments. The government's
-
-

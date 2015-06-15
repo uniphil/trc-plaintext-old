@@ -9,5 +9,3 @@ When I lost my son here in 2003, I needed counselling for me and my children. I 
 A former student at Guy Hill residential school in Manitoba, M. R. E. Linklater, also emphasized the need for more community-based services when she spoke with the Commission.
 More programs should be put on for our children and our grandchildren and our great-grandchildren 'cause they need to understand why their parents are the way they are. Why so many of our people are so into alcohol and drug addiction, and for myself, I know why, it's to survive or not to go back there. Our children need more education, support, more programs, not to cut the programs that they have in place.116
 Health reforms often involve Aboriginal people in complex jurisdictional disputes and tripartite negotiations with both the federal and provincial or territorial governments. Such jurisdictional disputes have particularly affected Métis, non-status, and urban Aboriginal people, as the federal government insists that providing services to these groups is a provincial and territorial responsibility.
-
-

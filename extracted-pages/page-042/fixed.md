@@ -10,5 +10,3 @@ The Commission worked throughout its mandate to educate the public about the leg
 In the final year of its mandate, the Commission organized two events to gather additional information for its report. It held a Traditional Knowledge Keepers Forum to learn how traditional Aboriginal knowledge can contribute to reconciliation. It also organized, with the support of Égale Canada Human Rights Trust, a forum with members of the Two Spirit community to discuss the impacts of residential schools and what needs to be done to support reconciliation and healing in that community.
 Commemoration and community events funding
 The Settlement Agreement allocated $20 million for commemoration initiatives. These were defined as initiatives that would honour, educate, remember, memorialize, and pay tribute to former residential school students, their families, and their communities. The
-
-

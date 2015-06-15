@@ -10,5 +10,3 @@ The answers are shocking: some students had no knowledge, or simply complete ind
 So there's a huge disconnect in terms of how the young people view the relevance of this legacy and what knowledge they have of it. When that video was shared with people involved in designing the secondary school curriculum for the Northwest Territories and Nunavut, they could not believe that their youth had such reactions.
 So the curriculum on residential schools, which was previously barely addressed in the classroom, was revised to be a mandatory 25 hours of instruction, of which Ms. Brown and Ms. Tilden's video is a critical component.125
 In October of 2011, the trc­ictj initiative prepared and supported a group of Mi'kmaq youth reporters at the Halifax National Event. They interviewed Survivors and documented the trc event. At a follow-up retreat in the community, the young reporters discussed their experiences and produced a documentary called Our Legacy, Our Hope.126 In 2012, the documentary was presented at the Youth Dialogue during the trc's National Event
-
-

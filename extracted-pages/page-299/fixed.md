@@ -11,5 +11,3 @@ The benefits of research extend beyond addressing the legacy of residential scho
 Research partnerships between universities and communities or organizations are fruitful collaborations and can provide the necessary structure to document, analyze, and report research findings on reconciliation to a broader audience.
 Call to Action
 65) We call upon the federal government, through the Social Sciences and Humanities Research Council, and in collaboration with Aboriginal peoples, post-secondary institutions and educators, and the National Centre for Truth and Reconciliation and its partner institutions, to establish a national research program with multi-year funding to advance understanding of reconciliation.
-
-

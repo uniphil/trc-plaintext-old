@@ -11,5 +11,3 @@ A just reconciliation requires more than simply talking about the need to heal t
 In every region of the country, Survivors and others have sent a strong message, as received by this Commission: for reconciliation to thrive in the coming years, Canada must move from apology to action.
 Canada's apology
 June 11, 2008, was an important day for the Aboriginal peoples of Canada, and for the country as a whole. It has come to be known as the "Day of the Apology," the day when Prime Minister Stephen Harper, and the leaders of all other federal political parties, formally apologized in the House of Commons for the harms caused by the residential school system. In their presentations to the trc, many Survivors clearly recalled the day of the apology. They recalled where they were, who they were with, and, most importantly, how they felt. Many spoke of the intense emotions they had when they heard the prime minister acknowledge that it had been wrong for the government to have taken them away from their families for the purpose of "killing the Indian" in them. They talked of the tears that fell when they heard the words "We are sorry."
-
-

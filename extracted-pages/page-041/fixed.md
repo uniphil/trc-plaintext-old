@@ -9,5 +9,3 @@ The Commission was able to share its work with Canadians everywhere, and with a 
 Witnessing and expressions of reconciliation
 One of the goals of the Commission's public outreach activities was to encourage Canadians from all backgrounds to learn more about the legacy of residential schools and take part in the work of reconciliation by witnessing Commission events.
 Inviting respected guests to represent all witnesses at an event or the conduct of business gives the event import and legitimacy and is in keeping with the traditions of many Aboriginal cultures. To this end, the Commission appointed Honorary Witnesses to be present at its major events. Her Excellency, the Right Honourable Michaëlle Jean, who served as governor general of Canada at the start of the Commission's mandate, agreed to be the Commission's first Honorary Witness. She began her role as a witness by hosting a
-
-

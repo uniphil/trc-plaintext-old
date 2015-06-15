@@ -9,5 +9,3 @@ The Commission notes that the use of creative arts in community workshops promot
 A notable component of successful healing programs was their diversity-- interventions were blended and combined to create holistic programs that met the physical, emotional, cultural, and spiritual needs of participants. Not surprisingly, arts-based interventions were included in many cultural activities (drum making, beading, singing, and drumming) as well as in therapeutic healing (art therapy and psychodrama).210
 The Aboriginal Healing Foundation's findings make clear that creative art practices are highly effective in reconnecting Survivors and their families to their cultures, languages, and communities. In our view, this confirms yet again that funding for community-based healing projects is an urgent priority for Aboriginal communities.
 Art exhibits have played a particularly powerful role in the process of healing and reconciliation. In 2009, nationally acclaimed Anishinaabe artist Robert Houle, who attended the
-
-

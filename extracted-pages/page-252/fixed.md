@@ -9,5 +9,3 @@ Regarding the question of the doctrine of discovery and the role of the Papal Bu
 For many, that Catholic statement was inadequate. The doctrine's influence in Western law and its destructive consequences for Indigenous peoples have been well documented by scholars and other experts.22
 In 2014, the North American representative to the un Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the "Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress." The study concluded:
 With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an "abrogation process took place over the centuries" to invalidate such nefarious actions. Such papal renunciations do not go far enough. There is a pressing
-
-

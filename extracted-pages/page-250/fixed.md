@@ -10,5 +10,3 @@ In the face of growing conflicts over lands, resources, and economic development
 Calls to Action
 43) We call upon federal, provincial, territorial, and municipal governments to fully adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples as the framework for reconciliation.
 44) We call upon the Government of Canada to develop a national action plan, strategies, and other concrete measures to achieve the goals of the United Nations Declaration on the Rights of Indigenous Peoples.
-
-

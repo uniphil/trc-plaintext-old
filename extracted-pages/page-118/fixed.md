@@ -10,5 +10,3 @@ Many students stated that sports helped them make it through residential school.
 One of the good things that I would do to try and get out of just the abuse was try to, I would join track-meet, try and be, and I was quite athletic in boarding school. And I also joined the band, and I played a trombone. And, and that was something that took me away from the school, and just to, it was a relief.495
 Paul Andrew spent seven years at Grollier Hall in Inuvik. One of his strongest and most positive memories related to school sports. "There were times when I felt dumb and stupid. But put me in a gym, there was not too many people better than I am."496
 Recreational activities were always underfunded and undersupplied at the schools. A national survey of Indian Affairs schools (both day and residential) in 1956 concluded:
-
-

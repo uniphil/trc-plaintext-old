@@ -8,5 +8,3 @@ clean_pagebreak: true
 300. Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
 301. Video recordings of the Walk for Reconciliation are available at: Reconciliation Canada, http://reconciliationcanada.ca/2013/09/ (accessed 15 April 2015).
 302. Elders Statement, "A Shared Tomorrow." The statement and video recording of the Elders Circle are available at: Reconciliation Canada, http://reconciliationcanada.ca/explore/elders-statement/ (accessed 15 April 2015).
-
-

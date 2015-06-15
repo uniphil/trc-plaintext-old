@@ -56,5 +56,3 @@ At first we got together just for fun. But eventually ... we formed a band. Ther
 
 They played at dances at the residence and in Hay River.507 Canadien went on to play in the Chieftones, a rock-and-roll band that toured extensively across North America.508
 On the rinks, the athletic fields, and parade grounds, or in the arts and handicraft rooms and on performance stages, many students found a way to express themselves, and, through that, gained the opportunity to explore their own talents and sometimes other parts of the country or the world. Most importantly, they gained some confidence in their ability to achieve.
-
-

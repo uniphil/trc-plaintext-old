@@ -9,5 +9,3 @@ The nctr also works in direct partnership with a growing number of universities,
 Officially opening in the summer of 2015, the nctr will be the permanent home for all statements, documents, and other materials gathered by the Commission. In future, it will house other Indigenous collections. The nctr will encourage and engage in respectful dialogue on many issues that hinder or foster reconciliation. It will ensure that:
 · Survivors and their families have access to their own history; · educators can share the residential school history with new generations of students; · researchers can delve more deeply into the residential school experience and legacy; · the public can access historical records and other materials to help foster reconcili-
 ation and healing; and
-
-

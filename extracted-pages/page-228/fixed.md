@@ -14,5 +14,3 @@ iv. Adopting appropriate evaluation mechanisms to measure the effectiveness of s
 Cultural services in prisons and jails
 Studies based on interviews with Aboriginal inmates have confirmed that Aboriginal culture and spirituality can contribute to the healing of the inmates, to increased self-esteem, and to positive changes in lifestyle that make release and reintegration a real possibility.149 Research suggests that recidivism rates for Aboriginal offenders who had participated in spiritual activities (such as sweat lodge ceremonies) were lower than for those who had not.150
 However, Aboriginal people receive few services in provincial correctional facilities that are designed for those serving sentences of two years less a day or are awaiting trial. Only
-
-

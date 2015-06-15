@@ -15,5 +15,3 @@ The Commission believes that to be an effective force for reconciliation, curric
 This is consistent with the United Nations Declaration on the Rights of Indigenous Peoples, which articulates the state's responsibility with regard to public education and the promotion of respectful relationships between citizens, as follows:
 Indigenous peoples have the right to the dignity and diversity of their cultures, traditions, histories and aspirations which shall be appropriately reflected in education and public information. [Article 15:1]
 States shall take effective measures, in consultation and cooperation with the indigenous peoples concerned, to combat prejudice and eliminate discrimination and to promote tolerance, understanding and good relations among indigenous peoples and all other segments of society. [Article 15:2]
-
-

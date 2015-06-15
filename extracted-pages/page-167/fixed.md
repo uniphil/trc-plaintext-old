@@ -21,5 +21,3 @@ The history · 161
 428. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.
 429. Adams, "The Indians." 430. TRC, NRA, Library and Archives Canada, "Native Mission School Shut Down over
 Discipline Controversy," by Margaret Loewen Reimer, Mennonite Reporter, Volume 19, Number 22, 13 November 1989. [PHD-000143] 431. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 372/25-13-024, volume 1, C. T. Blouin and L. Poulin, to A. R. Jolicoeur, 13 October 1970. [LTR-001178-0001]
-
-

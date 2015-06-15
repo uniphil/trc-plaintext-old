@@ -12,5 +12,3 @@ i. The Aboriginal community most affected shall lead the development of such str
 ii. Information shall be sought from residential school Survivors and other Knowledge Keepers in the development of such strategies.
 iii. Aboriginal protocols shall be respected before any potentially invasive technical inspection and investigation of a cemetery site.
 The Commission believes that assisting families to learn the fate of children who died in residential schools; locating unmarked graves; and maintaining, protecting, and commemorating residential school cemeteries are vital to healing and reconciliation. Archives and government departments and agencies have a crucial role to play in this process. Equally important, archival records can help Survivors, their families, and communities to reconstruct their family and community histories. Yet, accessing such holdings is not without problems.
-
-

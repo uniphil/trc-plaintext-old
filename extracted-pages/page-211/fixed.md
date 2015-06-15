@@ -12,5 +12,3 @@ Call to Action
 17) We call upon all levels of government to enable residential school Survivors and their families to reclaim names changed by the residential school system by waiving administrative costs for a period of five years for the name-change process and the revision of official identity documents, such as birth certificates, passports, driver's licenses, health cards, status cards, and social insurance numbers.
 Health
 Residential schools endangered the health and well-being of the children who attended them. Many students succumbed to infectious disease, particularly tuberculosis. Sexual and physical abuse, as well as separation from families and communities, caused lasting trauma for many others. The effects of this trauma were often passed on to the children
-
-

@@ -10,5 +10,3 @@ The Commission strongly believes that Survivors' stories must be preserved. The 
 The National Events
 The four-day National Events served as important milestones over the course of the Commission's six-year mandate. As well as offering a forum for Survivors and their families, the National Events raised public awareness of the history and legacy of residential schools. They also built momentum for the collective journey towards national healing and reconciliation--a journey that will need to continue well beyond the Commission's closing ceremony.
 Traditional knowledge and practice guided much of the Commission's work. The Seven Sacred Teachings of the Anishinaabe--Respect, Courage, Love, Truth, Humility, Honesty, and Wisdom--served as the themes for the seven National Events, and ceremony and traditional observance played an important part in the National Events. Sacred fires were lit at the beginning of each National Event and every day's proceedings began with ceremony.
-
-

@@ -12,5 +12,3 @@ Obtaining precise information on the state of health of Aboriginal people in Can
 Call to Action
 19) We call upon the federal government, in consultation with Aboriginal peoples, to establish measurable goals to identify and close the gaps in health outcomes between Aboriginal and non-Aboriginal communities, and to publish annual progress reports and assess long-term trends. Such efforts would focus on indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.
 In 2003, the First Ministers' Accord on Health Care Renewal recognized the obvious: that Aboriginal peoples face serious health challenges. The accord committed to making
-
-

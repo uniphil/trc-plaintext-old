@@ -9,5 +9,3 @@ Bernard Catcheway recalled that in the 1960s at the Pine Creek, Manitoba, school
 Some schools did make allowances for traditional foods. Simon Awashish recalled being allowed to trap for food while attending the Amos, Québec, school.
 When we brought in hares, we were asked if ... there was some members of our nation that came to work in the kitchen, and we asked them to cook the hare for us in the traditional Atikameg way, in order to keep some sort of contact with our traditional food that we had before, before we were separated from our community.340
 Students who spoke of hunger also spoke of their efforts to improve their diet secretly. Woodie Elias recalled being hungry all the time at the Anglican school in Aklavik. "Once in a while we go raid the cellar and you can't call that stealing; that was our food."341 When Dorothy Nolie helped out in the Alert Bay school kitchen, she and her co-workers would eat bread as they sliced it. "Kids would come to me and ask me for bread, and I'd sneak it
-
-

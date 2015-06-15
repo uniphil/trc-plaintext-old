@@ -11,5 +11,3 @@ The Commission believes that the revitalization and application of Indigenous la
 We have concluded that the right of self-government cannot reasonably be exercised by small, separate communities, whether First Nations, Inuit or Métis. It should be exercised by groups of a certain size--groups with a claim to the term `nation'.
 The problem is that the historical Aboriginal nations were undermined by disease, relocations and the full array of assimilationist government policies. They were fragmented into bands, reserves and small settlements. Only some operate as collectivities now. They will have to reconstruct themselves as nations.49
 We endorse the approach recommended by the Royal Commission.
-
-

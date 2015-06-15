@@ -14,5 +14,3 @@ Education for reconciliation
 Much of the current state of troubled relations between Aboriginal and non-Aboriginal Canadians is attributable to educational institutions and what they have taught, or failed to teach, over many generations. Despite that history, or, perhaps more correctly, because of its potential, the Commission believes that education is also the key to reconciliation. Educating Canadians for reconciliation involves not only schools and post-secondary institutions, but also dialogue forums and public history institutions such as museums and archives. Education must remedy the gaps in historical knowledge that perpetuate ignorance and racism.
 But education for reconciliation must do even more. Survivors told us that Canadians must learn about the history and legacy of residential schools in ways that change both minds and hearts. At the Manitoba National Event in Winnipeg, Allan Sutherland said,
 There are still a lot of emotions [that are] unresolved. People need to tell their stories.... We need the ability to move forward together but you have to understand
-
-

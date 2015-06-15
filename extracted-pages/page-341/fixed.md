@@ -10,5 +10,3 @@ In May of 2013, the Alberni residential school paintings were displayed in a spe
 In September 2013, the paintings returned once again to the Learning Place at the trc's British Columbia National Event in Vancouver, and the group made an expression of reconciliation by providing copies of the artwork to the Commission's Bentwood Box, to become part of the permanent record of the Commission's work.
 Canada's public commemoration initiative
 The Commission takes note of the federal government's own national commemoration initiative, which was described as an "expression of reconciliation" when it was publicly
-
-

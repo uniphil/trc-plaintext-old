@@ -16,5 +16,3 @@ clean_pagebreak: true
 42. TRC, AVS, Evelyn Brockwood, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.
 43. Indian Residential Schools Settlement Agreement, Schedule N, Principles, 1, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015).
 44. Johnston, "Aboriginal Traditions," 141­159. 45. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada,
-
-

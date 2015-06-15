@@ -12,5 +12,3 @@ Call to Action
 52) We call upon the Government of Canada, provincial and territorial governments, and the courts to adopt the following legal principles:
 i. Aboriginal title claims are accepted once the Aboriginal claimant has established occupation over a particular territory at a particular point in time.
 ii. Once Aboriginal title has been established, the burden of proving any limitation on any rights arising from the existence of that title shifts to the party asserting such a limitation.
-
-

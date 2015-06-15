@@ -23,5 +23,3 @@ clean_pagebreak: true
 36. TRC, AVS, Rick Gilbert, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: 2011-2389.
 37. TRC, AVS, Nick Sibbeston, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
 38. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Prince Albert, Saskatchewan, 1 February 2012, Statement Number: 2011-3879.
-
-

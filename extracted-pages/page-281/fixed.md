@@ -11,5 +11,3 @@ When the late Alvin Dixon, Chair of the United Church of Canada's Indian Residen
 The apologies don't come readily. They don't come easily. And when we heard the apology in 1986, those of us First Nations members of the United Church didn't accept the apology but we agreed to receive it and watch and wait and work with the United Church to put some flesh, to put some substance to that apology. And we all believed that apologies should be words of action, words of sincerity that should mean something.... Our task is to make sure that the United Church lives up to that apology in meaningful ways....
 You know, our work is just beginning and we're going to hold the church's feet to the fire, other churches and Canada to make sure that this whole exercise of healing goes on for as long as it takes for us to recover from the impacts of our experiences in those residential schools.
 The other issue that comes up that we are addressing is having our native spiritual practice condemned initially not just by the United Church but all churches ... well, we now have our church supporting Native spiritual gatherings and we're going to
-
-

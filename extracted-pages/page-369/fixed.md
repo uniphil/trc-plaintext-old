@@ -9,5 +9,3 @@ In November 2012, Elders from Indigenous nations and many other cultures gathere
 As Canadians, we share a responsibility to look after each other and acknowledge the pain and suffering that our diverse societies have endured--a pain that has been handed down to the next generations. We need to right those wrongs, heal together, and create a new future that honours the unique gifts of our children and grandchildren.
 How do we do this? Through sharing our personal stories, legends and traditional teachings, we found that we are interconnected through the same mind and spirit. Our traditional teachings speak to acts such as holding one another up, walking together, balance, healing and unity. Our stories show how these teachings can heal their pain and restore dignity. We discovered that in all of our cultural traditions, there are teachings about reconciliation, forgiveness, unity, healing and balance.
 We invite you to search in your own traditions and beliefs, and those of your ancestors, to find these core values that create a peaceful harmonious society and a healthy earth.302
-
-

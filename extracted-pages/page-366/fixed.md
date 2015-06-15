@@ -11,5 +11,3 @@ How is it that our histories ... [have] so many similarities in terms of violenc
 Ali Kazimi said,
 I came [to Canada] from India thirty years ago.... One of the things that became apparent to me right away was that I came [here] with my own baggage of stereotypes [of Aboriginal peoples]. These were defined by what I had seen in Hollywood films and comic books.... I spent a lot of time in Toronto going to soup kitchens, hanging out with people, trying to understand what the current reality is of First Nations people in an urban centre like Toronto. It was an incredible learning experience. It really humbled me. It really opened my eyes.... I remember having those discussions with people who would challenge me, and those challenges were absolutely essential.... That led me to my own question.... How do I fit into this landscape?
 Many Canadians feel that Canadian identity and cultural identity is somehow defined by this universal humanism. On the flip side, we have Prime Minister Harper who says Canada has no history of colonialism. They do the same thing. They deny colonialism and racism and [attitudes of ] white superiority ... whose legacy we
-
-

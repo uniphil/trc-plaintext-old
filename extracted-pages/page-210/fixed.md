@@ -16,5 +16,3 @@ In addition to promoting the use of Aboriginal languages, an Aboriginal Language
 Aboriginal people recognize how important it is for their children to speak and understand an Aboriginal language. Sabrina Williams, an intergenerational Survivor from British Columbia, expressed that need.
 I didn't realize until taking this language class how much we have lost--all the things that are attached to language: it's family connections, it's oral history, it's traditions, it's ways of being, it's ways of knowing, it's medicine, it's song, it's dance, it's memory. It's everything, including the land.... And unless we inspire our kids to love our culture, to love our language ... our languages are continually going to be eroded over time. So, that is daunting. Yeah. So, to me that's part of what reconciliation looks like.95
 Language instruction may require innovative approaches, including the use of Elders and others as teachers and the use of immersion programs. Education institutions must
-
-

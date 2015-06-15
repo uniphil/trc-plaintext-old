@@ -11,5 +11,3 @@ ii. Ensure that Aboriginal peoples have equitable access to jobs, training, and 
 iii. Provide education for management and staff on the history of Aboriginal peoples, including the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal­Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 We are all Treaty people: Communities, alliances, and hope
 The Commission believes that reconciliation cannot be left up to governments, the courts, and churches alone. There must also be dialogue and action in communities across the country. Reconciliation must happen across all sectors of Canadian society. Canadians still have much to learn from each other. Past generations of newcomers faced injustices and prejudice similar to those experienced by residential school students and
-
-

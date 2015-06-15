@@ -10,5 +10,3 @@ The Royal Proclamation of 1763, in conjunction with the Treaty of Niagara of 176
 Call to Action
 45) We call upon the Government of Canada, on behalf of all Canadians, to jointly develop with Aboriginal peoples a Royal Proclamation of Reconciliation to be issued by the Crown. The proclamation would build on the Royal Proclamation of 1763 and the Treaty of Niagara of 1764, and reaffirm the nation-to-nation relationship between Aboriginal peoples and the Crown. The proclamation would include, but not be limited to, the following commitments:
 i. Repudiate concepts used to justify European sovereignty over Indigenous lands and peoples such as the Doctrine of Discovery and terra nullius.
-
-

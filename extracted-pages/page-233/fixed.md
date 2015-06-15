@@ -12,5 +12,3 @@ i. Investigation into missing and murdered Aboriginal women and girls.
 ii. Links to the intergenerational legacy of residential schools.
 Strategies for change
 Multi-pronged strategies are necessary to respond to the harmful legacy of residential schools, as demonstrated in part by the overrepresentation of Aboriginal people among prisoners and crime victims. Compiling better data on Aboriginal overrepresentation in the justice system is a starting point. Collection of this data must be coupled with developing measurable goals for reducing this overrepresentation and providing the resources necessary to reach those goals. The approach must be an holistic and culturally appropriate
-
-

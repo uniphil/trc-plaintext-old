@@ -10,5 +10,3 @@ the youth of Alberta believe that in order to move forward, towards healing and 
 Youth Forums and Dialogues are a vital component of education for reconciliation. Non-profit organizations can play a key role in providing ongoing opportunities for Aboriginal and non-Aboriginal youth to participate in intercultural dialogue and work actively together to foster reconciliation.
 Call to Action
 66) We call upon the federal government to establish multi-year funding for community-based youth organizations to deliver programs on reconciliation, and establish a national network to share information and best practices.
-
-

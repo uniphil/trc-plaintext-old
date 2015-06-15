@@ -9,5 +9,3 @@ Respect is one of the greatest teachings that come from the original people of t
 Presbyterian Rev. Margaret Mullin (Thundering Eagle Woman) put it this way:
 Can the Rev. Margaret Mullin/Thundering Eagle [W]oman from the Bear Clan be a strong Anishinaabe woman and a Christian simultaneously? Yes I can, because I do not have my feet in two different worlds, two different religions, or two different understandings of God. The two halves of me are one in the same Spirit. I can learn from my grandparents, European and Indigenous Canadian, who have all walked on the same path ahead of me. I can learn from Jesus and I can learn from my Elders.85
 Each of the Settlement Agreement churches has wrestled with the theological challenges and necessary institutional reforms that arise with regard to Indigenous spiritual beliefs and practices. At the same time, Aboriginal church members have taken a leadership role
-
-

@@ -11,5 +11,3 @@ It was something like a grey day, it was a day without sunshine. It was, it was 
 Pauline St-Onge was traumatized by just the sight of the Sept-Îles school in Québec. She fought back when her father tried to take her into the school. "I thought in my child's head I said: `you would ... you would make me go there, but I will learn nothing, nothing, nothing.'"10
 Campbell Papequash was taken, against his will, to residential school in 1946. "And after I was taken there they took off my clothes and then they deloused me. I didn't know what was happening but I learned about it later, that they were delousing me; `the dirty, no-good-for-nothing savages, lousy.'"11
 Roy Denny was perplexed and frightened by the clothing that the priests and sisters wore at the Shubenacadie, Nova Scotia, school. "We were greeted by this man dressed in black with a long gown. That was the priest, come to find later. And the nuns with their black, black outfits with the white collar and a white, white collar and, like a breastplate of white."12 Calvin Myerion recalled being overwhelmed by the size of the Brandon, Manitoba,
-
-

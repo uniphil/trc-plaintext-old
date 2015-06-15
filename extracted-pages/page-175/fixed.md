@@ -10,5 +10,3 @@ The history · 169
 527. TRC, NRA, Library and Archives Canada, RG10, volume 6467, file 889-1, part 1, 12/1894­ 11/1933, Vancouver Agency ­ Squamish Residential School ­ General Administration, FA 10-17, Microfilm reel C-8785, NAC, Ottawa, A. W. Vowell to the Secretary, Department of Indian Affairs, 5 April 1905. [SQU-000423]
 528. TRC, NRA, Library and Archives Canada, RG10, volume 6270, file 582-1, part 1, "Extract from report on meeting Chief of Pine Creek Band," A. Ogletree, Indian Agent, 16 June 1917. [PCR-010082]
 529. For an example from Morley, Alberta, see: TRC, NRA, Library and Archives Canada, NAC ­ Ottawa, 772/3-6, volume 1, dates 1940­1954, Minutes from the council meeting for the Stony Indian Agency, 15 October 1946, 3. [MOR-006118] For an example from
-
-

@@ -13,5 +13,3 @@ iii. Commit more resources to its public education materials and programming on 
 70) We call upon the federal government to provide funding to the Canadian Association of Archivists to undertake, in collaboration with Aboriginal peoples, a national review of archival policies and best practices to:
 i. Determine the level of compliance with the United Nations Declaration on the Rights of Indigenous Peoples and the United Nations Joinet-Orentlicher Principles, as related to Aboriginal peoples' inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
 ii. Produce a report with recommendations for full implementation of these international mechanisms as a reconciliation framework for Canadian archives.
-
-

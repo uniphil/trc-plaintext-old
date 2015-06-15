@@ -13,5 +13,3 @@ ii. Providing adequate resources to enable Aboriginal communities and child-welf
 iii. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the history and impacts of residential schools.
 iv. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the potential for Aboriginal communities and families to provide more appropriate solutions to family healing.
 v. Requiring that all child-welfare decision makers consider the impact of the residential school experience on children and their caregivers.
-
-

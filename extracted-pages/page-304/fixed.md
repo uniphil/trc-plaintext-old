@@ -14,5 +14,3 @@ d) Cataloguing and designating appropriate use and display of relevant holdings;
 e) Repatriating, on request, objects that are sacred or integral to the history and continuity of particular nations and communities;
 f ) Returning human remains to the family, community or nation of origin, on request, or consulting with Aboriginal advisers on appropriate disposition, where remains cannot be associated with a particular nation;
 g) Ensuring that Aboriginal people and communities have effective access to cultural education and training opportunities available through museums and cultural institutions. [Recommendation 3.6.4]135
-
-

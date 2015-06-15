@@ -11,5 +11,3 @@ Calls to Action
 36) We call upon the federal, provincial, and territorial governments to work with Aboriginal communities to provide culturally relevant services to inmates on issues such as substance abuse, family and domestic violence, and overcoming the experience of having been sexually abused.
 Parole and community supports
 Aboriginal offenders face many challenges in obtaining parole from prison and beginning their transition back into the community. For many Aboriginal inmates seeking parole, their criminal history is a major factor held against them. Although some research has concluded that criminal history is a reliable risk predictor for both Aboriginal and non-Aboriginal inmates, systemic discrimination related to poverty and the legacy of residential schools undoubtedly disadvantages Aboriginal offenders.154 Just as some courts have the benefit of background and contextual information contained in pre-sentencing reports, parole hearings need a full understanding of an offender's circumstances when making their decisions.
-
-

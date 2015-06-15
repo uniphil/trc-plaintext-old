@@ -14,5 +14,3 @@ Call to Action:
 57) We call upon federal, provincial, territorial, and municipal governments to provide education to public servants on the history of Aboriginal peoples, including the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal­ Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 Church apologies
 There is an old and well-accepted adage that states, "It takes a village to raise a child." The removal of Aboriginal children from their villages was seen as a necessary step in the achievement of assimilation. However, not only did the Government of Canada take the children from their homes, but it also then proceeded to destroy the cultural and
-
-

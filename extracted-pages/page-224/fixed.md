@@ -10,5 +10,3 @@ I knew that I needed help to get rid of what happened to me in residential schoo
 It should not be surprising that those who were sexually abused in the schools as children sometimes perpetuated sexual violence later in their lives. It should not be surprising that those who were taken from their parents and exposed to harsh and regimented discipline in the schools and disparagement of their culture and families often became poor and sometimes violent parents later in their lives. It should not be surprising that those who were exposed to poor education and to spiritual and cultural abuse in the schools later turned to alcohol and drugs as a means to cope and try to forget. The consequences for many students and their families were tragic.
 Grace Campbell is an intergenerational Survivor.
 When I was drinking a lot of things happened to me ... I had to do things and a lot of times I just about got killed and then, I thought it was easy. Easy drinking, easy to get the way I was living and I didn't like it. I was selling my body and I didn't like it. At the time I didn't know it but when I look back, some of those creeps I hung with, men
-
-

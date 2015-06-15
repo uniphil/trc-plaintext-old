@@ -79,5 +79,3 @@ cluded that the hospital ward was in such poor shape that they had been obliged 
 the children in it to the staff sitting room. According to Reed, "The noise, as well as the bad
 
 smells, come from the lavatory underneath."370 Proposals to construct a small hospital at
-
-

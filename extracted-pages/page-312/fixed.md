@@ -12,5 +12,3 @@ First, telling the history of Indian Residential Schools was clearly seen as a c
 Second, the Settlement Agreement charged the trc with compiling an historical record of the irs system to be accessible to the public in the future. Here too, Canada's documents, wherever housed, would have been seen to be vital to this task. [para. 73]
 Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century. In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada's possession would be archived in lac and would no longer be in the active or semi-active files of the departments of the Government of Canada. [para. 74]
 Fourth, it would have been obvious that the experienced staff at lac would have vastly more ability to identify and organize the relevant documents at lac than would the newly hired staff of the newly formed trc. It would have made little sense to give
-
-

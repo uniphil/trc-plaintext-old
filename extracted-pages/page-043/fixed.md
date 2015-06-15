@@ -11,5 +11,3 @@ In February 2012, as part of its mandate, the Commission issued an Interim Repor
 National Centre for Truth and Reconciliation
 The Commission was mandated to create a national research centre, which would hold all the material created and received as part of its work. The centre is intended to be accessible to Survivors, their families, and communities, as well as to the general public. The Commission held a forum in March 2011 to consult with national and international experts on establishing such a centre. This informed the Commission's subsequent call for proposals to house the centre.
 The Commission reviewed a number of proposals for housing the research centre and, in June 2013, announced that the University of Manitoba had been selected to become the permanent host of the National Centre for Truth and Reconciliation (nctr). The nctr is
-
-

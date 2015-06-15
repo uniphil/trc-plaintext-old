@@ -18,5 +18,3 @@ The history · 165
 476. TRC, AVS, Norman Courchene, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-065.
 477. For examples, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 20113318; TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3975.
 478. TRC, AVS, Violet Rupp Cook, Statement to the Truth and Reconciliation Commission of Canada, Bloodvein First Nation, Manitoba, 25 January 2012, Statement Number: 2011-2565.
-
-

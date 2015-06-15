@@ -13,5 +13,3 @@ clean_pagebreak: true
 439. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis, excerpt from Quarterly Report Ending March, 1945, on Touchwood Agency. [IRC-047128]
 440. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, GRS Files, box 1A, file 22, Head Teacher [Illegible] to My Lord Bishop, 10 January 1956. [IRC-040120]
 441. For examples, see: TRC, NRA, Library and Archives Canada, 709/25-1-001, 1951­1961, part 2, L. C. Hunter to R. F. Davey, 30 November 1960; [IRC-040054] TRC, NRA, United Church of Canada/Victoria University Archives, Acc. No. 8[Illegible].050C, box 112, file 17, Edmonton IRS ­ Correspondence 1958­60/UCC Docs Toronto, Dwight Powell to E. E. M. Joblin, 25 November 1960. [UCA-080215] It was not until 1968 that Indian Affairs began requiring school schools superintendents to submit the names of all who had been dismissed because they had "created problems." TRC, NRA, National Archives of Canada, Acc. E1996-97/312, Vol. 2, File 672/25-1, R.F. Davey to All School
-
-

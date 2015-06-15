@@ -14,5 +14,3 @@ iii. Continuing to provide dedicated news coverage and online public information
 85) We call upon the Aboriginal Peoples Television Network, as an independent non-profit broadcaster with programming by, for, and about Aboriginal peoples, to support reconciliation, including but not limited to:
 i. Continuing to provide leadership in programming and organizational culture that reflects the diverse cultures, languages, and perspectives of Aboriginal peoples.
 ii. Continuing to develop media initiatives that inform and educate the Canadian public, and connect Aboriginal and non-Aboriginal Canadians.
-
-

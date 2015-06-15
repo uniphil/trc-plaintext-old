@@ -12,5 +12,3 @@ Call to Action
 6) We call upon the Government of Canada to repeal Section 43 of the Criminal Code of Canada.
 The objectives of the schools were to strip away Aboriginal children's identities and assimilate them into Western Christian society. Doris Young, who attended the Elkhorn residential school in Manitoba, described the experience as a systematic attack on her identity as a Cree person.
 Those schools were a war on Aboriginal children, and they took away our identity. First of all, they gave us numbers, we had no names, we were numbers, and they cut our hair. They took away our clothes, and gave us clothes ... we all looked alike. Our hair was all the same, cut us into bangs, and straight short, straight hair up to our ears.... They took away our moccasins, and gave us shoes. I was just a baby. I didn't
-
-

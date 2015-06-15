@@ -10,5 +10,3 @@ In the spirit of reconciliation, lac archivists (along with church archivists) b
 The TRC seeks full access to LAC records
 Schedule N to the Indian Residential Schools Settlement Agreement describes the mandate of the trc as well as the obligations of the parties to the Agreement to assist the Commission in its work. There is a provision that deals with the obligation of the parties to provide relevant records to the Commission. It states:
 In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation,
-
-

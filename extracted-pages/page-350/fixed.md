@@ -11,5 +11,3 @@ Miller identified nine principles of journalism that journalists themselves have
 Journalism's first obligation is to the truth.... Journalism does not pursue truth in an absolute or philosophical sense, but it can--and must--pursue it in a practical sense.... Even in a world of expanding voices, accuracy is the foundation upon which everything else is built--context, interpretation, comment, criticism, analysis and debate. The truth, over time, emerges from this forum....
 Its practitioners must be allowed to exercise their personal conscience. Every journalist must have a personal sense of ethics and responsibility--a moral compass. Each of us must be willing, if fairness and accuracy require, to voice differences with our colleagues.... This stimulates the intellectual diversity necessary to understand and accurately cover an increasingly diverse society. It is this diversity of minds and voices, not just numbers, that matters.256
 With respect to the history and legacy of residential schools, all the major radio and television networks and newspapers covered the events and activities of the Commission.
-
-

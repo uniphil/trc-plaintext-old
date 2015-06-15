@@ -10,5 +10,3 @@ The combined total annual federal budget for these Aboriginal languages programs
 · 2012­13: $353.3 million · 2013­14: $348.2 million · 2014­15: $348.2 million93
 The resources committed to Aboriginal language programs are far fewer than what is committed to French in areas where French speakers are in the minority. For example, the federal government provides support to the small minority of francophones in Nunavut in the amount of approximately $4,000 per individual annually. In contrast, funding to support Inuit-language initiatives is estimated at $44 per Inuk per year.94
 The Commission believes that a multi-pronged approach to Aboriginal language preservation--if implemented, honourably resourced, and sustained-- might prevent further increase in the litigation of Aboriginal language rights, and the increased international criticism of Canada's policy towards Aboriginal-language rights. This approach will require full, good-faith consultation, which recognizes that although Aboriginal communities have the necessary knowledge, particularly among their Elders, to preserve their
-
-

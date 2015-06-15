@@ -14,5 +14,3 @@ Vancouver, British Columbia, 21 September 2013, Statement Number: BCNE404. 53. T
 Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093. 54. TRC, AVS, Archbishop Fred Hiltz, Statement to the Truth and Reconciliation Commission of Cana-
 da, Inuvik, Northwest Territories, 1 July 2011, Statement Number: NNE402. 55. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Regina,
 Saskatchewan, 17 January 2012, Statement Number: SP036.
-
-

@@ -13,5 +13,3 @@ Call to Action
 Violence against Aboriginal women and girls
 The overrepresentation of Aboriginal women and girls among crime victims is particularly disturbing. Aboriginal women and girls are more likely than other women to experience risk factors for violence. They are disproportionately young, poor, unemployed, and likely to have been involved with the child-welfare system and to live in a community marked by social disorder.166
 Velma Jackson, who attended the Blue Quills residential school in Alberta, told the Commission her story.
-
-

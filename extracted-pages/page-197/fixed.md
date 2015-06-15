@@ -11,5 +11,3 @@ i. Affirm the right of Aboriginal governments to establish and maintain their ow
 ii. Require all child-welfare agencies and courts to take the residential school legacy into account in their decision making.
 iii. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate.
 There is also a human dimension to improving outcomes for Aboriginal children. The intergenerational impact of the residential school experience has left some families without strong role models for parenting. An investment in culturally appropriate programs in Aboriginal communities has the potential to improve parenting skills and enable more children to grow up safely in their own families and communities.
-
-

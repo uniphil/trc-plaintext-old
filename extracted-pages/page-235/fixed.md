@@ -20,5 +20,3 @@ Métis and Inuit children, and excluded them from the study. Vandna et al., Kiski
 Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-048. 22. TRC, AVS, Linda Clarke, Statement to the Truth and Reconciliation Commission of Canada, St.
 Albert, Alberta, 12 June 2011, Statement Number: 2011-0013. 23. Information about ethnicity was available for 94 of the 145 children who have died in foster care
 since 1999. Of that number, 74 were Aboriginal. "Deaths of Alberta Aboriginal Children in Care No `Fluke of Statistics,'" Edmonton Journal, 8 January 2014, http://www.edmontonjournal.com/ life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014). 24. Sinha and Kozlowski, "Structure of Aboriginal Child Welfare," 3; "Deaths of Alberta Aboriginal Children in Care No `Fluke of Statistics,'" Edmonton Journal, 8 January 2014, http://www.edmon-
-
-

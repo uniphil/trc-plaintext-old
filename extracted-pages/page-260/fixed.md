@@ -13,5 +13,3 @@ ii. Respecting Indigenous peoples' right to self-determination in spiritual matt
 iii. Engaging in ongoing public dialogue and actions to support the United Nations Declaration on the Rights of Indigenous Peoples.
 iv. Issuing a statement no later than March 31, 2016, from all religious denominations and faith groups, as to how they will implement the United Nations Declaration on the Rights of Indigenous Peoples.
 49) We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and terra nullius.
-
-

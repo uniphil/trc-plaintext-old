@@ -18,5 +18,3 @@ The way we do business must change.
 Thinking must change.
 The way we talk to, and about, each other must change.
 All Canadians must make a firm and lasting commitment to reconciliation to ensure that Canada is a country where our children and grandchildren can thrive.
-
-

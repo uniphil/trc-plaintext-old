@@ -21,5 +21,3 @@ The history · 175
 576. TRC, AVS, Lawrence Waquan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
 577. TRC, AVS, Beverley Anne Machelle, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1133.
 578. TRC, NRA, INAC, file 494/18-28, volume 1, G. Swartman to Indian Affairs Branch, 12 May 1955. [PLK-002025]
-
-

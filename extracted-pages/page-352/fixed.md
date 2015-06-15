@@ -12,5 +12,3 @@ On November 18, 2014, we attended an event hosted by the Law Society of Upper Ca
 Calls to Action
 87) We call upon all levels of government, in collaboration with Aboriginal peoples, sports halls of fame, and other relevant organizations, to provide public education that tells the national story of Aboriginal athletes in history.
 88) We call upon all levels of government to take action to ensure long-term Aboriginal athlete development and growth, and continued support for the North American Indigenous Games, including funding to host the games and for provincial and territorial team preparation and travel.
-
-

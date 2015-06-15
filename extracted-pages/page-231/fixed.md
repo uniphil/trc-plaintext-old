@@ -11,5 +11,3 @@ An astonishing number of Aboriginal children were victims of crime in residentia
 All through my, residential school ... I was a victim. They put me in that frame of mind where I was a victim. I was four years old being a victim. Five years old, couldn't stop it. Six years old, couldn't stop it. Seven years old, couldn't stop it. So at some point my brain is going to say, "This is never going to stop!" So that's what I was doing in my adult life too because it didn't stop in my childhood, I was doing that in my adult, "This is never going to stop."161
 The justice system continues to fail Aboriginal victims of crime. There are few services available for Aboriginal victims of crime. Victim compensation schemes are often lacking and often fail to recognize the distinct needs of Aboriginal victims of crime.
 The statistics are startling. Aboriginal people are 58% more likely to be victimized by crime.162 Aboriginal women report being victimized by violent crime at a rate almost three times higher than non-Aboriginal women--13% of Aboriginal women reported being
-
-

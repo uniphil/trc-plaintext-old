@@ -11,5 +11,3 @@ Call to Action
 25) We call upon the federal government to establish a written policy that reaffirms the independence of the Royal Canadian Mounted Police to investigate crimes in which the government has its own interest as a potential or real party in civil litigation.
 Unnecessary insistence on corroboration
 The rcmp E Division Task Force final report notes that "a very common situation that kept occurring over and over again" was that Crown counsel refused to prosecute without
-
-

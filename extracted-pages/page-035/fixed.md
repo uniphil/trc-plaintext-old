@@ -10,5 +10,3 @@ The Commission also sponsored "town halls" on reconciliation at its Victoria Reg
 Statement gathering
 Until the Commission was established, the voices of those who were most directly affected by the residential school experience, particularly the former students, had largely been missing from the historical record. The Commission made a commitment to offer everyone involved with the residential school system the opportunity to speak about their experience. The Commission received over 6,750 statements from Survivors of residential schools, members of their families, and other individuals who wished to share their knowledge of the residential school system and its legacy.
 Statements were gathered at public Sharing Panels and Sharing Circles at National, Regional, and Community Events and at Commission hearings. They were also collected through private conversations with statement gatherers. The Commission also gathered statements in correctional institutions in Kenora, Ontario, and Yellowknife, Northwest
-
-

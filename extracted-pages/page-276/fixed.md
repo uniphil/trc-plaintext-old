@@ -14,5 +14,3 @@ iv. Promote public dialogue, public/private partnerships, and public initiatives
 55) We call upon all levels of government to provide annual reports or any current data requested by the National Council for Reconciliation so that it can report on the progress towards reconciliation. The reports or data would include, but not be limited to:
 i. The number of Aboriginal children--including Métis and Inuit children--in care, compared with non-Aboriginal children, the reasons for apprehension, and the total spending on preventive and care services by child-welfare agencies.
 ii. Comparative funding for the education of First Nations children on and off reserves.
-
-
