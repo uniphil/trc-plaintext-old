@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 119
 behalf of children who had been injured working at the schools, and to attempt to have their children discharged from school.537
 One of the more unusual protests was mounted by First Nations people (Dene) in the Northwest Territories, who, in 1937, refused to accept their Treaty payments in protest of conditions at the Fort Resolution school. Their children, they said, were "living in hell."538
 Residential schools also came under criticism from early First Nations organizations. At its meeting in Saddle Lake, Alberta, in 1931, the League of Indians of Canada called for the construction of more day schools to augment residential schools.539 The following year, the league, by then known as the League of Indians of Western Canada, called for the closure of boarding schools.540 The league also recommended that only qualified teachers be hired to work at residential schools, that medical examinations be given to students before they were sent to the schools, and that the half-day system be changed to allow for greater class time.541

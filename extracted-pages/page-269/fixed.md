@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 263
 responsible for those harms, the state and the churches accepted their measure of responsibility. The apologies were a necessary first step in the process of reconciliation.
 The history and destructive legacy of residential schools is a sober reminder that taking action does not necessarily lead to positive results. Attempts to assimilate First Nations, Inuit, and Métis peoples into mainstream Canadian society were a dismal failure. Despite the devastating impacts of colonization, Indigenous peoples have always resisted (though in some places not always successfully) attacks on their cultures, languages, and ways of life.
 If Canadians are to keep the promise of the apologies made on their behalf--the promise of "never again!"--then we must guard against simply replicating the assimilation policies of the past in new forms today. As trc Honorary Witness Wab Kinew said, "The truth about reconciliation is this: It is not a second chance at assimilation. It should not be a kinder, gentler evangelism, free from the horrors of the residential school era. Rather, true reconciliation is a second chance at building a mutually respectful relationship."58

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 371
 100. Healing Fund, Anglican Church, 2008, cited in Bush, "How Have the Churches Lived out Their Apologies," 24­25.
 101. Healing Fund, Anglican Church, 2000, cited in Bush, "How Have the Churches Lived out Their Apologies," 19.
 102. Bush, "How Have the Churches Lived out Their Apologies," 18. 103. The Aboriginal Healing Foundation (AHF) was mandated to provide funding and support for

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-150 · Truth & Reconciliation Commission
 243. TRC, AVS, Madeleine Dion Stout, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-059.
 244. TRC, NRA, Library and Archives Canada, RG10, volume 6191, file 462-1, part 1, Russell T. Ferrier to George Prewer, 8 February 1922. [CRS-001015]
 245. Canada, Annual Report of the Department of Indian Affairs, 1887, 126. 246. Canada, Annual Report of the Department of Indian Affairs, 1884, 155. 247. Canada, Annual Report of the Department of Indian Affairs, 1886, 139. 248. Library and Archives Canada, RG10, volume 3930, file 117377-1 A, H. Reed to Bishop of

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-380 · Truth & Reconciliation Commission
 261. Physical Activity and Sport Act, http://laws-lois.justice.gc.ca/eng/acts/P-13.4/page-1.html?texthighlight=under-represented#s-5.
 262. IndigenACTION, "Roundtable Report," appendix 2, 18­19, http://www.afn.ca/uploads/files/indigenaction/indigenactionroundtablereport.pdf.
 263. Te Hiwi, "What Is the Spirit," 3. 264. Sport Canada, Policy Renewal, "Summary Report," July 15, 2011, 4, https://sirc.ca/sites/default/

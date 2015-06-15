@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 151
 262. TRC, NRA, Library and Archives Canada, RG10, volume 6452, file 884-1, part 1, Microfilm reel 8773, "Rules and Regulations, Kootenay Industrial School." [AEMR-011621A]
 263. Library and Archives Canada, RG10, volume 3836, file 68557, H. Reed, Suggestions for the Government of Indian schools, 27 January 1890.
 264. Canada, Annual Report of the Department of Indian Affairs, 1894, 248­249. 265. Canada, Annual Report of the Department of Indian Affairs, 1887, 128. 266. Canada, Annual Report of the Department of Indian Affairs, 1898, 345. 267. Canada, Annual Report of the Department of Indian Affairs, 1898, 355. 268. Canada, Annual Report of the Department of Indian Affairs, 1898, 302. 269. Canada, Annual Report of the Department of Indian Affairs, 1903, 457. 270. TRC, NRA, St. Paul's Archives, Acts of Canonical Visitation, 1883­1966, Stacks 2L,

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-326 · Truth & Reconciliation Commission
 I had the privilege of delivering the speech on behalf of the official opposition when the Agreement was tabled in the House, and during that speech I had to stop midway and breathe ... because I didn't think I could do it. I kept thinking of my family and my extended family and my grandparents and so many of the people in the communities.... [O]ur cultures, our languages, our values, and spiritual beliefs that have taken care of us at this gathering ... they will become tools for the healing of a nation.200
 At the Québec National Event, trc Honorary Witness and a former prime minister, the Right Honourable Paul Martin, reminded participants about the role that education played in the attempted destruction of Aboriginal families, communities, and nations, and the role it must play in repairing this damage. He said,
 I've talked to a number of the people here, some of the members of parliament are here ... and the question we asked ourselves is, "How come we didn't know what happened?" ... I still can't answer that.... [L]et us understand that what happened at the residential schools was the use of education for cultural genocide ... [let's] call a spade a spade. What that really means is that we've got to offer Aboriginal Canadians, without any shadow of a doubt, the best education system that is possible to have.201

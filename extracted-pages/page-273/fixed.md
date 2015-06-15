@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 267
 the Interior's Office of the Solicitor made public its legal opinions on a range of issues affecting Native Americans, but also these are now widely available online.63
 Call to Action
 51) We call upon the Government of Canada, as an obligation of its fiduciary responsibility, to develop a policy of transparency by publishing legal opinions it develops and upon which it acts or intends to act, in regard to the scope and extent of Aboriginal and Treaty rights.

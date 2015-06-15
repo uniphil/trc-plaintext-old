@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-96 · Truth & Reconciliation Commission
 Graph 5 Residential school tuberculosis death rates per 1,000 population, Named and Unnamed registers combined, 1869­1965
 Death rate per 1,000 students 20
 

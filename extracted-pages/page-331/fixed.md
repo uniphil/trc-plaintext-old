@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 325
 was, you will at least when you leave here today, have a bit more of the story and you may judge for yourselves. I hope you will judge with kindness, understanding, and generosity of spirit....
 [My father] did so many things, coached the teams, blew the whistle or shot off the starting pistol at the sports days. Twelve o'clock at midnight, on the coldest of winter days, he would be out on the rink that he had constructed behind the school, flooding it so that the children could skate. He devoted his life to the service of his church, his God, and those that he thought had been marginalized, oppressed.... It is a terrible shame there were not more like him. When we leave today, though, let's remember that when you have a system like the residential school, there are the individuals within the system, some of whom are good, decent, loving, caring people, and some of whom are blind, intolerant, predatory.... My father worked within the system trying to make it a better one.199
 TRC Honorary Witnesses

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The legacy · 211
 Settlement Agreement processes is but one example of the invaluable service these professionals can provide.
 Call to Action
 23) We call upon all levels of government to: i. Increase the number of Aboriginal professionals working in the health-care field. ii. Ensure the retention of Aboriginal health-care providers in Aboriginal communities. iii. Provide cultural competency training for all health-care professionals.

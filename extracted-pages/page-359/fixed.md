@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 353
 Chair in Indigenous Rights in Constitutional and International Law at the University of Saskatchewan, concluded that although many challenges and barriers to reconciliation remain,
 [w]hat the Supreme Court of Canada has highlighted at a fundamental level is that Aboriginal communities have a right to an equitable place at the table in relation to natural resource development in Canada. Their empowerment through Tsilhqot'in and earlier decisions has the potential to be immensely exciting as a means of further economic development in Aboriginal communities and prosperity for all.... [T]he time is now for governments, Aboriginal communities, and resource sector companies to work together to build partnerships for the future.... We need to keep building a national consensus that responsible resource development that takes account of sustainability issues and that respects Indigenous communities, contributes positively--very positively--to Canada and its future.282
 Internationally, there is a growing awareness in the corporate sector that the United Nations Declaration on the Rights of Indigenous Peoples is an effective framework for industry and business to establish respectful relationships and work collaboratively with Indigenous peoples. In 2013, the United Nations Global Compact published a business guide that sets out practical actions that corporations and businesses can undertake in compliance with the Declaration. It notes:

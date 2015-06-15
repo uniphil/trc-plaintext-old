@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-202 · Truth & Reconciliation Commission
 was to respect your Elders and never to, you know, to challenge them. And here I was, eleven years old, and I challenged ... my dad looked at me and I, and I thought he was going to cry. In fact his eyes filled up with tears. He turned to my mom and he says, ... "Then I guess we'll never speak to this little girl again. I don't know her."84
 Some Survivors refused to teach their own children their Aboriginal languages and cultures because of the negative stigma that had come to be associated with them during their school years. This has contributed significantly to the fragile state of Aboriginal languages in Canada today.
 Many of the almost ninety surviving Aboriginal languages in Canada are under serious threat of extinction. In the 2011 census, 14.5% of the Aboriginal population reported that their first language learned was an Aboriginal language.85 In the previous 2006 census, 18% of those who identified as Aboriginal had reported an Aboriginal language as their first language learned, and a decade earlier, in the 1996 census, the figure was 26%. This indicates nearly a 50% drop in the fifteen years since the last residential schools closed. There are, however, variations among Aboriginal peoples: 63.7% of Inuit speak their Indigenous language, compared with 22.4% of First Nations people and only 2.5% of Métis people.86

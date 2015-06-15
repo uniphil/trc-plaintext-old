@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-254 · Truth & Reconciliation Commission
 Call to Action
 47) We call upon federal, provincial, territorial, and municipal governments to repudiate concepts used to justify European sovereignty over Indigenous peoples and lands, such as the Doctrine of Discovery and terra nullius, and to reform those laws, government policies, and litigation strategies that continue to rely on such concepts.
 Churches and faith groups also have an important role to play in fostering reconciliation through support for the United Nations Declaration and repudiation of the Doctrine of Discovery.

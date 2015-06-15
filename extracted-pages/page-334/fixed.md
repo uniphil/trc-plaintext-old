@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-328 · Truth & Reconciliation Commission
 was true for both non-Aboriginal witnesses and Aboriginal witnesses whose own families had been impacted by the schools but who may have had few opportunities to learn more about the residential schools themselves, especially in those many families where no one was yet willing or able to talk about it.
 At the 2011 Northern National Event in Inuvik, Therese Boullard, then the director of the Northwest Territories Human Rights Commission, told us,
 We need to have an accurate record of history.... As long as there are some that are in denial of what really happened, as long as we don't have the full picture of what happened, we really can't move forward in that spirit of reconciliation.... I want to acknowledge these stories as gifts, a hand towards reconciliation. I think it's amazing that after all that has passed, after all that you've experienced, that you would be willing to share your pain with the rest of Canada in this spirit of openness and reconciliation and in this faith that the government of Canada and non-Aboriginal Canadians will receive them in a way that will lead to a better relationship in the future. That you have that faith to share your stories in that spirit is amazing and it's humbling and it's inspiring and I just want to thank Survivors for that.204

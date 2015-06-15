@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-210 · Truth & Reconciliation Commission
 Call to Action
 20) In order to address the jurisdictional disputes concerning Aboriginal people who do not reside on reserves, we call upon the federal government to recognize, respect, and address the distinct health needs of the Métis, Inuit, and off-reserve Aboriginal peoples.
 Aboriginal healing practices

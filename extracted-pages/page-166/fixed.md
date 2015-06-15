@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-160 · Truth & Reconciliation Commission
 397. TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, file 486/18-2, volume 2, box V-24-83, 06/26/1946­09/23/1975, M. J. Pierce to Indian Affairs, 23 October 1974; [FTA-001096] Edwards, "This Is about Reuniting a Family, Even in Death," Toronto Star, 4 March 2011, http://www.thestar.com/news/gta/2011/03/04/this_is_ about_reuniting_a_family_even_in_death.html; Edwards, "Star Gets Action: Charlie Hunter Headed Home," Toronto Star, 24 March 2011, http://www.thestar.com/news/ gta/2011/03/24/star_gets_action_charlie_hunter_headed_home.html.
 398. Wasylow, "History of Battleford Industrial School," 268. 399. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, D. L. Clink to
 Indian Commissioner, June 4 1895. [EDM-003380] 400. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. Reed to

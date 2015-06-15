@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 281
 The Commission asked all the Settlement Agreement churches to tell us their views on Indigenous spirituality and what steps were being taken within their respective institutions to respect Indigenous spiritual practices. In 2015, two of the Settlement Agreement churches responded to this call.
 On January 29, 2015, the Presbyterian Church in Canada issued a "Statement on Aboriginal Spiritual Practices." Among other things, the church said:
 As part of the Churches' commitment to a journey of truth and reconciliation, the Presbyterian Church in Canada has learned that many facets of Aboriginal traditional spiritualities bring life and oneness with creation. Accepting this has sometimes been a challenge for the Presbyterian Church in Canada. We are now aware that there is a wide variety of Aboriginal spiritual practices and we acknowledge that it is for our church to continue in humility to learn the deep significance of these practices and to respect them and the Aboriginal elders who are the keepers of their traditional sacred truths....

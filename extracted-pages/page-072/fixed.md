@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-66 · Truth & Reconciliation Commission
 It is also apparent that many key people within the system had little knowledge of the existing rules and regulations. In 1922, an Indian agent in Hagersville, Ontario, inquired of departmental headquarters if there had been any changes in the regulations regarding education since the adoption of a set of education regulations in 1908. His question suggests he was completely unaware of major changes to the Indian Act regarding education that had supplanted previous regulations in 1920.140 In 1926, J. K. Irwin, the newly appointed principal of the Gordon's school in Saskatchewan, discovered upon taking office that he could not find any "laid down regulations as to the duties and powers of a Principal of an Indian Boarding School." He wrote to Indian Affairs, asking for a copy of such regulations, since he wanted to know "exactly what I am to do and what powers I have."141 Departmental secretary J. D. McLean informed him that "there are no printed regulations concerning the duties and powers of the principal of an Indian residential school."142
 The system was so unregulated that in 1968, after Canada had been funding residential schools for 101 years, Indian Affairs Deputy Minister J. A. MacDonald announced, "For the first time we have set down in a precise and detailed manner the criteria which is to be used in future in determining whether or not an Indian child is eligible for these institutions."143
 Expansion and decline

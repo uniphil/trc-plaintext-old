@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-208 · Truth & Reconciliation Commission
 · From 2004 to 2008, the "age-specific mortality rate" at ages one to nineteen in the Inuit homelands was 188.0 deaths per 100,000 person-years at risk, compared with only 35.3 deaths per 100,000 in the rest of Canada.109
 · First Nations people aged forty-five and older have nearly twice the rate of diabetes as the non-Aboriginal population.110
 · First Nations people were six times more likely than the general population to suffer alcohol-related deaths, and more than three times more likely to suffer drug-induced deaths.111

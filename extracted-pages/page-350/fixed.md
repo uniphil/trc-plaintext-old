@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-344 · Truth & Reconciliation Commission
 to `progress' in Canada? Are attitudes of distrust and fear underlying our decisions to dispatch a crew to the latest Aboriginal blockade? Is there no iconic photo of reconciliation, because no one from the newsrooms believes harmony between Aboriginal peoples and settlers is `newsworthy'?253
 Historian J. R. Miller has observed that when conflicts between Aboriginal peoples and the state have occurred in places like Oka or Ipperwash Park, for example, "politicians, journalists and ordinary citizens understood neither how nor why the crisis of the moment had arisen, much less how its deep historical roots made it resistant to solutions.... [This] does not bode well for effective public debate or sensible policy-making."254
 In the Commission's view, the media's role and responsibility in the reconciliation process require journalists to be well informed about the history of Aboriginal peoples and the issues that affect their lives. As we have seen, this is not necessarily the case. Studies of media coverage of conflicts involving Aboriginal peoples have borne this out. In the conflict between some of the descendants of members of the Stony Point Reserve and their supporters and the Ontario Provincial Police in Ipperwash Provincial Park in 1995, which resulted in the death of Dudley George, journalism professor John Miller concluded,

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-260 · Truth & Reconciliation Commission
 the immense damages from colonialism. As Chief Doug S. White III (Kwulasultun) puts it ... "Indigenous law is the great project of Canada and it is the essential work of our time. It is not for the faint of heart, it is hard work. We need to create meaningful opportunities for Indigenous and non-Indigenous people to critically engage in this work because all our futures depend on it."51
 Call to Action:
 50) In keeping with the United Nations Declaration on the Rights of Indigenous Peoples, we call upon the federal government, in collaboration with Aboriginal organizations, to fund the establishment of Indigenous law institutes for the development, use, and understanding of Indigenous laws and access to justice in accordance with the unique cultures of Aboriginal peoples in Canada.

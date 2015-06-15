@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-304 · Truth & Reconciliation Commission
 Lawyers besieged the archives. Archivists, caught between the vagaries of old informal recordkeeping practices in church schools across the country, legal demands for instant and full access and obligations to employer and profession, struggled to uphold their ideal of the honest stewardship of the records.... This process has tested the capacity of the archives and our professional ability to respond.151
 These challenges did not end with the implementation of the 2007 Settlement Agreement. The trc's own difficulties in gaining access to government records held in lac demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
 By 2009, in terms of public education, lac had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children? Healing the Legacy of the Residential Schools; and "We were so far away ...": The Inuit experience of residential schools.152 Library and Archives Canada also produced an updated online version of the bibliography, "The Legacy of the Residential School System in Canada: A Selective Bibliography."153 In 2010, lac made an online finding aid available, "Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada."154

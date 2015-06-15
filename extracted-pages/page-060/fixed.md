@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-54 · Truth & Reconciliation Commission
 
 to Protestantism.78 In the 1820s, John West,
 

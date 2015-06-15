@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 317
 To support reconciliation at the local level, the Commission believes, it will be especially important to ensure that communities are able to access the centre's holdings and resources in order to produce histories of their own residential school experiences and their involvement in the truth, healing, and reconciliation process.
 The centre will be a living legacy, a teaching and learning place for public education to promote understanding and reconciliation through ongoing statement gathering, new research, commemoration ceremonies, dialogues on reconciliation, and celebrations of Indigenous cultures, oral histories, and legal traditions.180
 Calls to Action

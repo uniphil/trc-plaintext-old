@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 175
 561. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, "Royal Canadian Mounted Police Report Re: Kenneth Thompson, Runaway Boy," 28 October 1936. [BRS-000240-0001]
 562. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, "Royal Canadian Mounted Police Report Re: Peter Ryder Runaway Boy," 28 October 1936. [BRS-000240-0002]
 563. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy, 24 November 1928. [DRS-000564]

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The legacy · 215
 Educating lawyers
 The criminal prosecution of abusers in residential schools and the subsequent civil lawsuits were a difficult experience for Survivors. The courtroom experience was made worse by the fact that many lawyers did not have adequate cultural, historical, or psychological knowledge to deal with the painful memories that the Survivors were forced to reveal. The lack of sensitivity that lawyers often demonstrated in dealing with residential school Survivors resulted, in some cases, in the Survivors' not receiving appropriate legal service. These experiences prove the need for lawyers to develop a greater understanding of Aboriginal history and culture as well as the multi-faceted legacy of residential schools.
 Calls to Action

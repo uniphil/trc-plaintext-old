@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 341
 83) We call upon the Canada Council for the Arts to establish, as a funding priority, a strategy for Indigenous and non-Indigenous artists to undertake collaborative projects and produce works that contribute to the reconciliation process.
 Media and reconciliation
 The media has a role to play in ensuring that public information both for and about Aboriginal peoples reflects their cultural diversity and provides fair and non-discriminatory reporting on Aboriginal issues. This is consistent with Article 16:2 of the United Nations Declaration on the Rights of Indigenous Peoples, which says, "States shall take effective measures to ensure that State-owned media duly reflect indigenous cultural diversity." Canada's Broadcasting Act (1991) sets out national broadcasting policy for all Canadian broadcasters with regard to Aboriginal peoples. The policy states the need to,

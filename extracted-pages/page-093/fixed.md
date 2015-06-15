@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 87
 they raised their daughter to speak English.301 When Bruce Dumont was sent to residential school in Onion Lake, Saskatchewan, his mother warned him not to speak Cree.302
 Arranging and blocking marriages
 Through the residential schools, Indian Affairs and church officials sought to extend their control into the most intimate aspects of the lives of Aboriginal children. Indian Affairs officials believed that because the department had spent money educating students, it had gained the right to determine whom they married. Government officials feared that if students married someone who had not also been educated at a residential school, they would revert to traditional `uncivilized' ways.303 The control of marriage was part of the ongoing policy of forced assimilation. In 1890, Indian Commissioner Hayter Reed criticized Qu'Appelle principal Joseph Hugonnard for allowing female students from the Qu'Appelle school to marry boys who had not gone to school, without first getting Indian Affairs' approval. Reed argued, "The contention that the parents have the sole right to decide such matters cannot for one moment be admitted."304

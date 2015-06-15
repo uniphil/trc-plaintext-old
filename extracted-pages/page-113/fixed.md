@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 107
 The failure to develop, implement, and monitor effective discipline sent an unspoken message that there were no real limits on what could be done to Aboriginal children within the walls of a residential school. The door had been opened early to an appalling level of physical and sexual abuse of students, and it remained open throughout the existence of the system.
 Abuse: "And he did awful things to me."
 From the nineteenth century onwards, the government and churches were well aware of the risk that staff might sexually abuse residential school students. As early as 1886, Jean L'Heureux, who worked as a translator for Indian Affairs and a recruiter for Roman Catholic schools in Alberta, was accused of sexually abusing boys in his care. The officials responsible for the schools recognized that his actions were not appropriate. Despite this, there is no record of a criminal investigation being carried out at the time.433 When new allegations against L'Heureux emerged in 1891, he was allowed to resign. In dealing with the matter, Indian Affairs Deputy Minister Lawrence Vankoughnet hoped "it would not be necessary to state the cause which led to the same [the resignation]."434

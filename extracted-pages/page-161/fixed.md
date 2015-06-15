@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 155
 341. TRC, AVS, Woodie Elias, Statement to the Truth and Reconciliation Commission of Canada, Fort McPherson, Northwest Territories, 12 September 2012, Statement Number: 2011-0343.
 342. TRC, AVS, Dorothy Nolie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 20 October 2011, Statement Number: 2011-3294.
 343. TRC, AVS, Nellie Trapper, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-16JU10-086.

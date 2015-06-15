@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 149
 224. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, "Northern Education: Facade for Failure," Variables: the Journal of the Sociology Club (University of Alberta) 2, no. 1 (February 1963): 16. [NCA-005960]
 225. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, "Northern Education: Facade for Failure." Variables: the Journal of the Sociology Club (University of Alberta) 2, no. 1 (February 1963): 17. [NCA-005960]
 226. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, "Northern Education: Facade for Failure." Variables: the Journal of the Sociology Club (University of Alberta) 2, no. 1 (February 1963): 18. [NCA-005960]

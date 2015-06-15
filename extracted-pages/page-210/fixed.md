@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-204 · Truth & Reconciliation Commission
 own languages, additional support is needed. The outcome of the consultation should be legislation and policies that affirm the importance of Canada's Indigenous languages, and allocate adequate funding to ensure their preservation.
 Calls to Action
 14) We call upon the federal government to enact an Aboriginal Languages Act that incorporates the following principles:

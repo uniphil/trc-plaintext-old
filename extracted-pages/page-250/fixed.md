@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-244 · Truth & Reconciliation Commission
 all aspects of the relationship between Aboriginal and non-Aboriginal Canadians, and to set the standard for international achievement in its circle of hesitating nations.
 Aboriginal peoples' right to self-determination must be integrated into Canada's constitutional and legal framework and civic institutions, in a manner consistent with the principles, norms, and standards of the Declaration. Aboriginal peoples in Canada have Aboriginal and Treaty rights. They have the right to access and revitalize their own laws and governance systems within their own communities and in their dealings with governments. They have a right to protect and revitalize their cultures, languages, and ways of life. They have the right to reparations for historical harms.
 In 2014, the Supreme Court of Canada ruled that the Tsilhqot'in peoples have Aboriginal title to their lands in northern British Columbia, and "ownership rights similar to those associated with fee simple, including: the right to decide how the land will be used; the right of enjoyment and occupancy of the land; the right to possess the land; the right to the economic benefits of the land; and the right to pro-actively use and manage the land."16 The court said, "Governments and individuals proposing to use or exploit land, whether before or after a declaration of Aboriginal title, can avoid a charge of infringement or failure to adequately consult by obtaining the consent of the interested Aboriginal group."17

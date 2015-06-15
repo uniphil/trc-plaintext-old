@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-364 · Truth & Reconciliation Commission
 The work of the trc has shown just how difficult the process of truth determination has been. Thousands of Survivors came forward and, in tears and with anger, shared their pain. They showed how humour, perseverance, and resilience got them through the hardest of times, and how life after the schools sometimes just got too hard. They came forward to share their stories, not just to ease their burden, but also to try to make things better for their children and their grandchildren.
 Reconciliation is going to take hard work. People of all walks of life and at all levels of society will need to be willingly engaged.
 Reconciliation calls for personal action. People need to get to know each other. They need to learn how to speak to, and about, each other respectfully. They need to learn how to speak knowledgeably about the history of this country. And they need to ensure that their children learn how to do so as well.

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 327
 the story of their contribution to Canada, and the values that are inherent in those communities is much better known.202
 Joe Clark's observations reinforce this Commission's view that learning happens in a different manner when life stories are shared and witnessed in ways that connect knowledge, understanding, and human relationships. He pinpointed a key challenge to reconciliation: how to bridge the divides between those who have been part of the residential school experience and those who have not, and between those who have participated in the Truth and Reconciliation Commission's proceedings and those who have not.
 The former minister of Indian Affairs and Northern Development, the late Honourable Andy Scott, was inducted as an Honorary Witness at the 2012 Atlantic National Event in Halifax. He then served to welcome new inductees to the Honorary Witness circle at the Saskatchewan National Event, and to reflect on his experience. His comments reinforce the Commission's conviction that relationship-based learning and ways of remembering lead to a deeper knowledge and understanding of the links between the Survivors' experiences and community memory and our collective responsibility and need to re-envision Canada's national history, identity, and future. He told us,

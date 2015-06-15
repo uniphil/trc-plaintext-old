@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-148 · Truth & Reconciliation Commission
 206. For an example of the link between low pay and unqualified teachers, see: TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 15 July 1897, 4, 25. [100.00108]
 207. TRC, NRA, Library and Archives Canada, RG10, volume 4041, file 334503, F. H. Paget to Frank Pedley, 25 November 1908, 55. [RCA-000298]
 208. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Vowell to Secretary, Indian Affairs, 14 July 1909. [ABR-007011-0000]

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-206 · Truth & Reconciliation Commission
 of the residential school Survivors and sometimes to their grandchildren. Residential schools also posed a threat to the mental health of students through the pervasive assumptions and assertions they made about the inferiority of Aboriginal peoples, cultures, and languages. This disregard for Aboriginal health and well-being was consistent with the long-established patterns of colonialism: the introduction of new diseases, the disruption of traditional food sources, and the concentration of people on unproductive land and the housing of them in cramped, unsanitary dwellings.
 The schools undermined Aboriginal health by failing to feed and clothe the children properly and housing them in poorly constructed and dangerous buildings. The schools did not properly screen out sick and infectious children, and often lacked adequate treatment facilities. As Ruby Firth, a former student at Stringer Hall in the Northwest Territories, told the Commission, those conditions had a lasting effect.
 I've got chronic bronchitis today. Every winter I get pneumonia like two or three times and I'm on two puffers 'cause when I was in Stringer Hall residential school they used to put us in these little skinny red coats that weren't even warm enough for winter. And we used to have to walk across the street to go to school.... Both my lungs are 50% scarred from having pneumonia seven times in [residential school]. That's always going to be there, it's never going to go away.98

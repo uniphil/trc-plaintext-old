@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 347
 Aboriginal youth today face many barriers to leading active, healthy lives in their communities. They lack opportunities to pursue excellence in sports. There is little access to culturally relevant traditional sports activities that strengthen Aboriginal identity and instill a sense of pride and self-confidence. Lack of resources, sports facilities, and equipment limits their ability to play sports. Racism remains an issue. Aboriginal girls face the extra barrier of gender discrimination.260 Despite the many achievements of individual Indigenous athletes, too many Aboriginal youth remain excluded from community-based sports activities and the pursuit of excellence in sport. The Physical Activity and Sport Act (2003) set out the federal government's sport policy regarding the full and fair participation of all Canadians in sport, and mandated the minister to "facilitate the participation of under-represented groups in the Canadian sport system" (S. 5.m). However, the Act made no specific reference to Aboriginal peoples.261
 Call to Action
 89) We call upon the federal government to amend the Physical Activity and Sport Act to support reconciliation by ensuring that policies to promote physical activity as a fundamental element of health and well-being, reduce barriers to sports participation, increase the pursuit of excellence in sport, and build capacity in the Canadian sport system, are inclusive of Aboriginal peoples.

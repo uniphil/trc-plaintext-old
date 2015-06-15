@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 365
 Endnotes
 1. TRC, AVS, Ian Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.
 2. Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45. 3. Miller, Lethal Legacy, 165. 4. For various perspectives on the events at Oka, see, for example: Alfred, Heeding the Voices; Pertusa-

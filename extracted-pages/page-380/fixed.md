@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-374 · Truth & Reconciliation Commission
 153. Library and Archives Canada, "Legacy of the Residential School System," http://www.bac-lac.gc. ca/eng/archives/archives-en/aboriginal-heritage/Pages/residential-schools-bibliography-2009. aspx (accessed 15 April 2015).
 154. Library and Archives Canada, "Conducting Research on Residential Schools," http://www.collectionscanada.gc.ca/obj/020008/f2/020008-2000-e.pdf (accessed 15 April 2015).
 155. Indian Residential Schools Settlement Agreement, Truth and Reconciliation Commission of Canada, Mandate, Schedule N, 11, http://www.trc.ca/websites/trcinstitution/File/pdfs/SCHEDULE_N_EN.pdf.

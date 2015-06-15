@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-228 · Truth & Reconciliation Commission
 one that addresses the need for improvements in health, education, and economic development in Aboriginal communities.
 Any strategy aimed at reducing Aboriginal offending and victimization must also include recognition of the rights of Aboriginal communities to develop their own justice systems as part of a larger commitment to Aboriginal self-determination and self-government. These rights are grounded in international and constitutional law as well as in the Treaties. Aboriginal forms of justice may be as diverse as Canada's Aboriginal peoples themselves. It is a central conclusion of the Truth and Reconciliation Commission of Canada that recognition of the Aboriginal right to self-determination, more appropriate funding allocations for services from governments, and methodical tracking of progress are the preconditions for redressing the disastrous legacy of residential schools and aiding the long process of reconciliation within Canada.
 Call to Action

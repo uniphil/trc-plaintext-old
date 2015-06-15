@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-338 · Truth & Reconciliation Commission
 to remember.... On a collective basis, symbolic measures intended to provide moral reparation, such as formal public recognition by the State of its responsibility, or official declarations aimed at restoring victims' dignity, commemorative ceremonies, naming of public thoroughfares or the erection of monuments, help to discharge the duty of remembrance.228
 In 2014, the un Special Rapporteur in the field of Cultural Rights, Farida Shaheed, issued a report on memorialization processes in countries where victims and their families, working collaboratively with artists and various civic society groups, have commemorated their experiences in unofficial ways that may run counter to state-sanctioned versions of national history.229 Shaheed observed that the commemorations of Indigenous peoples' experience--both their oppression and their positive contributions to society--that have occurred in many countries, including Canada, have not been state-driven initiatives. Rather, they have been initiated by Indigenous peoples themselves.
 In Canada, a memorial to indigenous veterans from the First World War was built at the request of indigenous peoples, integrating many elements of indigenous cultures. This recognition took place at a later stage in history, however, and in a different venue to the main memorial established for other Canadian soldiers. Commemoration projects are also taking place ... regarding the history of Indian residential schools.230

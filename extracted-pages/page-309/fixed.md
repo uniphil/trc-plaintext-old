@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 303
 Canada's national archives: Sharing Aboriginal
 history versus keeper of state records
 As Canada's national archives, Library and Archives Canada (lac) has a dual function with regard to its holdings on Aboriginal peoples. It is both a public history institution tasked with making documents relevant to Aboriginal history accessible to the public, and it is the custodian of federal government departmental historical records.

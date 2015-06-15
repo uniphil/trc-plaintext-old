@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-Commission activities · 35
 Her Excellency, the Honorable Michaëlle Jean at the Winnipeg National Event, June 2010.
 culture, language, and artistic expression--cultural forms that residential schools sought to destroy.
 The Commission was able to share its work with Canadians everywhere, and with a worldwide audience, through live streaming of the National Events on the internet and additional postings on the Commission's website and social-media platforms. There were over 93,350 views of its webcast during the National Events from at least sixty-two different countries.

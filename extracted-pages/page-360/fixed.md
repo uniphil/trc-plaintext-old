@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-354 · Truth & Reconciliation Commission
 past, where Aboriginal peoples had no say in the design of the system and no ability to protect their children from intrinsic harms, First Nations, Inuit, and Métis peoples today want to manage their own lives. In terms of the economy, that means participating in it on their own terms. They want to be part of the decision-making process. They want their communities to benefit if large-scale economic projects come into their territories. They want to establish and develop their own businesses in ways that are compatible with their identity, cultural values, and world views as Indigenous peoples. They want opportunities to work for companies that are proactively addressing systemic racism and inequity. Corporations can demonstrate leadership by using the United Nations Declaration as a reconciliation framework.
 Call to Action
 92) We call upon the corporate sector in Canada to adopt the United Nations Declaration on the Rights of Indigenous Peoples as a reconciliation framework and to apply its principles, norms, and standards to corporate policy and core operational activities involving Indigenous peoples and their lands and resources. This would include, but not be limited to, the following:

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-214 · Truth & Reconciliation Commission
 remedies for the collective harms that residential schools caused to Aboriginal nations and communities.
 Residential school litigation has been extremely complex, expensive, and lengthy. It has been especially difficult for the Survivors, many of whom were revictimized through explicit questioning and adversarial treatment by the Government of Canada, the churches, and even their own lawyers.
 Limitation periods

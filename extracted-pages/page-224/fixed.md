@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-218 · Truth & Reconciliation Commission
 intergenerational legacy of residential schools. It should not be surprising that those who experienced and witnessed very serious violence against Aboriginal children in the schools frequently became accustomed to violence in later life. One intergenerational Survivor recalled that her mother
 never talked about it very much or never expressed it. And she was very quiet, and she had issues with alcohol, and I saw that, and that was basically the only time that she was really aggressive I guess is during those times when she drank.... And my father was also very aggressive. It was a very violent home actually. My brothers used to fight each other, and my brothers would fight my dad, and my mom and my dad would fight, and a lot of violence in the home, actually to the point where my brother, my oldest brother, killed my, one of our other brothers in the home ... when I was nine, and I saw the whole thing.132
 The Commission heard numerous accounts of the hardships experienced by former residential school students who became involved with the justice system. For many, there were painful parallels between their time in school and their time in jail. For Daniel Andre, the road from Grollier Hall in Inuvik in the Northwest Territories led, inevitably, to jail.

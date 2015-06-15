@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-188 · Truth & Reconciliation Commission
 Better research and data are also required in order to monitor and develop strategies to reduce the overrepresentation of Aboriginal children in care.
 Call to Action
 2) We call upon the federal government, in collaboration with the provinces and territories, to prepare and publish annual reports on the number of Aboriginal children (First Nations, Inuit, and Métis) who are in care, compared with non-Aboriginal children, as well as the reasons for apprehension, the total spending on preventive and care services by child-welfare agencies, and the effectiveness of various interventions.

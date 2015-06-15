@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 49
 be exploited economically. The benefits of empire could come directly as taxes, as precious metals, or as raw materials for industries in the homeland. Colonies often were required to purchase their imports solely from the homeland, making them a captive market.50
 The mere presence of Indigenous people in these newly colonized lands blocked settler access to the land.51 To gain control of the land of Indigenous people, colonists negotiated Treaties, waged wars of extinction, eliminated traditional landholding practices, disrupted families, and imposed a political and spiritual order that came complete with new values and cultural practices.52 Treaty promises often went unfulfilled. United States General William Tecumseh Sherman is quoted as having said, "We have made more than one thousand treaties with the various Indian tribes, and have not kept one of them." In commenting on Sherman's statement in 1886, C. C. Painter, a critic of American Indian policy, observed that the United States had
 never intended to keep them. They were not made to be kept, but to serve a present purpose, to settle a present difficulty in the easiest manner possible, to acquire a desired good with the least possible compensation, and then to be disregarded as soon as this purpose was tainted and we were strong enough to enforce a new and more profitable arrangement.53

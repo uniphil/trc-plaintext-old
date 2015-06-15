@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 287
 themselves, as though there were no external causes. Aboriginal peoples have therefore been characterized as a social and economic problem that must be solved.
 By the 1990s, textbooks emphasized the role of Aboriginal peoples as protestors, advocating for rights. Most Canadians failed to understand or appreciate the significance of these rights, given the overriding perspective of Aboriginal assimilation in Canada's education system.
 Although textbooks have become more inclusive of Aboriginal perspectives over the past three decades, the role of Aboriginal people in Canadian history during much of the twentieth century remains invisible. Students learn something about Aboriginal peoples prior to contact, and during the exploration, fur-trade, and settlement periods. They learn about Métis resistance in the 1880s, and the signing of Treaties. Then, Aboriginal peoples virtually disappear until the 1960s and 1970s, when they resurface as political and social justice activists. The defining period in between remains largely unmentioned.107 So much of the story of Aboriginal peoples, as seen through their own eyes, is still missing from Canadian history.

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-270 · Truth & Reconciliation Commission
 education, it will be important to ensure all Canadians have the educational resources and practical tools required to advance reconciliation.
 Calls to Action
 53) We call upon the Parliament of Canada, in consultation and collaboration with Aboriginal peoples, to enact legislation to establish a National Council for Reconciliation. The legislation would establish the council as an independent, national, oversight body with membership jointly appointed by the Government of Canada and national Aboriginal organizations, and consisting of Aboriginal and non-Aboriginal members. Its mandate would include, but not be limited to, the following:

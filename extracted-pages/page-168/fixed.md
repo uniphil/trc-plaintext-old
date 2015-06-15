@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-162 · Truth & Reconciliation Commission
 432. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, GRS Files, box R2, [Name redacted], Ronald J. Pratt and Herman Blind to [Name redacted], 8 December 1993. [IRC-047202-0002]
 433. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, J. W. Tims to Indian Commissioner, October 27, 1891.
 434. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, L. Vankoughnet to H. Reed, 7 December 1891.

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-242 · Truth & Reconciliation Commission
 treatment of Aboriginal peoples in these other countries has strong parallels to what happened to Aboriginal peoples in Canada. Specifically, Canada objected to the Declaration's
 provisions dealing with lands, territories and resources; free, prior and informed consent when used as a veto; self-government without recognition of the importance of negotiations; intellectual property; military issues; and the need to achieve an appropriate balance between the rights and obligations of Indigenous peoples, member States and third parties.10
 Although these four countries eventually endorsed the Declaration, they have all done so conditionally. In 2010, Canada endorsed the Declaration as a "non-legally binding aspirational document."11 Despite this endorsement, we believe that the provisions and the vision of the Declaration do not currently enjoy government acceptance. However, because Canada has accepted the Declaration, we hold the federal government to its word that it will genuinely aspire to achieve its provisions.

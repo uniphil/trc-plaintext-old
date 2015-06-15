@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-112 · Truth & Reconciliation Commission
 by a group of boys left Don Willie distrustful of most people. "The only, only friends I kept after that were my relatives."492
 Complaints were infrequent, as students had good reason not to report their abuse. Some feared that bullies would retaliate if they were reported. Others were ashamed of what had been done to them, and some did not fully understand what had been done to them. Many students feared they would not be believed--or would be blamed for somehow bringing the abuse upon themselves. Still others were further punished when they did tell. So, rather than report the abuse, many students chose to fight back; to seek admission into a receptive group, where violence could be fought with violence; or to endure the pain in silence. This victimization left many students feeling intensely betrayed, fearful, isolated, and bereft of home teachings and protection. The betrayal by fellow students has contributed significantly to the schools' long-term legacy of continuing division and distrust within Aboriginal communities. The residential school system's shameful inability to protect students from such victimization, even from among themselves, represents one of its most significant and least-understood failures.
 Sports and culture: "It was a relief."

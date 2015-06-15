@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-44 · Truth & Reconciliation Commission
 Boys at the Sioux Lookout, Ontario, school in the 1930s in their school uniforms. General Synod Archives; Anglican Church of Canada; P75-103-S7-127.
 went to the Pine Creek, Manitoba, school in the 1950s. "My mom had prepared me in Native clothing. She had made me a buckskin jacket, beaded with fringes.... And my mom did beautiful work, and I was really proud of my clothes. And when I got to residential school, that first day I remember, they stripped us of our clothes."18 On her arrival at the Presbyterian school in Kenora, Ontario, Lorna Morgan was wearing "these nice little beaded moccasins that my grandma had made me to wear for school, and I was very proud of them." She said they were taken from her and thrown in the garbage.19
 Gilles Petiquay, who attended the Pointe Bleue school, was shocked by the fact that each student was assigned a number. "I remember that the first number that I had at the residential school was 95. I had that number--95--for a year. The second number was number 4. I had it for a longer period of time. The third number was 56. I also kept it for a long time. We walked with the numbers on us."20

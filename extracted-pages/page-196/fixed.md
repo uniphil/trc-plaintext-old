@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-190 · Truth & Reconciliation Commission
 communities, and contributes to the continuing overrepresentation of Aboriginal children in foster care.
 Jurisdictional disputes
 Jurisdictional responsibility for child welfare is intensely contested. Historically, the federal government and provincial and territorial governments have tried to shift responsibility for Aboriginal child services from one level of government to another. The federal position is that responsibility for child and family services lies solely within the jurisdiction of the provinces and territories. Canada contends that the federal government is responsible for funding only on-reserve services. In contrast, the provinces maintain that the federal government has constitutional responsibility for `Indians,' and argue that Ottawa has off-loaded that responsibility to the provinces to provide services to an increasingly urban, non-reserve population.30

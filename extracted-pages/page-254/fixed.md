@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-248 · Truth & Reconciliation Commission
 doctrines of superiority, including `discovery,' as a basis for the assumed sovereignty over Indigenous peoples and their lands and resources."29
 In his report to the un Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
 The highest court of Canada has recognized the need for reconciliation of "preexisting aboriginal sovereignty with assumed Crown sovereignty." The Supreme Court has taken judicial notice of "such matters as colonialism, displacement and residential schools," which demonstrate how "assumed" sovereign powers were abused throughout history. The root cause of such abuse leads back to the Doctrine of Discovery and other related fictitious constructs which must therefore be addressed.30

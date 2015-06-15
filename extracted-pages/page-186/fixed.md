@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-180 · Truth & Reconciliation Commission
 634. TRC, NRA, Library and Archives Canada, RG10, volume 2006, file 7825-1A, "Report on the Mohawk Institute and Six Nations Board School," 30 August 1895, 43. [TAY-003821-0000]
 635. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, A. F. MacKenzie to H. W. Snell, 7 May 1936. [TAY-003085-0002]
 636. Canada, Annual Report of the Department of Indian Affairs, 1903, 402. 637. TRC, NRA, United Church of Canada Archives, Acc. No. 1979.199C, box 5, file 60, J. A.

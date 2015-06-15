@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 357
 their lives.... We are working on a healing journey between the City of Wetaskiwin and the Cree First Nations.... As you come into Wetaskiwin from the south, you will see that our [city] sign is in Cree syllabics as well--that welcomes you.... We still have a long way to go. We are taking baby steps in the healing process. But we are working together for better communities, to understand and respect the differences and similarities in our cultures.288
 At the Alberta National Event in 2014, Mayor Elliot, who was also inducted as a trc Honorary Witness, offered an expression of reconciliation:
 Our community is trying to learn more about the Survivors and the residential schools. Our schools, churches, and community have made cupcakes and birthday cards for the big birthday party tomorrow. Members of our community have been here for the last two days.... They are very, very supportive and they want to learn. We are trying to learn more about and understand the effects of residential schools and our friends from Maskwacis because we want to be good neighbours.289

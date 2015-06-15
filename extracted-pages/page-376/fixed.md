@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-370 · Truth & Reconciliation Commission
 81. The right of Indigenous peoples to observe traditional spiritual practices is upheld by the United Nations. Article 12:1 of the United Nations Declaration on the Rights of Indigenous Peoples says, "Indigenous peoples have the right to manifest, practice, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect, and have access in privacy to their religious and cultural sites; the right to use and control of their ceremonial objects; and the right to the repatriation of their human remains." See: United Nations, Declaration on the Rights of Indigenous Peoples, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.
 82. See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://aptn.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-community/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-downsweat-lodge-15500.
 83. TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.

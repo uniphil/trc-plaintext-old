@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 253
 ii. Adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples as the framework for reconciliation.
 iii. Renew or establish Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.
 iv. Reconcile Aboriginal and Crown constitutional and legal orders to ensure that Aboriginal peoples are full partners in Confederation, including the recognition and integration of Indigenous laws and legal traditions in negotiation and implementation processes involving Treaties, land claims, and other constructive agreements.

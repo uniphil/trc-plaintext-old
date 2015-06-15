@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 123
 Staff outside the entrance of the Brandon, Manitoba, school in 1946. National Film Board of Canada. Photothèque, Library and Archives Canada, PA-048575.
 The staff: "My aim was to do something good."
 For most of their history, residential schools were staffed by individuals who were recruited by Christian missionary organizations. Generally, the churches appointed a priest or minister, as opposed to an educator, as the principal. The Roman Catholic schools could draw staff from a number of Catholic religious orders, whose members had made explicit vows of obedience, poverty, and chastity. In the spirit of those vows, they would be obliged to go where they were sent, would not expect payment, and would have no families to support. Indian Commissioner David Laird believed that since members of Roman Catholic religious orders received very little in exchange for their services, the Roman Catholic schools could "afford to have a much larger staff than where ordinary salaries are paid, and there is consequently less work for each to do, without interfering with the quality of the work done."580 The Protestant schools recruited many of their staff members through missionary organizations.

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-102 · Truth & Reconciliation Commission
 Residential school students at the Roman Catholic cemetery in Fort George, Québec. Deschatelets Archives.
 the local community, and the missionaries themselves. For example, the cemetery at the Roman Catholic St. Mary's mission, near Mission, British Columbia, was intended originally for priests and nuns from the mission as well as for students from the residential school.388
 During the influenza pandemic of 1918­19, many of the schools and missions were overwhelmed. At the Fort St. James school and mission in British Columbia, the dead were buried in a common grave.389 At the Red Deer school, four students who died there were buried two to a grave to save costs.390 In some cases, student and staff graves were treated differently. At the Spanish, Ontario, school, the graves of staff members were marked with headstones that, in the case of former priests and nuns, provided name and date of birth and death. The burial spots of students were identified only by plain white crosses.391

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-272 · Truth & Reconciliation Commission
 functional integrity of the communities from which the children came and to which they would return.
 Christian teachings were a fundamental aspect of residential schools. Aboriginal children were taught to reject the spiritual ways of their parents and ancestors in favour of the religions that predominated among settler societies. As their traditional ways of worshipping the Creator were disparaged and rejected, so too were the children devalued. They were not respected as human beings who were equally loved by the Creator just as they were, as First Nations, Inuit, or Métis peoples. Rather, their Christian teachers saw them as inferior humans in need of being `raised up' through Christianity, and tried to mould them into models of Christianity according to the racist ideals that prevailed at the time. The impact of such treatment was amplified by federal laws and policies that banned traditional Indigenous spiritual practices in the children's home communities for much of the residential school era.
 Spiritual violence occurs when

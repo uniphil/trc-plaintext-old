@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-84 · Truth & Reconciliation Commission
 Inuit students at the Joseph Bernier School, Chesterfield Inlet, 1956. Diocese of Churchill-Hudson Bay.
 the strict enforcement of prohibitions against speaking Aboriginal languages. In his opinion, "The forbidding of children to speak Indian, even during recreation, was so strict in some of our schools that any lapse would be severely punished--to the point that children were led to consider it a serious offense."270
 Students had strong memories of being punished for `speaking Indian.' Mary Angus, who attended the Battleford school in the late nineteenth century, said that students caught speaking their own language were given a close haircut: "All the hair cut to be as a man, that what they do, for us not to talk. We were afraid of that, to have our hair cut."271 At the Fraser Lake school in British Columbia, Mary John said she could speak her own language only in whispers.272 Melvina McNabb was seven years old when she was enrolled in the File Hills school, and "I couldn't talk a word of English. I talked Cree and I was abused for that, hit, and made to try to talk English."273 Raymond Hill, who was a student at the Mohawk Institute in Brantford in the early years of the twentieth century, said, "I lost my language. They threatened us with a strapping if we spoke it, and within a year I lost all of it. They said they thought we were talking about them."274

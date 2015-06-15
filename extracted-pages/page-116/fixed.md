@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-110 · Truth & Reconciliation Commission
 injured, bewildered, and often friendless or subject to ridicule by other students.466 Many students thought they were the only children being abused. This confusion made it difficult for them to describe or report their abuse.467 Some were told they would face eternal damnation for speaking of what had been done to them.468
 Many students fought back against their far larger and more powerful assailants, especially as they got older and stronger.469 Some succeeded in forcing their tormentors to leave them alone.470 Many others, such as Lawrence Waquan, concluded that there was "nothing you can do."471 Some students ran away from school in an attempt to escape abuse.472 Others begged their parents not to return them to school after a break.473
 Some students never reported abuse for fear they would not be believed.474 Other students who did report abuse were told that they were to blame.475 In some cases, school officials took immediate action when abuse was reported to them, but the rarity of such actions is itself noteworthy.476 Former students spoke of how betrayed they felt when nothing was done about their complaints.477 Many simply felt too ashamed to ever speak of the abuse.478 Family members often refused to believe their children's reports of abuse, intensifying their sense of isolation and pain.479 This was especially so within families that had adopted Christianity, and could not believe that the people of God looking after their children would ever do such things.480

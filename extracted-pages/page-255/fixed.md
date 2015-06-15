@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 249
 Treaties: Honouring the past and negotiating the future
 It is important for all Canadians to understand that without Treaties, Canada would have no legitimacy as a nation. Treaties between Indigenous nations and the Crown established the legal and constitutional foundation of this country.
 Elder Fred Kelly emphasized that Treaty making and Aboriginal peoples' ways of resolving conflict must be central to reconciliation. He said,

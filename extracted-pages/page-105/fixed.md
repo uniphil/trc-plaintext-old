@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 99
 
 close the schools and replace them with
 

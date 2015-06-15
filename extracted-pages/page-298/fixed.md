@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-292 · Truth & Reconciliation Commission
 action.116 In a digital world, where students have ready access to a barrage of information concerning Treaties, Aboriginal rights, or historical wrongs such as residential schools, they must know how to assess the credibility of these sources for themselves. As active citizens, they must be able to engage in debates on these issues, armed with real knowledge and deepened understanding about the past.
 Understanding the ethical dimension of history is especially important. Students must be able to make ethical judgments about the actions of their ancestors while recognizing that the moral sensibilities of the past may be quite different from their own in present times. They must be able to make informed decisions about what responsibility today's society has to address historical injustices.117 This will ensure that tomorrow's citizens are both knowledgeable and caring about the injustices of the past, as these relate to their own futures.
 Gathering new knowledge: Research on reconciliation

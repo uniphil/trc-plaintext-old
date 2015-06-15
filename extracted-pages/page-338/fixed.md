@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-332 · Truth & Reconciliation Commission
 of their coursework. Through classroom readings, dialogue, and art, they created a space for learning about, and reflecting on, the residential school history and legacy in the context of reconciliation.214
 A report commissioned by the trc, "Practicing Reconciliation: A Collaborative Study of Aboriginal Art, Resistance and Cultural Politics," was based on the findings of a one-year research project. Working with Survivors, artists, and curators, a multidisciplinary team of researchers examined the general question of how artistic practice contributes to the reconciliation process. The research was done through a series of interviews, workshops, artist residencies, planning sessions, symposia, artistic incubations, publications, and online learning platforms. The report reveals the depth and potential of arts-based approaches to reconciliation.
 We should begin by echoing what many of our interview and artist subjects have repeatedly said: that the act of reconciliation is itself deeply complicated, and that success should not be measured by achieving a putative [commonly accepted or supposed] reconciliation, but by movement towards these lofty goals. Indeed, it could be proposed that full reconciliation is both mercurial and impossible, and that the efforts of theorists, artists, survivors, and the various publics engaged in this difficult process are best focused on working collaboratively for better understanding our histories, our traumas, and ourselves.215

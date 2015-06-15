@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-Commission activities · 33
 and Reconciliation.8 The precise parameters of the notice program would be decided by the court in a subsequent hearing. Importantly, Justice Perell ruled that every copy of the iap documents, no matter who possesses them, must be destroyed after the conclusion of the retention period if the iap claimants do not consent to having the documents archived.
 Justice Perell also directed that the Commission commence a further Request for Direction and return to court for a determination of the issue of the parameters of a notice program to inform Survivors about their option to archive their iap applications, the transcripts and audio recordings of their hearings, and the decisions with the Commission. The Commission (along with the National Centre for Truth and Reconciliation) has been entrusted to commence further proceedings to determine how to engage claimants in the exercise of ensuring informed consent on the issue of the fate of their records.
 Justice Perell's ruling is the subject of appeal.9 The Commission feels strongly that any steps taken to ensure that the informed consent of Survivors is obtained must be robust, culturally appropriate, and sensitive to the challenges of contacting Survivors, some of whom cannot read, have problems speaking English or French, and reside in remote locations. The Commission believes that it is not enough that a notice simply be mailed to the last known address of Survivors. A multi-faceted and personal approach that actively engages Survivors is required.

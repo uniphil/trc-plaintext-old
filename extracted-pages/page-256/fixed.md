@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-250 · Truth & Reconciliation Commission
 peoples enriches and informs our understanding of why we are all Treaty people.34 This is evident, for example, in the story of the Royal Proclamation of 1763 and its relationship to the Treaty of Niagara of 1764. The Royal Proclamation, which was issued by colonial officials, tells only half this story.
 On October 7, 1763, King George III issued a Royal Proclamation by which the British Crown first recognized the legal and constitutional rights of Aboriginal peoples in Canada. In the Royal Proclamation of 1763, the British declared that all lands west of the established colonies belonged to Aboriginal peoples and that only the Crown could legally acquire these lands by negotiating Treaties.
 At a time when Aboriginal peoples still held considerable power and conflicts with settlers were increasing, British officials sought to establish a distinct geographical area that would remain under the jurisdiction of Indigenous nations until Treaties were negotiated.

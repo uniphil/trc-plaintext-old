@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 257
 The right to self-determination is a central right for indigenous peoples from which all other rights flow. In relation to access to justice, self-determination affirms their right to maintain and strengthen indigenous legal institutions, and to apply their own customs and laws.
 The cultural rights of indigenous peoples include recognition and practice of their justice systems ... as well as recognition of their traditional customs, values and languages by courts and legal procedures.
 Consistent with indigenous peoples' right to self-determination and self-government, States should recognize and provide support for indigenous peoples' own justice systems and should consult with indigenous peoples on the best means for dialogue and cooperation between indigenous and State systems.

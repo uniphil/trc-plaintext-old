@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 165
 464. TRC, AVS, Flora Northwest, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.
 465. For examples, see: TRC, AVS, Hazel Mary Anderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-034; TRC, AVS, Peter Ross, Statement to the Truth and Reconciliation Commission of Canada, Tsiigehtchic, Northwest Territories, 8 September 2011, Statement Number: 2011-0340.
 466. TRC, AVS, Eric Robinson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.

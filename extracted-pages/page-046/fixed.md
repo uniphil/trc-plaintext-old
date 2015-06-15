@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-40 · Truth & Reconciliation Commission
 Endnotes
 1. In this context, the Commission defines a "visit" as one person attending one day of one National Event. The Commission made daily attendance estimates of its National Events but did not attempt to track those individuals who attended more than one day of any single National Event.
 2. Schedule N to the Settlement Agreement provides at section 1(e) that one of the goals of the Commission is to "identify sources and create as complete an historical record as possible of the IRS system and legacy." In addition, section 11 of Schedule N provides that "Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission" and that Canada and the churches are required to "compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate."

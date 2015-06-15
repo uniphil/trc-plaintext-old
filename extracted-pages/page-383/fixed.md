@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 377
 198. TRC, AVS, Jack Lee, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
 199. TRC, AVS, Mark DeWolf, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 28 October 2011, Statement Number: SC075.
 200. TRC, AVS, Tina Keeper, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 24 June 2013, Statement Number: SNE403.

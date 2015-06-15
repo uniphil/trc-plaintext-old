@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-34 · Truth & Reconciliation Commission
 Concert showcasing local Aboriginal talent, Atlantic National Event, Halifax, 2011.
 As much as possible, the observances followed the cultural protocols, customs, and traditions of the Aboriginal peoples in whose territories the Commission was a guest. Similar ceremonies were held at Regional and Community Events.
 Education was a key part of the Commission's mandate. Although students were involved in all the National Events, beginning at the third National Event in Halifax, and at all subsequent National Events, local schools were invited to send students to take part in a day of learning. These Education Days were also part of Regional Events on Vancouver Island and in Yukon, and a stand-alone event was organized in Toronto for students from the surrounding area. In all, more than 15,000 students participated by attending presentations and cultural performances, observing and taking part in panel discussions and workshops, and visiting displays in the Learning Places.

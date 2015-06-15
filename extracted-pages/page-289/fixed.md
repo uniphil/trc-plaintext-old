@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 283
 at "The Meeting Place," an event co-sponsored by Council Fire Native Cultural Centre and the Toronto Conference of the United Church of Canada in June of 2012.
 Yet, more remains to be done in education and training with regard to reconciling Indigenous spirituality and Christianity in ways that support Indigenous self-determination. Writing in 2009, the former Archdeacon for the Anglican Church and founding member of the Indian Ecumenical Conference, Rev. John A. (Ian) MacKenzie, said,
 Most urgently, churches need to consider opening a serious dialogue with Aboriginal theologians, doctors, and healers who represent ... the North American intellectual tradition.... [Aboriginal peoples] call for recognition of the truth of past injustices and respect for their civilizations. Most of all, this is a call for respect for their traditional religious thoughts and practices. The only legitimate North American intellectual tradition comes from the diverse tribal societies in our midst!...

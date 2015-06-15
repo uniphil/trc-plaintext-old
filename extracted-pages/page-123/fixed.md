@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 117
 Students at the Kitamaat, British Columbia, school. In 1922, parents refused to return their children to school after the death of one student. The United Church of Canada Archives, 93.049P1835.
 mother, Isabel, had been a schoolteacher prior to her marriage, and home-schooled the children.518
 Sometimes, parents took their children out of school against the wishes of the principal. In 1904, a husband and wife attempted to remove their daughter from the Kuper Island school. When Principal G. Donckele informed them that when they signed the admission form, they had given the government the right to determine when their daughter would be discharged, the father said, "I am the father of this child and I do not care for what you and the government have to say about it." After being told that he could be prosecuted, the father left with his daughter anyway.519

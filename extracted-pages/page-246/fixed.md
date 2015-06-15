@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-240 · Truth & Reconciliation Commission
 involved armed resistance led by militarily trained Mohawk warriors.5 It was an event that shook Canada's complacency about Aboriginal demands to the core. Shortly after an end to the siege had been negotiated, Prime Minister Brian Mulroney wrote:
 The summer's events must not be allowed to over-shadow the commitment that my government has made to addressing the concerns of aboriginal people.... These grievances raise issues that deeply affect all Canadians and therefore must be resolved by all Canadians working together.... The government's agenda responds to the demands of aboriginal peoples and has four parts: resolving land claims; improving the economic and social conditions on reserves; defining a new relationship between aboriginal peoples and governments; and addressing the concerns of Canada's aboriginal peoples in contemporary Canadian life. Consultation with aboriginal peoples and respect for the fiduciary responsibilities of the Crown are integral parts of the process. The federal government is determined to create a new relationship among aboriginal and non-aboriginal Canadians based on dignity, trust and respect.6
 The Government of Canada subsequently created a Royal Commission to look into the state of affairs of Aboriginal peoples in Canada. The Royal Commission provided a glimpse into just how bad things had become.

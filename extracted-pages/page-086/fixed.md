@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-80 · Truth & Reconciliation Commission
 values and good example I had before I went to residential school by my grandfather and my parents, and all the old people on the reserve where I grew up are the ones who made me a good student."243
 Work: "No idleness here."
 Student education was further undermined by the amount of work the students had to do to support the schools. Because Indian Affairs officials had anticipated that the residential schools would be self-sufficient, students were expected to raise or grow and prepare most of the food they ate, to make and repair much of their clothing, and to maintain the schools. As a result, most of the residential schools operated on what was referred to as the "half-day system." Under this system--which amounted to institutionalized child labour--students were in class for half the day and in what was supposed to be vocational training for the other half. Often, as many students, teachers, and inspectors observed, the time allocated for vocational training was actually spent in highly repetitive labour that provided little in the way of training. Rather, it served to maintain the school operations.

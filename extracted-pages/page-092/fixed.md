@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-86 · Truth & Reconciliation Commission
 students that if they attended a Sun Dance that was to be held during the summer, they would be strapped on their return to school.288 Marilyn Buffalo recalled being told by Hobbema, Alberta, school staff that the Sun Dance was `devil worship.'289 One year, Sarah McLeod returned to the Kamloops school with a miniature totem pole that a family member had given her for her birthday. When she proudly showed it to one of the nuns, it was taken from her and thrown out. She was told that it was nothing but devilry.290
 School officials did not limit their opposition to Aboriginal culture to the classroom. In 1942, Gleichen, Alberta, principal John House became involved in a campaign to have two Blackfoot chiefs deposed, in part because of their support for traditional dance ceremonies.291 In 1943, F. E. Anfield, the principal of the Alert Bay, British Columbia, school, wrote a letter encouraging former students not to participate in local Potlatches, implying that such ceremonies were based on outdated superstition, and led to impoverishment and family neglect.292
 Even when it did not directly disparage Aboriginal culture, the curriculum undermined Aboriginal identity. Thaddee Andre, who attended the Sept-Îles, Québec, school in the 1950s, recalled how as a student he wanted "to resemble the white man, then in the meantime, they are trying by all means to strip you of who you are as an Innu. When you are young, you are not aware of what you are losing as a human being."293

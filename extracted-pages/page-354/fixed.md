@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-348 · Truth & Reconciliation Commission
 system. Aboriginal peoples are also affected by issues of identity and historical trauma.264 Despite this roundtable report based on the 2011 consultation, the Commission notes that the subsequent Canadian Sport Policy released in 2012 contains no specific references to Aboriginal peoples.265
 Call to Action
 90) We call upon the federal government to ensure that national sports policies, programs, and initiatives are inclusive of Aboriginal peoples, including, but not limited to, establishing: i. In collaboration with provincial and territorial governments, stable funding for, and access to, community sports programs that reflect the diverse cultures and traditional sporting activities of Aboriginal peoples. ii. An elite athlete development program for Aboriginal athletes. iii. Programs for coaches, trainers, and sports officials that are culturally relevant for Aboriginal peoples. iv. Anti-racism awareness and training programs.

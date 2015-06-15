@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-286 · Truth & Reconciliation Commission
 how it all began [starting with] Christopher Columbus, from Christianization, then colonization, and then assimilation.... If we put our minds and hearts to it, we can [change] the status quo.104
 At the Commission's Community Hearing in Thunder Bay, Ontario, in 2010, Esther Lachinette-Diabo said,
 I'm doing this interview in hope that we could use this as an educational tool to educate our youth about what happened.... Maybe one day the Ministry of Education can work with the trc and develop some kind of curriculum for Native Studies, Indigenous learning. So that not only Aboriginal people can understand, you know, what we had to go through--the experiences of all the Anishinaabe people that attended--but for the Canadian people as well to understand that the residential schools did happen. And through this sharing, they can understand and hear stories from Survivors like me.105

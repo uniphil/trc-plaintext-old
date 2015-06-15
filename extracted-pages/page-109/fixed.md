@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 103
 drowned in 1974 while attending the Fort Albany school, it was decided, without consultation with his parents, to bury him in Moosonee rather than send him home to Peawanuck near Hudson Bay. It was not until 2011, after significant public efforts made on his behalf by his sister Joyce, who had never got to meet her older brother, that Charles Hunter's body was exhumed and returned to Peawanuck for a community burial. The costs were covered by funds that the Toronto Star raised from its readership.397
 A school closing might mean the cemetery would be left unattended. When the Battleford school closed in 1914, Principal E. Matheson reminded Indian Affairs that there was a school cemetery that contained the bodies of seventy to eighty individuals, most of whom were former students. He worried that unless the government took steps to care for the cemetery, it would be overrun by stray cattle.398 In short, throughout the system's history, children who died at school were buried in school or mission cemeteries, often in poorly marked graves. The closing of the schools has led, in many cases, to the abandonment of these cemeteries.
 Discipline: "Too suggestive of the old system of flogging criminals"

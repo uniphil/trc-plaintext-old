@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-382 · Truth & Reconciliation Commission
 298. TRC, AVS, Winnie Ng, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
 299. Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
 300. Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).

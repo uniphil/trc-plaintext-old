@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 47
 diet and given a substandard education, and worked too hard. For far too long, they died in tragically high numbers. Discipline was harsh and unregulated; abuse was rife and unreported. It was, at best, institutionalized child neglect.
 The people who built, funded, and operated the schools offered varying justifications for this destructive intrusion into the lives of Aboriginal families. Through it, they wished to turn the children into farmers and farmers' wives. They wanted the children to abandon their Aboriginal identity and come to know the Christian god. They feared that if the children were not educated, they would be a menace to the social order of the country. Canadian politicians wished to find a cheap way out of their long-term commitments to Aboriginal people. Christian churches sought government support for their missionary efforts. The schools were part of the colonization and conversion of Aboriginal people, and were intended to bring civilization and salvation to their children. These were the rationales that were used to justify making the lives of so many children so unhappy.
 The imperial context

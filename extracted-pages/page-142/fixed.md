@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-136 · Truth & Reconciliation Commission
 19. TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.
 20. TRC, AVS, Gilles Petiquay, Statement to the Truth and Reconciliation Commission of Canada (translated from French), La Tuque, Québec, 6 March 2013, Statement Number: 2011-6001.
 21. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.

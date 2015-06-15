@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-372 · Truth & Reconciliation Commission
 116. Cultural theorist Roger Simon makes this point in an essay on the pedagogical practice of public history in the context of the Commission's public education mandate. See: Simon, "Towards a Hopeful Practice," 135­136.
 117. The 2013 annual report of the Historical Thinking Project makes a similar point, arguing that the education system must produce historically literate citizens. See: Seixas and Colyer, "Report on the National Meeting," 3, http://historicalthinking.ca/sites/default/files/files/docs/HTP2013Report. pdf (accessed 15 April 2015). The purpose of the Historical Thinking Project was to provide history education resources for teachers to train students how to think critically and effectively about history. See: Seixas and Colver, "Report on the National Meeting," 2, http://historicalthinking.ca/ sites/default/files/files/docs/HTP2013Report.pdf (accessed 15 April 2015).
 118. Centre for Youth & Society, "Residential Schools Resistance Narratives." Videos available online at: http://youth.society.uvic.ca/TRC (accessed 15 April 2015).

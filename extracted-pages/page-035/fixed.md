@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-Commission activities · 29
 In recognition of the unique cultures of the Inuit, and of their experiences and the impacts of residential schools on them, the Commission also established an Inuit SubCommission. Seven regional liaison officers were hired with advice from the irssc and were assigned responsibility to work in the following regions: Québec and Atlantic Canada, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and Yukon and the Northwest Territories.
 Meeting from coast to coast
 During the six years of its operation, the Commission held events in all parts of the country. The largest and most visible of these were the National Events held in Winnipeg, Inuvik, Halifax, Saskatoon, Montreal, Vancouver, and Edmonton between June 2010 and March 2014. The Commission estimates there were as many as 155,000 visits to the seven National Events; over 9,000 residential school Survivors registered to attend them (while many others attended but did not register).1 To augment its statement-gathering activities and to help build public interest and participation in its National Events, the trc organized Regional Events in Victoria and Whitehorse. It also held 238 days of local hearings in seventy-seven communities across the country.

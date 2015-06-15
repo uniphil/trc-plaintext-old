@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 351
 that are consistent with this purpose and, in principle, can justify the infringement of aboriginal title.272
 Governments must also demonstrate that any infringement of Aboriginal rights is consistent with the Crown's fiduciary duty towards Aboriginal peoples and upholds the honour of the Crown. To meet these legal obligations, governments in all jurisdictions have developed Aboriginal consultation policies.
 Although the court has ruled that the duty to consult rests solely with governments, it has also said that "the Crown may delegate procedural aspects of consultation to industry proponents seeking a particular development."273 On a practical level, the business risks associated with legal uncertainty created by the duty to consult have motivated industry proponents to negotiate with Aboriginal communities to establish a range of mechanisms designed to ensure that Aboriginal peoples benefit directly from economic development projects in their traditional territories. These may include, for example, joint venture business partnerships; impact and benefit agreements; revenue-sharing agreements; and education, training, and job opportunities.274

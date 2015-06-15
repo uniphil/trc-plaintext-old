@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 61
 Unlike the church-run boarding schools, which provided a limited education with a heavy emphasis on religious instruction, the industrial schools were intended to prepare First Nations people for integration into Canadian society by teaching them basic trades, particularly farming. Generally, industrial schools were larger than boarding schools, were located in urban areas, and, although church-managed, usually required federal approval prior to construction. The boarding schools were smaller institutions, were located on or near reserves, and provided a more limited education. The differences between the industrial schools and the boarding schools eroded over time. By the 1920s, the federal government ceased to make any distinction between them, referring to them simply as "residential schools."
 In justifying the investment in industrial schools to Parliament in 1883, Public Works Minister Hector Langevin argued that
 if you wish to educate these children you must separate them from their parents during the time that they are being educated. If you leave them in the family they may know how to read and write, but they still remain savages, whereas by separating them in the way proposed, they acquire the habits and tastes--it is to be hoped only the good tastes--of civilized people.116

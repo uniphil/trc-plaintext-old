@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The legacy · 205
 be flexible and responsive in their attempts to encourage the teaching of Aboriginal languages. They should be prepared to draw on the available resources within Aboriginal communities to facilitate the teaching and transmission of Aboriginal languages. More formal training opportunities are also required.
 Call to Action
 16) We call upon post-secondary institutions to create university and college degree and diploma programs in Aboriginal languages.

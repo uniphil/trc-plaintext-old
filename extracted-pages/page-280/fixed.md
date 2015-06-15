@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-274 · Truth & Reconciliation Commission
 schools, and has permitted many Catholic nuns and priests to maintain that the allegations against their colleagues are false. A statement of regret that children were harmed in the schools is a far cry from a full and proper apology that takes responsibility for the harms that occurred.
 The Commission notes that in 2010, Pope Benedict XVI responded to the issue of the abuse of children in Ireland differently and more clearly when he issued a pastoral letter, a public statement that was distributed through the churches to all Catholics in Ireland. He acknowledged that the church had failed to address the issue of child abuse in Catholic institutions. He said:
 Only by examining carefully the many elements that gave rise to the present crisis can a clear-sighted diagnosis of its causes be undertaken and effective remedies be found. Certainly, among the contributing factors we can include: inadequate procedures for determining the suitability of candidates for the priesthood and the religious life; insufficient human, moral, intellectual and spiritual formation in seminaries and novitiates; a tendency in society to favour the clergy and other authority figures; and a misplaced concern for the reputation of the Church and the avoidance of scandal, resulting in failure to apply existing canonical penalties and to safeguard the dignity of every person. Urgent action is required to address these factors, which have had such tragic consequences in the lives of victims and their families.73

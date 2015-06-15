@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-362 · Truth & Reconciliation Commission
 The guide explains the rights and responsibilities of citizenship. In describing Canada's legal system, it states,
 Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the unwritten constitution that we have inherited from Great Britain. Together, these secure for Canadians an 800-year-old tradition of ordered liberty, which dates back to the signing of the Magna Carta in 1215 in England.300
 Discover Canada ignores Indigenous peoples as being a source of law for Canada, and says that Canada's tradition of an "ordered liberty" is due to England, and not at all to Canada's Aboriginal peoples, who welcomed the European explorers, helped them survive in this climate, guided them throughout the country, and entered into Treaties with them to share their land with the newcomers from Europe.

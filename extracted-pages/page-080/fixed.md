@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-74 · Truth & Reconciliation Commission
 The classroom in the Moose Factory, Ontario, school. General Synod Archives, Anglican Church of Canada, P7538-970.
 The school experience
 Education: "The children's work was merely memory work." As educational institutions, the residential schools were failures, and regularly judged

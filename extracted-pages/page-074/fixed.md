@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-68 · Truth & Reconciliation Commission
 Fleming Hall, the Anglican-run hostel opened by the federal government in Fort McPherson, Northwest Territories, as part of its expansion of residential schools in northern Canada in the late 1950s and early 1960s. General Synod Archives, Anglican Church of Canada, P8454-66.
 was accompanied by the opening of what were termed "small hostels" in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.
 Policy towards Métis and Inuit students

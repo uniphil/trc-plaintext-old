@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 85
 hear them. "When we'd go up in the dormitories in the evening I had a friend from Sarnia who I could talk with."276
 Many of the students came to the school fluent in an Aboriginal language, with little or no understanding of French or English. This trend continued well into the post-war period. For these children, the first few months in the school were disorienting and frightening. Arthur McKay arrived at the Sandy Bay, Manitoba, school in the early 1940s with no knowledge of English. "They told me not to speak my language and everything, so I always pretended to be asleep at my desk so they wouldn't ask me anything."277 Peter Nakogee recalled being punished for writing in his notebook in Cree syllabics at the Fort Albany, Ontario, school.278
 Meeka Alivaktuk came to the Pangnirtung school in what is now Nunavut with no knowledge of English. When she failed to obey an instruction because she did not understand it, she was slapped on the hands. "That's how my education began."279 On his first day of school in Pangnirtung, the teacher overheard Sam Kautainuk speaking to a friend in Inuktitut. "He took a ruler and grabbed my head like this and then smacked me in the mouth with the ruler four times."280

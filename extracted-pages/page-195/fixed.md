@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The legacy · 189
 these Aboriginal children died while in the care of a provincial child-welfare agency, and twenty-nine died in the care of an on-reserve First Nations child and family service agency.
 Delivery of child-welfare services
 There are over 300 child-welfare agencies in Canada operating under provincial and territorial jurisdiction. In addition, Canada provides funding to over 100 agencies delivering child and family services to First Nations families under the framework of provincial legislation.25 In 2010­11, there were 9,241 First Nations children outside the parental home and in the care of these First Nations child and family service agencies, representing 5.5% of on-reserve children.26 A few larger Canadian cities (such as Toronto and Vancouver) also have Aboriginal child and family service agencies.27 In Manitoba, there is also an agency serving Métis families. There are, however, no Aboriginally controlled agencies in the three northern territories; child-welfare services to Aboriginal families there are provided through the same government agencies that serve all children. In two out of the three territories, Aboriginal people make up a majority of the members in their legislatures and cabinets.

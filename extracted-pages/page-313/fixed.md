@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 307
 that task to the latter rather than the former, particularly given its importance to the trc's mandate. [para. 75]156
 Although the difficulties the trc encountered in obtaining lac documents were specific to the Commission's mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale. As part of a growing trend towards demanding better government accountability and transparency, and the evolution of new privacy and freedom of information legislation, archives have become more directly connected to struggles for human rights and justice.157
 Archives and access to justice

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-144 · Truth & Reconciliation Commission
 159. For examples, see: TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, volume 2, file 600-1, locator #062-94, Education of Eskimos (1949­1957), Department of Northern Affairs and National Resources to Northern Administration and Lands Branch, 8 April 1958; [NCA-016925] TRC, NRA, Library and Archives Canada ­ Ottawa, RG85, volume 1506, file 600-1-1, part 2A, J. G. Wright to Mr. Gibson, 19 November 1946. [NCA-005728]
 160. For a 1940 assessment of building conditions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R. A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248]
 161. Canada, Special Joint Committee, 1946, 3, 15. 162. Canada, Annual Report of the Department of Indian Affairs, 1945, 168, 183; Canada,

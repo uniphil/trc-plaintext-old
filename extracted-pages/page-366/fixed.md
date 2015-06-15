@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-360 · Truth & Reconciliation Commission
 pain and warts in its background. We shouldn't be afraid to talk about that and to institutionalize the healing process at a national level.295
 Newcomers to Canada
 For new Canadians, many of whom carry their own traumatic memories of colonial violence, racism, and oppression, finding common ground as Treaty people involves learning about the history of Aboriginal peoples and finding ways to build stronger relationships of solidarity with them. The Commission believes there is an urgent need for more dialogue between Aboriginal peoples and new Canadians. At a forum, "From Remembrance to Reconciliation," co-sponsored by the Ontario Human Rights Commission, Colour of Poverty, Colour of Change, and the Metro Toronto Chinese and South-East Asian Legal Clinic, and attended by the trc Commissioners, participants reflected on how their own histories shaped their understanding of violence, oppression, and racism, the stereotypes they learned about Aboriginal peoples in Canada, and the challenges and opportunities of building alliances together.

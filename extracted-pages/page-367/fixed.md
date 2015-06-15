@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 361
 continue to see today.... It's a very toxic legacy.... One of the truths about Canada is that it was created as a white man's country and this term was used over and over again.... Twenty years ago, I became a Canadian citizen and one of the things that wasn't made clear to me ... was that when we took that oath [of allegiance] we would become party to the Treaties that were signed.... We were given this very uplifting lecture on the rights of Canadian citizenship but what was excluded was [information] on our responsibility and obligations ... as now being parties to these Treaties.297
 Winnie Ng said,
 I was born in Hong Kong and came to Canada in 1968.... I landed in Victoria, bc, the oldest Chinatown in the country.... It has been a journey for me as a person of colour, as a person of the non-Indigenous communities ... to learn about the history of this Native land and my own social location and privilege as a member of the newer arrival communities.... From the [Chinese] labour of the cpr, to the head tax and the Chinese Exclusion Act ... the Chinese, along with Indigenous children, were secluded in the education system for so many years ... there's been a constant narrative of systemic racism, exclusion, and exploitation.... I think [we need to talk about] remembrance, resistance, and reconciliation.298

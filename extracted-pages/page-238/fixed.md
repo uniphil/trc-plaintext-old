@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-232 · Truth & Reconciliation Commission
 67. Hodgson-Smith, State of Métis Nation Learning, 4, 26, http://www.ccl-cca.ca/pdfs/AbLKC/StateOfMetisNationLearning.pdf.
 68. Hodgson-Smith, State of Métis Nation Learning, 4, 17, 82, http://www.ccl-cca.ca/pdfs/AbLKC/ StateOfMetisNationLearning.pdf.
 69. National Committee on Inuit Education, First Canadians, Canadians First, 7­9, 76­79. 70. National Committee on Inuit Education, First Canadians, Canadians First, 80. 71. Canada, Statistics Canada, The Educational Attainment of Aboriginal People, Table 2, https://

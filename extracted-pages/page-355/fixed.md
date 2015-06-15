@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The challenge of reconciliation · 349
 communities, despite the many challenges they face. At the trc's Traditional Knowledge Keepers Forum, Elder Dave Courchene said,
 As people who have gained this recognition to be Knowledge Keepers for our people, we accept that work in the most humble way.... It's going to be the spirit of our ancestors, the spirit that's going to help us to reclaim our rightful place in our homeland. We do have a lot of work and there's certainly a lot of challenges, but with the help of the spirit we will overcome [these].... We've arrived in a time of great change and great opportunity ... we are the true leaders of our homeland and they cannot take that away from us and they never will because our Creator put us here. This is our homeland and we have a sacred responsibility to teach all those that have come to our homeland how to be proper human beings because we have all been given original instructions on how to be a human being. We have great responsibilities as people to take care of the Earth, to speak on behalf of Mother Earth. That is our responsibility and that's the kind of leadership that we must reflect as a people.266
 That same day, Chief Ian Campbell of the Squamish Nation said,

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-258 · Truth & Reconciliation Commission
 be high levels of distrust among indigenous peoples towards government at both the federal and provincial levels.47
 In Canada, law must cease to be a tool for the dispossession and dismantling of Aboriginal societies. It must dramatically change if it is going to have any legitimacy within First Nations, Inuit, and Métis communities. Until Canadian law becomes an instrument supporting Aboriginal peoples' empowerment, many Aboriginal people will continue to regard it as a morally and politically malignant force. A commitment to truth and reconciliation demands that Canada's legal system be transformed. It must ensure that Aboriginal peoples have greater ownership of, participation in, and access to its central driving forces. Canada's Constitution must become truly a constitution for all of Canada.48 Aboriginal peoples need to become the law's architects and interpreters where it applies to their collective rights and interests. Aboriginal peoples need to have more formal influence on national legal matters to advance and realize their diverse goals.
 At the same time, First Nations, Inuit, and Métis peoples need greater control of their own regulatory laws and dispute-resolution mechanisms. Aboriginal peoples must be recognized as possessing the responsibility, authority, and capability to address their disagreements by making laws within their communities. This is necessary to facilitating truth and reconciliation within Aboriginal societies.

@@ -2,7 +2,6 @@
 clean_pagebreak: true
 ---
 
-The history · 75
 Members of the Croissés, a religious society for youth at the Fort Frances, Ontario, school. St. Boniface Historical Society Archives, Fond of the Grey Nuns of Manitoba, 03/31/1.
 generality of children, is certainly not to make great scholars of them. Good and moral as they may be, they lack great mental capacity." He did not think it wise to expect them to "be equal in every respect to their white brethren."195 In preparing a 1928 report on the Anglican school at Onion Lake, a Saskatchewan government school inspector expressed his belief that "in arithmetic abstract ideas develop slowly in the Indian child."196 Some thought it was a risky matter to give the students too much education. Mount Elgin principal S. R. McVitty wrote in 1928 that "classroom work is an important part of our training, but not by any means the most important." He added, "In the case of the Indian `a little learning is a dangerous thing.'"197
 Much of what went on in the classroom was simply repetitious drill. A 1915 report on the Roman Catholic school on the Blood Reserve in Alberta noted, "The children's work was merely memory work and did not appear to be developing any deductive power, altogether too parrot like and lacking expression."198 A 1932 inspector's report from the Grayson, Saskatchewan, school suggests there had been little change. "The teaching as I saw it today was merely a question of memorizing and repeating a mass of, to the children, `meaningless' facts."199
