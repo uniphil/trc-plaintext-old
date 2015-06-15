@@ -43,7 +43,7 @@ def compile_images(page):
         new_path = '{0}/images/{1}'.format(c.COMP_DIR, new_filename)
         shutil.copy(old_path, new_path)
         return '![{0}](images/{1})'.format(caption, new_filename)
-    replaced = re.subn(image_re, process, page['fixed'])
+    replaced, _ = re.subn(image_re, process, page['fixed'])
     return {
         'folder': page['folder'],
         'fixed': replaced,
@@ -55,8 +55,16 @@ def parse_frontmatter(contents):
     pass
 
 
+def join(contentses):
+    def blah(what):
+        return what['fixed']
+    return '\n'.join(map(blah, contentses))
+
+
 if __name__ == '__main__':
-    # join(get_contents())
-    map(compile_images,
-        map(read_cleaned,
-            get_page_folders()))
+    compiled = join(
+        map(compile_images,
+            map(read_cleaned,
+                get_page_folders())))
+    with open('{0}/report.md'.format(c.COMP_DIR), 'w') as f:
+        f.write(compiled)
