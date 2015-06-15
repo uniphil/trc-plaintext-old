@@ -391,7 +391,6 @@ clean_pagebreak: true
 43. Indian Residential Schools Settlement Agreement, Schedule N, Principles, 1, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015).
 44. Johnston, "Aboriginal Traditions," 141­159. 45. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -409,14 +408,12 @@ Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093. 54. TRC, AVS, Archbis
 da, Inuvik, Northwest Territories, 1 July 2011, Statement Number: NNE402. 55. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Regina,
 Saskatchewan, 17 January 2012, Statement Number: SP036.
 
-
 ---
 clean_pagebreak: true
 ---
 
 26 · Truth & Reconciliation Commission
 
-
 ---
 clean_pagebreak: true
 ---
@@ -426,7 +423,6 @@ The Truth and Reconciliation Commission of Canada was established in 2008 under 
 Three Commissioners were appointed in 2008: the Honourable Justice Harry Laforme as Chair, and Jane Brewin-Morley and Claudette Dumont-Smith. They resigned shortly after being appointed and new Commissioners were appointed. The current Commissioners, the Honourable Justice Murray Sinclair as Chair, and Chief Wilton Littlechild and Dr. Marie Wilson, were appointed to replace them in 2009 by the parties to the Settlement Agreement.
 An Indian Residential School Survivor Committee (irssc) provided advice and support to the Commission. Its members included John Banksland, Inuvialuit from the Northwest Territories; John Morriseau, Métis from Grand Rapids, Manitoba; Eugene Arcand, Cree from Muskeg Lake First Nation, Saskatchewan; Madeleine Basile, a member of the Atikamekw Nation from Wemotaci, Québec; Lottie May Johnson, Mi'kmaq from Eskasoni, Nova Scotia; Rebekah Uqi Williams, Inuk from Nunavut; Doris Young, Cree from The Pas,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -437,7 +433,6 @@ Manitoba; Barney Williams Jr. (Taa-eee-sim-chilth), Nuu-chah-nulth from the Tla-
 The Commission received continuing support throughout its mandate from the parties to the Settlement Agreement. Regular All Parties Meetings were held to discuss opportunities and challenges that arose in fulfilling the Commission's goals. The Commission worked with the parties to address topics such as document collection, communications, public education, and Survivor travel support for completion of the Commission's work. Representatives of the parties also took part in working groups at the national and local levels to support the Commission in planning and implementing its National and Regional Events.
 The Commission established its head office in Winnipeg, Manitoba, retained a small Ottawa office, and opened satellite offices in Vancouver, British Columbia; Hobbema, Alberta; and Yellowknife, Northwest Territories.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -451,7 +446,6 @@ Statement gathering
 Until the Commission was established, the voices of those who were most directly affected by the residential school experience, particularly the former students, had largely been missing from the historical record. The Commission made a commitment to offer everyone involved with the residential school system the opportunity to speak about their experience. The Commission received over 6,750 statements from Survivors of residential schools, members of their families, and other individuals who wished to share their knowledge of the residential school system and its legacy.
 Statements were gathered at public Sharing Panels and Sharing Circles at National, Regional, and Community Events and at Commission hearings. They were also collected through private conversations with statement gatherers. The Commission also gathered statements in correctional institutions in Kenora, Ontario, and Yellowknife, Northwest
 
-
 ---
 clean_pagebreak: true
 ---
@@ -462,7 +456,6 @@ Territories, recognizing the high rates of incarceration of Aboriginal peoples a
 In an effort to understand all aspects of the residential school experience, the Commission also made a concerted effort to gather statements from former staff of residential schools. With the assistance of the church parties to the Settlement Agreement, the Commission conducted ninety-six separate interviews with former staff and the children of former staff. In addition, the Commission received statements from former staff and their family members at its National and Regional Events and Community Hearings. The statements gathered will form part of a permanent collection of documents relating to residential schools.
 Under the terms of the Settlement Agreement, the federal government and the churches were obliged to turn over relevant documents in their possession to the Commission. The Commission has had to overcome some significant challenges to completing this task, and has had to seek court direction to resolve disputes with the parties about the handing
 
-
 ---
 clean_pagebreak: true
 ---
@@ -473,7 +466,6 @@ First, the federal government declined to produce all relevant documents held in
 Less than a year later, the Commission once again was required to go to court for judicial guidance respecting Canada's document-production obligations. At issue were records in the possession of the Government of Canada from the investigation of the Ontario Provincial Police (opp) into abuse at the Fort Albany, Ontario, residential school in Ontario (also known as the St. Anne's school). The Commission had attempted to obtain the opp documents from both the opp and the federal government. Although the opp did not respond to the Commission's overtures, it later took the position that it required judicial authorization to produce the records to the Commission, but it did not oppose disclosure. The Government of Canada, however, opposed production of the documents to both the Commission and to the lawyers for residential school Survivors. The government took the position that it was barred from producing the documents because they obtained the documents from the opp subject to an undertaking that it would not, in turn, disclose the documents to any third party.4 The Government of Canada further argued that it was not obliged to seek documents from third parties for disclosure to the Commission and that any disclosure to the Commission of the St. Anne's records would amount to burdening the Government of Canada with this obligation.5
 On October 18, 2013, the Commission filed a Request for Directions as to whether the Government of Canada was obliged to disclose the records of the opp investigation of St. Anne's. After argument before the Honourable Justice Paul Perell of the Ontario Superior Court of Justice on December 17 and 18, 2013, the court ordered Canada to produce its documents to the Commission.6 Recognizing that Canada had only a subset of the opp investigation documents, the court went one step further and ordered that the opp produce all the investigation records in its possession to the Commission.7
 
-
 ---
 clean_pagebreak: true
 ---
@@ -485,7 +477,6 @@ The Commission emphasized that the requirement of strict confidentiality imposed
 In the hearing held from July 14 to 16, 2014, the Commission advanced the position that a notice program should be ordered by the court, which would allow iap claimants to be notified that they may share their iap testimony with the Commission should they so desire. The Commission narrowed the categories of documents it sought to preserve in recognition of the legitimate privacy interests of iap Survivors. The Commission argued that it sought only to archive the iap applications, transcripts, and audio recordings from iap hearings and iap adjudicator decisions.
 On August 6, 2014, Justice Perell delivered reasons in which he held that the iap documents would be subject to a fifteen-year retention period, during which a notice program to Survivors would be administered by the Commission or the National Centre for Truth
 
-
 ---
 clean_pagebreak: true
 ---
@@ -499,7 +490,6 @@ The National Events
 The four-day National Events served as important milestones over the course of the Commission's six-year mandate. As well as offering a forum for Survivors and their families, the National Events raised public awareness of the history and legacy of residential schools. They also built momentum for the collective journey towards national healing and reconciliation--a journey that will need to continue well beyond the Commission's closing ceremony.
 Traditional knowledge and practice guided much of the Commission's work. The Seven Sacred Teachings of the Anishinaabe--Respect, Courage, Love, Truth, Humility, Honesty, and Wisdom--served as the themes for the seven National Events, and ceremony and traditional observance played an important part in the National Events. Sacred fires were lit at the beginning of each National Event and every day's proceedings began with ceremony.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -511,7 +501,6 @@ Education was a key part of the Commission's mandate. Although students were inv
 The Commission organized activities to help teachers prepare their students for the National Event Education Days and consider follow-up activities in the classroom. In addition, the Commission worked with universities, educators, and Traditional Knowledge Keepers to hold academic conferences and panel discussions at its National Events on a number of topics related to the legacy of colonialism and residential schools, and on healing and reconciliation.
 Cultural performances were also key elements of each National Event. Through concerts and talent shows, thousands of people experienced some of the richness of Aboriginal
 
-
 ---
 clean_pagebreak: true
 ---
@@ -524,7 +513,6 @@ Witnessing and expressions of reconciliation
 One of the goals of the Commission's public outreach activities was to encourage Canadians from all backgrounds to learn more about the legacy of residential schools and take part in the work of reconciliation by witnessing Commission events.
 Inviting respected guests to represent all witnesses at an event or the conduct of business gives the event import and legitimacy and is in keeping with the traditions of many Aboriginal cultures. To this end, the Commission appointed Honorary Witnesses to be present at its major events. Her Excellency, the Right Honourable Michaëlle Jean, who served as governor general of Canada at the start of the Commission's mandate, agreed to be the Commission's first Honorary Witness. She began her role as a witness by hosting a
 
-
 ---
 clean_pagebreak: true
 ---
@@ -538,7 +526,6 @@ In the final year of its mandate, the Commission organized two events to gather 
 Commemoration and community events funding
 The Settlement Agreement allocated $20 million for commemoration initiatives. These were defined as initiatives that would honour, educate, remember, memorialize, and pay tribute to former residential school students, their families, and their communities. The
 
-
 ---
 clean_pagebreak: true
 ---
@@ -553,7 +540,6 @@ National Centre for Truth and Reconciliation
 The Commission was mandated to create a national research centre, which would hold all the material created and received as part of its work. The centre is intended to be accessible to Survivors, their families, and communities, as well as to the general public. The Commission held a forum in March 2011 to consult with national and international experts on establishing such a centre. This informed the Commission's subsequent call for proposals to house the centre.
 The Commission reviewed a number of proposals for housing the research centre and, in June 2013, announced that the University of Manitoba had been selected to become the permanent host of the National Centre for Truth and Reconciliation (nctr). The nctr is
 
-
 ---
 clean_pagebreak: true
 ---
@@ -566,7 +552,6 @@ Officially opening in the summer of 2015, the nctr will be the permanent home fo
 · Survivors and their families have access to their own history; · educators can share the residential school history with new generations of students; · researchers can delve more deeply into the residential school experience and legacy; · the public can access historical records and other materials to help foster reconcili-
 ation and healing; and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -575,7 +560,6 @@ Commission activities · 39
 · the history and legacy of the residential school system are never forgotten.
 The search to understand the truth about Indian residential schools has taken the Truth and Reconciliation Commission to all parts of Canada. The Commission has listened to thousands of Survivors give their accounts of the residential school experience and how that experience has shaped their lives. The Commission has explored what the legacy of the residential school system has meant to Aboriginal people in particular and to Canada as a whole. This journey led the Commission to chart some of the pathways described in this report that may lead eventually to reconciliation within this country.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -587,7 +571,6 @@ Endnotes
 3. Fontaine v. Canada (Attorney General), 2013 ONSC 684 at para 69. 4. Fontaine v. Canada (Attorney General), 2014 ONSC 283 (CanLII) at paras. 24­25. 5. Fontaine v. Canada (Attorney General), 2014 ONSC 283 (CanLII) at paras. 24­25. 6. Fontaine v. Canada (Attorney General), 2014 ONSC 283 (CanLII) at para 191. 7. Fontaine v. Canada (Attorney General), 2014 ONSC 283 (CanLII) at para 192. 8. Fontaine v. Canada (Attorney General), 2014 ONSC 4585 (CanLII) at para 19. 9. The Catholic entities filed main appeals and the Commission and the National Centre filed cross
 appeals. Based on preliminary documents filed by the Catholic entities, it appears that they intend to argue that no notice period should be ordered and that the IAP documents cannot be archived without the consent of alleged perpetrators and other persons of interest. The Commission intends to appear before the Court of Appeal of Ontario to argue that the IAP documents cannot be destroyed without consulting IAP claimants. 10. The Commission's engagement with the United Nations included participation at the Permanent Forum on Indigenous Issues, the Expert Panel on Indigenous Issues, an Expert Seminar on Truth Commissions and Access to Justice, and a Human Rights Council Special Panel on Education and Teaching History. 11. A complete list of projects funded is available on the website of Aboriginal Affairs and Northern Development Canada at http://www.aadnc-aandc.gc.ca/eng/1100100015635/1100100015636.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -599,7 +582,6 @@ For tens of thousands of Aboriginal children for over a century, this was the be
 For Frederick Ernest Koe, it started when the Anglican minister and the Mounted Police arrived with a message that he had to leave his parents' home in Aklavik in the Northwest Territories that morning. "And I didn't get to say goodbye to my dad or my brother Allan, didn't get to pet my dogs or nothing."1
 The day she left for the Lestock, Saskatchewan, school, Marlene Kayseas's parents drove her into the town of Wadena. "There was a big truck there. It had a back door and that truck was full of kids and there was no windows on that truck."2 Larry Beardy travelled by train from Churchill, Manitoba, to the Anglican residential school in Dauphin, Manitoba--a journey of 1,200 kilometres. As soon as they realized that they were leaving their parents behind, the younger children started crying. At every stop, the train took on more children
 
-
 ---
 clean_pagebreak: true
 ---
@@ -614,7 +596,6 @@ Pauline St-Onge was traumatized by just the sight of the Sept-Îles school in Qué
 Campbell Papequash was taken, against his will, to residential school in 1946. "And after I was taken there they took off my clothes and then they deloused me. I didn't know what was happening but I learned about it later, that they were delousing me; `the dirty, no-good-for-nothing savages, lousy.'"11
 Roy Denny was perplexed and frightened by the clothing that the priests and sisters wore at the Shubenacadie, Nova Scotia, school. "We were greeted by this man dressed in black with a long gown. That was the priest, come to find later. And the nuns with their black, black outfits with the white collar and a white, white collar and, like a breastplate of white."12 Calvin Myerion recalled being overwhelmed by the size of the Brandon, Manitoba,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -624,7 +605,6 @@ The history · 43
 school. "The only building that I knew up to that time, that moment in my life was the one-storey house that we had. And when I got to the residential school, I seen this big monster of a building, and I've never seen any buildings that, that large, that high."13 Archie Hyacinthe compared the experience to that of being captured and taken into captivity. "That's when the trauma started for me, being separated from my sister, from my parents, and from our, our home. We were no longer free. It was like being, you know, taken to a strange land, even though it was our, our, our land, as I understood later on."14 When she first went to the Amos, Québec, school, Margo Wylde could not speak any French. "I said to myself, `How am I going to express myself? How will I make people understand what I'm saying?' And I wanted to find my sisters to ask them to come and get me. You know it's sad to say, but I felt I was a captive."15
 On their arrival at residential school, students often were required to exchange the clothes they were wearing for school-supplied clothing. This could mean the loss of homemade clothing that was of particular value and meaning to them. Murray Crowe said his clothes from home were taken and burned at the school that he attended in northwestern Ontario.16 When Wilbur Abrahams's mother sent him to the Alert Bay school in British Columbia, she outfitted him in brand-new clothes. When he arrived at the school, he was told to hand in this outfit in exchange for school clothing. "That was the last time I saw my new clothes. Dare not ask questions."17 Martin Nicholas of Nelson House, Manitoba,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -636,7 +616,6 @@ Gilles Petiquay, who attended the Pointe Bleue school, was shocked by the fact t
 Older brothers were separated from younger brothers, older sisters were separated from younger sisters, and brothers and sisters were separated from each other. Wilbur Abrahams climbed up the steps to the Alert Bay school behind his sisters and started following them to the girls' side of the school. Then, he felt a staff member pulling him by the ear, telling him to turn the other way. "I have always believed that, I think at that particular moment, my spirit left."21
 When Peter Ross was enrolled at the Immaculate Conception school in Aklavik, Northwest Territories, it was the first time he had ever been parted from his sisters. He said that in all the time he was at the school, he was able to speak with them only at Christmas and on Catholic feast days.22 Daniel Nanooch recalled that he talked with his
 
-
 ---
 clean_pagebreak: true
 ---
@@ -720,7 +699,6 @@ ferent Manitoba schools, Timothy Henderson said, "Every day was, you were in con
 
 fear that, your hope was that it wasn't you today that we're going to, that was going to be
 
-
 ---
 clean_pagebreak: true
 ---
@@ -731,7 +709,6 @@ At the Fort Alexander, Manitoba, school, Patrick Bruyere used to cry himself to 
 Students' hearts were hardened. Rick Gilbert remembered the Williams Lake, British Columbia, school as a loveless place. "That was one thing about this school was that when you got hurt or got beat up or something, and you started crying, nobody comforted you. You just sat in the corner and cried and cried till you got tired of crying then you got up and carried on with life."36 Nick Sibbeston, who was placed in the Fort Providence school in the Northwest Territories at the age of five, recalled it as a place where children hid their emotions. "In residential school you quickly learn that you should not cry. If you cry you're teased, you're shamed out, you're even punished."37 One former student said that during her time at the Sturgeon Landing school in Saskatchewan, she could not recall a staff member ever smiling at a child.38 Jack Anawak recalled of his time at Chesterfield Inlet, in what is now Nunavut, in the 1950s that "there was no love, there was no feelings, it was just supervisory."39 Lydia Ross, who attended the Cross Lake school in Manitoba, said, "If you cried, if you got hurt and cried, there was no, nobody to, nobody to comfort, comfort you, nobody to put their arms."40 Stephen Kakfwi, who attended Grollier Hall in Inuvik and Grandin College in Fort Smith, Northwest Territories, said this lack of compassion affected the way students treated one another. "No hugs, nothing, no comfort. Everything that, I think, happened in the residential schools, we picked it up: we didn't get any hugs; you ain't going to get one out of me I'll tell you that."41 Victoria McIntosh said that life at the Fort Alexander, Manitoba, school taught her not to trust anyone. "You learn not to cry anymore. You just get harder. And yeah, you learn to shut down."42
 These accounts all come from statements made by former residential school students to the Truth and Reconciliation Commission of Canada. These events all took place in Canada within the realm of living memory. Like previous generations of residential school children, these children were sent to what were, in most cases, badly constructed, poorly maintained, overcrowded, unsanitary fire traps. Many children were fed a substandard
 
-
 ---
 clean_pagebreak: true
 ---
@@ -745,7 +722,6 @@ And today, you know, we have to learn to decolonize.
 -- Shirley Flowers, Statement to the Truth and Reconciliation Commission of Canada43
 The mandate of the Truth and Reconciliation Commission of Canada requires it to report on "the history, purpose, operation and supervision" of Canada's residential schools. These schools were part of a process that brought European states and Christian churches together in a complex and powerful manner. The history of the schools can be best understood in the context of this relationship between the growth of global, European-based empires and the Christian churches. Starting in the sixteenth century, European states gained control of Indigenous peoples' lands throughout the world. It was an era of mass migration. Millions of Europeans arrived as colonial settlers in nearly every part of the world. Millions of Africans were transported in the European-led slave trade, in which coastal Africans collaborated. Traders from India and China spread throughout the Red Sea and Indian Ocean, bringing with them indentured servants whose lives were little different from those of slaves.44 The activities of explorers, farmers, prospectors, trading companies, or missionaries often set the stage for expansionary wars, the negotiation and the breaking of Treaties, attempts at cultural assimilation, and the exploitation and marginalization of the original inhabitants of the colonized lands.45 Over time, Indigenous
 
-
 ---
 clean_pagebreak: true
 ---
@@ -756,7 +732,6 @@ children in places as distant from one another as East Africa, Australia, and Si
 The spread of European-based empires was set in motion in the fifteenth century when the voyages of maritime explorers revealed potential sources of new wealth to the monarchs of Europe. The Spanish conquest of the Aztecs and the Incas gave Spain, and ultimately all of Europe, access to the resources of North and South America. This not only enriched the Old World, but it also unleashed an unceasing wave of migration, trade, conquest, and colonization.47 It marked the beginning of the creation of a Europeandominated global economy. Although it was led initially by Spain and Portugal, this era of imperial expansion came to be directed by Holland, France, and, in the end, most stunningly by Britain.48
 Empires were established militarily. They engaged in extensive and violent wars with one another, maintained a military presence on their frontiers, and conducted innumerable military campaigns to put down nationalist uprisings.49 Colonies were established to
 
-
 ---
 clean_pagebreak: true
 ---
@@ -769,7 +744,6 @@ The outcome was usually disastrous for Indigenous people, while the chief benefi
 At their height, the European empires laid claim to most of the earth's surface and controlled the seas.55 Numerous arguments were advanced to justify such extravagant interventions into the lands and lives of other peoples. These were largely elaborations on two basic concepts: 1) the Christian god had given the Christian nations the right to colonize the lands they `discovered' as long as they converted the Indigenous populations; and 2) the Europeans were bringing the benefits of civilization (a concept that was intertwined with Christianity) to the `heathen.' In short, it was contended that people were being colonized for their own benefit, either in this world or the next.
 In the fifteenth century, the Roman Catholic Church, building on the traditions of the Roman Empire, conceived of itself as the guardian of a universal world order.56 The adoption of Christianity within the Roman Empire (which defined itself as `civilized') reinforced the view that to be civilized was to be Christian. The Catholic papacy was already playing a role in directing and legitimizing colonialism prior to Christopher Columbus's voyages
 
-
 ---
 clean_pagebreak: true
 ---
@@ -780,7 +754,6 @@ Other European rulers rejected the Pope's ability to give away sovereignty over 
 Underlying these arguments was the belief that the colonizers were bringing civilization to savage people who could never civilize themselves. The `civilizing mission' rested on a belief of racial and cultural superiority. European writers and politicians often arranged racial groups in a hierarchy, each with their own set of mental and physical capabilities. The `special gifts' of the Europeans meant it was inevitable that they would conquer the lesser peoples. Beneath the Europeans, in descending order, were Asians, Africans, and the Indigenous peoples of the Americas and Australia. Some people held that Europeans had reached the pinnacle of civilization through a long and arduous process. In this view, the other peoples of the world had been held back by such factors as climate, geography, and migration. Through a civilizing process, Europeans could, however, raise the people of the world up to their level. This view was replaced in the nineteenth century by a racism that chose to cloak itself in the language of science, and held that the peoples of the world had differing abilities. Some argued that, for genetic reasons, there were limits on the ability of the less-developed peoples to improve. In some cases, it was thought, contact with superior races could lead to only one outcome: the extinction of the inferior peoples.64
 These ideas shaped global policies towards Indigenous peoples. In 1883, Britain's Lord Rosebery, a future British prime minister, told an Australian audience, "It is on the British
 
-
 ---
 clean_pagebreak: true
 ---
@@ -791,7 +764,6 @@ race, whether in Great Britain, or the United States, or the Colonies, or wherev
 The Christian churches not only provided the moral justification for the colonization of other peoples' lands, but they also dispatched missionaries to the colonized nations in order to convert `the heathen.' From the fifteenth century on, the Indigenous peoples of the world were the objects of a strategy of spiritual and cultural conquest that had its origins in Europe. While they often worked in isolation and under difficult conditions, missionaries were representatives of worldwide organizations that enjoyed the backing of influential individuals in some of the most powerful nations of the world, and which came to amass considerable experience in transforming different cultures.67 Residential schools figured prominently in missionary work, not only in Canada, but also around the world.
 Christian missionaries played a complex but central role in the European colonial project. Their presence helped justify the extension of empires, since they were visibly spreading the word of God to the heathen. If their efforts were unsuccessful, the missionaries might conclude that those who refused to accept the Christian message could not expect the protection of the church or the law, thus clearing the way for their destruction.68 Although missionaries often attempted to soften the impact of imperialism, they were also
 
-
 ---
 clean_pagebreak: true
 ---
@@ -803,7 +775,6 @@ The British-based Church Missionary Society was also a global enterprise. By the
 The Catholics and Anglicans were not the only European-based missionary societies to take up work in Canada. Presbyterians and Methodists, originally drawing support from the United Kingdom, undertook missionary work among Aboriginal people in the early nineteenth century. On the coast of Labrador, members of the Moravian Brotherhood, an order that had its origins in what is now the Czech Republic, carried out missionary work from the early eighteenth century onwards.73 Protestant missionary work also depended on the often underpaid and voluntary labour of missionary wives and single women who had been recruited by missionary societies.
 Missionaries viewed Aboriginal culture as a barrier to both spiritual salvation and the ongoing existence of Aboriginal people. They were determined to replace traditional economic pursuits with European-style peasant agriculture. They believed that cultural transformation required the imposition of social control and separation from both traditional communities and European settlements. In the light of these beliefs, it is not surprising that they were proponents of an educational world that separated children from the influences of their families and cultures, imposed a new set of values and beliefs, provided a
 
-
 ---
 clean_pagebreak: true
 ---
@@ -814,7 +785,6 @@ Colonization was undertaken to meet the perceived needs of the imperial powers. 
 Residential schools in pre-Confederation Canada
 In Canada, residential schooling was closely linked to colonization and missionary crusades. The first boarding school for Aboriginal people in what is now Canada was established in the early seventeenth century near the French trading post at the future site of Québec City. At this Roman Catholic school, missionaries hoped to both `civilize' and `Christianize' young Aboriginal boys.75 The school was a failure: parents were reluctant to send their children, and the students were quick to run away and return home.76 Later efforts in New France met with no greater success.77 After the British conquest of New France in 1763, the idea of residential schooling lay dormant until the early nineteenth century. In the first decade of that century, the New England Company, a British-based missionary society, funded a boarding school operation in Sussex Vale, New Brunswick. The goals were to teach young Mi'kmaq and Maliseet children trades and to convert them
 
-
 ---
 clean_pagebreak: true
 ---
@@ -886,7 +856,6 @@ began taking in students in 1867.87
 The colonization of the Northwest
 After the Canadian state was established in 1867, the federal government began making small per-student grants to many of the church-run boarding schools. Federal government involvement in residential schooling did not begin in earnest until the 1880s. The catalyst for this expansion was the 1870 transfer of much of contemporary Alberta, Saskatchewan,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -898,7 +867,6 @@ The Rupert's Land Order of 1870, which transferred much of the Northwest to Cana
 To enable the colonization of the Northwest, in 1871, the federal government began negotiating the first in a series of what came to be termed as "Numbered Treaties" with the First Nations of western and northern Canada. The only alternative to negotiating Treaties would have been to ignore the legal obligations of the Rupert's Land Order and attempt to subdue the First Nations militarily, but that would have been a very costly proposition. In 1870, when the entire Canadian government budget was $19 million, the United States was spending more than that--$20 million a year--on its Indian Wars alone. Despite all these pressures, the government took a slow and piecemeal approach to Treaty making.93
 Through the Treaties, Aboriginal peoples were seeking agricultural supplies and training as well as relief during periods of epidemic or famine in a time of social and economic transition.94 They saw the Treaty process as establishing a reciprocal relationship that would be lasting.95 The goal was to gain the skills that would allow them to continue to control their own destinies and retain their culture and identity as Aboriginal people. As Ahtahkakoop (Star Blanket) said, "We Indians can learn the ways of living that made the white man strong."96 The provisions varied from Treaty to Treaty, but they generally included funds for hunting and fishing supplies, agricultural assistance, yearly payments for band members (annuities), and an amount of reserve lands based on the population of the band.97 First Nations never asked for residential schools as part of the Treaty process, and neither did the government suggest that such schools would be established. The education provisions also varied in different Treaties, but promised to pay for schools on
 
-
 ---
 clean_pagebreak: true
 ---
@@ -907,7 +875,6 @@ clean_pagebreak: true
 The signing of Treaty 1 at Lower Fort Garry, 1871. To gain control of the land of Indigenous people, colonists negotiated Treaties, waged wars of extinction, eliminated traditional landholding practices, disrupted families, and imposed new political and spiritual order that came complete with new values and cultural practices. Provincial Archives of Manitoba, N11975.
 reserves or teachers. The federal government was slow to live up to its Treaty obligations. For example, many First Nations were settled on reserves that were much smaller than they were entitled to, while others were not provided with any reserve.98 Some obligations remain unfulfilled to this day. The commitment to establish on-reserve schools was also ignored in many cases. As a result, parents who wished to see their children educated were forced to send them to residential schools.99
 
-
 ---
 clean_pagebreak: true
 ---
@@ -919,7 +886,6 @@ The federal Indian Act, first adopted in 1876, like earlier pre-Confederation le
 First Nations people were unwilling to surrender their Aboriginal identity in this manner. Until 1920, other than women who involuntarily lost their Indian status upon marriage to a non-status individual, only 250 `Indians' voluntarily gave up their status.104 In 1920, the federal government amended the Indian Act to give it the power to strip individuals of their status against their will. In explaining the purpose of the amendment to a parliamentary committee, Indian Affairs Deputy Minister Duncan Campbell Scott said that "our object is to continue until there is not a single Indian in Canada that has not been absorbed into the body politic, and there is no Indian question, and no Indian Department that is the whole object of this Bill."105 The other major element in the bill that Scott was referring to empowered the government to compel parents to send their children to residential schools. Residential schooling was always more than simply an educational program: it was an integral part of a conscious policy of cultural genocide.
 Further evidence of this assault on Aboriginal identity can be found in amendments to the Indian Act banning a variety of Aboriginal cultural and spiritual practices. The two most prominent of these were the west-coast Potlatch and the Prairie Thirst Dance (often referred to as the "Sun Dance").106 Residential school principals had been in the forefront of the campaign to ban these ceremonies, and also urged the government to enforce the bans once they were put in place.107
 
-
 ---
 clean_pagebreak: true
 ---
@@ -930,7 +896,6 @@ The Aboriginal right to self-government was also undermined. The Indian Act gave
 The industrial school initiative
 It was in keeping with this intent to assimilate Aboriginal peoples and, in the process, to eliminate its government-to-government relationship with First Nations that the federal government dramatically increased its involvement in residential schooling in the 1880s. In December 1878, J. S. Dennis, the deputy minister of the Department of the Interior, prepared a memorandum for Prime Minister Sir John A. Macdonald on the country's
 
-
 ---
 clean_pagebreak: true
 ---
@@ -941,7 +906,6 @@ In the following year, Nicholas Davin, a failed Conservative candidate, carried 
 The decision to continue to rely on the churches to administer the schools on a day-today basis had serious consequences. The government constantly struggled, and failed, to assert control over the churches' drive to increase the number of schools they operated. At various times, each denomination involved in school operation established boarding schools without government support or approval, and then lobbied later for per capita funding. When the churches concluded, quite legitimately, that the per capita grant they received was too low, they sought other types of increases in school funding. Building on their network of missions in the Northwest, the Catholics quickly came to dominate the field, usually operating twice as many schools as did the Protestant denominations. Among the Protestant churches, the Anglicans were predominant, establishing and maintaining more residential schools than the Methodists or the Presbyterians. The United Church, created by a union of Methodist and Presbyterian congregations, took over most of the Methodist and Presbyterian schools in the mid-1920s. Presbyterian congregations that did not participate in the union established the Presbyterian Church in Canada and retained responsibility for two residential schools. In addition to these national denominations, a local Baptist mission ran a residence for Aboriginal students in Whitehorse in the 1940s and 1950s, and a Mennonite ministry operated three schools in northwestern Ontario in the 1970s and 1980s. Each faith, in its turn, claimed government discrimination against it. Competition for converts meant that churches sought to establish schools in the same locations as their rivals, leading to internal divisions within communities and expensive duplication of services.
 The model for these residential schools for Aboriginal children, both in Canada and the United States, did not come from the private boarding schools to which members of the economic elites in Britain and Canada sent their children. Instead, the model came from the reformatories and industrial schools that were being constructed in Europe and North America for the children of the urban poor. The British parliament adopted the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -951,7 +915,6 @@ The Qu'Appelle school at Lebret in what is now Saskatchewan opened in 1884. O.B.
 Reformatory Schools Act in 1854 and the Industrial Schools Act in 1857.110 By 1882, over 17,000 children were in Britain's industrial schools.111 Under Ontario's 1880 Act for the Protection and Reformation of Neglected Children, a judge could send children under the age of fourteen to an industrial school, where they might be required to stay until they turned eighteen.112 Such schools could be dangerous and violent places. At the Halifax Boys Industrial School, first offenders were strapped, and repeat offenders were placed in cells on a bread-and-water ration. From there, they might be sent to the penitentiary.113 The Canadian government also drew inspiration from the United States. There, the first in a series of large-scale, government-operated, boarding schools for Native Americans opened in 1879 in a former army barracks in Carlisle, Pennsylvania.114
 On the basis of Davin's report and developments in the United States, the federal government decided to open three industrial schools. The first one opened in Battleford in what is now Saskatchewan in 1883. It was placed under the administration of an Anglican minister. The following year, two more industrial schools opened: one at Qu'Appelle in what is now Saskatchewan, and one at High River in what is now Alberta. Both these schools were administered by principals nominated by the Roman Catholic Oblate order. The federal government not only built these schools, but it also assumed all the costs of operating them. Recruiting students for these schools was difficult. According to the Indian Affairs annual report, in 1884, there were only twenty-seven students at the three schools.115
 
-
 ---
 clean_pagebreak: true
 ---
@@ -962,7 +925,6 @@ In justifying the investment in industrial schools to Parliament in 1883, Public
 if you wish to educate these children you must separate them from their parents during the time that they are being educated. If you leave them in the family they may know how to read and write, but they still remain savages, whereas by separating them in the way proposed, they acquire the habits and tastes--it is to be hoped only the good tastes--of civilized people.116
 The federal government entered into residential schooling at a time when it was colonizing Aboriginal lands in western Canada. It recognized that, through the Treaties, it had made commitments to provide Aboriginal people with relief in periods of economic distress. It also feared that as traditional Aboriginal economic pursuits were marginalized or eliminated by settlers, the government might be called upon to provide increased relief. In this context, the federal government chose to invest in residential schooling for a number of reasons. First, it would provide Aboriginal people with skills that would allow them to participate in the coming market-based economy. Second, it would further their political assimilation. It was hoped that students who were educated in residential schools would give up their status and not return to their reserve communities and families. Third, the schools were seen as engines of cultural and spiritual change: `savages' were to emerge as Christian `white men.' There was also a national security element to the schools. Indian Affairs official Andsell Macrae observed that "it is unlikely that any Tribe or Tribes would give trouble of a serious nature to the Government whose members had children completely under Government control."117 Duncan Campbell Scott succinctly summarized Indian Affairs' goals for the schools in 1909: "It includes not only a scholastic education, but instruction in the means of gaining a livelihood from the soil or as a member of an industrial or mercantile community, and the substitution of Christian ideals of conduct and morals for aboriginal concepts of both."118 The achievement of such invasive and ambitious goals would require a substantial level of funding. This was never forthcoming.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -974,7 +936,6 @@ The government believed that between the forced labour of students and the poorl
 The government never adequately responded to the belated discovery that the type of residential school system that officials had envisioned would cost far more than politicians were prepared to fund. In the early twentieth century, chronic underfunding led to a health crisis in the schools and a financial crisis for the missionary societies. Indian Affairs, with the support of leading figures in the Protestant churches, sought to dramatically reduce the number of residential schools, replacing them with day schools. The government abandoned the plan when it failed to receive the full support of all the churches involved in the operation of the schools.124 Instead, in 1911, the federal government finally implemented a significant increase to the per capita grant received by boarding schools and attempted to impose basic health standards for the schools. This resulted in a shortterm improvement. However, inflation eroded the value of the grant increase, and the grant was actually reduced repeatedly during the Great Depression and at the start of the Second World War.125
 Funding for residential schools was always lower than funding for comparable institutions in Canada and the United States that served the general population. In 1937, Indian Affairs was paying, on average, $180 a year per student. This was less than a third of the per
 
-
 ---
 clean_pagebreak: true
 ---
@@ -986,7 +947,6 @@ It was not until 1894 that the federal government put in place regulations relat
 If a child placed in the school under these regulations left a residential school without permission, or did not return at a promised time, school officials could get a warrant from an Indian agent or a justice of the peace authorizing them (or a police officer, truant officer, or employee of the school or Indian Affairs) to "search for and take such child back to the school in which it had been previously placed." With a warrant, one could enter-- by force if need be--any house, building, or place named in the warrant and remove the child. Even without a warrant, Indian Affairs employees and constables had the authority to arrest a student in the act of escaping from a residential school and return the child to the school.130
 It was departmental policy that no child could be discharged without departmental approval--even if the parents had enrolled the child voluntarily. The government had no legislative basis for this policy. Instead, it relied on the admission form that parents were supposed to sign. (In some cases, school staff members signed these forms.)131 By 1892, the department required that all parents sign an admission form when they enrolled their children in a residential school. In signing the form, parents gave their consent that "the Principal or head teacher of the Institution for the time being shall be the guardian" of the child. In that year, the Department of Justice provided Indian Affairs with a legal
 
-
 ---
 clean_pagebreak: true
 ---
@@ -996,7 +956,6 @@ Aboriginal family at the Elkhorn, Manitoba, school. Indian Affairs took the posi
 opinion to the effect that "the fact of a parent having signed such an application is not sufficient to warrant the forcible arrest against the parents' will of a truant child who has been admitted to an Industrial School pursuant to the application." It was held that, without legislative authority, no form could provide school administrators with the power of arrest.132 Despite this warning, well into the twentieth century, Indian Affairs would continue to enforce policies regarding attendance for which it had no legal authority.133 This is not the only example of the government's use of unauthorized measures. In the 1920s, students were to be discharged from residential school when they turned sixteen. Despite this, William Graham, the Indian commissioner, refused to authorize discharge until the students turned eighteen. He estimated that, on this basis, he rejected approximately 100 applications for discharge a year.134
 In 1920, the Indian Act was amended to allow the government to compel any First Nations child to attend residential school. However, residential school was never compulsory for all First Nations children. In most years, there were more First Nations children attending Indian Affairs day schools than residential schools. During the early 1940s, this pattern was reversed. In the 1944­45 school year, there were 8,865 students in residential schools, and 7,573 students in Indian Affairs day schools. In that year, there were
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1008,7 +967,6 @@ Regulation
 The residential school system operated with few regulations; those that did exist were in large measure weakly enforced. The Canadian government never developed anything approaching the education acts and regulations by which provincial governments administered public schools. The key piece of legislation used in regulating the residential school system was the Indian Act. This was a multi-purpose piece of legislation that defined and limited First Nations life in Canada. The Act contained no education-related provisions until 1884. There were no residential school­specific regulations until 1894. These dealt almost solely with attendance and truancy.
 It was recognized by those who worked within the system that the level of regulation was inadequate. In 1897, Indian Affairs education official Martin Benson wrote, "No regulations have been adopted or issued by the Department applicable to all its schools, as had been done by the Provincial Governments."136 The situation did not improve over time. The education section of the 1951 Indian Act and the residential school regulations adopted in 1953 were each only four pages in length.137 By comparison, the Manitoba Public Schools Act of 1954 was ninety-one pages in length.138 In addition to the Act, the Manitoba government had adopted nineteen education-related regulations.139
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1020,7 +978,6 @@ Expansion and decline
 From the 1880s onwards, residential school enrolment climbed annually. According to federal government annual reports, the peak enrolment of 11,539 was reached in the 1956­57 school year.144 (For trends, see Graph 1.) Most of the residential schools were located in the northern and western regions of the country. With the exception of Mount Elgin and the Mohawk Institute, the Ontario schools were all in northern or northwestern Ontario. The only school in the Maritimes did not open until 1930.145 Roman Catholic and Anglican missionaries opened the first two schools in Québec in the early 1930s.146 It was not until later in that decade that the federal government began funding these schools.147
 The number of schools began to decline in the 1940s. Between 1940 and 1950, for example, ten school buildings were destroyed by fire.148 As Graph 2 illustrates, this decrease was reversed in the mid-1950s, when the federal department of Northern Affairs and National Resources dramatically expanded the school system in the Northwest Territories and northern Québec. Prior to that time, residential schooling in the North was largely restricted to the Yukon and the Mackenzie Valley in the Northwest Territories. Large residences were built in communities such as Inuvik, Yellowknife, Whitehorse, Churchill, and eventually Iqaluit (formerly Frobisher Bay). This expansion was undertaken despite reports that recommended against the establishment of residential schools, since they would not provide children with the skills necessary to live in the North, skills they otherwise would have acquired in their home communities.149 The creation of the large hostels
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1061,7 +1018,6 @@ Number of schools and residences 100 90 80 70 60 50 40 30 20 10
 0 1867 1887 1907 1927 1947 1967 1987
 Source: Indian and Northern Affairs Canada, Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1073,7 +1029,6 @@ Policy towards Métis and Inuit students
 Many of the early advocates of residential schooling in Canada expected that the schools would take in both Aboriginal children who had status under the Indian Act (in other words, they were Indians as defined by the Act) as well as Aboriginal children who, for a variety of reasons, did not have status. The federal government classed these individuals alternately as "non-status Indians," "half-breeds," or "Métis."150
 The early church-run boarding schools made no distinction between status and non-status or Métis children.151 The federal government position on the matter was constantly shifting. It viewed the Métis as members of the `dangerous classes' whom the residential schools were intended to civilize and assimilate.152 This view led to the adoption of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1084,7 +1039,6 @@ policies that allowed for the admission of Métis children to the schools at vari
 Despite their perceived constitutional responsibility, provincial and territorial governments were reluctant to provide services to Métis people. They did not ensure that there were schools in Métis communities, or work to see that Métis children were admitted and welcomed into the general public school system.156 Many Métis parents who wished to see their children educated in schools had no option but to try to have them accepted into a residential school. In some cases, these would be federally funded schools, but, in other cases, Métis students attended church-run schools or residences that did not receive federal funding.157
 Provincial governments slowly began to provide increased educational services to Métis students after the Second World War. As a result, Métis children lived in residences and residential schools that were either run or funded by provincial governments. The Métis experience is an important reminder that the impacts of residential schooling extend beyond the formal residential school program that Indian Affairs operated.158
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1094,7 +1048,6 @@ Inuit children were recruited to a school in Shingle Point in the Yukon in the 1
 Prior to the 1950s, most of the students who attended schools in the Northwest Territories were either First Nations or Métis. As late as 1949, only 111 Inuit students were receiving full-time schooling in the North.159 The hostel system that Northern Affairs established in the Northwest Territories in the mid-1950s did not restrict admission to First Nations students. It was only at this point that large numbers of Inuit children began attending residential schools. The impact of the schools on the Inuit was complex. Some children were sent to schools thousands of kilometres from their homes, and went years without seeing their parents. In other cases, parents who had previously been supporting themselves by following a seasonal cycle of land- and marine-based resource harvesting began settling in communities with hostels so as not to be separated from their children.
 Because of the majority of the Aboriginal population in two of the three northern territories, the per capita impact of the schools in the North is higher than anywhere else in the country. And, because the history of these schools is so recent, not only are there many living Survivors today, but there are also many living parents of Survivors. For these reasons, both the intergenerational impacts and the legacy of the schools, the good and the bad, are particularly strongly felt in the North.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1106,7 +1059,6 @@ The integration policy was opposed by some of the church organizations. Roman Ca
 Child-welfare facilities
 From the 1940s onwards, residential schools increasingly served as orphanages and child-welfare facilities. By 1960, the federal government estimated that 50% of the children in residential schools were there for child-welfare reasons. What has come to be referred to as the "Sixties Scoop"--the dramatic increase in the apprehension of Aboriginal children from the 1960s onwards--was in some measure simply a transferring of children from one form of institution, the residential school, to another, the child-welfare agency.169 The schools were not funded or staffed to function as child-welfare institutions. They failed to provide their students with the appropriate level of personal and emotional care children
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1118,7 +1070,6 @@ The road to closure, 1969
 In 1968, the federal government drastically restructured the residential school system by dividing the schools into residences and day schools, each with a principal or administrator.174 In June of the following year, the federal government took direct control over all the schools in southern Canada.175 Because churches were allowed to continue to appoint the residence administrators, their presence continued in many schools in the coming years. They were, however, no longer directly responsible for the facilities.176 In 1969, the federal government also began to transfer the hostels and day schools in the Yukon and Northwest Territories to their respective territorial governments. Most of the small hostels in the eastern Arctic and Nunavik (Arctic Québec) were closed by the end of 1971. (Four small hostels were also operated in the western and central Arctic. The last of these, located at Cambridge Bay, did not close until the late 1990s.)177
 Having assumed control over the southern Canadian schools in 1969, the federal government commenced what would prove to be a protracted process of closing the system down. According to the Indian Affairs annual report for 1968­69, the department was responsible for sixty residences. Two years later, the number was down to forty-five.178 The government takeover of the residential schools also coincided with the release of the federal government's White Paper on "Indian Policy." This document proposed a massive transfer of responsibility for First Nations people from the federal to provincial governments.179 It called for the repeal of the Indian Act, the winding up of the Department of Indian Affairs, and the eventual extinguishment of the Treaties.180 The recently formed National Indian Brotherhood (nib) described the White Paper as a document intended to bring about "the destruction of a Nation of People by legislation and cultural genocide."181
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1129,7 +1080,6 @@ By then, First Nations communities had already taken over one residential school
 The federal government, however, remained committed to the closing of the facilities. Because of the government's lengthy history of underfunding residential schools, many of the schools were in poor repair. Between 1995 and 1998, the last seven residences in southern Canada were closed.188
 Starting in the 1970s, territorial governments, in which former residential school students were serving as cabinet ministers, also began expanding the number of day schools as part of a campaign to close residential schools in the North. The last large hostel in the Yukon closed in 1985.189 By 1986, there were only three large hostels operating in the Northwest Territories.190 Grollier Hall, the last large hostel in the North, closed in 1997.191 If one dates the residential school system back to the early 1830s, when the Mohawk Institute first took in boarders, the system had been in operation for over 160 years. The closing of the schools did not mark the end of the history of residential schooling in Canada. By the 1990s, former students had begun to make Canadians aware of the tremendous harm that the residential school experience had caused to Aboriginal people and Aboriginal communities.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1141,7 +1091,6 @@ Education: "The children's work was merely memory work." As educational institut
 as such. In 1923, former Regina industrial school principal R. B. Heron delivered a paper to a meeting of the Regina Presbytery of the Presbyterian Church that was highly critical of the residential school system. He said that parents generally were anxious to have their children educated, but they complained that their children "are not kept regularly in the class-room; that they are kept out at work that produces revenue for the School; that when they return to the Reserves they have not enough education to enable them to transact ordinary business--scarcely enough to enable them to write a legible letter."192 The schools' success rate did not improve. From 1940­41 to 1959­60, 41.3% of each year's residential school Grade One enrolment was not promoted to Grade Two.193 Just over half of those who were in Grade Two would get to Grade Six.194
 Many principals and teachers had low expectations of their students. Wikwemikong, Ontario, principal R. Baudin wrote in 1883, "What we may reasonably expect from the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1152,7 +1101,6 @@ generality of children, is certainly not to make great scholars of them. Good an
 Much of what went on in the classroom was simply repetitious drill. A 1915 report on the Roman Catholic school on the Blood Reserve in Alberta noted, "The children's work was merely memory work and did not appear to be developing any deductive power, altogether too parrot like and lacking expression."198 A 1932 inspector's report from the Grayson, Saskatchewan, school suggests there had been little change. "The teaching as I saw it today was merely a question of memorizing and repeating a mass of, to the children, `meaningless' facts."199
 The classrooms were often severely overcrowded. At the Qu'Appelle school in 1911, Sister McGurk had seventy-five girls in her junior classroom. The inspector of Roman Catholic schools reported to Ottawa that this was an "almost impossible" situation.200 In 1915, two teachers were responsible for 120 students at the Coqualeetza Institute in Chilliwack, British Columbia.201 In 1928, there were sixty students in the junior classroom at the Alberni, British Columbia, school.202
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1162,7 +1110,6 @@ The Indian Affairs schools branch maintained that the principals and the staff w
 In the minds of some principals, religious training was the most valuable training the schools provided. In 1903, Brandon, Manitoba, principal T. Ferrier wrote that "while it is very important that the Indian child should be educated, it is of more importance that he should build up a good clean character." Such a heavy emphasis was required, in Ferrier's opinion, to "counteract the evil tendencies of the Indian nature."211 Louise Moine recalled that religious instruction and observation were a constant part of life at the Qu'Appelle school in the early twentieth century: "From the time we got out of bed at the sound of the bell, we went down on our knees to pray. After we had washed and dressed, we headed for the chapel to attend Low mass which was always held at 7 a.m."212 The staff handbook for the Presbyterian school in Kenora in the 1940s stated it was expected that, upon leaving the school, most students would "return to the Indian Reserves from which they had come." Given this future, staff members were told that "the best preparation we can give them is to teach them the Christian way of life."213
 Not surprisingly, many of those who succeeded academically followed careers in the church. Coqualeetza graduate Peter Kelly became a Methodist Church minister. Emmanuel College graduate Edward Ahenakew became an Anglican minister. Others worked for government or taught school. Qu'Appelle graduate Daniel Kennedy became an interpreter and general assistant for the Assiniboine Indian Agency. Joseph Dion, a graduate of the Onion Lake school, taught school for many years in Saskatchewan. Still others pursued business and professional careers. After attending the Mohawk Institute, Beverly Johnson went to Hellmuth College in London, Ontario, where he excelled at sports and drama. He
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1174,7 +1121,6 @@ For many students, classroom life was foreign and traumatic. David Charleson sai
 Since the 1920s, Indian Affairs had required residential schools to adopt provincial curricula.220 The department had also asked provincial governments to have their school inspectors inspect Indian Affairs schools.221 The wisdom of this practice had been questioned during the hearings of the Special Joint Committee of the Senate and House of Commons inquiry into the Indian Act in the 1940s. Andrew Moore, a secondary school inspector for the Province of Manitoba, told the committee members that Indian Affairs took full responsibility for all aspects of First Nations education, including curriculum.222 Provincial education departments, including the one he worked for, were "not organized or not interested in Indian schools."223
 In 1963, D. W. Hepburn, the former principal of the federal school in Inuvik, published an article with the ominous headline "Northern Education: Façade for Failure." He argued that the education being provided in the new federal schools was "hopelessly inadequate. The reasons for this failure are clear: the aims of education set forth by the Department are thoroughly confused, the curriculum is inappropriate, and many current practices of the system are not only ill-conceived but actually harmful."224 Although 60% of the students at the Inuvik school were in the first three grades, few teachers had any background in primary education, and "almost none has any special training in native education, and will receive none from the Department."225 The schools were producing individuals who "lack
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1186,7 +1132,6 @@ Students also noted that the curriculum belittled their ancestry. Mary Courchene
 Some students said that the limits of the education they had received in residential school became apparent when they were integrated into the public school system.233 Many said there was no expectation that they would succeed. Walter Jones never forgot the answer that a fellow student at the Alberni, British Columbia, school was given when he asked if he would be able to go to Grade Twelve. "That supervisor said, `You don't need to go that far,' he says. He says, `Your people are never going to get education to be a professional worker, and it doesn't matter what lawyer, or doctor, or electrician, or anything, that a person has to go to school for.'"234
 Some northern schools developed reputations for academic success. Grandin College in Fort Smith was established originally to recruit young people for the Catholic ministry. A new principal, Jean Pochat, decided to focus on providing young men and women with leadership training.235 The school became known as a "leadership factory," producing numerous future government leaders for the North.236 Students who attended the Churchill Vocational Centre spoke about how they were taught by open-minded teachers who were willing to expose them to the social and political changes taking place across the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1197,7 +1142,6 @@ world in the 1960s.237 John Amagoalik wrote that at the Churchill Vocational Cen
 Specific teachers were remembered with gratitude. When Roddy Soosay lived in residence, he attended a local public school. He credited his high school principal at the Ponoka, Alberta, public school for pushing him to succeed.240 Martha Loon said that at the Poplar Hill, Ontario, school in the 1980s, there were staff members who befriended and helped her and her siblings. There was one staff member to whom she could tell all her problems. "I could say anything to her, and we'd go for walks sometimes. So, I could tell her anything and she wouldn't, she wouldn't say anything to other staff members about it. So, in a way, that's, you know, gave me a chance to express my frustrations, and the things that I didn't like."241
 Other students were able to concentrate on their studies. Frederick Ernest Koe said that at Stringer Hall in Inuvik, he devoted all his energies to his school work. "You kind of develop a protective mechanism on the shell that you didn't rat on anybody, you kind of behave, you followed orders and things would go smooth."242 Madeleine Dion Stout succeeded academically at the Blue Quills school, but she did not credit the school for her success. "It's not residential school that made me a good student. My, the fundamental
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1210,7 +1154,6 @@ The half-day system was not a formally mandated system. Some schools did not use
 While the half-day system was supposed to apply only to the older students, the reality was that every student worked. Above and beyond the half-day that students spent in vocational training, it was not uncommon for them to perform daily chores both before and after school. As a result, students often spent more than half a day working for the school. At High River, Alberta, in the 1880s, students who were not learning a trade were expected to put in two hours a day of chores in the winter and four hours in the summer. According to Principal E. Claude, "To these youngest ones pertained the weeding of the garden and the house work on their side of the school, and I must say, that this summer none denied our watchword, `No idleness here,' as all work was exclusively done by the pupils."245
 From the time the schools were opened, parents and inspectors raised concerns about just how much work students were being required to do. Inspector T. P. Wadsworth claimed in 1884 that the boys at the Battleford school generally enjoyed their chores, but added that he would protest "against forcing these little fellows to haul water every day and all day from the river in winter, as was the case last year."246 In 1886, Qu'Appelle school principal Joseph Hugonnard wrote, "During the summer they have more manual labor and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1220,7 +1163,6 @@ Carpenter's shop in the Battleford school, 1894. Saskatchewan Archives Board, R-
 recreation. The parents cannot understand that the pupils are here to learn how to work as well as to read and write, we therefore cannot at present devote too much time to the former."247 Inspector Wadsworth returned to the issue of overwork in 1893, when he said that much of the farm work at the Middlechurch, Manitoba, school was too much for the boys. The girls were also set to work in the laundry at a "tender age."248 Gilbert Wuttunee, who attended the Battleford school in the first decade of the twentieth century, recalled, "They didn't do any farm work or any kind of work until you got to, at that time, standard three, whether you were nine years old or fifteen years old." After he turned nine, he "never saw another full day of school until I left." By then, the school had drastically reduced the number of trades it taught: "There was just blacksmithing, carpentering and farming."249 According to Lillian Elias, each fall, a barge would arrive in Aklavik, loaded with logs for the school furnace. The students would form a long chain leading from the barge to the furnace room and, with the assistance of the school staff, unload the barge.250
 The work was inadequately supervised and often dangerous. There are accounts of students' getting hands caught in power equipment in the school laundries, the kitchens, workshops, and fields.251 Principals tended to place the blame on student carelessness and neglected to report such injuries to the government. Several injuries were recorded only after the student's parents complained or the government received a bill for the hospital treatment of a student.252 In December 1935, a mangle (a type of clothes wringer) at the Qu'Appelle school crushed several fingers on Florence McLeod's right hand, which were amputated. The school principal, G. Leonard, stressed that "this mangle has been in use at
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1230,7 +1172,6 @@ Mount Elgin, Ontario, laundry room. Clothes wringers, such as the one shown here
 this school for several years and all the girls are familiar with its operation." Indian Affairs secretary A. F. MacKenzie concluded that "all the necessary precautions were taken, and, while the accident to Florence McLeod is regretted, it was through no fault of the school management."253 The school's failure to protect its students can be seen in the fact that McLeod's father, Henry, had been injured in a similar fashion when he was a student at the same school.254 In 1941, a twelve-year-old boy lost all the fingers on one hand in an accident in the Brandon, Manitoba, school barn.255 Eight years later, fifteen-year-old Rodney Beardy died in a tractor accident at the same school.256 A student at the Edmonton school lost a foot in 1944 after an accident during the operation of a machine used in the preparation of fodder.257 Two boys from the Birtle, Manitoba, school were injured in a truck accident in 1942. From Indian Affairs correspondence, it appears that the accident involved a truck carrying seventy boys who were being taken from the school to the fields to do farm work. Indian Affairs official R. A. Hoey criticized the principal for allowing the practice to take place, noting that "it is almost unbelievable that the principal should permit 70 pupils to be conveyed in a truck."258
 Even though the half-day system was supposedly eliminated in the early 1950s, students continued to be overworked.259 After Sam Ross ran away from the Birtle school in 1959, he told Indian Affairs official J. R. Bell that he wanted to continue his education, but had been forced to work "too hard" at the school. He said that from September to Christmas of the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1242,7 +1183,6 @@ The government's hostile approach to Aboriginal languages was reiterated in nume
 Principals regularly reported on their success in suppressing Aboriginal languages. In 1887, Principal E. Claude boasted that his thirty students at the High River school "all understand English passably well and few are unable to express themselves in English. They talk English in recreation. I scarcely need any coercive means to oblige them to do so."265 In 1898, the Kamloops principal reported that "English is the only language used at all times by the pupils."266 That same year, the Mission, British Columbia, principal wrote, "English is the common language of the school, the Indian language is indeed seldom heard in the institution, except with the newly arrived pupils."267 The 1898 report from the principal of the Anglican school at Onion Lake indicated that the school was one of the few exceptions. There, the children were taught to "read and write both Cree and English."268 Inspectors viewed the continued use of Aboriginal languages by the students as a sign of failure. The principal of the Red Deer school was taken to task in 1903 by an inspector who felt that a "serious drawback to school work, as well as an evidence of bad discipline, was the use of the Cree language, which was quite prevalent."269
 This policy of language suppression continued well into the twentieth century. After a 1935 tour of Canada, Oblate Superior General Théodore Labouré expressed concern over
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1253,7 +1193,6 @@ the strict enforcement of prohibitions against speaking Aboriginal languages. In
 Students had strong memories of being punished for `speaking Indian.' Mary Angus, who attended the Battleford school in the late nineteenth century, said that students caught speaking their own language were given a close haircut: "All the hair cut to be as a man, that what they do, for us not to talk. We were afraid of that, to have our hair cut."271 At the Fraser Lake school in British Columbia, Mary John said she could speak her own language only in whispers.272 Melvina McNabb was seven years old when she was enrolled in the File Hills school, and "I couldn't talk a word of English. I talked Cree and I was abused for that, hit, and made to try to talk English."273 Raymond Hill, who was a student at the Mohawk Institute in Brantford in the early years of the twentieth century, said, "I lost my language. They threatened us with a strapping if we spoke it, and within a year I lost all of it. They said they thought we were talking about them."274
 Language use often continued in secret. Mary Englund recalled that while Aboriginal languages were banned at the Mission school in the early twentieth century, children would still speak it to one another.275 Clyde Peters said he stopped speaking his Aboriginal language at the Mount Elgin school after he found out the school punished students for doing so. "I never got the strap for it but I was warned enough that I didn't do it." Even after that, he and his friends would speak to each other when they thought no one else could
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1266,7 +1205,6 @@ At the Qu'Appelle school in the mid-1960s, Greg Rainville said, he was punished 
 The language policy disrupted families. When John Kistabish left the Amos, Québec, school, he could no longer speak Algonquin, and his parents could not speak French, the language that he had been taught in the school. As a result, he found it almost impossible to communicate with them about the abuse he experienced at the school. "I had tried to talk with my parents, and, no, it didn't work.... We were well anyway because I knew that they were my parents, when I left the residential school, but the communication wasn't there."285
 Culture was attacked as well as language. In his memoirs, Stoney Chief John Snow tells of how at the Morley, Alberta, school, the "education consisted of nothing that had any relationship to our homes and culture. Indeed Stoney culture was condemned explicitly and implicitly." He recalled being taught that the only good people on earth were non-Indians and, specifically, white Christians.286 Andrew Bull Calf recalled that at the residential school in Cardston, Alberta, students were not only punished for speaking their own languages, but they also were discouraged from participating in traditional cultural activities.287 Evelyn Kelman recalled that the principal at the Brocket, Alberta, school warned
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1278,7 +1216,6 @@ Even when it did not directly disparage Aboriginal culture, the curriculum under
 It was not until the 1960s that attitudes began to change about the place of Aboriginal language and culture in residential schools.294 Alex Alikashuak said that at the Churchill school, which operated in the 1960s, there were no restrictions on the use of Aboriginal languages. He recalled, "The only time, real time we spoke English was when we were in the classroom, or we're talking to one of the administration staff, and or somebody from town that's not Inuit, but otherwise we, everybody spoke our language."295 The Canadian Welfare Council's 1967 report on nine Saskatchewan residential schools described "an emphasis on relating course content to the Indian culture" as "imaginative" and a sign of progress in "making the educational experience meaningful for the Indian child."296 By 1968, the Roman Catholic school in Cardston was incorporating Blackfoot into its educational program.297 In some schools, Aboriginal teachers were brought in to teach dancing and singing.298 However, as late as the 1969­70 school year, there were only seven Indian Affairs schools that offered courses in Aboriginal languages or used Aboriginal languages as the language of instruction.299
 Despite the encouragement that was offered in some schools, and the students' efforts to keep their language alive, the overall impact was language loss. Of her experiences at the Baptist school in Whitehorse and the Anglican school in Carcross, Rose Dorothy Charlie said, "They took my language. They took it right out of my mouth. I never spoke it again."300 In some cases, the residential school experience led parents to decide not to teach their children an Aboriginal language. Both of Joline Huskey's parents attended residential school in the Northwest Territories. As a result of their experience in the schools,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1292,7 +1229,6 @@ Principals regularly reported and celebrated student marriages, and, indeed, did
 Efforts were also made to block marriages deemed to be unsuitable. In 1895, Indian agent Magnus Begg told members of the Blackfoot Reserve that "no young man could marry a girl from an Industrial or board [sic] School without having prepared a house with two rooms, and owning cows, with the necessary stabling, &c."309 In that same year, principals and Indian agents were instructed to seek departmental permission prior to allowing students to marry.310
 Principals continued to arrange marriages into the 1930s. In 1936, the principal of the Roman Catholic school at Onion Lake prepared a list of students who had turned sixteen and who, he believed, should not be discharged. He noted that he insisted on keeping
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1303,7 +1239,6 @@ Food: "Always hungry"
 In his memoir of his years as a student at the Mount Elgin school in southern Ontario in the early twentieth century, Enos Montour wrote that the boys "were always hungry. Grub was the beginning and end of all conversations."313 According to Eleanor Brass, the dinners at the File Hills, Saskatchewan, school consisted "of watery soup with no flavour, and never any meat." One winter, it seemed to her that they ate fish every day.314 In fair weather, the boys would trap gophers and squirrels, and roast them over open fires to supplement their meagre diets. Sometimes, they would share these treats with the girls at the school.315 Mary John, who attended the Fraser Lake, British Columbia, school, recalled that the meals were dull and monotonous: a regular diet of porridge interspersed with boiled barley and beans, and bread covered with lard. Weeks might go by without any fish or meat; sugar and jam were reserved for special occasions.316 A former student of the Hay River school in the Northwest Territories recalled that in the years following the First World War, he "didn't see jam from the time I got off the boat to the time I got back on to come back down."317 Another student from that school recalled a constant diet of fish: "They would boil it up real good until the meat falls away, the bones and scales all floating around, then mix in flour and serve it up. I won't use flour for my dogs because there's not much good in it."318
 The reports of government inspectors confirm these student memories. An 1895 report on an inspection of the Middlechurch school concluded, "The `bill of fare' is plain. I believed it to be barely sufficient for the older pupils, who have now, at fifteen to eighteen years of age, larger apetites [sic] than they will have when older."319 In 1918, Indian agent John Smith inspected the Kamloops school and reported his "suspicion that the vitality of the children is not sufficiently sustained from a lack of nutritious food, or enough of the same for vigorous growing children."320 A local doctor concurred, writing that "for some months past the food supplied has been inadequate for the needs of the children."321 There were some positive assessments, but Indian Affairs official Martin Benson questioned
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1314,7 +1249,6 @@ their accuracy. "In almost every instance when meals are mentioned by Inspectors
 When funding was cut during the Depression of the 1930s, it was the students who paid the price--in more ways than one. At the end of the 1930s, it was discovered that the cook at the Presbyterian school at Kenora was actually selling bread to the students, at the rate of ten cents a loaf. When asked if the children got enough to eat at meals, she responded, "Yes, but they were always hungry." The Indian agent ordered an end to the practice.323 The fact that hungry students would be reduced to buying bread to supplement their meals in 1939 highlights the government's failure to provide schools with the resources needed to feed students adequately.
 Milk was in constant shortage at many schools, in part due to the poor health and small size of the school dairy herds.324 As late as 1937, disease among the cows at the Kamloops school had cut milk production by 50%. To the principal's frustration, Ottawa refused to fund the construction of an additional barn, which would have allowed for an increase in milk production and the isolation of sick animals.325 Even when the dairy herds were
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1324,7 +1258,6 @@ Students working in the kitchen at the Cross Lake, Manitoba, school in the early
 producing satisfactorily, the students did not always get the full benefit. Often, the milk was separated, with the skimmed milk served to the children.326 The milk fat was turned to butter and cream, which was frequently sold to raise funds for the schools. Inspector W. Murison noted in 1925 that the cows at the Elkhorn, Manitoba, school were producing enough milk for the school, but the students were not getting "the full benefit of this milk as I found that they were making about 30 lbs. of butter a week, and a great deal of the milk given the children is separated milk, which has not much food value."327
 In 1942, the federal government issued Canada's Official Food Rules, an early version of the Canada Food Guide.328 Inspectors quickly discovered that residential school diets did not measure up to the Food Rules. Dr. L. B. Pett, the head of the federal government's Nutrition Division, concluded in 1947, on the basis of inspections his staff had done, that "no school was doing a good feeding job."329 It was not until the late 1950s that the federal government adopted a residential school food allowance calculated to provide a diet deemed "fully adequate nutritionally."330 Even with the increase in funding, schools still had difficulty providing students with adequate meals. A 1966 dietician's report on Yukon Hall in Whitehorse observed that although the Canada Food Guide requirements were
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1337,7 +1270,6 @@ Some schools did make allowances for traditional foods. Simon Awashish recalled 
 When we brought in hares, we were asked if ... there was some members of our nation that came to work in the kitchen, and we asked them to cook the hare for us in the traditional Atikameg way, in order to keep some sort of contact with our traditional food that we had before, before we were separated from our community.340
 Students who spoke of hunger also spoke of their efforts to improve their diet secretly. Woodie Elias recalled being hungry all the time at the Anglican school in Aklavik. "Once in a while we go raid the cellar and you can't call that stealing; that was our food."341 When Dorothy Nolie helped out in the Alert Bay school kitchen, she and her co-workers would eat bread as they sliced it. "Kids would come to me and ask me for bread, and I'd sneak it
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1350,7 +1282,6 @@ Health: "For sickness, conditions at this school are nothing less than criminal.
 The number of students who died at Canada's residential schools is not likely ever to be known in full. The most serious gap in information arises from the incompleteness of the documentary record. Many records have simply been destroyed. According to a 1935 federal government policy, school returns could be destroyed after five years, and reports of accidents after ten years. This led to the destruction of fifteen tonnes of waste paper. Between 1936 and 1944, 200,000 Indian Affairs files were destroyed.348 Health records were regularly destroyed. For example, in 1957, Indian and Northern Health Services was instructed to destroy "correspondence re routine arrangements re medical and dental treatments of Indians and Eskimos, such as transportation, escort services, admission to hospital, advice on treatment, requests for treatment, etc." after a period of two years. Reports by doctors, dentists, and nurses were similarly assigned a two-year retention period.349
 Often, the existing record lacks needed detail. For example, it was not uncommon for principals, in their annual reports, to state that a specific number of students had died in
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1366,7 +1297,6 @@ A January 2015 statistical analysis of the Named Register for the period from 18
 This graph suggests that the peak of the health crisis in the schools occurred in the late nineteenth and early twentieth centuries. It also shows that the death rate remained high until the 1950s.
 The death rates for Aboriginal children in the residential schools were far higher than those experienced by members of the general Canadian population. Graph 4 compares the death rate per 1,000 of the general population of Canadian children aged five to fourteen with the death rates per 1,000 of the Named Register and the Named and Unnamed registers combined. (Given the limitations in Statistics Canada's historical data, the death rates are provided as five-year averages.) As can be seen, until the 1950s Aboriginal children in residential schools died at a far higher rate than school-aged children in the general population. It is only in the 1950s that the residential school death rates declined to a level comparable to that of the general school-aged population. As late as the 1941­45 period, the Named and Unnamed Combined residential school death rate was 4.90 times higher than the general death rate. In the 1960s, even though the residential school death
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1388,7 +1318,6 @@ rates were much lower than their historic highs, they were still double those of
 In nearly 50% of the cases (both in the Named and Unnamed registers), there is no recorded cause of death. From those cases where the cause of death was reported, it is clear that until the 1950s, the schools were the sites of an ongoing tuberculosis crisis. Tuberculosis accounted for just less than 50% of the recorded deaths (46.2% for the Named Register, and 47% for the Named and Unnamed registers combined). The tuberculosis death rate remained high until the 1950s: its decline coincides with the introduction of effective drug treatment. The next most frequently recorded causes of death were influenza (9.2% on the Named Register, and 9.1% of the deaths on the combined Named and Unnamed registers), pneumonia (6.9% on the Named Register, and 9.1% of the deaths on the combined Named and Unnamed registers), and general lung disease (3.4% on the Named Register, and 5.5% of the deaths on the combined Named and Unnamed registers). Graph 5 shows the residential school tuberculosis death rate (figures are based on information in the combined Named and Unnamed registers).
 The tuberculosis health crisis in the schools was part of a broader Aboriginal health crisis that was set in motion by colonial policies that separated Aboriginal people from their land, thereby disrupting their economies and their food supplies. This crisis was particularly intense on the Canadian Prairies. Numerous federal government policies contributed to the undermining of Aboriginal health. During a period of starvation, rations were withheld from bands in an effort to force them to abandon the lands that they had
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1410,7 +1339,6 @@ Source: Fraser, Vital Statistics and Health, Table B35-50, http://www.statcan.gc
 initially selected for their reserves. In making the Treaties, the government had promised to provide assistance to First Nations to allow them to make a transition from hunting to farming. This aid was slow in coming and inadequate on arrival. Restrictions in the Indian Act made it difficult for First Nations farmers to sell their produce or borrow money to invest in technology. Reserve land was often agriculturally unproductive. Reserve housing was poor and crowded, sanitation was inadequate, and access to clean water was limited. Under these conditions, tuberculosis flourished. Those people it did not kill were often severely weakened and likely to succumb to measles, smallpox, and other infectious diseases.354
 For Aboriginal children, the relocation to residential schools was generally no healthier than their homes had been on the reserves. In 1897, Indian Affairs official Martin Benson reported that the industrial schools in Manitoba and the Northwest Territories had been "hurriedly constructed of poor materials, badly laid out, without due provision for lighting, heating or ventilation." In addition, drainage was poor, and water and fuel supplies were inadequate.355 Conditions were not any better in the church-built boarding schools. In 1904, Indian Commissioner David Laird echoed Benson's comments when he wrote
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1435,7 +1363,6 @@ Source: Rosenthal, "Statistical Analysis of Deaths," 97­99.
 that the sites for the boarding schools on the Prairies seemed "to have been selected without proper regard for either water-supply or drainage. I need not mention any school in particular, but I have urged improvement in several cases in regard to fire-protection."356
 Students' health depended on clean water, good sanitation, and adequate ventilation. But little was done to improve the poor living conditions that were identified at the beginning of the twentieth century. In 1940, R. A. Hoey, who had served as the Indian Affairs superintendent of Welfare and Training since 1936, wrote a lengthy assessment of the condition of the existing residential schools. He concluded that many schools were "in a somewhat dilapidated condition" and had "become acute fire hazards." He laid responsibility for the "condition of our schools, generally," upon their "faulty construction." This construction, he said, had failed to meet "the minimum standards in the construction of public buildings, particularly institutions for the education of children."357 By 1940, the government had concluded that future policy should concentrate on the expansion of day schools for First Nations children. As a result, many of the existing residential school buildings were allowed to continue to deteriorate. A 1967 brief from the National Association of Principals and Administrators of Indian Residences--which included principals of both Catholic and Protestant schools--concluded, "In the years that the Churches have been involved in the administration of the schools, there has been a steady deterioration in essential services. Year after year, complaints, demands and requests for improvements have, in the main, fallen upon deaf ears."358
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1446,7 +1373,6 @@ When E. A. Côté, the deputy minister responsible for Indian Affairs, met with ch
 The badly built and poorly maintained schools constituted serious fire hazards. Defective firefighting equipment exacerbated the risk, and schools were fitted with inadequate and dangerous fire escapes. Lack of access to safe fire escapes led to high death tolls in fires at the Beauval and Cross Lake schools.360 The Truth and Reconciliation Commission of Canada has determined that at least fifty-three schools were destroyed by fire. There were at least 170 additional recorded fires. At least forty students died in residential school fires.361 The harsh discipline and jail-like nature of life in the schools meant that many students sought to run away. To prevent this, many schools deliberately ignored government instructions in relation to fire drills and fire escapes. These were not problems only of the late nineteenth or early twentieth centuries. Well into the twentieth century, recommendations for improvements went unheeded, and dangerous and forbidden practices were widespread and entrenched. In the interests of cost containment, the Canadian government placed the lives of students and staff at risk for 130 years.
 The buildings were not only fire traps. They were also incubators of disease. Rather than helping combat the tuberculosis crisis in the broader Aboriginal community, the poor condition of the schools served to intensify it. The 1906 annual report of Dr. Peter Bryce, the chief medical officer for Indian Affairs, observed that "the Indian population of Canada has a mortality rate of more than double that of the whole population, and in some provinces more than three times." Tuberculosis was the prevalent cause of death.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1458,7 +1384,6 @@ He found the school staff and even physicians inclined to question or minimize t
 He gave the principals a questionnaire to complete regarding the health condition of their former students. The responses from fifteen schools revealed that "of a total of 1,537 pupils reported upon nearly 25 per cent are dead, of one school with an absolutely accurate statement, 69 per cent of ex-pupils are dead, and that everywhere the almost invariable cause of death given is tuberculosis." He drew particular attention to the fate of the thirty-one students who had been discharged from the File Hills school: nine were in good health, and twenty-two were dead.365
 The extent of the health crisis was so severe that some people within the federal government and the Protestant churches became convinced that the only solution was to
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1541,7 +1466,6 @@ the children in it to the staff sitting room. According to Reed, "The noise, as 
 
 smells, come from the lavatory underneath."370 Proposals to construct a small hospital at
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1553,7 +1477,6 @@ General Aboriginal health care was never a priority for the Canadian government.
 The high death rates led many parents to refuse to send their children to residential school. In 1897, Kah-pah-pah-mah-am-wa-ko-we-ko-chin (also known as Tom) was deposed from his position as a headman of the White Bear Reserve in what is now Saskatchewan for his vocal opposition to residential schools. In making his case for a school on the reserve, he pointed to the death rate at the Qu'Appelle industrial school, adding, "Our children are not strong. Many of them are sick most of the time, many of the children sent from this Reserve to the Schools have died.381
 Death casts a long shadow over many residential school memories. Louise Moine attended the Qu'Appelle school in the early twentieth century. She recalled one year when tuberculosis was "on the rampage in that school. There was a death every month on the girls' side and some of the boys went also."382 Of his years at the Roman Catholic school in Onion Lake, Joseph Dion recalled, "My schoolmates and I were not long in concluding that the lung sickness was fatal, hence as soon as we saw or heard of someone spitting
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1565,7 +1488,6 @@ The high deaths rates in the schools were, in part, a reflection of the high dea
 Burial policy
 Many of the early schools were part of larger church mission centres that might include a church, a dwelling for the missionaries, a farm, a sawmill, and a cemetery. The mission cemetery might serve as a place of burial for students who died at school, members of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1577,7 +1499,6 @@ During the influenza pandemic of 1918­19, many of the schools and missions were 
 The general Indian Affairs policy was to hold the schools responsible for burial expenses when a student died at school. The school generally determined the location and nature of that burial.392 Parental requests to have children's bodies returned home for burial were generally refused as being too costly.393 In her memoirs, Eleanor Brass recalled how the body of one boy, who hung himself at the File Hills school in the early twentieth century, was buried on the Peepeekisis Reserve, even though his parents lived on the Carlyle Reserve.394 As late as 1958, Indian Affairs refused to return the body of a boy who had died at a hospital in Edmonton to his northern home community in the Yukon.395
 The reluctance to pay the cost of sending the bodies of children from residential schools home for burial ceremonies continued into the 1960s. Initially, for example, Indian Affairs was initially unwilling to pay to send the body of twelve-year-old Charlie Wenjack back to his parents' home community in Ogoki, Ontario, in 1966.396 When Charles Hunter
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1590,7 +1511,6 @@ When Indian agent D. L. Clink returned a runaway student to the Red Deer industr
 Instructions should be given, if not already sent, to the Principals of the various schools, that children are not to be whipped by anyone save the Principal, and even when such a course is necessary, great discretion should be used and they should not be struck on the head, or punished so severely that bodily harm might ensue. The practice of corporal punishment is considered unnecessary as a general measure of discipline and should only be resorted to for very grave offences and as a deterrent example.400
 Reed's instruction underlines a number of the recurrent problems with the Indian Affairs approach to discipline in residential schools. First, Reed, who had previously been the Indian commissioner in western Canada, did not know whether there were regulations dealing with school discipline. Second, his directive is vague: while it indicates
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1601,7 +1521,6 @@ where students should not be struck, it does not specify where they could be str
 The failure to establish and enforce a national policy on discipline meant that students were subject to disciplinary measures that would not, as Clink noted in 1895, be tolerated in schools for non-Aboriginal children. Four years after Reed asked his staff to issue instructions on corporal punishment, Indian Commissioner David Laird reported that several children had been "too severely punished" at the Middlechurch school. "Strappings on the bare back," he wrote, was "too suggestive of the old system of flogging criminals."403
 Corporal punishment was often coupled with public humiliation. In December 1896 in British Columbia, the Kuper Island school's acting principal gave two boys "several lashes in the Presence of the Pupils" for sneaking into the girls' dormitory at night.404 When, in 1934, the principal of the Shubenacadie school could not determine who had stolen money
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1615,7 +1534,6 @@ The violent nature of the discipline at the schools came as a shock to students.
 Fred Brass said that his years at the Roman Catholic school at Kamsack, Saskatchewan, were "the hellish years of my life. You know to be degraded by our so-called educators, to be beat by these people that were supposed to have been there to look after us, to teach us right from wrong. It makes me wonder now today a lot of times I ask that question, who was right and who was wrong?"415 According to Geraldine Bob, the staff members at the Kamloops school she attended were not able to control their tempers once they began to punish a student. "They would just start beating you and lose control and hurl you against the wall, throw you on the floor, kick you, punch you."416
 It was a common practice to shave the heads of students who ran away. William Antoine recalled that at the Spanish, Ontario, school, this was done in front of the other students. "They got all the boys to look at what is happening to this boy, what they were doing to him because he ran away. They cut all his hair off and they pulled, pulled his pants down and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1627,7 +1545,6 @@ Mervin Mirasty said that at the Beauval, Saskatchewan, school, boys who were cau
 It was not uncommon for residential school students, traumatized by being placed in such a harsh and alien environment, to wet their beds. These students were subjected to humiliating punishments. Wendy Lafond said that at the Prince Albert, Saskatchewan, school, "if we wet our beds, we were made to stand in the corner in our pissy clothes, not allowed to change."427 Don Willie recalled that students who wet their beds were publicly humiliated at the Alert Bay school. "And they used to, they used to line up the wet bed, bedwetters, and line them up in the morning, and parade them through, parade them through breakfast, the breakfast area, pretty much to shame them."428
 Policies that were seen as being unacceptable in the early twentieth century were still in place in the 1960s. Many students compared residential schools to jails: some spoke of being locked up in dormitories, broom closets, basements, and even crawl spaces. In 1965, students who ran away from the Presbyterian school in Kenora were locked up with just a mattress on the floor and put on a bread-and-milk diet.429 Students were still being locked up in what was referred to as the "counselling" room at the Poplar Hill, Ontario, school in the 1980s.430 Despite the fact that Indian Affairs had given orders to abandon the practice, students were still having their hair cropped into the 1970s.431 In the 1990s, students at the Gordon's, Saskatchewan, school were still being struck, and pushed into lockers and walls by one staff member.432
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1640,7 +1557,6 @@ When it came to taking action on the abuse of Aboriginal children, early on, Ind
 This set the tone for the way the churches and government would treat the sexual abuse of children for the entire history of the residential school system. Complaints often were ignored. In some cases where allegations were made against a school principal, the only measure that Indian Affairs took was to contact the principal.435 In at least one case, Indian Affairs officials worked with school officials to frustrate a police investigation into abuse at a school. When attempting to return some runaway boys to the Kuper Island school in 1939, British Columbia Provincial Police officers concluded that there was good reason to believe the boys had run away because they were being sexually abused at the school. The police launched an investigation and refused to return the boys to the school.436 When Indian Affairs officials finally investigated, they concluded that the allegations had merit. However, to protect the school's reputation, the local Indian Affairs official advised the suspected abusers to leave the province, allowing them to avoid prosecution.437 Nothing was done for the students who had been victimized or for their parents.
 These patterns persisted into the late twentieth century. Officials continued to dismiss Aboriginal reports of abuse.438 In some cases, staff members were not fired, even after being convicted of assaulting a student.439 Complaints were improperly investigated. For example, charges of sexual impropriety made against the principal of the Gordon's school were investigated by a school staff member in 1956.440 Church officials failed to report cases of abuse to Indian Affairs, and Indian Affairs failed to report cases of abuse to families.441 It
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1652,7 +1568,6 @@ In the documents it has reviewed, the Truth and Reconciliation Commission of Can
 The full extent of the abuse that occurred in the schools is only now coming to light. As of January 31, 2015, the Independent Assessment Process (iap), established under the Indian Residential Schools Settlement Agreement (irssa) had received 37,951 claims for injuries resulting from physical and sexual abuse at residential schools. The iap is a mechanism to compensate former students for sexual and physical abuse experienced at the schools and the harms that arose from the assaults. By the end of 2014, the iap had resolved 30,939 of those claims, awarding $2,690,000 in compensation.444 The Common Experience Payment (cep) established under irssa provided compensation to individuals who attended a school on the irssa's approved list of schools. The cep recognized the claims of 78,748 former residential school students. Although claims for compensation under the iap could be made by non-residential school students who were abused at the schools, the vast majority of iap claims were made by former residential school students. The number of claims for compensation for abuse is equivalent to approximately 48% of the number of former students who were eligible to make such claims. This number does not include those former students who died prior to May 2005.
 As the numbers demonstrate, the abuse of children was rampant. From 1958, when it first opened, until 1979, there was never a year in which Grollier Hall in Inuvik did not employ at least one dormitory supervisor who would later be convicted for sexually
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1665,7 +1580,6 @@ Many students spoke of having been raped at school.454 These were moments of ter
 Some dormitory supervisors used their authority to institute dormitory-wide systems of abuse. Many students spoke of the fear and anxiety that spread across their dormitories in the evenings.462 They went to bed fearful that they might be called into the supervisor's room.463 To protect themselves, some students attempted to never be alone.464 Older children sometimes sought to protect younger ones.465
 Most students came to school with little knowledge or understanding of sexual activity, let alone the types of sexual abuse to which they might be subjected. Abuse left them
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1678,7 +1592,6 @@ The impact of abuse was immediate and long-lasting. It destroyed the students' a
 Staff abuse of children created conditions for the student abuse of other students. Every school system has to deal with school bullies, student cliques, and inter-student conflict. It is part of the socialization process. Ideally, corrective lessons in how to treat others well are taught, as well as shown by example. Residential school staff had a responsibility not only to model such behaviour, but also to protect students from being victimized. In many cases, they failed to provide that protection. Conflicts between students are not unique to residential schools, but they take on greater significance in a residential school setting where children cannot turn to adult family members for comfort, support, and redress. The moral influences that a child's home community can exert are also absent. Instead, the children were left vulnerable and unprotected. Residential schools failed to live up to their responsibility to protect students from being victimized by other students.
 Older or bigger students used force--or the threat of force--to establish their dominance over younger students. In some cases, this dominance was used to coerce younger or smaller students to participate in sexual acts. In other cases, bullies forced vulnerable students to turn over their treats, their food, or their money, or to steal on their behalf. In addition, bullies might simply seek a measure of sadistic satisfaction from beating those who were weaker. Bullies operated individually or in groups. Such groups were often formed initially as a defensive response to the level of violence within the school, but, over time, would take on their own offensive characteristics. Sometimes, such groups not only focused their anger and/or frustration on other students, but also sought to disrupt
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1690,7 +1603,6 @@ William Garson recalled that at the Elkhorn, Manitoba, school, "we were always l
 Bullying might start shortly after arrival. In some schools, all new male students were put through a hazing. Denis Morrison said that each new arrival at the Fort Frances school underwent a beating. "They used to initiate you, like, they would beat the hell out of you, the other kids would. It wasn't anybody else, it was the other kids, the older ones, eh."486 Bob Baxter recalled that there were student gangs at the Sioux Lookout school. He was beaten up and knifed on one occasion. He had a vivid memory of people tying him to his bed and throwing hot water over him.487 Clara Quisess said that at the Fort Albany school in Ontario, older girls would threaten the younger ones with knives.488 Louisa Birote recalled that the girls at the La Tuque, Québec, school all formed themselves into hostile groups. "We hated each other. So, this little gang didn't like the other gang. That's the way at the school, that's what we were taught, fears, and we were scared, and I went to hide in what we called the junk room, the junk closet."489
 A lack of adequate supervision in the schools and residences meant that such domination could give rise to physical and sexual abuse. The assaults ranged from being forced to kiss someone, to being forced to simulate a sex act, to being raped. In some cases, victims were given small treats to encourage them to be silent; in other cases, they were told they would be killed if they reported the assault.490 Agnes Moses recalled being molested by older girls at a hostel in northern Canada. "I never quite understood it, and it really wrecked my life, it wrecked my life as a mother, a wife, a woman, and sexuality was a real, it was a dirty word for us."491 The experience of being abused at a British Columbia school
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1704,7 +1616,6 @@ One of the good things that I would do to try and get out of just the abuse was 
 Paul Andrew spent seven years at Grollier Hall in Inuvik. One of his strongest and most positive memories related to school sports. "There were times when I felt dumb and stupid. But put me in a gym, there was not too many people better than I am."496
 Recreational activities were always underfunded and undersupplied at the schools. A national survey of Indian Affairs schools (both day and residential) in 1956 concluded:
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1713,7 +1624,6 @@ The history · 113
 Boys playing hockey at the McIntosh, Ontario, school. Many students said that they would not have survived their residential school years, were it not for sports. St. Boniface Historical Society, Oblates of Mary Immaculate, Manitoba Province Fonds, SHSB 29362.
 In most of the schools there appeared to be little or no physical education program. A number of schools had no facilities for such activities. Basement areas were obviously designed for playing areas, but they were very inadequate and were utilized for storage or for assembly purposes. A large number of school sites were not properly cleared, graded, and prepared for playing purposes. Many were still in the wild state; others were overgrown with shrubs, thistles, grasses and other weeds presenting a very unkempt and neglected appearance.497 Oblate Provincial L. Poupore wrote to Indian Affairs about conditions at the Williams Lake, British Columbia, school in 1957. He pointed out that a year and half earlier, he had informed Indian Affairs about the need for a school gymnasium. At that time, he said, "The boys' play room, a room about 35 by 60, was a scene of bedlam during recreation periods. There were about 150 boys trying to play; the mud they had brought in on their feet had dried and there was so much dust in the room that you could not recognize a boy at the opposite end." Although the department had assured him the construction of a gymnasium would be a priority, nothing had been done, and "the problem of playroom space is worse than ever."498 Despite the lack of financial support, hockey teams from a number of schools achieved considerable success in the 1940s and 1950s. Teams from Duck Lake and Qu'Appelle in Saskatchewan, in particular, established enviable records. The Duck Lake school team, the St. Michael's Indians, won the championship of an eight-team league in the Rosthern area in 1946.499 In 1948, the same team, coached by Father G.-M. Latour, won the northern
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1723,7 +1633,6 @@ Grandin College girls' basketball team, Northwest Territories. One Grandin stude
 Saskatchewan midget hockey championship. The following year, it won the provincial championship.500 According to the Prince Albert Daily Herald, "While the Duck Lake boys were outweighed in their midget series they made it up in hockey know-how, skating ability and shooting accuracy. Their drives, from any angle, had the Regina players scared and baffled at the same time."501 Among the players on the 1949 Duck Lake provincial championship team was Fred Sasakamoose, who went on to become the first status Indian to play in the National Hockey League.502
 While hockey dominated boys' sports in most residential schools, British Columbia residential schools gained renown for their boxers. In 1947, the Roman Catholic school at Sechelt in North Vancouver advertised for a volunteer to run a school athletics program. Navy veteran Alex Strain took on the job. At the time, the school had no recreation program and no facilities. Under Strain's direction, the students cleared out a storage building and turned it into a gymnasium. Putting in four days of volunteer work a week, Strain created what Vancouver Sun reporter Gerry Pratt described as "the smoothest tumbling team in the province." He then established a boxing program at the school. The limits of the first ring were marked out by four rows of chairs. The first punching bag was a navy duffle bag filled with tumbling mats. After two years, Strain purchased a used truck and took the students on a boxing tour of Vancouver Island. After four years in existence, the team had won over 100 trophies. Sister John Lawrence made robes and shorts for each member of the team and also served as trainer.503 Frederick Baker, the winner of the first national Tom Longboat award, was a member of the Sechelt boxing team. Baker had won
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1783,7 +1692,6 @@ At first we got together just for fun. But eventually ... we formed a band. Ther
 They played at dances at the residence and in Hay River.507 Canadien went on to play in the Chieftones, a rock-and-roll band that toured extensively across North America.508
 On the rinks, the athletic fields, and parade grounds, or in the arts and handicraft rooms and on performance stages, many students found a way to express themselves, and, through that, gained the opportunity to explore their own talents and sometimes other parts of the country or the world. Most importantly, they gained some confidence in their ability to achieve.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1796,7 +1704,6 @@ By refusing to enrol their children in the industrial schools on the Prairies, p
 Sometimes, government officials also took reprisals against parents who kept their children out of school, in some cases denying them food rations and Treaty payments.516 Parents continued to keep their children out of school well into the twentieth century: in 1941, only forty-five students were enrolled in the Fort Providence school, which had an authorized attendance of 100.517
 In at least one instance, parents home-schooled their children. In 1941, Muriel, Doreen, and Kathleen Steinhauer were kept home from the Edmonton residential school because their parents were not satisfied with the progress they were making at the school. Their
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1808,7 +1715,6 @@ Sometimes, parents took their children out of school against the wishes of the p
 In 1913, when a mother removed her daughter from the Fort Resolution school, the Mounted Police were called in and the mother surrendered the girl to the school.520 In response to the death of a student in 1922, local parents withdrew their children from the Kitamaat, British Columbia, residential school. They agreed to return them only on the condition that the principal "sign her name to a paper before us that she would see that the children got all the food they wanted, that they would be well cared for, and be supplied with sufficient clothing."521
 In March 1948, the principal of the Roman Catholic school at Cardston, Alberta, struck a father who was attempting to take his son out of the school. In discussing the issue with Indian Affairs, the Blood Indian Council insisted on having the record note that this was "not the first time that Father Charron had hit an Indian."522
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1820,7 +1726,6 @@ Some First Nations leaders who had originally supported residential schools late
 Parents might also demand the dismissal of a principal.531 In 1917, to back up their call for the resignation of the Shoal Lake school principal, parents refused to return their children to the school.532 In this case, the principal did resign.533 The parents of the Kahkewistahaw Band unsuccessfully petitioned the federal government to remove a teacher from the Round Lake, Saskatchewan, school in July 1949. They said that "the children's report cards are very unsatisfactory, worst ever received, and she abuses the children too much.534 Parents also complained that their children were not learning the skills they needed to survive. Chief Kejick of the Shoal Lake Band told Indian Affairs officials in 1928 that the students from his reserve "did not know how to make a living when they left school and would like trades taught."535 Eight years later, Charlie Shingoose of the Waywayseecappo Band sought to have his fifteen-year-old son discharged from the Birtle school so he could teach him to "work, trap, etc."536
 Parents also hired lawyers to press their cases for investigations into the deaths of children who had run away, to complain about the harshness of discipline, to advocate on
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1834,7 +1739,6 @@ After 1894, children enrolled in a residential school (or who had been placed th
 Most runaway students headed for their home communities. Students knew they might be caught, returned, and punished. Still, they believed the effort to make it home and have a measure of freedom was worth it. In some cases, in fact, the schools failed to force runaways to return.545 Some students eluded capture. Instead of heading home, some went to work for local farmers and, as a result, were able to avoid their pursuers for considerable periods of time.546
 Running away could be risky. At least thirty-three students died, usually due to exposure, after running away from school.547 In a significant number of cases, parents and Indian Affairs officials concluded that the deaths could have been prevented if school officials had mounted earlier and more effective searches and notified police officials and family members.548 In the case of Charles and Tom Ombash, two brothers who ran away from the Sioux Lookout school on October 5, 1956, school officials waited until November before
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1846,7 +1750,6 @@ These deaths date back to the beginning of the twentieth century. However, the f
 In pursuing children to their parents' homes, the actions of school employees could be both invasive and disrespectful.553 In the town of Lebret, Saskatchewan, "all the houses were checked" by the police as part of a search for two runaways from the File Hills school in 1935.554
 Running away was not in itself a crime. However, most students were wearing school-issued clothing when they ran away, and, in some cases, principals tried, and even succeeded, in having them prosecuted for stealing the clothing they were wearing.555 Students
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1858,7 +1761,6 @@ Parents were often outraged at having to return runaways. Wallace Hahawahi's fat
 Indian agents often referred to ongoing truancy issues at specific schools as "epidemics." The agents viewed such epidemics as a sign of underlying problems at a school. In 1928, Indian agent J. Waddy wrote that at the Anglican school in The Pas, "hardly a day goes bye [sic] that one or more do not take leave on their own account."563 In 1935, ten pupils ran away from the Birtle, Manitoba, school.564 In the closing years of the 1930s, the Shubenacadie school in Nova Scotia experienced continual truancy problems. It was not uncommon for some students to make numerous attempts to leave the school. On the morning of July 7, 1937, Andrew Julian decided not to join the other boys assigned to milk the school's dairy herd. Instead, he headed for Truro, where he was reported as being sighted in the rail yard. He was not located until the end of the month. By then, he had made it to Nyanza in Cape Breton, a distance of 260 miles (418.4 kilometres) from the school.565 The following year, Steven Labobe (also given as LaBobe) managed to make it back to his home on Prince Edward Island. The principal decided not to demand the boy's return.566 Other boys were not so lucky. One boy, who ran away five times, was eventually placed in a private reformatory.567
 Many students said they ran away to escape the discipline of the school. Ken Lacquette attended residential schools in Brandon and Portage la Prairie, Manitoba. "They used to give us straps all the time with our pants down they'd give us straps right in the public. Then ... this started happening, after awhile when I was getting old enough I started taking off from there, running away."568 Others were seeking to escape something far more sinister
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1872,7 +1774,6 @@ It was halfway down this big hill, and then from there you could see town. And w
 The girls at the Sioux Lookout school rebelled in 1955 when they were all sent to bed early after a number of girls had been caught stealing. They barricaded themselves in their dormitory and refused to allow any staff to enter.578 There was a similar revolt in Edmonton in the 1960s, when students blocked staff entry to the dormitory at night, to protest the abuse of students.579
 Collectively and individually, parents and students did resist the residential school attack on Aboriginal families and communities. On occasion, they won small victories: a child might be discharged; a day school might be built. However, as long as Aboriginal people were excluded from positions of control over their children's education, the root causes of the conflict remained unresolved.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1883,7 +1784,6 @@ The staff: "My aim was to do something good."
 For most of their history, residential schools were staffed by individuals who were recruited by Christian missionary organizations. Generally, the churches appointed a priest or minister, as opposed to an educator, as the principal. The Roman Catholic schools could draw staff from a number of Catholic religious orders, whose members had made explicit vows of obedience, poverty, and chastity. In the spirit of those vows, they would be obliged to go where they were sent, would not expect payment, and would have no families to support. Indian Commissioner David Laird believed that since members of Roman Catholic religious orders received very little in exchange for their services, the Roman Catholic schools could "afford to have a much larger staff than where ordinary salaries are paid, and there is consequently less work for each to do, without interfering with the quality of the work done."580 The Protestant schools recruited many of their staff members through missionary organizations.
 Many of the early school staff members believed they were participating in a moral crusade. In her history of the McDougall Orphanage, the predecessor of the Morley school in Alberta, Mrs. J. McDougall described the work of the mission and orphanage as "going out after the wild and ignorant and bringing them into a Christian home and blessing the body, culturing the mind and trying to raise spiritual vision."581
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1893,7 +1793,6 @@ Staff members were often motivated by a spirit of adventure as well as a religio
 This mix of motivations continued throughout the system's history. Lorraine Arbez, who worked at the Qu'Appelle school in the 1950s, said, "I chose this career to work with the children and my aim was to do something good with them and I hope I was of some use."586 For Noreen Fischbuch, who worked at schools in Ontario and Alberta in the 1950s and 1960s, the residential schools offered much-needed experience: "As far as I was concerned, it was a teaching job, it was with the kids and I liked the kids.... The kids were getting an education; I had a job."587 George Takashima, who taught at Sioux Lookout, explained, "I was just sort of adventuresome, you might say."588
 Almost all the staff members were poorly paid. Government officials took the position that because many of the staff members belonged to missionary organizations, pay was a "minor consideration."589 As a result, the schools had problems recruiting and keeping staff. Alexander Sutherland of the Methodist Church was particularly outspoken about the link between low wages and the difficulties the schools had in recruiting staff. In 1887, he wrote to the minister of Indian Affairs about the "difficulty of obtaining efficient and properly qualified teachers, on account of the meagre salaries paid."590 The issue of low pay never went away. More than half a century later, in 1948, C. H. Birdsall, the chair of the United Church committee responsible for the Edmonton school, complained that it "is impossible for the Residential School to offer salaries in competition with" rates that Indian Affairs was paying teachers at day schools. Given the inadequate quality of accommodation, equipment, and staff at the school, he felt that it was "doubtful the present work with Indian Children could properly be called education."591 Many of the Catholic schools survived on what amounted to volunteer labour. In 1948, Sechelt principal H. F. Dunlop informed Ottawa, "If this school kept out of the red during the past year it was largely due to the fact that four Oblates, working here full time, received in salaries from Jan 1947 to Jan 1948 the grand total of $1800."592 As late as 1960, the nuns at the Christie Island school were being paid $50 a month--a fact that made Principal A. Noonan "feel like a heel."593
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1903,7 +1802,6 @@ Many qualified and experienced people worked in the schools. Miss Asson, the mat
 A number of people devoted their adult lives to working in residential schools. At least twelve principals died in office.601 Kuper Island principal George Donckele resigned in January 1907; by June of that year, he was dead.602 Sherman Shepherd served at the Anglican schools in Shingle Point on the Arctic Ocean in the Yukon, Aklavik (Northwest Territories), Fort George (Québec), and Moose Factory (Ontario), resigning in 1954 after twenty-five years of service in northern Canada.603 Others worked into their old age, since, due to low pay, their savings were also low and pensions were minimal. When the seventy-three-year-old matron of the Ahousaht school in British Columbia retired in 1929, Principal W. M. Wood recommended that she be given an honorarium of a month's salary as appreciation for her years of service. Woods noted that she was "retiring with very limited means."604
 Such long service was not the norm. Because the pay was often low and the working and living conditions were difficult, turnover was high throughout the system's history. From 1882 to 1894, there was what amounted to an annual full turnover of teachers at the Fort Simpson (now Port Simpson), British Columbia, school. At one point, all the teaching
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1915,7 +1813,6 @@ Although women usually worked in subordinate roles, the 1906 Indian Affairs annu
 The schools employed many more people than principals and teachers. Most schools were mini-communities. There were cooks, seamstresses, housekeepers, matrons, disciplinarians, farmers, carpenters, blacksmiths, engineers (to operate the heating and electrical generators), shoemakers, and even bandmasters.614 Smaller schools such as the United Church Crosby Girls' Home in Port Simpson, British Columbia, made do with a staff of only three people in 1935.615 The Roman Catholic school at Kamloops, British Columbia, had at least nineteen staff in that same year.616 The Prince Albert, Saskatchewan, residence had over fifty employees during the 1966­67 school year.617
 Workloads were heavy, and time off was rare. The seven-day week was the norm for many employees. An 1896 report on the Mount Elgin school noted, "No holidays are given or allowed to the staff; all days or parts of days lost time are deducted from their wages."618 The policy at the Anglican schools into the 1920s was to allow "one full day off duty each month."619 Indian agent F. J. C. Ball predicted that a sixty-three-year-old employee of the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -1928,7 +1825,6 @@ Missionary staff, particularly in the early years of the system, were extremely 
 Sometimes, staff protested the way students were treated. When two staff members of the Prince Albert, Saskatchewan, school resigned in 1952, they complained of the harsh disciplinary regime at the school.630 In 1957, Helen Clafton, an ex-dormitory supervisor, wrote of how, at the Lytton, British Columbia, school, "the `strap' is altogether too much in evidence."631
 Aboriginal people also worked for the schools. The Mohawk Institute hired former student Isaac Barefoot to work as a teacher in 1869. Barefoot went on to serve as acting principal and was later ordained as an Anglican minister.632 Another former student, Susan Hardie, obtained her teaching certificate in 1886.633 She was the school governess as early as 1894, and was paid $200 a year.634 She retired at the beginning of the 1936­37
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2013,7 +1909,6 @@ number of schools declined rapidly from 1969 onwards, they became a significant 
 
 of Aboriginal employment, particularly in Saskatchewan, where six schools were operated
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2025,7 +1920,6 @@ A number of former Aboriginal staff members felt they helped make an important d
 Former staff and the children of former staff members have expressed the view that much of the discussion of the history of residential schools has overlooked both the positive intent with which many staff members approached their work, and the positive accomplishments of the school system. Although they certainly believed the system was underfunded, they also believed that they and their parents devoted much of their lives to educating and caring for Aboriginal children.
 Most of the staff members did not make a career in residential schools, spending only a year or two at a school before moving on. Others stayed for many years in conditions that were often very different from what they grew up with, working for low pay, and living in cramped and confined quarters with, at times, less than congenial colleagues. They spent their time teaching, cooking, cleaning, farming, and supervising children. On their own,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2037,7 +1931,6 @@ During the years in which the federal government was slowly closing the resident
 From the 1960s onwards, many people within the churches began to re-evaluate both the broader history of the relations between the churches and Aboriginal peoples, and the specific history of the residential schools. Many church organizations provided support to Aboriginal campaigns on such issues as land and Treaty rights. In the 1980s, the churches began to issue apologies to Aboriginal people. One of the first of these, issued in 1986 by the United Church of Canada, focused on the destructive impact that church missionary work had on Aboriginal culture.658 The Oblate order offered an apology in 1991 that referred to the residential schools.659 Apologies relating specifically to their roles in operating residential schools were issued by the Anglicans in 1993, the Presbyterians in 1994, and the United Church in 1998.660
 Aboriginal people also began both individually and collectively to push for the prosecution of individuals who had abused students at residential schools and for compensation for former students. In 1987, Nora Bernard, a former student of the Shubenacadie residential school, began interviewing fellow Survivors in the kitchen of her home in Truro, Nova Scotia.661 In 1995, she formed the Shubenacadie Indian Residential School Survivors Association and started registering Survivors. The work of former students from the schools in places as distant as Fort Albany, Ontario; Chesterfield Inlet, then
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2047,7 +1940,6 @@ in the Northwest Territories; and Williams Lake, British Columbia, led to severa
 Former students also filed lawsuits against the federal government and the churches over the treatment that they received in the schools. Although they were successful in a number of these cases, courts were not willing to provide compensation for some issues of importance to Aboriginal peoples, such as the loss of language and culture. By October 2001, more than 8,500 residential school Survivors had filed lawsuits against the federal government, the churches, related organizations, and, where possible, the individual who committed the abuse.663 By 2005, it was estimated that the volume surpassed 18,000 lawsuits.664 Former students also commenced class-action lawsuits for compensation. Although lower courts rejected their right to pursue such claims, in 2004, the Ontario Court of Appeal ruled that one of these cases (known as the "Cloud case") should be allowed to proceed.665 Within months, the federal government agreed to enter into a process intended to negotiate a settlement to the growing number of class-action suits. The Indian Residential Schools Settlement Agreement (irssa) was reached in 2006 and approved by the courts in the following year. The irssa has five main components: 1) a Common Experience Payment; 2) an Independent Assessment Process; 3) support for the Aboriginal Health Foundation; 4) support for residential school commemoration; and 5) the establishment of a Truth and Reconciliation Commission of Canada. Through the Common Experience Payment, former students would receive a payment of $10,000 for the first year that they attended a residential school, and an additional $3,000 for each additional year or partial year of attendance. The Independent Assessment Process adjudicated and compensated the claims of those students who were physically or sexually abused at the schools. Funding was also provided to the Aboriginal Healing Foundation to support initiatives addressing the residential school legacy. The Settlement Agreement committed the federal government to funding initiatives to commemorate the residential school experience. The Truth and Reconciliation Commission of Canada was mandated to tell Canadians about the history of residential schools and the impact those schools had on Aboriginal peoples, and to guide a process of reconciliation.
 The court approval of the irssa in 2007 was followed in June 2008 with Prime Minister Stephen Harper's apology on behalf of Canada. In his statement, the prime minister recognized that the primary purpose of the schools had been to remove children from their homes and families in order to assimilate them better into the dominant culture. Harper said, "These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal. Indeed, some sought, as it was infamously said, `to kill
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2059,7 +1951,6 @@ reverse the horrific and shameful statistics afflicting Aboriginal populations, 
 In his response, Phil Fontaine, then National Chief of the Assembly of First Nations, said the apology marked a new dawn in the relationship between Aboriginal people and the rest of Canada. He also called attention to the "brave survivors," who, by "the telling of their painful stories, have stripped white supremacy of its authority and legitimacy. The irresistibility of speaking truth to power is real."670 National Chief of the Congress of Aboriginal Peoples Patrick Brazeau spoke of how the resiliency, courage, and strength of residential school Survivors had inspired all Aboriginal people.671 Mary Simon, President of the Inuit Tapiriit Kanatami, said, in tackling the hard work that remained to be done, "Let us now join forces with the common goal of working together to ensure that this apology opens the door to a new chapter in our lives as aboriginal peoples and in our place in Canada."672 Clem Chartier, President of the Métis National Council, noted that he had attended a residential school, and pointed out that many issues regarding the relationship between Métis people and residential schools still were not resolved. He said, "I also feel deeply conflicted, because there is still misunderstanding about the situation of the Métis Nation, our history and our contemporary situation."673 Beverley Jacobs, President of the Native Women's Association of Canada, spoke of how Aboriginal communities were recovering their traditions. "Now we have our language still, we have our ceremonies, we have our elders, and we have to revitalize those ceremonies and the respect for our people not only within Canadian society but even within our own peoples."674
 The Settlement Agreement and the formal apology by Prime Minister Stephen Harper represent the culmination of years of political struggle, changes in societal attitudes, court decisions, and negotiation. Through it all, the Survivors kept the issue alive.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2068,7 +1959,6 @@ The history · 133
 Canada's Aboriginal leaders along with a number of former residential schools students were present on the floor of the House of Commons when Prime Minister Stephen Harper delivered his 2008 apology. Clockwise from the left: former student Don Favel; former student Mary Moonias; former student Mike Cachagee, President of the National Residential School Survivors Society; former student Crystal Merasty; former student Piita Irniq; Patrick Brazeau, National Chief of the Congress of Aboriginal Peoples; Mary Simon, President of the Inuit Tapiriit Kanatami; Phil Fontaine, National Chief of the Assembly of First Nations; Beverley Jacobs, President of the Native Women's Association of Canada; Clem Chartier, President of the Métis National Council. Former student Marguerite Wabano is obscured by Phil Fontaine's headdress. Canadian Press: Fred Chartrand.
 These events do not bring the residential school story to an end. The legacy of the schools remains. One can see the impact of a system that disrupted families in the high number of Aboriginal children who have been removed from their families by child-welfare agencies. An educational system that degraded Aboriginal culture and subjected students to humiliating discipline must bear a portion of responsibility for the current gap between the educational success of Aboriginal and non-Aboriginal Canadians. The health of generations of Aboriginal children was undermined by inadequate diets, poor sanitation, overcrowded conditions, and a failure to address the tuberculosis crisis that was ravaging the country's Aboriginal community. There should be little wonder that Aboriginal health status remains far below that of the general population. The over-incarceration and over-victimization of Aboriginal people also have links to a system that subjected Aboriginal children to punitive discipline and exposed them to physical and sexual abuse.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2077,7 +1967,6 @@ clean_pagebreak: true
 The history of residential schools presented in this report commenced by placing the schools in the broader history of the global European colonization of Indigenous peoples and their lands. Residential schooling was only a part of the colonization of Aboriginal people. The policy of colonization suppressed Aboriginal culture and languages, disrupted Aboriginal government, destroyed Aboriginal economies, and confined Aboriginal people to marginal and often unproductive land. When that policy resulted in hunger, disease, and poverty, the federal government failed to meet its obligations to Aboriginal people. That policy was dedicated to eliminating Aboriginal peoples as distinct political and cultural entities and must be described for what it was: a policy of cultural genocide.
 Despite being subjected to aggressive assimilation policies for nearly 200 years, Aboriginal people have maintained their identity and their communities. They continue to assert their rights to self-governance. In this, they are not alone. Like the Settlement Agreement in Canada, the United Nations Declaration on the Rights of Indigenous Peoples is a milestone in a global campaign to recognize and respect the rights of Indigenous peoples. It is time to abandon the colonial policies of the past, to address the legacy of the schools, and to engage in a process of reconciliation with the Aboriginal people of Canada.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2103,7 +1992,6 @@ Endnotes
 17. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.
 18. TRC, AVS, Martin Nicholas, Statement to the Truth and Reconciliation Commission of Canada, Grand Rapids, Manitoba, 24 February 2010, Statement Number: 07-MB-24FB10-001.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2130,7 +2018,6 @@ clean_pagebreak: true
 37. TRC, AVS, Nick Sibbeston, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
 38. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Prince Albert, Saskatchewan, 1 February 2012, Statement Number: 2011-3879.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2138,7 +2025,6 @@ clean_pagebreak: true
 The history · 137
 (Translated from Woodland Cree to English by Translation Bureau, Public Works and Government Services Canada, 8956130.) 39. TRC, AVS, Jack Anawak, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202. 40. TRC, AVS, Lydia Ross, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-029. 41. TRC, AVS, Stephen Kakfwi, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202. 42. TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123. 43. TRC, AVS, Shirley Flowers, Statement to the Truth and Reconciliation Commission of Canada, Goose Bay, Newfoundland and Labrador, 20 September 2011, Statement Number: SP025. 44. Howe, Empire, 21­22. 45. Howe, Empire, 57. 46. For East Africa, see: Thiong'o, Dreams in a Time of War. For Australia, see: Australia, "`Bringing Them Home,' National Inquiry," www.humanrights.gov.au/sites/default/ files/content/pdf/social_justice/bringing_them_home_report.pdf [25]. For Siberia, see: Bartels and Bartels, When the North Was Red, 12; Bloch, Red Ties, 38. 47. Diffie and Winnius, Foundations, 78­83; Pagden, Peoples and Empires, 56. 48. Howe, Empire, 62­63. 49. Hobsbawm, On Empire, 67. 50. Wood, Empire of Capital, 74­87. 51. Wolfe, "Settler Colonialism," 388. 52. Wolfe, "Settler Colonialism," 388, 391, 399. 53. Address of C. C. Painter to the 1886 Lake Mohonk Conference, "Proceedings of the Lake Mohonk Conference," in Eighteenth Annual Report of the Board of Indian Commissioners, 1886, 61­62. 54. Howe, Empire, 80­81. 55. Howe, Empire, 62. 56. Wood, Empire of Capital, 40­41. 57. For examples, see: Diffie and Winius, Foundations, 65­66, 94­95; Pagden, Peoples and Empires, 54; Williams, American Indian, 72­73. 58. Elliott, Empires of the Atlantic, 11, 23; Pagden, Spanish Imperialism, 14. 59. Pagden, Lords of All the World, 47. 60. Elliott, Empires of the Atlantic, 11­12; Frichner, "Preliminary Study," 11; Seed, Ceremonies of Possession, 17­18. 61. H. Verelst, "Some Observations on the Right of the Crown of Great Britain to the North West Continent of America," PRC co 5/283, f. 5, quoted in Armitage, Ideological Origins, 192. 62. Banner, "Why Terra Nullius," 95. The court case is referred to as Mabo v. Queensland (No. 2). 63. Wood, Origin of Capitalism, 111. 64. Howe, Empire, 86­87. 65. Speech quoted in: Archibald Philip Primrose (5th earl of Rosebery) ... Australian speechlets, 1883­84 [by A. P. Primrose], http://books.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2146,7 +2032,6 @@ clean_pagebreak: true
 138 · Truth & Reconciliation Commission
 google.ca/books?id=CncIAAAAQAAJ&printsec=frontcover&dq=Australian+speechlets,+1883-84+[by+A.P.+Primrose.].&hl=en&sa=X&ei=zN2IUuGdMOTA2gW0vIHYDA&ved=0CDkQ6AEwAA#v=onepage&q=Australian%20speechlets%2C%20 1883-84%20[by%20A.P.%20Primrose.].&f=false (accessed 17 November 2013). 66. Canada, Annual Report of the Department of Indian Affairs, 1884, 154. 67. Usher, William Duncan, 41. See also: Choquette, Oblate Assault; Huel, Proclaiming the Gospel; Hyam, Britain's Imperial Century. 68. Howe, Empire, 85. 69. Howe, Empire, 90; Perry, "Metropolitan Knowledge," 109­111. 70. Huel, Proclaiming the Gospel, 1­6; Choquette, Oblate Assault, 1­20; Choquette, Canada's Religions, 173­176. 71. For example, see: Usher, William Duncan, 8, 11. 72. Moorhouse, Missionaries, 274. 73. Moorhouse, Missionaries, 33; Rompkey, Story of Labrador, 34, 36­39. 74. For Canada, see, for example: McMillan and Yellowhorn, First Peoples. For a global perspective, see: Coates, A Global History. 75. Jaenen, "Education for Francization," 54­55; Trudel, Beginnings of New France, 134­135. 76. Jaenen, Friend and Foe Aspects, 96, 163, 166. 77. Magnuson, Education in New France, 47­50; Trudel, Beginnings of New France, 231; Axtell, Invasion Within, 56­58; Jaenen, "Education for Francization," 56; Jaenen, Friend and Foe Aspects, 95, 168. 78. Hamilton, Federal Indian Day Schools, 4­5; Fingard, "New England Company," 30­32. 79. Stevenson, "Red River Indian Mission School," 141. 80. Graham, Mush Hole, 7. 81. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, "Mohawk Institute May Close after 139 Years," no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970. [TAY-003053-0001] 82. Ryerson, "Report on Industrial Schools," 76. 83. Ryerson, "Report on Industrial Schools," 73. 84. Report of the Special Commissioners 1858, n.p. 85. TRC, NRA, Library and Archives Canada, RG10, volume 6210, file 468-10, part 5, Samuel Devlin to Indian Affairs, 20 May 1946. [MER-003806-0001] 86. Gresko, "Paul Durieu," http://www.biographi.ca/en/bio/durieu_paul_12E.html (accessed 31 August 2014). McNally gives the opening as 1862: McNally, Lord's Distant Vineyard, 67. 87. McCarthy, From the Great River, 160; Carney, "Grey Nuns and Children," 291; Duchaussois, Grey Nuns, 148. 88. Miller, Compact, Contract, Covenant, 156; Davin, Report on Industrial Schools, 10. Population figures for this period are only estimates. James Miller cites 12,000 mixed-blood people in 1870, and, in his 1879 report, Nicholas Flood Davin stated that 28,000 people were under Treaty. Miller, Compact, Contract, Covenant, 199; Davin, Report on Industrial Schools, 10.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2156,7 +2041,6 @@ The history · 139
 90. Getty and Lussier, Long as the Sun Shines, 35. 91. Banner, How Indians Lost Their Land, 85. 92. Tobias, "Protection, Civilization, Assimilation," 128. 93. Miller, Compact, Contract, Covenant, 156. 94. Miller, Compact, Contract, Covenant, 154. 95. Friesen, "Magnificent Gifts," 205, 212. 96. Erasmus, Buffalo Days, 250. 97. Ray, Illustrated History, 212; Taylor, "Canada's Northwest Indian Policy," 3. 98. Sprague, Canada's Treaties with Aboriginal People, 13. 99. For an example of a request for a day school on a reserve, see: McCullough, "Pey-
 asiw-awasis," http://www.biographi.ca/en/bio/peyasiw_awasis_15E.html (accessed 6 June 2014). 100. Miller, Compact, Contract, Covenant, 164­165. 101. Morris, Treaties of Canada, 202. 102. In Canada, the Indian Act had been preceded by the 1868 Act to provide for the organization of the Department of the Secretary of State of Canada and for the Administration of the Affairs of the Indians, and the 1869 An Act for the gradual enfranchisement of Indians. 103. An Act to amend and consolidate the laws respecting Indians, Statutes of Canada 1876, chapter 18. 104. Miller, Skyscrapers Hide the Heavens, 255. 105. Library and Archives Canada, RG10, volume 6810, file 470-2-3, volume 7, Evidence of D. C. Scott to the Special Committee of the House of Commons Investigating the Indian Act amendments of 1920, (L-2)(N-3). 106. For the banning of the Potlatch, see: LaViolette, Struggle for Survival, 41­42; Cole and Chaikin, Iron Hand, 16­17, 95. For the banning of the Thirst Dance, see: Pettipas, Severing the Ties, 53­54, 95­96. 107. For examples, see: LaViolette, Struggle for Survival, 41­42; Cole and Chaikin, Iron Hand, 16­17, 95; TRC, NRA, Library and Archives Canada, RG10, volume 3825, file 60511-1, J. Hugonard to Indian Commissioner, 23 November 1903. [RCA-011007-0001] 108. Canada, Sessional Papers 1885, number 116. F., 95­96, J. S. Dennis to Sir John A. Macdonald, 20 December 1878. 109. Davin, Report on Industrial Schools, 14. 110. Driver, "Discipline Without Frontiers?," 282. 111. Parker, Uprooted, 190. 112. Sutherland, Children in English-Canadian Society, 100. 113. Sutherland, Children in English-Canadian Society, 138. 114. Fear-Segal, White Man's Club, 186; Standing Bear, My People the Sioux, 123­133. 115. Canada, Annual Report of the Department of Indian Affairs, 1884 (for High River, 76; for Battleford, 154; for Qu'Appelle, 161). 116. Canada, House of Commons Debates (22 May 1883), 1376. 117. Library and Archives Canada, RG10, volume 3647, file 8128, Andsell Macrae, 18 December 1886. 118. Canada, Annual Report of the Department of Indian Affairs, 1910, 273.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2166,7 +2050,6 @@ clean_pagebreak: true
 John A. Macdonald, 15 March 1886. 121. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 1, Privy
 Council Order Number 1278, 7 June 1888; [PLD-007312] Library and Archives Canada, RG10, volume 3819, file 58418, J. Hugonnard to Hayter Reed, 11 May 1889; [PLD-009475] Library and Archives Canada, RG10, volume 3675, file 11422-4, J. Hugonnard to E. Dewdney, 5 May 1891. [PLD-009435] 122. TRC, NRA, Library and Archives Canada, RG10, volume 3879, file 91833, Order-inCouncil, 22 October 1892. [RIS-000354] 123. For the admission of infected children, see: TRC, NRA, Library and Archives Canada, RG10, volume 4037, file 317021, T. Ferrier to the editor, 23 November 1907. [RCA-000315] 124. For details, see: Canada, Annual Report of the Department of Indian Affairs, 1904, xxvii­ xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class `G' C.1/P.2, Church Missionary Society, "Resolutions Regarding the Administration of the North-West Canada Missions," 7 April 1903; [PAR-003622] Blake, Don't you hear; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, "Report on Indian Missions and Schools," Presented to the Diocesan Synod, Diocese of Calgary, J. W. Tims, August 1908; [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, "Report of the Synod's Commission on Indian Affairs," 5 December 1904; [RIS000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, "Letter to S. H. Blake, 28 January, 1908," quoted in Wasylow, "History of Battleford Industrial School," 225­226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, "`Indian Policy,'" 15; TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, "Report of the Sub-Committee of the Advisory Board On Indian Education," n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 1167511A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clifford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2174,7 +2057,6 @@ clean_pagebreak: true
 The history · 141
 part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905­1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206] 125. For the initial improvement, see: TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters ­ Compulsory Attendance of Pupils ­ Indian Schools, 1904­1933, Microfilm reel C-8149, FA 10-17, "Re: Per Capita Grants at Indian Residential Schools," Russell Ferrier, 5 April 1932. [120.18050] For an example of the impact of inflation, see: TRC, NRA, Library and Archives Canada, RG10, volume 6468, file 890-1, part 1, J. Welch to D. C. Scott, 28 July 1916. [MIS-001473] For cuts in the 1930s, see: TRC, NRA, Anglican Church of Canada, General Synod Archives, ACCMSCC-GS 75-103, series 2.15, box 27, file 1, The Joint Delegation and Interview with the Prime Minister, 20 December 1934; [AAC-087280] TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-1, part 1, Harold McGill to Church Officers, Principals of Indian Residential Schools, 22 February 1933. [AEMR-255373] 126. TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-?, part 1, R. A. Hoey to Dr. McGill, 4 November 1938. [AEMR-120432] 127. For staffing, see: Canada, Annual Report of the Department of Indian Affairs, 1955, 51; Canada, Annual Report of the Department of Indian Affairs, 1957, 56. As an experiment in 1949, Indian Affairs had taken on responsibility for directly employing the teaching staff in schools at Shubenacadie, the Mohawk Institute, and Port Alberni. TRC, NRA, DIAND HQ, file 1/25-1-5-2, volume 1, 1952­1969, Laval Fortier to J. P. Mulvihill, 26 October 1953. [AEMR-120563] For diet, see: TRC, NRA, Library and Archives Canada, RG55, FA 55-19, volume 20784, Treasury Board Submission 559690, Req. Authority for the Recommendation and Establishment of Domestic Staff, Laval Fortier to Secretary, Treasury Board, 22 January 1960. [120.04620] 128. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 89. [AEMR-019759] 129. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 92. [AEMR-019759] 130. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Regulations Relating to the Education of Indian Children, Ottawa: Government Printing Bureau, 1894. [AGA-001516-0000] 131. For example, see: TRC, NRA, Library and Archives of Canada, RG10, volume 6374, file 764-10, part 1, S. H. Middleton to J. E. Pugh, 26 April 1940. [PUL-071183] 132. TRC, NRA, Library and Archives Canada ­ Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952­1969, NAC, Burnaby, R. Sedgewick to Acting Deputy Superintendent General Indian Affairs, 11 October 1891; [SQU-001298-0001] RG10, volume 1575, C-14851, 1898­1899, NAC, Application for Admission, 30 November 1898. [BQL-008267-0001] 133. TRC, NRA, Library and Archives Canada, RG10, FA 10-379, 1999-01431-6, box 405, 987/25-1-018, part 1, Indian Education ­ Squamish Students Residence, Fraser District, 1950­1969, NAC, Ottawa, P. Phelan to Legal Adviser, 17 November 1952; [SQU-000595] Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952­1969, NAC, Burnaby, P. Phelan to W. S. Arneil, 22 November 1952. [SQU-001297] For an example of a father who successfully went to court to have his children, who had been voluntarily enrolled in a residential school, returned to him, see: Library and Archives Canada,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2182,7 +2064,6 @@ clean_pagebreak: true
 142 · Truth & Reconciliation Commission
 RG10, volume 2552, file 112-220-1, Martin Benson to Deputy Superintendent General of Indian Affairs, 25 September 1903. 134. TRC, NRA, Library and Archives Canada, RG10, volume 7184, file 1/25-1-5-7, part 1, W. M. Graham to Secretary, 19 February 1926. [NCA-014626] 135. Canada, Annual Report of the Department of Indian Affairs, 1945, 168, 183. 136. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 13, 15 July 1897. [100.00108] 137. For Indian Act, see: An Act respecting Indians, Statutes of Canada 1951, chapter 29, sections 113­122, 169­172. For regulations, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 1/25-1-5-2, volume 1, "Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superintendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act," 20 January 1953. [PAR-001203-0001] 138. The Public Schools Act, Revised Statutes of Manitoba 1954, chapter 215, 923­1,114. 139. The Manitoba Gazette, April 9, 1955, 509­510. 140. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters ­ Compulsory Attendance of Pupils ­ Indian Schools, 1904­1933, Microfilm reel C-8149, FA 10-17, Indian Agent, Hagersville to Secretary, Indian Affairs, 20 February 1922; [AEMR-255312] An Act respecting Indians, Statutes of Canada 1919­1920, chapter 50, section 1, amending Revised Statutes of Canada 1906, chapter 81, section 10, reproduced in Venne, Indian Acts, 178­179. 141. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. K. Irwin to Indian Affairs, 22 October 1926. [GDC-006528] 142. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. D. McLean to J. K. Irwin, 29 October 1926. [GDC-006529] 143. TRC, NRA, DIAND HQ, file 1/25-1, volume 19, 1968, J. A. MacDonald to the Minister, 9 October 1968. [AEMR-121636] 144. Canada, Annual Report of the Department of Indian Affairs, 1956, 76­77; TRC, ASAGR, Department of Northern Affairs and National Resources, Annual Report Fiscal Year 1957­1958, 115. [AANDC-452773] 145. Canada, Annual Report of the Department of Indian Affairs, 1931, 60. 146. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:2, box 55, file 6, S. Gould to D. C. Scott, Ottawa, 18 December 1931; [AAC-090271] TRC, NRA, Anglican Church of Canada, General Synod Archives, Triennial Report of the Board of Management to the Board of Missions, M.S.C.C. 07/1934, Accession GS 75-2A, Archibald [Fleming], Bishop of the Arctic, "The Arctic," in S. Gould, General Secretary, Board of Management, M.S.C.C., "Triennial Report of the Board of Management, M.S.C.C.," 4 July 1934, 353. [AGS-000185] 147. TRC, NRA, Library and Archives Canada, RG10, volume 6112, file 350-10, part 1, W. L. Tyrer to Sutherland, 8 February 1934. [FGA-001100] Although no trace of the decision to award funds to the Catholic school has been found in the archives, by April 1937, the Oblates had begun submitting official Indian Affairs paperwork with regard to the student population at St. Joseph's. See, for example: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 351-10, part 1, D. Couture, "Application for Admission to the Ste. Theresa Fort George Catholic Residential School for Louise Jolly," 1 April 1937. [FTG-003180-0000]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2194,7 +2075,6 @@ The history · 143
 Our Sorrows in the Sacred Heart,'" 34­35. 152. For an example of the Métis being viewed as `dangerous,' see: Library and Archives Can-
 ada, RG10, volume 6031, "Extract from a letter dated the 19th July, 1899, from the Rev. Father Hugonard." 153. For an example, see: TRC, NRA, Library and Archives Canada, R776-0-5 (RG55), volume 562, T.B. #252440, Clifford Sifton to Mr. Smart, 18 October 1899. [NPC-523981c] 154. For an early example of this view, see: Canada, Sessional Papers 1885, number 116, 81, Memo: Hugh Richardson, 1 December 1879. 155. For an example, see: Library and Archives Canada, RG10, volume 6323, file 658-10, part 3, W. M. Graham to the Secretary of the Department of Indian Affairs, 5 December 1929. 156. For example, it was estimated in 1936 that 80% of Métis children in Alberta received no education. Chartrand, "Métis Residential School Participation," 41. 157. Quiring, CCF Colonialism in Northern Saskatchewan; Barron, Walking in Indian Moccasins. 158. For detailed treatment of the issue, see: Chartrand, Logan, and Daniels, Métis History and Experience.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2207,7 +2087,6 @@ Annual Report of the Department of Indian Affairs, 1955, 70, 76­78. 163. Canada,
 in Venne, Indian Acts, 350. 165. Canada, Annual Report of the Department of Indian Affairs, 1961, 57. 166. Canada, Annual Report of the Department of Indian Affairs, 1961, 63. 167. See, for example: TRC, NRA, No document location, no document file source, The Cana-
 dian Catholic Conference, "A Brief to the Parliamentary Committee on Indian Affairs," May 1960, 8. [GMA-001642-0000] 168. Newman, Indians of the Saddle Lake Reserve, 81­87. 169. For a discussion that places both child welfare and residential schools in the context of the ongoing colonization of Aboriginal people, see: McKenzie and Hudson, "Native Children." 170. For an example of this assessment, see: TRC, NRA, Canadian Welfare Council and Caldwell 1967, 89. [AEMR-019759] 171. For examples of the link between the closure of residential schools and the increase in children in care, see: TRC, NRA, Library and Archives Canada, RG10, box 98, Acc., 1999-01431-6, file 274/25-1-010, part 1, P. L. McGillvray to Indian Affairs Branch, 17 November 1964; [NCA-010544] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 211/6-1-010, volume 6, R. F. Davey to Michael Kearney, 12 June 1967; [SRS-000175] TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, "Mohawk Institute May Close after 139 Years," no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970; [TAY-003053-0001] TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, file 671/6-2-025, volume 4, Onion Lake Band Council Resolution, 31 July 1974. [ORC-008733-0002] 172. McKenzie and Hudson, "Native Children," 126. 173. See, for example: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, RCAP [89-22], file E4974-2031, St. Mary's Student Residence, BC Region, part 1, 1981­1989, B, "Benefit to Children," undated notes from 1982. [MIS-008062-0001]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2218,7 +2097,6 @@ The history · 145
 J. Carson, 8 November 1968. [AEMR-121640] 177. TRC, NRA, Government of Northwest Territories ­ Education, Culture and Employment,
 Miscellaneous Hostel Reports RIMS ID# 1209, box 9, "Student Residences (Hostels)," undated. [RCN-007183] 178. Canada, Annual Report of the Department of Indian Affairs, 1968­1969, 139; Canada, Annual Report of the Department of Indian Affairs, 1970­1971, 19. 179. Canada, "Statement of the Government of Canada on Indian Policy," 1969, pages 7, 8, and 22 of 24-page portable document format file. 180. Canada, "Statement of the Government of Canada on Indian Policy," 1969, pages 8 and 20 of 24-page portable document format file. 181. National Indian Brotherhood, "Statement on the Proposed New Indian Policy," Ottawa, 26 June 1969, quoted in Weaver, Making Canadian Indian Policy, 174. 182. Indian Chiefs of Alberta 1970, page 16 of 95-page portable document file. [Citizens plus red paper] 183. Weaver, Making Canadian Indian Policy, 187. 184. For an example of local dissatisfaction, see: TRC, NRA, No document location, no document file source, Jos Houle to G.-M. Latour, 24 July 1966. [OGP-417032] 185. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 779/25-2-009, volume 1 (Ctrl #55-4), Dennis Bell, "Indian School," CP [Canadian Press], 15 September 1970. [NCA-007310-0001] 186. "Indians Will Operate Blue Quills School," Edmonton Journal, 1 August 1970. [Blue Quills clippings.pdf ] 187. TRC, NRA, Library and Archives Canada ­ Burnaby, file 951/6-1-030, volume 9, New Christie Student Residence, 1974­1977, FA 10-138, Archival Acc. V1985-86/397, Archival box 2, R. C. Telford to L. E. Wight, 6 May 1974; [CST-001710-0000] INAC ­ Main Records Office ­ Ottawa 901/16-2, volume 5, Audit Reports ­ B.C. Regional Office, 07/1974­ 06/1978, locator #L362, DIAND ­ Ottawa Central Registry, [illegible] for R. C. Pankhurst to Director, Finance and Management, 29 January 1975. [CST-009455] 188. All these schools were in Saskatchewan. The Beauval school closed in 1995, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file E4965-2013, volume 3, Beauval Residential School, box 1, file 1-5, Memorandum of Understanding and Agreement Re: The Beauval Indian Education Centre, 6 June 1995. [BVL-001306] The Duck Lake and the Gordon's residences both closed in 1996, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file E4974-10474, volume 2, Ray Gamracy to Dana Commercial Credit Canada, 6 June 1996; [SMD-000651-0000] Gordon's School, Anglican Indian and Eskimo Residential Schools, Anglican Church of Canada, www.anglican.ca/relationships/histories/ gordons-school-punnichy (accessed 5 May 2014). The Lestock, Marieval, and Prince Albert residences all closed in 1997, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, Muskowekwan Residential School, box 67, file
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2226,7 +2104,6 @@ clean_pagebreak: true
 146 · Truth & Reconciliation Commission
 1, Muskowekwan Education Centre Board of Directors, Minutes 16 July 1997; [MDD007310-0001] INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file E4971-361, volume 3, Myler Savill to Lionel Sparvier, 21 July 1997; [MRS-000002-0001] INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file E4974-1355, volume 8, "Education Centre Set to Re-open," Prince Albert Herald, Carrie Hunter, 15 October 1997 [PAR-003103-0001] 189. Canada, Annual Report of the Department of Indian Affairs, 1984­1985, 54. 190. Thompson, "Dehcho Hall to Close its Doors," Northern News Services online, 26 January 2009, http://www.nnsl.com/frames/newspapers/2009-01/jan26_09h.html. 191. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, "Demolition of Former Residential School Called for to Put Bad Memories to Rest," Edmonton Journal, 13 August 1998. [GNN-000298-0026] 192. TRC, NRA, Library and Archives Canada, RG10, volume 6040, file 160-4, part 1, R. B. Heron to Regina Presbytery, April 1923. [AEMR-016371] 193. Canada, Annual Report of the Department of Indian Affairs, 1941, 189; Canada, Annual Report of the Department of Indian Affairs, 1942, 154; Canada, Annual Report of the Department of Indian Affairs, 1943, 168; Canada, Annual Report of the Department of Indian Affairs, 1944, 177; Canada, Annual Report of the Department of Indian Affairs, 1945, 190; Canada, Annual Report of the Department of Indian Affairs, 1946, 231; Canada, Annual Report of the Department of Indian Affairs, 1947, 236; Canada, Annual Report of the Department of Indian Affairs, 1948, 234; Canada, Annual Report of the Department of Indian Affairs, 1949, 215, 234; Canada, Annual Report of the Department of Indian Affairs, 1950, 86­87; Canada, Annual Report of the Department of Indian Affairs, 1951, 34­35; Canada, Annual Report of the Department of Indian Affairs, 1952, 74­75; Canada, Annual Report of the Department of Indian Affairs, 1953, 82­83; Canada, Annual Report of the Department of Indian Affairs, 1954, 88­89; Canada, Annual Report of the Department of Indian Affairs, 1955, 78­79; Canada, Annual Report of the Department of Indian Affairs, 1956, 76­77; Canada, Annual Report of the Department of Indian Affairs, 1956­57, 88­89; Canada, Annual Report of the Department of Indian Affairs, 1958, 90­91; Canada, Annual Report of the Department of Indian Affairs, 1959, 94; Canada, Annual Report of the Department of Indian Affairs, 1960, 94; Canada, Annual Report of the Department of Indian Affairs, 1961, 103. 194. Canada, Annual Report of the Department of Indian Affairs, 1942, 154; Canada, Annual Report of the Department of Indian Affairs, 1943, 168; Canada, Annual Report of the Department of Indian Affairs, 1944, 177; Canada, Annual Report of the Department of Indian Affairs, 1945, 190; Canada, Annual Report of the Department of Indian Affairs, 1946, 231; Canada, Annual Report of the Department of Indian Affairs, 1947, 236; Canada, Annual Report of the Department of Indian Affairs, 1948, 234; Canada, Annual Report of the Department of Indian Affairs, 1949, 215; Canada, Annual Report of the Department of Indian Affairs, 1950, 86­87; Canada, Annual Report of the Department of Indian Affairs, 1951, 34­35; Canada, Annual Report of the Department of Indian Affairs, 1952, 74­75; Canada, Annual Report of the Department of Indian Affairs, 1953, 82­83; Canada, Annual Report of the Department of Indian Affairs, 1954, 88­89; Canada, Annual Report of the Department of Indian Affairs, 1955, 78­79; Canada, Annual Report of the Department of Indian Affairs, 1956, 76­77; Canada, Annual Report of the Department of Indian Affairs, 1956­57, 88­89; Canada, Annual Report of the Department
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2234,7 +2111,6 @@ clean_pagebreak: true
 The history · 147
 of Indian Affairs, 1958, 91; Canada, Annual Report of the Department of Indian Affairs, 1959, 94; Canada, Annual Report of the Department of Indian Affairs, 1960, 94; Canada, Annual Report of the Department of Indian Affairs, 1961, 102; Canada, Annual Report of the Department of Indian Affairs, 1962, 73; Canada, Annual Report of the Department of Indian Affairs, 1963, 62. 195. Canada, Annual Report of the Department of Indian Affairs, 1883, 96. 196. TRC, NRA, Library and Archives Canada, RG10, volume 6323, file 658-6, part 1, Department of Indian Affairs Inspector's Report for the St. Barnabas, Indian Residential school, D. Hicks, 25 September 1928. [PAR-003233] 197. Library and Archives Canada, RG10, volume 6205, file 468-1, part 2, S. R. McVitty to Secretary, Indian Affairs, 30 January 1928. [McVittie to Secretary, Jan 30 1928] 198. TRC, NRA, Library and Archives Canada, RG10, volume 6342, file 750-1, part 1, Microfilm reel C-8699, J. D. McLean to Reverend E. Ruaux, 21 June 1915. [MRY-001517] For a similar report from the Battleford, Saskatchewan, school, see: Canada, Annual Report of the Department of Indian Affairs, 1909, 349­350. For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-5, part 4, Joseph Hamilton Inspection Report, not dated. [DRS-000570] 199. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 673/23-5-038, volume 1, H. L. Winter to Indian Affairs, 9 September 1932. [MRS-000138-0001] 200. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. D. McLean to Rev. J. Hugonard, 30 May 1911. [PLD-007442] 201. TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 2, R. H. Cairns, inspector to J. D. McLean, 5 January 1915. [COQ-000390] 202. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 2, "Extract from Report of Mr. Inspector Cairns dated September 5th and 6th, 1928 on the Alberni Indian Residential School." [ABR-001591] 203. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 3, "Department of Indian Affairs, Schools Branch," 31 March 1935. [SRS-000279] 204. For a British Columbia example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Neill to A. W. Vowell, 8 July 1909. [ABR-0070110001] For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. M. Graham to Secretary, Indian Affairs, 4 February 1922. [ELK-000299] 205. For example, a 1936 United Church document on First Nations education policy stated that the staff of all United Church schools should be composed of people who had a "Christian motive, or, in other words, a missionary purpose coupled with skill in some particular field to teach his specialty to the Indians." Staff members were expected to be "closely related to and actively interested in the work of the nearest United Church," and be acquainted with, and sympathetic to, "the religious education programme of the United Church." Having laid out these fairly specific requirements, the policy document added that "some minimum educational qualifications for staff members should be outlined." TRC, NRA, United Church Archives, Acc. 83.050C, box 144-21, "Statement of Policy Re Indian Residential Schools," June 1936. [UCC-050004]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2247,7 +2123,6 @@ clean_pagebreak: true
 3. [AEMR-019616] 211. Canada, Annual Report of the Department of Indian Affairs, 1903, 342­343. For other
 examples of the emphasis on religious training in the schools, see: Canada, Annual Report of the Department of Indian Affairs, 1887, 27­28; Canada, Annual Report of the Department of Indian Affairs, 1910, 433­434; Canada, Annual Report of the Department of Indian Affairs, 1890, 119; Canada, Annual Report of the Department of Indian Affairs, 1900, 323. Canada, Annual Report of the Department of Indian Affairs, 1901, 317, 320. 212. Moine, My Life in a Residential School, n.p. 213. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Tyler Bjornson File, `Presbyterian Research,' "Presbyterian Indian Residential School Staff Handbook," 1. [IRC-041206] 214. For Kelly, see: Morley, Roar of the Breakers, 57, 158. For Ahenakew, see: Ahenakew, Voices of the Plains Cree, 14­24. For Kennedy, see: Canada, Annual Report of the Department of Indian Affairs, 1902, 194. For Dion, see: Dion, My Tribe the Crees, 156­163. For Johnson, see: Johnston, Buckskin & Broadcloth, 46. For Lickers, see: "Norman Lickers First Ontario Indian Lawyer," Brantford Expositor, November 18, 1938, quoted in Briggs, "Legal Professionalism," 2. 215. Canada, Special Joint Committee, 1947, 747. 216. TRC, AVS, David Charleson, Statement to the Truth and Reconciliation Commission of Canada, Deroche, British Columbia, 20 January 2010, Statement Number: 2011-5043. 217. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004. 218. TRC, AVS, Betsy Olson, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4378. 219. TRC, AVS, Leona Agawa, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 6 November 2010, Statement Number: 01-ON-4-6NOV10-006. 220. Canada, Annual Report of the Department of Indian Affairs, 1921, 28. 221. TRC, NRA, Library and Archives Canada, RG10, volume 6014, file 1-1-6 MAN, part 1, Duncan Campbell Scott to Mr. Meighen, 1 June 1920. [NCA-002403] 222. Canada, Special Joint Committee, Minutes of Evidence, D. F. Brown Presiding, 15 April 1947, 483­484. 223. Canada, Special Joint Committee, Minutes of Evidence, D .F. Brown Presiding, 17 April 1947, 505.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2261,7 +2136,6 @@ The history · 149
 229. TRC, NRA, DIAND, file 1/25-1 (E.10), "Report on Textbooks," 1­6. [AEMR-019193A] 230. TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission
 of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515. 231. TRC, AVS, Lorna Cochrane, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110. 232. Elias, "Lillian Elias," 51. 233. See, for example: TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123. 234. TRC, AVS, Walter Jones, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-4008. 235. Pigott, "The Leadership Factory," B3. 236. Blondin-Andrew, "New Ways of Looking for Leadership," 64. 237. John Amagoalik, quoted in McGregor, Inuit Education, 110. 238. Amagoalik, Changing the Face of Canada, 43­46. 239. TRC, AVS, David Simailak, Statement to the Truth and Reconciliation Commission of Canada, Baker Lake, Nunavut, 15 November 2011, Statement Number: SP032. 240. TRC, AVS, Roddy Soosay, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: 2011-2379. 241. TRC, AVS, Martha Loon, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 25 November 2010, Statement Number: 01-ON-24NOV10-021. 242. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2273,7 +2147,6 @@ clean_pagebreak: true
 Rupert's Land, 31 May 1893. 249. Wasylow, "History of Battleford Industrial School," 467. 250. Elias, "Lillian Elias," 54­55. 251. For laundry example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207,
 file 468-5, part 6, S. R. McVitty to Secretary Indian Affairs, 3 January 1929. [MER-000751] For kitchen example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6058, file 265-13, part 1, J. P. Mackey to A. F. MacKenzie, 20 May 1930. [SRS-000252] For workshop example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6219, file 471-13, part 1, Russell T. Ferrier to J. Howitt, 13 June 1932. [AGA-000069] 252. For an example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to G. Leonard, 6 May 1936. [PLD-006119] 253. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to William Hall, 18 May 1936. [PLD-000750] 254. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746] 255. TRC, NRA, Library and Archives Canada, RG10, volume 6255, file 576-1, part 4, R. T. Chapin to A. G. Hamilton, 10 September 1941. [BRS-000461-0001] For the boy's age, see: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 8, "Application for Admission," Kenneth Smith, 1 July 1938. [BRS-002184-0007] 256. TRC, NRA, Library and Archives Canada, RG10, volume 6259, file 576-23, part 1, G. C. Elwyn to RCMP, 20 April 1949. [BRS-000332] 257. TRC, NRA, Library and Archives Canada, RG10, volume 6352, file 753-23, part 1, 1935­1944, Microfilm reel C-8709, Acting Director to J. T. Faunt, 18 December 1944. [EDM-003369] 258. TRC, NRA, Library and Archives Canada, RG10, volume 6251, file 575-1, part 3, R. A. Hoey to A. G. Smith, 24 September 1942. [BIR-000272] 259. For ending of half-day system, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 1/25-1-5-2, volume 1, Superintendent General DIAND, "Regulations with respect to teaching, education, inspection, and discipline for Indian Residential Schools, Made and Established by the Superintendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act," 20 January 1953; [PAR-001203-0001] H. M. Jones to Deputy Minister. [PAR-001203-0000] 260. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 128/25-2-575, volume 1, J. R. Bell to R. D. Ragan, 17 February 1959. [IRC-041312] 261. TRC, NRA, Library and Archives Canada, RG10, volume 3674, file 11422, E. Dewdney to Thomas Clarke, 31 July 1883. [120.06668]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2284,7 +2157,6 @@ The history · 151
 264. Canada, Annual Report of the Department of Indian Affairs, 1894, 248­249. 265. Canada, Annual Report of the Department of Indian Affairs, 1887, 128. 266. Canada, Annual Report of the Department of Indian Affairs, 1898, 345. 267. Canada, Annual Report of the Department of Indian Affairs, 1898, 355. 268. Canada, Annual Report of the Department of Indian Affairs, 1898, 302. 269. Canada, Annual Report of the Department of Indian Affairs, 1903, 457. 270. TRC, NRA, St. Paul's Archives, Acts of Canonical Visitation, 1883­1966, Stacks 2L,
 Acte Général de Visite des Missions Indiennes du Nord-Ouest Canadien par le T.R.P. Théodore Labouré, O.M.I., Supérieur Géneral, Rome Maison Générale, 45. [OMI-034614] 271. Wasylow, "History of Battleford Industrial School," 449. 272. Moran, Stoney Creek Woman, 58. 273. Callahan, "On Our Way to Healing," 68. 274. Graham, Mush Hole, 368. 275. Provincial Archives of British Columbia, Transcript Disc #182, Mary Englund, interviewed by Margaret Whitehead, 31 July 1980, PABC No. 3868. 276. Graham, Mush Hole, 449. 277. TRC, AVS, Arthur Ron McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-044. 278. TRC, AVS, Peter Nakogee, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-46NOV10-023. (Translated from Swampy Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_002.) 279. TRC, AVS, Meeka Alivaktuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pangnirtung, Nunavut, 13 February 2012, Statement Number: SP045. 280. TRC, AVS, Sam Kautainuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pond Inlet, Nunavut, 7 February 2012, Statement Number: SP044. 281. TRC, AVS, Greg Rainville, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1752. 282. TRC, AVS, William Herney, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 29 October 2011, Statement Number: 2011-2923. 283. TRC, AVS, Alphonsine McNeely, Statement to the Truth and Reconciliation Commission of Canada, Fort Good Hope, Northwest Territories, 13 July 2010, Statement Number: 01-NWT-JY10-002. 284. TRC, AVS, Pierrette Benjamin, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 6 March 2013, Statement Number: SP105. 285. TRC, AVS, John Kistabish (translated from French), Statement to the Truth and Reconciliation Commission of Canada, Montréal, Québec, 26 April 2013, Statement Number: 2011-6135. 286. Snow, These Mountains Are Our Sacred Places, 110.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2302,7 +2174,6 @@ clean_pagebreak: true
 296. Canadian Welfare Council, Indian Residential Schools, 100. 297. TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B56 2429, J. Weitz, "Report on the
 use of the language, history and customs of the Blood Indians in the classes of Level I, during the school year 1968­69," 30 June 1969. [OGP-023347] 298. For an example from British Columbia, see: TRC, NRA, No document location, no document file source, 958/25-13, volume 3, J. A. Andrews to R. F. Davey, 28 June 1966. [ABR-000402] 299. Canada, Annual Report of the Department of Indian Affairs, 1974­1975, 32­33. 300. TRC, AVS, Rose Dorothy Charlie, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1134. 301. TRC, AVS, Joline Huskey, Statement to the Truth and Reconciliation Commission of Canada, Behchoko, Northwest Territories, 15 April 2011, Statement Number: 2011-0231. 302. TRC, AVS, Bruce R. Dumont, Statement to the Truth and Reconciliation Commission of Canada, Batoche, Saskatchewan, 23 July 2010, Statement Number: 01-SK-18-25JY10-013. 303. Canada, House of Commons Debates (22 May 1888), 1681. 304. Library and Archives Canada, RG10, volume 6816, file 486-2-5, part 1, H. Reed to J. Hugonnard, 13 June 1890. 305. Canada, Annual Report of the Department of Indian Affairs, 1896, xxxviii. 306. See, for examples: Canada, Annual Report of the Department of Indian Affairs, 1894, 151; Canada, Annual Report of the Department of Indian Affairs, 1894, 193­194; Canada, Annual Report of the Department of Indian Affairs, 1897, 284. 307. TRC, NRA, Library and Archives Canada, RG10, volume 1347, Microfilm reel C-13916, P. Claessen to W. R. Robertson, 17 August 1909. [KUP-004235] 308. Canada, Annual Report of the Department of Indian Affairs, 1909, 420.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2316,7 +2187,6 @@ The history · 153
 Smith to Assistant Deputy and Secretary, Indian Affairs, 29 March 1918. [AEMR-255360] 321. TRC, NRA, Library and Archives Canada, RG10, FA 10-13, volume 3918, Microfilm reel
 C-10161, file 116.659-1, 1892­1920, Spec. Claims Kamloops Agency: General Correspondence Pertaining to Kamloops Industrial School, F. V. Agnew to Indian Affairs, 4 June 1918. [KAM-009763] 322. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, to J. D. McLean, 15 July 1897. [100.00109] 323. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 3, Frank Edwards to the Secretary, Indian Affairs Branch, 26 June 1939. [IRC-048013] 324. For examples just from the 1920s, see: TRC, NRA, Library and Archives Canada, RG10, volume 3933, file 117657-1, Microfilm reel C-10164, W. M. Graham to Duncan C. Scott, 1 October 1914; [AEMR-013533] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894­1936, Microfilm reel 8705, "Extract from Nurse Ramage's report, November 1921"; [CFT-000156-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894­1936, Microfilm reel 8705, "Extract of report of G. H. Gooderham, for month of October 1921"; [CFT-000148] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 31 January 1922; [THR-000149] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 16 February 1922; [THR-000151] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 2, "Memorandum for File," Russell T. Ferrier, 17 March 1922; [PLD-007242] TRC, NRA, Library and Archives Canada, RG10, volume 6444, file 881-5, part 2, 1922­ 1924, Microfilm reel C-8767, "Extract from Inspector's Report on the Fraser Lake Residential School, dated April 23rd and 24th, 1923"; [LEJ-003751] TRC, NRA, Library and Archives Canada, RG10, volume 6443, file 881-1, part 1, N. Coccola to J. D. McLean, 22 June 1923; [LEJ-001012] TRC, NRA, Library and Archives Canada, RG10, volume 6318, file 657-1, part 1, A. F. MacKenzie to J. B. Hardinge, 21 September 1923; [MDD-000731] TRC, NRA, Library and Archives Canada, RG10, volume 6324, file 659-5, part 2, "Onion Lake R.C. Boarding School," 1926; [ORC-000346-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6252, file 575-5, part 2, A. G. Hamilton to Mr. Graham, 23 June
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2324,7 +2194,6 @@ clean_pagebreak: true
 154 · Truth & Reconciliation Commission
 1927; [BIR-000079] TRC, NRA, Library and Archives Canada, RG10, volume 6252, file 575-5, part 2, W. Murison to W. Graham, 17 November 1927; [BIR-000093] TRC, NRA, Library and Archives Canada, RG10, volume 6268, file 580-14, part 1, A. F. MacKenzie to J. W. Waddy, 25 April 1927; [DRS-000574] TRC, NRA, Library and Archives Canada, volume 6268, file 580-14, part 1, J. W. Waddy to Assistant Deputy and Secretary, 6 May 1927; [DRS-000575] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy to Indian Affairs, 24 November 1928; [DRS-000564] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, Inspection report, 31 October 1929. [DRS-000566] 325. TRC, NRA, No document location, no document file source, T. M. Kennedy to Reverend Father Provincial, 2 December 1937. [OKM-000248] 326. TRC, NRA, Library and Archives Canada, RG10, volume 6455, file 884-14, part 1, Microfilm reel C-8777, "Extract from report of Inspector Cairns, Dated Nov. 9, 1922, on the Kuper Island Industrial School." [KUP-003836-0000] 327. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. Murison to Indian Affairs, 2 June 1925. [ELK-000330] 328. Health Canada, Food and Nutrition, Canada's Food Guides from 1942 to 1992, http:// www.hc-sc.gc.ca/fn-an/food-guide-aliment/context/fg_history-histoire_ga-eng. php#fnb9 (accessed 14 December 2013). 329. TRC, NRA, Library and Archives Canada, RG10, volume 6306, file 652-5, part 6, L. B. Pett to P. E. Moore, 8 December 1947. [SMD-001897-0000] 330. TRC, NRA, Library and Archives Canada, RG10, 8796, file 1/25-13, part 4, L. B. Pett to H. M. Jones, 21 March 1958. [NPC-400776] 331. TRC, NRA, Headquarters, 1/25-1-4-1, Indian Education ­ Dietary Scale, Residential Schools, K. A. Feyrer, G. C. Butler, 22 December 1966. [LOW-002326-0004] 332. TRC, NRA, Unknown document location, file 901/25-13, Gerald Michaud, 1 April 1969. [120.08100C] 333. TRC, NRA, Library and Archives Canada, RG29, volume 2990, file 851-6-4, part 5a, L. Leclerc to A/Regional Director, Manitoba Region, 26 November 1970. [NPC-605542] 334. TRC, AVS, Daisy Diamond, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110. 335. TRC, AVS, Dora Fraser, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-012. 336. TRC, AVS, Ellen Okimaw, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON-4-6NOV10-022. 337. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510. 338. TRC, AVS, Bernard Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Fort Albany, Ontario, 29 January 2013, Statement Number: 2011-3180. (Translated from Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_003.) 339. "Nun Forced Native Students to Eat Their Own Vomit," Edmonton Journal, 25 June 1999. 340. TRC, AVS, Simon Awashish, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2340,7 +2209,6 @@ The history · 155
 348. Sadowski, "Preliminary Report on the Investigation," 7­8. 349. TRC, LACAR, Library and Archives Canada, Ottawa, RG29, Department of Health
 fonds, Medical Services sous-fonds, Medical Services Branch Central Registry File series, Administrative Records from Blocks 800 to 849 sub-series, finding aid 29-143, Perm. volume 2622, file 800-4-9, file volume 1, file dates 09/1952 to 11/1976, file name "Records Retirement," Indian and Northern Health Services Administrative Circular 57-66, Destruction and Retention of Documents, P. E. Moore, 7 August 1957. [46a-c000301-d0008-001] 350. For an example, see: Canada, Annual Report of the Department of Indian Affairs, 1893, 91­97. 351. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, A. F. MacKenzie to Indian Agents, Principals of Indian Residential Schools, 17 April 1935. [SBR-001147-0000] Under this policy, the principal was to inform the Indian agent of the death of a student. The agent was then to convene and chair a three-person board of inquiry. The two other members of the board were to be the principal and the physician who attended the student. The board was to complete a form provided by Indian Affairs that requested information on the cause of death and the treatment provided to the child. Parents were to be notified of the inquiry and given the right to attend or have a representative attend the inquiry to make a statement. However, an inquiry was not to be delayed for more than seventy-two hours to accommodate parents. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, Indian Affairs Memorandum, 17 April 1935. [SBR-001147-0001] 352. See, for examples: TRC, NRA, Anglican Church of Canada, General Synod Archives, Anglican Church of Canada, GS-75-103, B17, Minutes of meeting of Indian and Eskimo Commission Held on Tuesday, January 11th, 1927, 11; [AAC-083001] St. Boniface Historical Society, Archives Deschâtelets, L 541 M27L 266, Brachet to père provincial, 20 October 1928.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2352,7 +2220,6 @@ clean_pagebreak: true
 356. Canada, Annual Report of the Department of Indian Affairs, 1904, 204. 357. TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R.
 A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248] For date of Hoey's appointment, see: Manitoba Historical Society, Memorable Manitobans: Robert Alexander Hoey (1883­1965), http://www.mhs.mb.ca/docs/people/hoey_ra.shtml (accessed 21 December 2013). 358. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 6-211, volume 4, control 25-2, The National Association of Principals and Administrators of Indian Residences Brief Presented to the Department of Indian Affairs and Northern Development as requested by Mr. E. A. Cote, Deputy Minister, prepared in 1967, presented 15 January 1968. [NCA-011495] 359. TRC, NRA, Library and Archives Canada, RG10, volume 13033, file 401/25-13, volume 1, R. F. Davey to H. B. Rodine, 5 February 1968. [AEMR-014634] 360. For Beauval fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, Louis Mederic Adam to Indian Affairs, 22 September 1927. [BVL-000879] For Cross Lake fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. MacNamara, 8 March 1930; [CLD-000933-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934] 361. For deaths, see: Stanley, "Alberta's Half-Breed Reserve," 96­98; Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, O. Charlebois to Duncan Scott, 21 September 1927; [BVL-000874] Louis Mederic Adam to Indian Affairs, 22 September 1927; [BVL-000879] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930; [CLD-000934] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 675/6-2-018, volume 2, D. Greyeyes to Indian Affairs, 22 June 1968. [GDC-005571] 362. Canada, Annual Report of the Department of Indian Affairs, 1906, 274­275. 363. Bryce, Report on the Indian Schools, 18. 364. Bryce, Report on the Indian Schools, 17. 365. Bryce, Report on the Indian Schools, 18. 366. For details, see: Canada, Annual Report of the Department of Indian Affairs, 1904, xxvii­ xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class `G' C.1/P.2, Church Missionary Society, "Resolutions Regarding the Administration of the North-West Canada Missions," 7 April 1903; [PAR-003622] Blake, Don't you hear; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, "Report on Indian Missions and Schools," Presented to the Diocesan Synod, Diocese of Calgary, J. W. Tims, August 1908;
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2360,7 +2227,6 @@ clean_pagebreak: true
 The history · 157
 [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, "Report of the Synod's Commission on Indian Affairs," 5 December 1904; [RIS000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, "Letter to S. H. Blake, 28 January, 1908," quoted in Wasylow, "History of Battleford Industrial School," 225­226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, "`Indian Policy,'" 15; TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, "Report of the Sub-Committee of the Advisory Board On Indian Education," n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 1167511A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clifford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4, part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905­1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206] 367. Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Correspondence and Agreement Relating to the Maintenance and Management of Indian Boarding Schools (Ottawa: Government Printing Bureau, 1911). [AEMR-120208A] 368. For examples, see: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 350-23, part 1, H. A. Alderwood to Percy Moore, 25 January 1946; [FGA-001121] TRC, NRA, No document location, no file source, 988/23-9, p. 2, 1947­48, R. H. Moore to Indian Affairs Branch, 30 June 1948; [KUP-001240] TRC, NRA, Library and Archives Canada, RG10, volume 6279, file 584-10, part 4, R. S. Davies to Indian Affairs, 3 October 1951; [SBR-004545-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 5, P. E. Moore to Superintendent, Welfare and Training Division, 23 December 1940. [LEJ-002117] 369. Canada, Annual Report of the Department of Indian Affairs, 1893, 173. 370. Library and Archives Canada, RG10, volume 3674, file 11422-5, H. Reed to Deputy Superintendent General of Indian Affairs, 13 May 1891.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2378,7 +2244,6 @@ clean_pagebreak: true
 380. Library and Archives Canada, Canadian Tuberculosis Association, quoted in Wherrett, Miracle of the Empty Beds, 111.
 381. Library and Archives Canada, RG10, volume 3940, file 121698-13, Summary of statements made at meeting attached to correspondence, H. R. Halpin to Secretary, Indian Affairs, 16 November 1897. For Kah-pah-pah-mah-am-wa-ko-we-ko-chin's name and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2386,7 +2251,6 @@ clean_pagebreak: true
 The history · 159
 his being deposed from office, see: Library and Archives Canada, RG10, volume 3940, file 121698-13, Extract of a report of a Committee of the Honourable Privy Council Approved his Excellency on the 20 September 1897. 382. Moine, My Life in a Residential School. 383. Dion, My Tribe the Crees, 129. 384. Baker, Khot-La-Cha, 46. 385. TRC, AVS, Ray Silver, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 17 May 2011, Statement Number: 2011-3467. 386. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Deline, Northwest Territories, 2 March 2010, Statement Number: 07-NWT-02MR1-002. 387. Canada, Annual Report of the Department of Indian Affairs, 1888, xiv. 388. Fraser River Heritage Park, The OMI Cemetery, http://www.heritagepark-mission.ca/ omicemetery.html (accessed 4 November 2014). 389. Father Allard's diary, quoted in Cronin, Cross in the Wilderness, 219. 390. TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956] 391. Shanahan, Jesuit Residential School at Spanish, 4. 392. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-12, part 1, "Burial Expenses," J. D. McLean, no date. [PAR-008816] 393. For examples from the Spanish, Ontario, school, see: Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Dear Sir, 25 August 1913; [Story no 1.1.jpg] Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Secretary, Indian Affairs, 2 September 1913. [Story no 1.1.6.jpg] 394. Brass, I Walk in Two Worlds, 26. 395. TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, J. H. Gordon to Superintendent, Indian Affairs, Yukon, 16 July 1958; [46b-c009024-d0015-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to Gordon Harris, 16 April 1958; [46a-c001040-d0010-005] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to W. L. Falconer, 22 July 1958; [46a-c001040-d0010-002] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, W. L. Falconer to Director, Indian and Northern Health Services, 24 July 1958; [46a-c001040-d0010-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. G. Jutras to Indian Commissioner, British Columbia, 26 August 1958. [46b-c009024-d0010-001] 396. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 17, file 4, Colin Wasacase to Giollo Kelly, 17 November 1966. [CJC-007910] For Wenjack's age, see: Adam, "The Lonely Death of Charlie Wenjack," 30.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2402,7 +2266,6 @@ intendent of Indian Affairs, 13 March 1899. 404. TRC, NRA, Library and Archives 
 Donckele to W. H. Lomas, 29 December 1896. [KUP-004264] 405. Audette, "Report on the Commission," 2­7. 406. Library and Archives Canada, RG10, volume 3880, file 92499, Memorandum, Hayter
 Reed, undated; T. Clarke, "Report of Discharged Pupils," in Canada, Sessional Papers 1894, Paper 13, 103. 407. TRC, NRA, Library and Archives Canada, RG10 (Red), volume 2771, file 154845, part 1, J. G. Ramsden to J. D. McLean, 23 December 1907. [TAY-003542] 408. "Damages for Plaintiff in Miller Vs. Ashton Case," Brantford Expositor, 1 April 1914. 409. TRC, NRA, Anglican Church of Canada, General Synod Archives, Accession GS 75-403, series 2:15[a], box 16, [Illegible] Chairman, Indian and Eskimo Commission, Westgate, T. B. R., Field Secretary, Indian and Eskimo Commission, "Minutes of the Meeting of the Indian Residential School Commission held on March 18th, 1921." [AGS-000014] 410. TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919 [OLD-000497]; TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, "Statement taken by Constable Wright, RNWMP, 27 November 1919"; [IRC-041330] TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919; [OLD-000497] TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, Thomas Graham to W. M. Graham, 1 December 1919; [IRC-041328] TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, P. H. Gentleman to Canon Gould, 12 January 1920. [IRC-041335] 411. TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Microfilm reel C-8762, 1890­1912, Statement of Johnny Sticks, 28 February 1902. [JOE-060004] 412. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. W. Waddy to W. M. Graham, 5 October 1925. [DRS-000543-0001]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2427,7 +2290,6 @@ The history · 161
 429. Adams, "The Indians." 430. TRC, NRA, Library and Archives Canada, "Native Mission School Shut Down over
 Discipline Controversy," by Margaret Loewen Reimer, Mennonite Reporter, Volume 19, Number 22, 13 November 1989. [PHD-000143] 431. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 372/25-13-024, volume 1, C. T. Blouin and L. Poulin, to A. R. Jolicoeur, 13 October 1970. [LTR-001178-0001]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2444,7 +2306,6 @@ clean_pagebreak: true
 440. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, GRS Files, box 1A, file 22, Head Teacher [Illegible] to My Lord Bishop, 10 January 1956. [IRC-040120]
 441. For examples, see: TRC, NRA, Library and Archives Canada, 709/25-1-001, 1951­1961, part 2, L. C. Hunter to R. F. Davey, 30 November 1960; [IRC-040054] TRC, NRA, United Church of Canada/Victoria University Archives, Acc. No. 8[Illegible].050C, box 112, file 17, Edmonton IRS ­ Correspondence 1958­60/UCC Docs Toronto, Dwight Powell to E. E. M. Joblin, 25 November 1960. [UCA-080215] It was not until 1968 that Indian Affairs began requiring school schools superintendents to submit the names of all who had been dismissed because they had "created problems." TRC, NRA, National Archives of Canada, Acc. E1996-97/312, Vol. 2, File 672/25-1, R.F. Davey to All School
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2452,7 +2313,6 @@ clean_pagebreak: true
 The history · 163
 Superintendents, 7 May 1968; [120.07885] TRC, NRA, Library and Archives Canada ­ Burnaby Vol. 11500, File 901/1-13, pt. 1, School Establishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891] 442. TRC, NRA, Library and Archives Canada ­ Burnaby Vol. 11500, File 901/1-13, pt. 1, School Establishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891] 443. The details of these convictions will be outlined in a forthcoming TRC report. 444. Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, to January 31, 2015, http://iap-pei.ca/information/stats-eng. php (accessed 20 February 2015). 445. Joseph Jean Louis Comeau worked there from 1958 to 1965, R. v. Comeau, 1988 CanLII 3839 (AB QB). Martin Houston worked there from 1960 to 1962, TRC, ASAGR, Aboriginal Affairs and Northern Development Canada, Walter Rudnicki to Director, Indian Affairs, 17 August 1962; [AANDC-234696] Aboriginal Affairs and Northern Development Canada, Royal Canadian Mounted Police Report, Western Arctic Division, Division file number 628-626-1, code 0559, re: Martin Houston, 29 August 1962. [AANDC-234684] George Maczynski worked there from 1966 to 1967, TRC, NRA, Beaufort-Delta Education Council Warehouse, Inuvik, NWT, Payroll, 1959 to 1966 [box 1], M. Ruyant to Department of Northern Affairs and National Resources, Payroll list of employees at the hostel for September 1966, September 1966; [GHU-002427] Beaufort-Delta Education Council Warehouse, Inuvik, NWT, Payroll, 1967 to 1970 [box 1], Department of Northern Affairs and National Resources, Northern Administration: Paylist ­ Hostel, May 1967. [GHU-002435] Paul Leroux worked there from 1967 to 1979, TRC, ASAGR, Glenn Taylor, "Grollier Man Pleads Not Guilty to Sex Offences," Northern News Services, 28 November 1997, http://www.nnsl.com/frames/newspapers/1997-11/nov28_97sex.html. 446. Mandryk, "Uneasy Neighbours," 210. 447. TRC, NRA, Library and Archives Canada, RG10, volume 8798, file 371/25-13-019, part 2, R. F. Davey to William Starr, 19 July 1962; [FGA-001179] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2:15, box 24, file 3, Extract from Report on Visit of Major-General G. R. Turner to St. Paul's Anglican Indian Residential School, Cardston, Alberta, 6­8, 1958. [AAC-090593] 448. Mandryk, "Uneasy Neighbours," 210. 449. R. v. Plint, [1995] B.C.J. No. 3060 (B.C. S.C.); "Former Employee of Residential School Jailed for Sex Abuses," Victoria Times­Colonist, January 24, 2004. 450. TRC, AVS, Jean Pierre Bellemare, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104. 451. TRC, AVS, Andrew Yellowback, Statement to the Truth and Reconciliation Commission of Canada, Kamloops, British Columbia, 9 August 2009, Statement Number: 2011-5015. 452. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Myrna Kaminawaish, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 January 2011, Statement Number: 01-ON-06JA11-004; TRC, AVS, Percy Tuesday, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-083; TRC, AVS, Isaac Daniels, Statement to the Truth and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2460,7 +2320,6 @@ clean_pagebreak: true
 164 · Truth & Reconciliation Commission
 Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1779. 453. TRC, AVS, Marlene Kayseas, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035. For gifts of candy, see: TRC, AVS, Elaine Durocher, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-059; TRC, AVS, John B. Custer, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-057; TRC, AVS, Louise Large, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-012. For field trips, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 2011-3318. 454. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Leona Bird, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4415; TRC, AVS, Barbara Ann Pahpasay Skead, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-159. 455. TRC, AVS, Josephine Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON4-6NOV10-013. 456. TRC, AVS, Marie Therese Kistabish, Statement to the Truth and Reconciliation Commission of Canada, Val d'Or, Québec, 6 February 2012, Statement Number: SP101. 457. TRC, AVS, Richard Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-080. 458. For shower, see: TRC, AVS, Leonard Peter Alexcee, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-3228. For lunch pail, see: TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391. 459. TRC, AVS, Donna Antoine, Statement to the Truth and Reconciliation Commission of Canada, Enderby, British Columbia, 13 October 2011, Statement Number: 2011-3287. 460. TRC, AVS, Helen Harry, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: 2011-3203. 461. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 20112510; TRC, AVS, Doris Judy McKay, Statement to the Truth and Reconciliation Commission of Canada, Rolling River First Nation, Manitoba, 23 November 2011, Statement Number: 2011-2514. 462. TRC, AVS, Timothy Henderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 28 June 2011, Statement Number: 2011-0291. 463. TRC, AVS, Nellie Ningewance, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0305.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2482,7 +2341,6 @@ The history · 165
 477. For examples, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 20113318; TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3975.
 478. TRC, AVS, Violet Rupp Cook, Statement to the Truth and Reconciliation Commission of Canada, Bloodvein First Nation, Manitoba, 25 January 2012, Statement Number: 2011-2565.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2492,7 +2350,6 @@ clean_pagebreak: true
 480. Ruben, "Abraham Ruben," 136. 481. For examples, see: TRC, AVS, Stella Marie Tookate, Statement to the Truth and Reconcil-
 iation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-8-10NOV10-003; TRC, AVS, Richard Hall, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-1852. 482. TRC, AVS, William Garson, Statement to the Truth and Reconciliation Commission of Canada, Split Lake First Nation, Manitoba, 24 March 2011, Statement Number: 2011-0122. 483. TRC, AVS, Percy Thompson, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125. 484. TRC, AVS, Alice Ruperthouse, Statement to the Truth and Reconciliation Commission of Canada, Val d'Or, Québec, 5 February 2012, Statement Number: SP100. 485. TRC, AVS, Albert Elias, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: SC092. 486. TRC, AVS, Denis Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-028. 487. TRC, AVS, Bob Baxter, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24NOV10-012. 488. TRC, AVS, Clara Quisess, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-032. 489. TRC, AVS, Louisa Birote, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104. 490. See, for example: TRC, AVS, Ruth Chapman, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-118; TRC, AVS, Gordon James Pemmican, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-0069; TRC, AVS, Mary Vivier, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-082; TRC, AVS, Roy Johnson, Statement to the Truth and Reconciliation Commission of Canada, Dawson City, Yukon, 24 May 2011, Statement Number: 2011-0203; TRC, AVS, Ken Lacquette, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-052. 491. TRC, AVS, Agnes Moses, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090. 492. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2513,7 +2370,6 @@ The history · 167
 505. Hughes, Jackson Beardy, 6­7. 506. MacGregor, Chief, 34­35. 507. Canadien, From Lishamie, 253­254. 508. Canadien, From Lishamie, 264­265. 509. For an example from the Presbyterian school at Shoal Lake, see: TRC, NRA, Library and
 Archives Canada, RG10, volume 6187, file 461-1, part 1, "Report of Inspector Semmens on the Cecilia Jaffrey [sic] Boarding School," 22 January 1917. [IRC-048048] 510. Library and Archives Canada, RG10, volume 4041, file 334503, Duncan Campbell Scott to Frank Pedley, 19 February 1912, cited in Wasylow, "History of Battleford Industrial School," 261­263. For Battleford capacity, see: Canada, Annual Report of the Department of Indian Affairs, 1907, 341. 511. Canada, Annual Report of the Department of Indian Affairs, 1915, xxvi. 512. Canada, Annual Report of the Department of Indian Affairs, 1898, 297; Canada, Annual Report of the Department of Indian Affairs, 1910, 474; TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B16 668, unsigned letter to J. T. McNally, 22 February 1922. [OGP-090011]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2530,7 +2386,6 @@ clean_pagebreak: true
 521. TRC, NRA, Library and Archives Canada, RG10, Perm. volume 6451, file 883-1, part 1, Bella Coola Agency ­ Kitamaat Boarding School ­ General Administration, 1906­1932, FA 10-17, Microfilm reel C-8773; [KMT-095676-0001] TRC, NRA, Library and Archives Canada, "Royal Canadian Mounted Police Report, Re: Kitimat Indian Reserve, Re: Hanna Grant, Deceased, 15 June 1922," I. Fougner to Secretary, Indian Affairs, 15 June 1922. [KMT-095674]
 522. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, 773/251-003, 05/36­09/70, volume 1, RCAP, R. D. Ragan, "Extract from minutes of Blood Indian Council Meeting March 15, 1948." [MRY-000302] For Charron's initials, see: TRC, NRA, National Archives of Canada, RG29, volume 974, file 388-6-4, part 1, 02/1948­07/1949, B. F. Neary to P. A. Charron, 21 July 1948. [120.03363]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2544,7 +2399,6 @@ The history · 169
 528. TRC, NRA, Library and Archives Canada, RG10, volume 6270, file 582-1, part 1, "Extract from report on meeting Chief of Pine Creek Band," A. Ogletree, Indian Agent, 16 June 1917. [PCR-010082]
 529. For an example from Morley, Alberta, see: TRC, NRA, Library and Archives Canada, NAC ­ Ottawa, 772/3-6, volume 1, dates 1940­1954, Minutes from the council meeting for the Stony Indian Agency, 15 October 1946, 3. [MOR-006118] For an example from
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2552,7 +2406,6 @@ clean_pagebreak: true
 170 · Truth & Reconciliation Commission
 Lestock, Saskatchewan, see: TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, 25 August 1949. [MRS-046113-0001] 530. TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, J. P. B. Ostrander to Neary, 24 January 1950. [MRS-046113-0005] 531. For an example from the Presbyterian school at Shoal Lake, Ontario, see: TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, Chief Kesik, Chief Redsky, and three others to McKenzie, 28 March 1917. [CJC-000006-0002] 532. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461, part 1, "Report of the Commission of Presbytery appointed to investigate conditions at `Cecilia Jeffries [sic] Boarding School,'" 26 February 1918. [CJC-000847-0001] 533. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, "Report of the Commission of Presbytery appointed to investigate conditions at `Cecilia Jeffries [sic] Boarding School,'" 26 February 1918. [CJC-000847-0001] 534. TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, petition from parents to Crooked Lakes Agency, 25 July 1949. [IRC-041159] Although Indian Affairs official J. P. B. Ostrander opposed replacing the teacher, he did report that she kept a strap on display in her class. He said, "If she does not use it for punishment, at least she keeps it on display as a threat of punishment, which does not promote harmony in the classroom." TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, J. P. B. Ostrander to Indian Affairs Branch, Department of Mines and Resources, 12 August 1949. [RLS-000512-0000] 535. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 2, Mr. Paget to Mr. Ferrier, 21 August 1928. [CJC-001354] 536. TRC, NRA, Library and Archives Canada, RG10, volume 6254, file 575-10, part 1, A. G. Smith to Secretary, Indian Affairs, 29 December 1936. [BIR-002631] 537. For an example of a request for an investigation into a death, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Garnet Neff to T. G. Murphy, 26 January 1935; [RLS-000366-0001] TRC, NRA, Library and Archives Canada, RG29, volume 2917, file 851-1-A673, part 1, Memorandum to Mr. McLean, 13 January 1914. [NPC603178] For an example of a complaint regarding discipline, see: TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 3, H. H. Craig to H. A. Snell, 29 July 1937. [MSC-000080-0001] For an example of working on behalf of an injured student, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746] For an example of seeking a discharge, see: TRC, NRA, Library and Archives Canada, volume 12333, box 19, part 1, 1936­1939, NAC, J. D. Caldwell to [Severed], 16 March 1939. [KUP-004496] 538. TRC, NRA, Library and Archives Canada ­ Ottawa, RG85, volume 1505, file 600-1-1, part 1, N.W.T. ­ General Policy File ­ Education and Schools, 1905­1944, Extract From Act. Sgt. G. T. Makinson's Report-Resolution, N.W.T., 3 July 1937. [FRU-010059] 539. Cuthand, "Native Peoples," 382­383; Kulchyski, "Considerable Unrest," 100. 540. Goodwill and Sluman, John Tootoosis, 155. 541. Goodwill and Sluman, John Tootoosis, 156. 542. Both the 1905 fire at the Saint-Paul-des-Métis, Alberta, school and the 1930 fire at the Cross Lake, Manitoba, school were set by students. The Saint-Paul fire resulted in one death; the Cross Lake fire, in thirteen deaths. For the Saint-Paul fire, see: Stanley, "Alberta's Half-Breed Reserve," 96­98. For the Cross Lake fire, see: TRC, NRA, Library
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2560,7 +2413,6 @@ clean_pagebreak: true
 The history · 171
 and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934] 543. Wilson, Missionary work, 167­170. 544. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, "Regulations Relating to the Education of Indian Children" (Ottawa: Government Printing Bureau, 1894). [AGA-001516-0000] 545. See, for examples: Canada, Annual Report of the Department of Indian Affairs, 1893, 104; Canada, Annual Report of the Department of Indian Affairs, 1902, 423. 546. See, for example: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, "Royal Canadian Mounted Police Report, Re: Thomas `Tommy' Linklater et al.," 23 September 1936; [BRS-000240-0006] TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, "Royal Canadian Mounted Police Report Re: Thomas `Tommy' Linklater et al.," 20 October 1936; [BRS-000240-0005] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, "Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants," 13 October 1938. [MER-001043-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, "Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants," 11 January 1939. [MER-001048-0001] 547. For Duncan Sticks, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC-047093] Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Antonio Boitano, 1 March 1902. [IRC-047086] For William Cardinal, see: TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956] For unnamed boy from The Pas, Manitoba, school, see: TRC, NRA, Anglican Church of Canada, General Synod Archives Anglican Church of Canada GS 75-103, B17, "Minutes of meeting of Indian and Eskimo Commission, M.S.C.C., Held on Tuesday, January 11th, 1927," 11. [AAC-083001] For three unnamed boys from the Fort Alexander, Manitoba, school, see: St. Boniface Historical Society, Archives Deschâtelets, L 541 M27L 266, Brachet to père provincial, 20 October 1928. For Agnes Ben, see: "Find Body of Indian Girl, Long Missing," Winnipeg Free Press, 17 April 1930. For Percy Ochapowace, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Royal Canadian Mounted Police Report, "Re: Percy Ochapowace ­ Death of, Ochapowace Indian Reserve, Saskatchewan," H. S. Casswell, 19 January 1935; [RLS-000365-0003] J. P. B. Ostrander to Secretary, Indian Affairs, 19 January 1935. [RLS-000365-0001] For Allen Patrick, Andrew Paul, Justa Maurice, and John Jack, see: TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 88123, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937. [LEJ-004083-0000] For Andrew Gordon, see: TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11 ACE, "Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased," 16 March 1939. [GDC-009280-0001] For John Kioki, Michael Sutherland, and Michael Matinas, see: TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941. [FTA-000105-0001] For Leonard Major, Ambrose Alexander, and Alec Francis, see: TRC, NRA, Library and Archives Canada ­ Ottawa, file 882-2, part 8, Kamloops Agency ­ Kamloops Residential
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2568,7 +2420,6 @@ clean_pagebreak: true
 172 · Truth & Reconciliation Commission
 School ­ Quarterly Returns, 1947­1952, FA 10-17, volume 6447, Microfilm reel C-8770, Library and Archives Canada ­ Ottawa, Indian Residential School Quarterly Return for Kamloops Indian Residential School, 30 September 1947, pages 8, 9, and 10 of 20-page portable document file; [KAM-002274] TRC, ASAGR, RCMP-564517, Royal Canadian Mounted Police, E-Div NIRS task force Final Report, M. W. Pacholuk, "Final Report of the Native Indian Residential School Task Force, Project E-NIRS," Royal Canadian Mounted Police, 49. [AGCA-564517] For Albert Nepinak, see: TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951. [PCR-000190] For Tom and Charles Ombash, see: TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, file 494/3-3-3, volume 1, "Provincial Police Report," G. A. McMonagle, 19 December 1956. [PLK-001205-0001] For Beverly Joseph and Patricia Joseph, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 961/25-2, volume 15, Admissions and Discharges ­ Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958­02/07/1966, Control No. 34-15 IRSRC ­ Historical Files, J. V. Boys to Indian Commissioner for B.C., 29 January 1959. [KUP-200601] For Mabel Crane Bear and Belinda Raw Eater, see: TRC, NRA, Library and Archives Canada ­ Edmonton, 772/25-1, volume 1, 04/60­06/70, N. Goater to A. H. Murray, 10 March 1962. [OLD-007287-0005] For Alfred Whitehawk, see: TRC, NRA, Library and Archives Canada ­ Edmonton, RG10, Acc. E1996-97/415, box 36, file 25-2-662, 1964­1966, E. Turenne to K. Kerr, 6 June 1965. [SPR-006307] For Charles Wenjack, see: TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, On., Acc. 1988-7004, box 17, file 4, "Inquest Hears Tragic Tale of Runaway Boy," Kenora Miner and News, 18 November 1966; Coroner's Statement Upon Issuing His Warrant for Holding an Inquest in the Case of Charles Wenjack, R. Glenn Davidson, 4 November 1966; Report of Post-Mortem Examination, A-258, Charles Wenjack, 23 October 1966, Dr. Peter Pan; Adams, "The Lonely Death," 30­44. [CJC-007909] For Joseph Commanda, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 451/252-004, volume 2, "Report on the Death of Joseph Commanda," H. B. Rodine, 6 September 1968. [TAY-001114-0001] For Philip Swain and Roderick Keesick, see: TRC, NRA, INAC, file 487/18-2, volume 1, "2 Boys Died from Exposure," Kenora Miner and News, 18 December 1970; [KNR-003158-0002] P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168] For Jack Elanik and Dennis Dick, see: TRC, NRA, Anglican Church of Canada, Diocese of the Arctic, General Synod Archives, file 110-09, Stringer Hall, Accession M96-7, series 2:1, Notice of missing boys, 1972; [AGS-000341] TRC, NRA, Government of Northwest Territories Archives Confidential, Hostels, 1971­1974, Archival box 8-24, Archival Acc. G1995-004, Leonard Holman to J. Coady, 14 July 1972. [SHU-000486] 548. For examples of cases where criticism was directed against school authorities for the handling of runaways, including cases that led to fatalities, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC-047093] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, W. G. Tweddell to W. M. Graham, 6 May 1931; [DRS-000588] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 6611, part 2, Royal Canadian Mounted Police Report, "Re: Percy Ochapowace ­ Death of, Ochapowace Indian Reserve, Saskatchewan," H. S. Casswell, 19 January 1935;
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2576,7 +2427,6 @@ clean_pagebreak: true
 The history · 173
 [RLS-000365-0003] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, J. P. B. Ostrander to Secretary, Indian Affairs, 19 January 1935; [RLS000365-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 881-23, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937; [LEJ-004083-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 2, "Memorandum of an inquiry into the cause and circumstances of the death of Andrew Gordon," R. W. Frayling, 11 March 1939; [GDC-028479] TRC, NRA, Library and Archives Canada, RG10, volume 11553, file 312-11, "Indian Boy Frozen on Bush Trail," Regina Leader-Post, 16 March 1939; [GDC-009281] TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11 ACE, "Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased," 16 March 1939; [GDC-009280-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. N. McRae, 23 April 1940; [SBR-110686-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. L. Tisdale, 30 April 1940; [SBR-110686-0002] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941; [FTA-000105-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, "Statement of Charles Kioki," 22 June 1942; [FTA-000116-0013] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, J. P. Douglas, 7 October 1944; [MDD-001704] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, T. H. Playford, 10 October 1944; [MDD-002258] TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951; [PCR-000190] TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, file 487/18-24, volume 1, L. A. Marshall to Indian Affairs, 20 December 1954; [KNR-001380-0003] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 961/25-2, volume 15, Admissions and Discharges ­ Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958­02/07/1966, Control no. 34-15 IRSRC ­ Historical Files, J. V. Boys to Indian Commissioner for B.C., 29 January 1959; [KUP-200601] TRC, NRA, Library and Archives Canada ­ Edmonton, 772/25-1, volume 1, 04/60­06/70, N. Goater to A. H. Murray, 10 March 1962; [OLD-007287-0005] TRC, NRA, INAC, file 487/18-2, volume 1, "2 Boys Died from Exposure," Kenora Miner and News, 18 December 1970; [KNR-003158-0002] TRC, NRA, INAC, file 487/18-2, volume 1, P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168] 549. For the reporting to the Ontario Provincial Police, see: TRC, NRA, National Capital Regional Service Centre ­ LAC ­ Ottawa, file 494/3-3-3, volume 1, "Provincial Police Report," G. A. McMonagle, 19 December 1956. [PLK-001205-0001] For the reporting to Indian Affairs, see: TRC, NRA, Library and Archives Canada, RG10, volume 8275, file 494/6-1-014, part 5, R. F. Davey to G. Swartman, 13 November 1956. [PLK-000488] 550. Porter, "Remains Found Near Residential School Are `Non-human,'" CBC News, 12 July 2012, http://www.cbc.ca/news/canada/thunder-bay/ remains-found-near-residential-school-are-non-human-1.1249599. 551. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 1/251-5-2, volume 1, "Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superintendent
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2584,7 +2434,6 @@ clean_pagebreak: true
 174 · Truth & Reconciliation Commission
 General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act," 20 January 1953. [PAR-001203-0001] 552. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 901/25-13, volume 4 (locator 156-2), J. B. Bergevin to H. B. Cotnam, 1 March 1971. [NCA-012545-0000] 553. For an example from Chilliwack, British Columbia, see: TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 1, Microfilm reel C-8754, J. Hall to F. Devlin, 19 January 1900. [COQ-000345] 554. TRC, NRA, Library and Archives Canada, RG10, volume 6308, file 653-10, part 1, "Royal Canadian Mounted Police Report Re: Douglas Shingoose and Donald Stevenson," 23 February 1935. [FHR-001050-0001] 555. See, for examples: North-West Mounted Police, Annual Report, 1894, 52­53; TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, C. E. Somerset to Indian Commissioner, 6 October 1896; [EDM-009788] TRC, NRA, Library and Archives Canada, RG10, volume 2771, file 154845, part 1, Mohawk Institute to Hayter Reed, 18 March 1896; [TAY-003510] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, "RCMP Report regarding [Name redacted]," 16 October 1933. [SBR-110565-0001] 556. Sutherland, Children in English-Canadian Society, 122. For examples of prosecutions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, A. H. L. Mellor to Deputy Superintendent General, Indian Affairs, 19 September 1935; [SBR-110607-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 1, "Royal Canadian Mounted Police report, Re: [Names redacted]," 21 November 1937; [MER-000580-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 3, A. D. Moore to Secretary, Indian Affairs, 16 September 1940. [CRS-000507-0000] 557. For examples of the Royal Canadian Mounted Police's being used to return students to school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 1, R. W. Greatwood to Indian Affairs, 11 April 1930; [PLD-003278-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 2, H. E. P. Mann to Commissioner, RCMP, 6 February 1934; [PLD-003316-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 1, page 1/1, "Royal Canadian Mounted Police Report," 11 February 1935, C. Graham; [CRS-001237-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6275, file 583-10, part 1, "Royal Canadian Mounted Police Report, Re: Frank Puckina or Edwards," 15 September 1939; [PLP000374] TRC, NRA, Library and Archives Canada, RG10, volume 6304, file 651-10, part 1, Constable G. J. Mitchell, 9 September 1931. [MRS-045402-0001] 558. TRC, NRA, Untitled document, purportedly Chronologie Dépuis Leur Foundations, École Blue Quills (Daily Journal from their Founding, Grey Nuns at Blue Quills) 1931­ 1936, entry for 1 May 1932. [GNA-000404] 559. TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, "RCMP's Report on Truant," Constable R. D. Toews, 23 October 1936; [SBR-110630-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, Constable R. D. Toews, 8 May 1937. [SBR-110645-0001] 560. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, "Royal Canadian Mounted Police Report Re: Wallace Hahawahi, Delinquent," 28 October 1936. [BRS-000240-0004]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2609,7 +2458,6 @@ The history · 175
 577. TRC, AVS, Beverley Anne Machelle, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1133.
 578. TRC, NRA, INAC, file 494/18-28, volume 1, G. Swartman to Indian Affairs Branch, 12 May 1955. [PLK-002025]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2619,7 +2467,6 @@ clean_pagebreak: true
 580. Canada, Annual Report of the Department of Indian Affairs, 1907, 189. 581. United Church of Canada Archives, Toronto, Archive accession information: Fonds,
 3282: John Chantler McDougall Fonds, 1986.291C, box 1, file 8, Mrs. J. McDougall, "Founding of the McDougall Orphanage and Training School," Historical Sketch, no date. 582. Coccola, They Call Me Father, 89. 583. Stocken, Among the Blackfoot, 1­2. 584. Kelm, "Introduction" to Butcher, Letters of Margaret Butcher, xi, xxvi. 585. Butcher, Letters of Margaret Butcher, 5. 586. TRC, AVS, Lorraine Arbez, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-007. 587. TRC, AVS, Noreen Fischbuch, Statement to the Truth and Reconciliation Commission of Canada, Beaver Mines, Alberta, 3 August 2011, Statement Number: 2011-1692. 588. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700. 589. TRC, NRA, Library and Archives Canada, RG10, volume 3938, file 121607, Deputy Superintendent General of Indian Affairs to A. E. Forget, Assistant Commissioner of Indian Affairs, NWT, 18 January 1895. [RIS-000385-0000] 590. Library and Archives Canada, RG10, volume 2100, file 17960, part 2, A. Sutherland to Superintendent General of Indian Affairs, 31 March 1887. 591. TRC, NRA, Library and Archives Canada, RG10, volume 8843, file 709/16-2-001, part 1, C. H. Birdsall to Dr. Dorey, 2 June 1948. [EDM-000371] 592. TRC, NRA, No document location, no document file source, H. F. Dunlop to P. Phelan, 4 November 1948. [SEC-000063] 593. TRC, NRA, No document location, no document file source, A. Noonan to L. K. Poupore, 27 November 1960. [CIS-000553] 594. TRC, NRA, Library and Archives Canada, file 883-1, part 1, Bella Coola Agency ­ Kitamaat Boarding School ­ General Administration, 1906­1932, FA 10-17, Perm. volume 6451, Microfilm reel C-8773, Library and Archives Canada, L. Spotton to C. G. Young, 28 February 1930. [KMT-095721] 595. TRC, NRA, Library and Archives Canada, RG10, volume 6377, file 767-1, part 1, M. Christianson to H. W. McGill, 2 August 1933. [JON-000073] 596. Fast, "Amelia Le Soeur (Yeomans)," http://www.biographi.ca/009004-119.01-e.php?BioId=41653 (accessed 26 May 2013); Canada, Annual Report of the Department of Indian Affairs, 1900, 109; Canada, Annual Report of the Department of Indian Affairs, 1901, 80. (Charlotte Amelia's name is mistakenly given as Annie in the annual report.) 597. TRC, AVS, Theresa Reid, Statement to the Truth and Reconciliation Commission of Canada, Powell River, British Columbia, 28 September 2011, Statement Number: 2011-0263. 598. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700. 599. TRC, AVS, Olive Saunders, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 and 8 March 2011, Statement Number: 2011-0042.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2630,7 +2477,6 @@ The history · 177
 602. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. R. Robertson, 1 January 1907; [KUP-004280] RG10, FA 10-1, volume 1346, Microfilm reel C-13916, Cowichan Agency ­ Incoming Correspondence re Kuper Island Industrial School, 1891­1907, P. Claessen to W. R. Robertson, 5 June 1907. [KUP022198] For A. J. McLeod's initials, see: Canada, Annual Report of the Department of Indian Affairs, 1900, 383.
 603. TRC, NRA, Anglican Church of Canada Archives, Diocese of the Arctic, M96-7, box 188, "File 8, Collected Material ­ Bessie Quirt, Articles written by Bessie re: Shingle Point and Fort George" "RE: First Eskimo Residential School (Anglican) ­ Shingle Point. Story One ­ Fifty Years Ago ­ August 1929­1979"; Library and Archives Canada, RG919-10, part 1, Fort Norman Agency ­ Aklavik Church of England Residential School ­ Admissions and Discharges, 1936­1946, FA 10-17, Perm. volume 6477, Microfilm reel C-8792, H. S. Shepherd to Philip Phelan, 30 March 1939; [ASU-001138] RG29, volume 2906, file 851-1-A486, part 3, H. S. Shepherd to P. E. Moore, 14 January 1948; [NPC-603247] RG10, volume
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2638,7 +2484,6 @@ clean_pagebreak: true
 178 · Truth & Reconciliation Commission
 10728, file 484/25-2-467, part 1, H. S. Shepherd to J. L. Whitey, 17 November 1952; [MFI-001074] Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 22, file 2, "Minutes of a Meeting of the Sub-Executive Committee MSCC," 8th September 1954; [AAC-090761]Anglican Church of Canada, General Synod Archives GS 75-103, series 2-15, box 22, "Report of the Superintendent, Indian School Administration, to the M.S.C.C. Board of Management, Toronto, November 16th, 1954." [GDC-007201] 604. TRC, NRA, Library and Archives Canada, RG10, volume 6430, file 876-1, part 1, West Coast Agency ­ Ahousaht Residential School ­ General Administration, 1901­1931, FA 10-17, Microfilm reel C-8759, W. R. Woods to Dr. Young, 5 November 1929. [AST-200068-0001] 605. Methodist Church of Canada, British Columbia Conference, Port Simpson District, Ministerial Sessions, 1893, 188, quoted in Bolt, Thomas Crosby, 63. 606. TRC, NRA, Library and Archives Canada ­ Ottawa, RG10, volume 8803, file 959/25-13, part 2, Henry Cook to Frank Howard, 29 March 1960. [MIK-002122] 607. TRC, NRA, O.M.I. House ­ Vancouver, box 39, Fort St. John­Kakawis Family Development, folder 20, Kakawis Correspondence 1942­1979, Series One Plus Finding Aid, B.C./Yukon Local Community of O.M.I. Lacombe Canada Province [formerly St. Paul's Province], Mary Gemma to M. Kearney, 3 February 1958. [CST-800117] For background on the Benedictine Sisters of Mount Angel, see: The Benedictine Sisters of Mount Angel, "About Us, A Brief History of the Benedictine Sisters of Mt. Angel," http://www.benedictine-srs.org/history.html (accessed 12 June 2014). 608. TRC, NRA, Library and Archives Canada, RG55, FA 55-22, Acc. 1980-81/069, box 118, file 1105, part 2, Rates of Pay & Conditions of Employment of Teachers, 1964­1965, R. F. Davey to Peter Fillipoff, 25 May 1965. [AEMR-150636] 609. Bruno-Jofre, Missionary Oblate Sisters, 4­12, 132­139; Choquette, Canada's Religions, 83­84, 201; McCarthy, From the Great River, 156; Gresko, "Gender and Mission," 9; Huel, Proclaiming the Gospel, 165­166, 171; Shanahan, Jesuit Residential School, 5; TRC, NRA, Provincial Archives ­ Alberta, Acc. 78.204/5, Vital Grandin to Mother Ste. Marie, 27 September 1890; [ORC-000775] No document location, no document file source, Victor Rassier to Gerald Murphy, 15 September 1930; [BVT-000239] No document location, no document file source, M. Agatha, to Gerald Murray, 26 May 1931; [BVT-000260] TRC, NRA, Library and Archives Canada, RG10, volume 6276, file 584-3, part 1, H. B. Rayner to W. M. Graham, 26 August 1931. [SBR-000879-0001] 610. TRC, CAR, United Church Archives, Presbyterian Church in Canada, Board of Foreign Missions, Records Pertaining to Missions to Aboriginal People in Manitoba and the North West, 79.199C, box 3, file 29, (C0990), Austin McKitrick to Dr. R. P. MacKay, 30 September 1901, quoted in Hildebrand, "Staff Perspectives," 170. [13d-c000990-d0017-001] 611. Gagan, Sensitive Independence, 201. 612. Canada, Annual Report of the Department of Indian Affairs, 1906, 2:52­56. 613. Grant, "Two-Thirds of the Revenue," 108­109. 614. For an example, see: Canada, Annual Report of the Department of Indian Affairs, 1893, 172. 615. TRC, NRA, Library and Archives Canada, file 886-24, part 1, Skeena River Agency ­ Crosby Girls Residential School [Port Simpson] ­ Audit Reports 1935­1948, FA 10-17,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2646,7 +2491,6 @@ clean_pagebreak: true
 The history · 179
 Perm. volume 6458, Microfilm reel C-8779; Library and Archives Canada ­ Ottawa, "Crosby Girls' Home, United Church of Canada, Cost of Operations for Fiscal Year 1934­35." [PSM-200049-0003] 616. TRC, NRA, Library and Archives Canada, RG10, volume 8845, file 963/16-2, part 1, July 3, 1936, Re: Kamloops Residential School, Roman Catholic. [KAM-002000] 617. TRC, NRA, Anglican Diocese of Cariboo Archives Section #205, St. George Indian Residential School, Card D.C. 2C11, Lytton-St.-George's School, #88.44, "All Saints Indian Residential School Staff Manual 2nd Revision, 1967, Mr. A. W. Harding, Vice-Principal," 26­27. [AEMR-177341] 618. Canada, Annual Report of the Department of Indian Affairs, 1896, 366. 619. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 9:08, box 131, file 5-3, "The Indian Residential School Commission of the Mission Society of the Church of England in Canada, An Outline of the Duties of Those Who Occupy Positions on the Staff at the Society's Indian Residential Schools, No. III, The Teacher." [AAC-090142] 620. TRC, NRA, Library and Archives Canada, RG10, volume 6462, file 888-1, part 1, H, EGN007951, F. J. C. Ball to D. C. Scott, 5 May 1921. [GRG-022150-0000] 621. TRC, NRA, Library and Archives Canada, RG10, volume 6028, file 118-7-1, part 1, E. B. Glass to Dr. Sutherland, 4 September 1896. [WFL-000648-0002] 622. Hare and Barman, "Good Intentions," 168, 205, 206, 216. 623. Buck, Doctor Rode Side-Saddle, 114, 133. 624. Buck, Doctor Rode Side-Saddle, 92. 625. Brandon, Manitoba, principal T. Ferrier in 1903; Mount Elgin, Ontario, principal S. R. McVitty in 1913; and Kuper Island, British Columbia, principal W. Lemmens in 1915--all used the word "evil" in describing tendencies in Aboriginal culture. Canada, Annual Report of the Department of Indian Affairs, 1903, 342­343; TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, Public Archives Canada, S. R. McVitty, "Helping the Indian: How it Is Done at Mount Elgin Industrial Institute," The Christian Guardian, 31 May 1913; [MER-0376] RG10, volume 1347, Microfilm reel C-13916, W. Lemmens to W. R. Robertson, 10 February 1915. [KUP-004240] 626. See, for example, Algoma Missionary News (April 1877): 14, quoted in Wilson, "Note on Shingwauk Industrial Home," 69; Butcher, Letters of Margaret Butcher, 26. 627. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 1, J. P. Mackey to Father MacNeil, 5 October 1936. [SRS-000280-0003] 628. Bush, Western Challenge, 27. 629. Fisher, Contact and Conflict, 185­188; Usher, William Duncan, 126. 630. TRC, NRA, Anglican Church of Canada, General Synod Archives, MSCC, GS 75-103, series 2-15, box 29, file 10, Anglican document no. 52.63, Victoria Ketcheson and Patricia Watson, 29 November 1952. [PAR-001992] 631. TRC, NRA, Document location to be determined, Hance/Aleck/Michell ­ Anglican Church of Canada and Anglican Church of Cariboo List of Documents, Helen Clafton to Bishop Dean, 5 March 1957. [ANG-063238] 632. Canada, Annual Report of the Department of Indian Affairs, 1930, 17. 633. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, "Successful Graduates." [TAY-004294-0002]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2660,7 +2504,6 @@ to Secretary, Indian Affairs, 14 September 1932. [BRS-000234] 639. Canada, Annua
 Canada, Winnipeg, Manitoba, 13 July 2011, Statement Number: 2011-0269 641. Kirkness, Creating Space, 3­12, 29­40. 642. Kirkness, Creating Space, 29­30. 643. TRC, NRA, Library and Archives Canada, RG10, file 494/1-13-014, volume 1, T. B. Jones
 to R. F. Davey, 21 June 1963. [PLK-001867] For Spence as a residential school student, see: Canada, Special Joint Committee, 1947, 1066­1067. 644. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 494/25-1-014, volume 2, "The Anglican Indian Residential School, Sioux Lookout, Ontario," 10 June 1965. [PLK-000304-0001] 645. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 487/25-1-014, R. F. Davey to Giollo Kelly, 10 June 1966. [CJC-000308] 646. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 43, file 4, Giollo Kelly to Mrs. Colin Wasacase, 8 July 1966. [NCA-009161-0002] 647. For Mission, see: TRC, NRA, "Historic Transfer of Authority," Fraser Valley Record, 5 September 1973. [OMS-000307] For Kamloops, see: TRC, NRA, Library and Archives Canada ­ Burnaby, RG10, FA 10-138, Acc. v85-86/353, file 963/1-13, Perm. volume 6 [502372], part 1, Student Residence Establishment, 1969­78, NAC ­ Burnaby, A. H. Friesen to A. H. Noonan, 18 April 1973. [KAM-008144] For Blue Quills, Alberta, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 779/25-2009, volume 1 (Ctrl #55-4), "Confidential: Notes: Re Blue Quills," undated. [NCA-007302] For Prince Albert, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 601/25-13-1, J. B. Freeman to James A. Roberts, 2 April 1973. [PAR-019374] For Duck Lake, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, GRS Files, box 8A, file 15, D. Seesequasis to H. Kolakowski, 3 February 1982. [GDC-014654-0004] For Qu'Appelle, see: LaRose, "Wrecker's ball Claims White Calf Collegiate," http://www.ammsa.com/publications/saskatchewan-sage/ wreckers-ball-claims-white-calf-collegiate-0. For Fort George, see: TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 371/25-1-019, volume 2, Right Rev. James A. Watton to A. Gill, 7 September 1971. [FGA-000225-0001] TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, NCR-E4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Management Discussion Paper, 8 February 1994. [NCA-016023-0002]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2679,7 +2522,6 @@ A Global History of Indigenous Peoples, 244­245. 658. Smith, Apology to First Na
 cies/1986/a651 (accessed 23 October 2014). 659. The Missionary Oblates of Mary Immaculate, An Apology to the First Nations of Can-
 ada by the Oblate Conference of Canada, http://www.cccb.ca/site/images/stories/pdf/ oblate_apology_english.pdf (accessed 27 October 2014) 660. For the Anglican apology, see: Hiltz, A Step Along the Path: Apology by Archbishop Fred Hiltz, http://www.anglican.ca/relationships/files/2011/06/Apology-English.pdf (accessed 27 October 2014). For the Presbyterian apology, see: Presbyterian Church in Canada, The Confession of the Presbyterian Church in Canada as Adopted by the General Assembly, http://presbyterian.ca/?wpdmdl=92& (accessed 27 October 2014); The United Church of Canada, Apology to Former Students of United Church Indian Residential Schools, and to Their Families and Communities, http://www.united-church.ca/beliefs/ policies/1998/a623 (accessed 27 October 2014). 661. "Bernard's Lawsuit Helped Natives Nationwide," The Daily News, http://www.canada. com/story_print.html?id=983a8b88-a8ac-4e09-9e5c-b2c0e207ac3d. 662. Canadian Broadcasting Corporation, The Journal, Barbara Frum interview with Phil Fontaine, 30 October 1990, http://archives.cbc.ca/society/education/clips//11177. 663. Lleweyn, "Dealing with the Legacy," 253 at 261.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2687,7 +2529,6 @@ clean_pagebreak: true
 182 · Truth & Reconciliation Commission
 664. Assembly of First Nations, Assembly of First Nations Report, 11. 665. Cloud v. Canada (Attorney General) 2004 CanLII 45444 (ON CA). 666. Canada, House of Commons Debates (11 June 2008), 6850. 667. Canada, House of Commons Debates (11 June 2008), 6851. 668. Canada, House of Commons Debates (11 June 2008), 6852. 669. Canada, House of Commons Debates (11 June 2008), 6853. 670. Canada, House of Commons Debates (11 June 2008), 6855. 671. Canada, House of Commons Debates (11 June 2008), 6855. 672. Canada, House of Commons Debates (11 June 2008), 6855. 673. Canada, House of Commons Debates (11 June 2008), 6856. 674. Canada, House of Commons Debates (11 June 2008), 6856.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2699,7 +2540,6 @@ Residential schools are a tragic part of Canada's history. But they cannot simpl
 Current conditions such as the disproportionate apprehension of Aboriginal children by child-welfare agencies and the disproportionate imprisonment and victimization of Aboriginal people can be explained in part as a result or legacy of the way that Aboriginal children were treated in residential schools and were denied an environment of positive parenting, worthy community leaders, and a positive sense of identity and self-worth. The schools could be brutal places, as Joseph Martin Larocque, a former student at the Beauval residential school in Saskatchewan, told the Truth and Reconciliation Commission of Canada.
 [Residential school] was a very harsh environment. They, they treated us like criminals.... You, you had to, it's like a prison. But we were small kids, and we didn't understand. We didn't understand harsh discipline. We, we understood love from our, our parents. But the harsh discipline was hard to take, and that happened to everybody, not only me.2 The impacts of the legacy of residential schools have not ended with those who attended the schools. They affected the Survivors' partners, their children, their grandchildren,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2712,7 +2552,6 @@ The Commission is convinced that genuine reconciliation will not be possible unt
 More First Nations child-welfare agencies have been established, but the disproportionate apprehension of Aboriginal children also continues to grow. In part, this has happened because of a lack of adequate funding for culturally appropriate supports that would allow children to remain safely with their families, or to allow children to be placed in foster or adoptive environments that are culturally appropriate and capable of giving children a sense of identity, self-respect, and self-worth.
 Many of the individual and collective harms have not yet been redressed, even after the negotiated out-of-court settlement of the residential school litigation in 2006, and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2725,7 +2564,6 @@ The Government of Canada initially refused to adopt the Declaration. When it fin
 Child welfare
 Residential schools, as acknowledged by the prime minister's own admission in his 2008 official apology from Canada, were an attack on Aboriginal children and families. They were based on racist attitudes that considered Aboriginal families as being frequently unfit to care for their children. By removing children from their communities and by subjecting them to strict discipline, religious indoctrination, and a regimented life more akin to life in a prison than a family, residential schools often harmed the subsequent ability of the students to be caring parents. In many ways, the schools were more a child-welfare system than an educational one. A survey in 1953 suggested that of 10,112 students then in residential schools, 4,313 were either orphans or from what were described as "broken homes."8 From the 1940s onwards, residential schools increasingly served as orphanages
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2738,7 +2576,6 @@ Canada's child-welfare crisis has not gone unnoticed in the international commun
 Disturbing data
 The First Nations Component of the Canadian Incidence Study of Reported Child Abuse and Neglect, designed by the Public Health Agency of Canada and its provincial, academic, and agency partners, confirmed that Aboriginal children in the geographic areas studied are also significantly overrepresented as subjects of child maltreatment investigations. For every 1,000 First Nations children, there were 140.6 child maltreatment-related investigations, as compared with 33.5 investigations for non-Aboriginal children.15 The rate of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2755,7 +2592,6 @@ iii. Ensuring that social workers and others who conduct child-welfare investiga
 iv. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the potential for Aboriginal communities and families to provide more appropriate solutions to family healing.
 v. Requiring that all child-welfare decision makers consider the impact of the residential school experience on children and their caregivers.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2771,7 +2607,6 @@ In that foster home there was a pedophile, and I don't [know] what was happening
 Sometimes, child-welfare placements end in tragedy. Where there are province-specific statistics available, the findings suggest that in some parts of the country, Aboriginal children who come into contact with child-welfare authorities are significantly more likely to die.
 Research in Alberta indicated that 78% of children who have died in foster care between 1999 and mid-2013 were Aboriginal.23 Since Aboriginal children, a minority of the overall population, represent 59% of children in care in Alberta, the rate of Aboriginal child deaths in care is even more disproportionate than the apprehension rate. Of the seventy-four recorded deaths of Aboriginal children in care, thirteen were due to accidents, twelve children committed suicide, and ten children were the victims of homicide.24 Forty-five of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2784,7 +2619,6 @@ Although the federal government acknowledges its responsibility for child-welfar
 Lack of adequate funding
 Proof of the effectiveness of First Nations child and family service agencies is still preliminary, but anecdotal evidence and case studies suggest that First Nation agencies are more effective than non-Aboriginal agencies in providing service to First Nation clients.28 But, it is troubling that the ability of First Nations child and family services agencies to develop culturally appropriate services has been constrained by limited funding. Of twelve First Nations agencies surveyed in 2005, 83.4% reported that they did not receive adequate funds to ensure culturally appropriate services.29 It is clear that the way in which Canada has funded Aboriginal child welfare has hampered First Nations agencies in providing effective services. This shortfall continues to inflict pain on Aboriginal families and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2800,7 +2634,6 @@ Call to Action:
 Improving outcomes for children
 Although there is now considerable Aboriginal control of child-welfare services, Aboriginal agencies still struggle for adequate funding. There is a need for more funding and research into preventive services that can support Aboriginal families. At the same time, many of the conditions that result in disproportionate Aboriginal involvement in the child-welfare system are related to more intractable legacies of residential schools,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2815,7 +2648,6 @@ ii. Require all child-welfare agencies and courts to take the residential school
 iii. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate.
 There is also a human dimension to improving outcomes for Aboriginal children. The intergenerational impact of the residential school experience has left some families without strong role models for parenting. An investment in culturally appropriate programs in Aboriginal communities has the potential to improve parenting skills and enable more children to grow up safely in their own families and communities.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2831,7 +2663,6 @@ Call to Action
 The objectives of the schools were to strip away Aboriginal children's identities and assimilate them into Western Christian society. Doris Young, who attended the Elkhorn residential school in Manitoba, described the experience as a systematic attack on her identity as a Cree person.
 Those schools were a war on Aboriginal children, and they took away our identity. First of all, they gave us numbers, we had no names, we were numbers, and they cut our hair. They took away our clothes, and gave us clothes ... we all looked alike. Our hair was all the same, cut us into bangs, and straight short, straight hair up to our ears.... They took away our moccasins, and gave us shoes. I was just a baby. I didn't
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2845,7 +2676,6 @@ Education and the income gap
 It is not surprising that, faced with terrible conditions and mostly ineffective teaching, many students left school as soon as they could. A 2010 study of Aboriginal parents and children living off reserves found that the high school completion rate is lower for former residential school students (28%) than for those who did not attend (36%).40 Only 7% of the parents who attended residential school have obtained a university degree, compared with 10% for those Aboriginal parents who had never attended these institutions.41
 Although secondary school graduation rates for all Aboriginal people have improved since the closure of the schools, considerable gaps remain when compared with the rates
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2858,7 +2688,6 @@ Lower educational attainment for the children of Survivors has severely limited 
 Aboriginal people also have incomes well below their non-Aboriginal counterparts. The median income for Aboriginal people in 2006 was 30% lower than the median income for non-Aboriginal workers ($18,962 versus $27,097, respectively).50 The gap narrows when Aboriginal people obtain a university degree, which they do at a far lower rate.51 Not surprisingly, the child poverty rate for Aboriginal children is also very high--40%, compared with 17% for all children in Canada.52 The income gap is pervasive: non-Aboriginal Canadians earn more than Aboriginal workers no matter whether they work on reserves, off reserves, or in urban, rural, or remote locations.53
 The proportion of Aboriginal adults below the poverty line, regardless of age and gender, is much higher than that of non-Aboriginal adults, with differences ranging from 7.8% for adult men aged sixty-five or older, to 22.5% for adult women aged sixty-five or older.54 The depth of poverty is also much greater, with Aboriginal people having an average income that falls further below the poverty line on average than that of non-Aboriginal adults, and their poverty is more likely to have persisted for a significant period of time.55
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2872,7 +2701,6 @@ There are approximately 72,000 students attending 518 First Nation schools.56 De
 Since 1973, the Government of Canada has claimed that it is committed to devolving control of education to First Nations people.57 However, the interpretation of "Indian control" offered by the Government of Canada bears little resemblance to the vision of First Nations. The government's version of the term has entailed the devolution of federal education programs to First Nations, without the benefit of adequate funding or statutory authority.58 Indeed, when devolution began, it was designed to occur without any additional expense. This meant that former Indian Affairs-operated schools, which were already substandard compared with provincial norms, were handed over to the First Nation bands to run, but without giving the bands the means to operate them effectively. As a result, the curriculum for the majority of First Nation schools is virtually identical to that found in the provincial and territorial schools.59 This approach is not significantly different from the approach during the residential school era, when Indigenous communities had no say in the content and language of their children's schooling.
 The funding formula for First Nations schools was last updated in 1996, and does not take into account the range of basic and contemporary education components needed to deliver a good-quality education in the twenty-first century, such as information and communication technologies, sports and recreation, language proficiency, and library services.60 Worse still, since 1996, funding growth for First Nations education has been capped at 2%, an amount that has been insufficient to keep pace with either inflation or the rapid increases in the Aboriginal student population.61 Meanwhile, between 1996 and 2006, funding to provincial and territorial school systems increased annually by 3.8%, almost double the increase for reserve schools.62 The underfunding of reserve schools
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2888,7 +2716,6 @@ Since 2011, three major reports on First Nations education have concluded that t
 In October 2013, the government released the text of the proposed First Nations Education Act. The bill itself provided no guarantee of increased or stable funding of First Nations schools, leaving such matters to be resolved through regulations, with no assurance of equity in the distribution of resources to educate First Nations children in First Nations schools or in provincial schools. In February 2014, the Government of Canada and the Assembly of First Nations announced an agreement on a new basis for First Nations education reform and legislation. The agreement called for over $2 billion in new funding to reserve schools, and replaced the 2% cap on annual increases with a 4.5% annual increase and $1.25 billion from 2016­17 to 2018­19. However, after opposition from Aboriginal leaders, the proposed legislation was put on hold, pending agreement on the principles for a new Act.
 Based on all that it has heard from thousands of former students and family members throughout the country, the Commission is convinced that such an Act must recognize the importance of education in strengthening the cultural identity of Aboriginal people and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2901,7 +2728,6 @@ Call to Action
 Métis and Inuit education
 Provincial and territorial schools are the only option for Métis students, other Aboriginal children without recognized status, and those First Nation and Inuit children who do not live on reserves or who do live on reserves but attend provincial schools. Their educational outcomes are not significantly better than those who attend First Nation schools on reserves or in their home communities.66 Jurisdictional disputes between the federal and provincial governments over responsibility for Métis education continue to be a major
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2914,7 +2740,6 @@ Post-secondary education
 To help close the income and employment gap, Aboriginal people need increased access to post-secondary education. Only 8.7% of First Nations people, 5.1% of Inuit, and 11.7% of Métis have a university degree, according to the 2011 census.71 The federal auditor general has commented: "In 2004, we noted that at existing rates, it would take 28 years for First Nations communities to reach the national average. More recent trends suggest that the time needed may be still longer."72 The barriers to post-secondary education have had profound effects. Geraldine Bob attended residential school at Kamloops, British Columbia. She told the Commission at a Community Hearing in Fort Simpson, Northwest Territories, that poor education and negative experiences at residential school delayed her attendance at university and her entry into the workforce as a teacher. She suggested that
 the residential school system owes me those lost years. You know, I lost my retirement; I have to keep working, I don't have a good retirement fund because it was so late when I went to school. And I've proven that I can go to university and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2929,7 +2754,6 @@ Call to Action
 12) We call upon the federal, provincial, territorial, and Aboriginal governments to develop culturally appropriate early childhood education programs for Aboriginal families.
 To close the education and income gaps, there needs to be stable and adequate funding of Aboriginal education that takes into account the challenges of the legacy of residential
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2943,7 +2767,6 @@ The Royal Commission on Aboriginal Peoples similarly noted the connection betwee
 Residential schools were a systematic, government-sponsored attempt to destroy Aboriginal cultures and languages and to assimilate Aboriginal peoples so that they no longer existed as distinct peoples. English and, to a far lesser degree, French were the only languages permitted to be used in most schools. Students were punished--often severely--for speaking their own languages. Michael Sillett, a former student at the North West River residential school in Newfoundland and Labrador, told the Commission, "Children at the dorm were not allowed to speak their mother tongue. I remember several times when other children were slapped or had their mouths washed out for speaking their mother tongue; whether it was Inuktitut or Innu-aimun. Residents were admonished for just being Native."78 As late as the 1970s, students at schools in northwestern Ontario were not allowed to speak their language if they were in the presence of a staff member who could not understand that language.79 Conrad Burns, whose father attended the Prince Albert school, named this policy for what it was: "It was a cultural genocide. People were beaten for their language, people were beaten because ... they followed their own ways."80
 Rights to culture and language, and the need for remedies for their loss, have long been recognized in international law.81 They are specifically acknowledged in the United Nations Declaration of the Rights of Indigenous Peoples, which has recognized the critical state of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2956,7 +2779,6 @@ And one of the things that residential school did for me, I really regret, is th
 Mary Courchene, formerly a student at the residential schools at Fort Alexander in Manitoba and Lebret in Saskatchewan, had a similar interaction with her family.
 And I looked at my dad, I looked at my mom, I looked at my dad again. You know what? I hated them. I just absolutely hated my own parents. Not because I thought they abandoned me; I hated their brown faces. I hated them because they were Indians.... So I, I looked at my dad and I challenged him and I said, "From now on we speak only English in this house," I said to my dad. And you know when we, when, in a traditional home where I was raised, the first thing that we all were always taught
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2971,7 +2793,6 @@ In interpreting Aboriginal and Treaty rights under Section 35(1) of the Constitu
 Call to Action
 13) We call upon the federal government to acknowledge that Aboriginal rights include Aboriginal language rights.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -2985,7 +2806,6 @@ The combined total annual federal budget for these Aboriginal languages programs
 The resources committed to Aboriginal language programs are far fewer than what is committed to French in areas where French speakers are in the minority. For example, the federal government provides support to the small minority of francophones in Nunavut in the amount of approximately $4,000 per individual annually. In contrast, funding to support Inuit-language initiatives is estimated at $44 per Inuk per year.94
 The Commission believes that a multi-pronged approach to Aboriginal language preservation--if implemented, honourably resourced, and sustained-- might prevent further increase in the litigation of Aboriginal language rights, and the increased international criticism of Canada's policy towards Aboriginal-language rights. This approach will require full, good-faith consultation, which recognizes that although Aboriginal communities have the necessary knowledge, particularly among their Elders, to preserve their
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3005,7 +2825,6 @@ Aboriginal people recognize how important it is for their children to speak and 
 I didn't realize until taking this language class how much we have lost--all the things that are attached to language: it's family connections, it's oral history, it's traditions, it's ways of being, it's ways of knowing, it's medicine, it's song, it's dance, it's memory. It's everything, including the land.... And unless we inspire our kids to love our culture, to love our language ... our languages are continually going to be eroded over time. So, that is daunting. Yeah. So, to me that's part of what reconciliation looks like.95
 Language instruction may require innovative approaches, including the use of Elders and others as teachers and the use of immersion programs. Education institutions must
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3021,7 +2840,6 @@ Call to Action
 Health
 Residential schools endangered the health and well-being of the children who attended them. Many students succumbed to infectious disease, particularly tuberculosis. Sexual and physical abuse, as well as separation from families and communities, caused lasting trauma for many others. The effects of this trauma were often passed on to the children
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3035,7 +2853,6 @@ I lost my braids, my beautiful hair was cut, and I felt like my identity was so 
 Katherine Copenace, a former student at the St. Mary's residential school in Ontario, told the Commission about her struggles.
 The residential school students suffered physical, sexual, spiritual, and most of all emotional abuse and my dad used to say to me, "Emotional abuse is more damaging than physical abuse. Your physical hurts heal." That's what he used to say. When I got older, I had thoughts of suicide, inflicting pain on myself which I did. I used to slash my arms, pierce my arms, my body and I destroyed myself with alcohol which the government introduced of course.100
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3050,7 +2867,6 @@ The health gap
 There are troubling gaps in health outcomes between Aboriginal and non-Aboriginal Canadians. For example:
 · The infant mortality rates for First Nations and Inuit children range from 1.7 to over 4 times the non-Aboriginal rate.108
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3066,7 +2882,6 @@ Call to Action
 19) We call upon the federal government, in consultation with Aboriginal peoples, to establish measurable goals to identify and close the gaps in health outcomes between Aboriginal and non-Aboriginal communities, and to publish annual progress reports and assess long-term trends. Such efforts would focus on indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.
 In 2003, the First Ministers' Accord on Health Care Renewal recognized the obvious: that Aboriginal peoples face serious health challenges. The accord committed to making
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3079,7 +2894,6 @@ A former student at Guy Hill residential school in Manitoba, M. R. E. Linklater,
 More programs should be put on for our children and our grandchildren and our great-grandchildren 'cause they need to understand why their parents are the way they are. Why so many of our people are so into alcohol and drug addiction, and for myself, I know why, it's to survive or not to go back there. Our children need more education, support, more programs, not to cut the programs that they have in place.116
 Health reforms often involve Aboriginal people in complex jurisdictional disputes and tripartite negotiations with both the federal and provincial or territorial governments. Such jurisdictional disputes have particularly affected Métis, non-status, and urban Aboriginal people, as the federal government insists that providing services to these groups is a provincial and territorial responsibility.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3094,7 +2908,6 @@ Calls to Action
 22) We call upon those who can effect change within the Canadian health-care system to recognize the value of Aboriginal healing practices and use them in the treatment of Aboriginal patients in collaboration with Aboriginal healers and Elders where requested by Aboriginal patients.
 Overcoming the health legacy of the residential schools will require a long-term investment in Aboriginal communities, so that communities can revive their capacity to heal themselves. One key investment will be the training of more Aboriginal health and social service professionals. The work that Health Canada's community cultural and traditional knowledge healing team members did in support of this Commission and other
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3110,7 +2923,6 @@ Justice
 Residential schools inflicted profound injustices on Aboriginal people. Aboriginal parents were forced, often under pressure from the police, to give up their children to the schools. Children were taken far from their communities to live in frightening custodial institutions, which felt like prisons. The children who attended residential schools were often treated as if they were offenders and were often victimized.
 This pattern of disproportionate imprisonment and victimization of Aboriginal people continues to this day. The continued failure of the justice system denies Aboriginal people the safety and opportunities that most Canadians take for granted. Redress to the racist and colonial views that inspired the schools, and effective and long-term solutions to the crime problems that plague too many Aboriginal communities, call for increased use of Aboriginal justice, based on Aboriginal laws and healing practices.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3125,7 +2937,6 @@ Call to Action
 Unnecessary insistence on corroboration
 The rcmp E Division Task Force final report notes that "a very common situation that kept occurring over and over again" was that Crown counsel refused to prosecute without
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3139,7 +2950,6 @@ Although there were not many prosecutions for sexual abuse, there were even fewe
 Civil litigation
 Having generally failed to find justice through police investigations and criminal prosecutions, residential school Survivors increasingly turned to the civil justice system in the 1990s, bringing lawsuits against abusers as well as the federal government and the churches that operated the schools. The Canadian legal system, however, was prepared to consider only some of the harms that the Survivors suffered--generally, those harms caused by sexual and sometimes physical abuse. It refused to consider on the merits the Survivors' claims relating to loss of language, culture, family attachment, and violation of Treaty rights to education. The Canadian legal system refused to consider the claims that Survivors brought on behalf of their parents and their children. It also refused to provide
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3153,7 +2963,6 @@ A statute of limitation defence has to be raised by the defendant. In its 2000 r
 Call to Action
 26) We call upon the federal, provincial, and territorial governments to review and amend their respective statutes of limitations to ensure that they conform with the principle that governments and other entities cannot rely on limitation defences to defend legal actions of historical abuse brought by Aboriginal people.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3167,7 +2976,6 @@ Calls to Action
 Aftermath of the Settlement Agreement
 During the 1990s, the number of civil lawsuits against Canada and the churches that ran the schools steadily increased. Many of these claims were combined into class actions that were certified by provincial courts. In May 2005, the Government of Canada appointed former Supreme Court Justice Frank Iacobucci as its chief negotiator to help reach a settlement agreement among the many parties involved in litigation: representatives from Aboriginal communities, church groups, the federal government, and Survivors represented by various law firms. The parties reached an agreement in principle in November 2005. The details of the Indian Residential Schools Settlement Agreement were finalized and approved by the federal cabinet on May 10, 2006.  The thousands of legal claims made against the federal government and the churches were concluded and settled under the terms of the Settlement Agreement.126
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3183,7 +2991,6 @@ I've been waiting five years now for my appeal, and it hasn't happened yet. And 
 Exclusions from the Settlement
 Not all Survivors of residential school abuse were included in the Settlement Agreement. For example, day school students, many Métis students, and pupils from schools in
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3198,7 +3005,6 @@ The causes of the over-incarceration of Aboriginal people are complex. The convi
 Parliament has recently passed legislation to prescribe mandatory minimum sentences of imprisonment for certain offences. Judges are required to impose these mandatory minimums. Additional restrictions have also been placed on community sanctions. These decisions have further contributed to the over-incarceration of Aboriginal people in prison. It is assumed that locking up offenders makes communities safer, but there is no evidence to demonstrate that this is indeed the case. There are concerns that Aboriginal people are not receiving culturally appropriate rehabilitative programs in federal prisons, and they are even less likely to have access to such programs in provincial correctional institutions for those people serving sentences of less than two years.
 Violence and criminal offending are not inherent in Aboriginal people. They result from very specific experiences that Aboriginal people have endured, including the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3212,7 +3018,6 @@ It should not be surprising that those who were sexually abused in the schools a
 Grace Campbell is an intergenerational Survivor.
 When I was drinking a lot of things happened to me ... I had to do things and a lot of times I just about got killed and then, I thought it was easy. Easy drinking, easy to get the way I was living and I didn't like it. I was selling my body and I didn't like it. At the time I didn't know it but when I look back, some of those creeps I hung with, men
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3228,7 +3033,6 @@ In 1999, in R. v. Gladue, the Supreme Court stated that Section 718.2(e) of the 
 In some jurisdictions, the Gladue decision has resulted in the production of more extensive pre-sentence, or "Gladue," reports that detail the background and contextual circumstances of Aboriginal offenders. These reports help inform judges' sentencing decisions and are meant to encourage alternative options to incarceration. However, bringing these reports to court has not been without difficulty and controversy. Some jurisdictions provide few resources for the intensive, specialized, and culturally sensitive work that is necessary to produce an adequate Gladue report, despite the clear mandate given by the Supreme Court.138
 In 2012, the Supreme Court revisited and reaffirmed Gladue. In R. v. Ipeelee, the Supreme Court pointed out that some judges had erred in their application of Gladue by concluding that it did not apply to serious offences or that it required an offender to demonstrate a causal connection between the commission of the crime and the legacy of residential
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3243,7 +3047,6 @@ Mandatory minimum sentences
 One of the most dramatic examples of the trend towards mandatory minimum sentence is the Safe Streets and Communities Act (Bill C-10), which came into force in 2012. The Act specifies minimum sentences that judges must impose for certain crimes. As a result of the new legislation, certain offences are no longer eligible for a conditional sentence.140
 Bill C-10 and other similar Criminal Code amendments have undermined the 1996 reforms that required judges to consider all reasonable alternatives to imprisonment, with particular attention to the circumstances of Aboriginal offenders. The Commission believes that the recent introduction of mandatory minimum sentences and restrictions on conditional sentences will increase Aboriginal overrepresentation in prison. Such developments are preventing judges from implementing community sanctions even when they are consistent with the safety of the community and even when they have a much greater potential than imprisonment to respond to the intergenerational legacy of residential schools that often results in offences by Aboriginal persons.141
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3258,7 +3061,6 @@ Call to Action
 33) We call upon the federal, provincial, and territorial governments to recognize as a high priority the need to address and prevent Fetal Alcohol Spectrum Disorder (fasd), and to develop, in collaboration with Aboriginal people, fasd preventive programs that can be delivered in a culturally appropriate manner.
 It is challenging for courts to deal with offenders with fasd, because obtaining an official diagnosis entails a long and costly process of multidisciplinary referrals. Even if trial judges have been educated about the symptoms of fasd, they are generally unable to take notice of fasd without evidence of a diagnosis.147 Clearly, better diagnostic tools are
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3276,7 +3078,6 @@ Cultural services in prisons and jails
 Studies based on interviews with Aboriginal inmates have confirmed that Aboriginal culture and spirituality can contribute to the healing of the inmates, to increased self-esteem, and to positive changes in lifestyle that make release and reintegration a real possibility.149 Research suggests that recidivism rates for Aboriginal offenders who had participated in spiritual activities (such as sweat lodge ceremonies) were lower than for those who had not.150
 However, Aboriginal people receive few services in provincial correctional facilities that are designed for those serving sentences of two years less a day or are awaiting trial. Only
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3291,7 +3092,6 @@ Calls to Action
 Parole and community supports
 Aboriginal offenders face many challenges in obtaining parole from prison and beginning their transition back into the community. For many Aboriginal inmates seeking parole, their criminal history is a major factor held against them. Although some research has concluded that criminal history is a reliable risk predictor for both Aboriginal and non-Aboriginal inmates, systemic discrimination related to poverty and the legacy of residential schools undoubtedly disadvantages Aboriginal offenders.154 Just as some courts have the benefit of background and contextual information contained in pre-sentencing reports, parole hearings need a full understanding of an offender's circumstances when making their decisions.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3305,7 +3105,6 @@ The youth justice system, perhaps even more than the adult criminal justice syst
 By many objective measures, the Youth Criminal Justice Act has been a success. Since it came into effect, there has been a steady decline in youth crime, youth court caseloads, and youth supervised on community sentences and in custody.157 But one thing the Act has not succeeded in doing is reducing the overrepresentation of Aboriginal youth in the criminal justice system.158 The great vulnerability and disadvantage experienced by so many Aboriginal youth undoubtedly contribute to their overrepresentation, a factor that is intimately tied to the legacy of the residential schools. Many of today's Aboriginal children and youth live with the legacy of residential schools every day, as they struggle to deal with high rates of addictions, fetal alcohol disorder, mental health issues, family violence, incarceration of parents, and the intrusion of child-welfare authorities. All these factors place them at greater risk of involvement with crime.
 The growing overrepresentation of Aboriginal youth in custody mirrors and is likely related to the even more dramatic overrepresentation of Aboriginal children in the care
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3320,7 +3119,6 @@ All through my, residential school ... I was a victim. They put me in that frame
 The justice system continues to fail Aboriginal victims of crime. There are few services available for Aboriginal victims of crime. Victim compensation schemes are often lacking and often fail to recognize the distinct needs of Aboriginal victims of crime.
 The statistics are startling. Aboriginal people are 58% more likely to be victimized by crime.162 Aboriginal women report being victimized by violent crime at a rate almost three times higher than non-Aboriginal women--13% of Aboriginal women reported being
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3337,7 +3135,6 @@ Violence against Aboriginal women and girls
 The overrepresentation of Aboriginal women and girls among crime victims is particularly disturbing. Aboriginal women and girls are more likely than other women to experience risk factors for violence. They are disproportionately young, poor, unemployed, and likely to have been involved with the child-welfare system and to live in a community marked by social disorder.166
 Velma Jackson, who attended the Blue Quills residential school in Alberta, told the Commission her story.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3353,7 +3150,6 @@ ii. Links to the intergenerational legacy of residential schools.
 Strategies for change
 Multi-pronged strategies are necessary to respond to the harmful legacy of residential schools, as demonstrated in part by the overrepresentation of Aboriginal people among prisoners and crime victims. Compiling better data on Aboriginal overrepresentation in the justice system is a starting point. Collection of this data must be coupled with developing measurable goals for reducing this overrepresentation and providing the resources necessary to reach those goals. The approach must be an holistic and culturally appropriate
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3365,7 +3161,6 @@ Call to Action
 42) We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the United Nations Declaration on the Rights of Indigenous Peoples, endorsed by Canada in November 2012.
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed. Governments in Canada spend billions of dollars each year in responding to the symptoms of the intergenerational trauma of residential schools. Much of this money is spent on crisis interventions related to child welfare, family violence, ill health, and crime. Despite genuine reform efforts, the dramatic overrepresentation of Aboriginal children in foster care, and among the sick, the injured, and the imprisoned, continues to grow. Only a real commitment to reconciliation will reverse the trend and lay the foundation for a truly just and equitable nation.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3389,7 +3184,6 @@ Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-048. 22. TRC, A
 Albert, Alberta, 12 June 2011, Statement Number: 2011-0013. 23. Information about ethnicity was available for 94 of the 145 children who have died in foster care
 since 1999. Of that number, 74 were Aboriginal. "Deaths of Alberta Aboriginal Children in Care No `Fluke of Statistics,'" Edmonton Journal, 8 January 2014, http://www.edmontonjournal.com/ life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014). 24. Sinha and Kozlowski, "Structure of Aboriginal Child Welfare," 3; "Deaths of Alberta Aboriginal Children in Care No `Fluke of Statistics,'" Edmonton Journal, 8 January 2014, http://www.edmon-
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3397,7 +3191,6 @@ clean_pagebreak: true
 230 · Truth & Reconciliation Commission
 tonjournal.com/life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story. html (accessed 18 February 2014). 25. Sinha and Kozlowski, "Structure of Aboriginal Child Welfare," 4. 26. Canada, Aboriginal Affairs and Northern Development Canada, Program Expenditures/Statistics, First Nations Child and Family Services Program Statistics, First Nations children ordinarily resident on reserve in care, https://www.aadnc-aandc.gc.ca/eng/1382549135936/1382549233428 (accessed 1 May 2015). 27. National Collaborating Centre for Aboriginal Health, Child and Youth Health, 3. 28. Wien et al., "Keeping First Nations Children at Home," 13. 29. Blackstock et al., Wen: de: We Are Coming, 38. 30. Blackstock et al., Wen: de: We Are Coming, 89­90. 31. Cradock, "Extraordinary Costs," 179. 32. Canada, Aboriginal Affairs and Northern Development Canada, "Jordan's Principle," http://www. aadnc-aandc.gc.ca/eng/1334329827982/1334329861879 (accessed 3 January 2014). 33. Pictou Landing Band Council v. Canada (Attorney General), 2013 FC 342 (CanLII), para. 82. 34. Pictou Landing Band Council v. Canada (Attorney General), 2013 FC 342 (CanLII), para. 82. 35. Fletcher, "Origins of the Indian Child Welfare Act," 1, 4. 36. Atwood, "Voice of the Indian Child," 128. 37. TRC, AVS, Doris Young, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-3517. 38. Canada, Annual Report of the Department of Indian Affairs, 1942, 154; Canada, Annual Report of the Department of Indian Affairs, 1943, 168; Canada, Annual Report of the Department of Indian Affairs, 1944, 177; Canada, Annual Report of the Department of Indian Affairs, 1945, 190; Canada, Annual Report of the Department of Indian Affairs, 1946, 231; Canada, Annual Report of the Department of Indian Affairs, 1947, 236; Canada, Annual Report of the Department of Indian Affairs, 1948, 234; Canada, Annual Report of the Department of Indian Affairs, 1949, 215; Canada, Annual Report of the Department of Indian Affairs, 1950, 86­87; Canada, Annual Report of the Department of Indian Affairs, 1951, 34­35; Canada, Annual Report of the Department of Indian Affairs, 1952, 74­75; Canada, Annual Report of the Department of Indian Affairs, 1953, 82­83; Canada, Annual Report of the Department of Indian Affairs, 1954, 88­89; Canada, Annual Report of the Department of Indian Affairs, 1955, 78­79; Canada, Annual Report of the Department of Indian Affairs, 1956, 76­77; Canada, Annual Report of the Department of Indian Affairs, 1956­57, 88­89; Canada, Annual Report of the Department of Indian Affairs, 1958, 91; Canada, Annual Report of the Department of Indian Affairs, 1959, 94; Canada, Annual Report of the Department of Indian Affairs, 1960, 94; Canada, Annual Report of the Department of Indian Affairs, 1961, 102; Canada, Annual Report of the Department of Indian Affairs, 1962, 73; Canada, Annual Report of the Department of Indian Affairs, 1963, 62. 39. United Nations, Declaration on the Rights of Indigenous Peoples, Article 14:1, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf. 40. Bougie and Senecal, "Registered Indian Children's School Success," 21. 41. Bougie and Senecal, "Registered Indian Children's School Success," 21. 42. Canada, Statistics Canada, Educational Portrait of Canada, Census Year 2006, 6, 19. 43. Canada, Statistics Canada Fact Sheet, 2011 National Household Survey Aboriginal Demographics, https://www.aadnc-aandc.gc.ca/eng/1376329205785/1376329233875. 44. National Committee on Inuit Education, First Canadians, Canadians First, https://www.itk.ca/ sites/default/files/National-Strategy-on-Inuit-Education-2011_0.pdf, 7; Penny, "Formal Educa-
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3405,7 +3198,6 @@ clean_pagebreak: true
 · 231
 tional Attainment," 33; Canada, Statistics Canada, Educational attainment of Aboriginal peoples, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.pdf. 45. Richards et al., Understanding the Aboriginal/Non-Aboriginal Gap, 1; Wilk et al., "Métis Educational Attainment," 51­52. 46. Canadian Human Rights Commission, "Report on Equality Rights," 3, 12, 32. 47. Canada, Statistics Canada, Aboriginal People Living Off-reserve, 15. 48. Canada, Statistics Canada, "Census Inuit Table: 89-636-x," http://www.statcan.gc.ca/pub/89-636x/89-636-x2008001-eng.htm. 49. Joe Friesen, "Ottawa Failing to Include First Nations in Key Employment Data," Globe and Mail, 23 January 2015, http://www.theglobeandmail.com/news/politics/unemployment-stats-missing-inareas-where-job-training-is-a-priority/article22598523 (accessed 1 May 2015). 50. Wilson and Macdonald, Income Gap, 8. 51. Wilson and Macdonald, Income Gap, 4. 52. Macdonald and Wilson, Poverty or Prosperity, 6. 53. Wilson and Macdonald, Income Gap, 14. 54. Canadian Human Rights Commission, Report on Equality Rights of Aboriginal People, 17. The poverty line is measured by the 2009 SLID Low-Income Measure (LIM). 55. Canadian Human Rights Commission, Report on Equality Rights of Aboriginal People, 18­19. 56. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 9. 57. Canada, Department of Indian and Northern Affairs, "Indian Education Paper: Phase 1," 1982, as cited in Paquette and Fallon, First Nations Education Policy, 80. 58. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 56. 59. McCue, First Nations 2nd and 3rd Level Education Services, 52, http://www.afn.ca/uploads/files/ education/9._2006_april_harvey_mccue_first_nations_2nd_&_3rd_level_services_paper.pdf. 60. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 11; First Nations Education Council, Funding Formula for First Nation Schools, http://www.cepnfnec.com/PDF/etudes_documents/fiche_complete_eng.pdf. 61. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 11, 31. 62. First Nations Education Council, Funding Formula for First Nation Schools, 1, http://www.cepnfnec.com/PDF/etudes_documents/fiche_complete_eng.pdf. 63. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 35. 64. Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education; Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, Nurturing the Learning Spirit, http://www.afn.ca/uploads/files/education2/ national-panel.pdf; First Nations Education Council et al., Report on Priority Actions, http://www. cepnfnec.com/PDF/accueil/Report%20on%20Priority%20Actions%20in%20View%20of%20Improving%20First%20Nations%20Education%20-%20November%202011_eng_website%20version_. pdf. 65. TRC, AVS, Albert Marshall, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-050. 66. Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, Nurturing the Learning Spirit, 14, http://www.afn.ca/uploads/files/education2/national-panel.pdf.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3419,7 +3211,6 @@ parl_oag_201106_04_e.pdf. 73. TRC, AVS, Geraldine Bob, Statement to the Truth an
 Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685. 74. Assembly of First Nations, "Financial Support for First Nation Students in College and Universi-
 ty: The Cost of Implementing the Recommendations of the Standing Committee of the House of Commons on Aboriginal Affairs and Northern Development," as cited in First Nations Education Council, Paper on First Nations Education Funding, 35. 75. Assembly of First Nations, Chiefs Assembly on Education, Early Childhood Education, http:// www.afn.ca/uploads/files/events/fact_sheet-ccoe-5.pdf. 76. Assembly of First Nations, Breaking the Silence, 25­26. 77. Royal Commission on Aboriginal Peoples, Gathering Strength, 3:612­613. 78. TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870. 79. TRC, NRA, INAC ­ Resolution Sector ­ IRS Historical Files Collection ­ Ottawa, file 81/25-1 (Ctrl #240-13), R. Morris to Chiefs, Petahbun [Pehtabun] Area, 9 February 1979, 2­3. [NCA-001721] 80. TRC, AVS, Conrad Burns, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036. 81. United Nations, International Covenant, Article 27. 82. United Nations, Declaration of the Rights of Indigenous Peoples, articles 8, 13, 14, and 16. 83. TRC, AVS, Agnes Mills, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090. 84. TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515. 85. Canada, Statistics Canada, Aboriginal Peoples and Language, http://www12.statcan.gc.ca/nhsenm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm. 86. Canada, Statistics Canada, Aboriginal Peoples and Language, http://www12.statcan.gc.ca/nhsenm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm; Canada, Statistics Canada, Population reporting an Aboriginal identity, http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/ demo38a-eng.htm; Canada, Statistics Canada, Aboriginal Languages in Canada. http://www. statcan.gc.ca/pub/11-008-x/2007001/9628-eng.htm. 87. Moseley and Nicolas, Atlas of the World's Languages, 117. 88. R. v. Van der Peet, 1996 CanLII 216 (SCC). 89. Assembly of First Nations, Royal Commission on Aboriginal Peoples at 10 Years, 18. 90. Canada, House of Commons Debates (2 November 2006), 1010. 91. TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3434,7 +3225,6 @@ da, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093. 100. TRC, AVS, Ka
 da, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-129. 101. United Nations, Declaration on the Rights of Indigenous Peoples, articles 7, 21, 22, 24. 102. United Nations, Declaration on the Rights of Indigenous Peoples, Article 23. 103. United Nations, Declaration on the Rights of Indigenous Peoples, articles 24, 31. 104. National Collaborating Centre for Aboriginal Health, Looking for Aboriginal Health, 43­50. 105. Canada, Report of an Interdepartmental Working Group to the Committee of Deputy Ministers on
 Justice and Legal Affairs, Fiduciary Relationship of the Crown with Aboriginal Peoples: Implementation and Management Issues ­ A Guide for Managers (Ottawa, 1995), 13, as cited in Boyer, No. 1 Aboriginal Health, 5, 20­21. 106. Boyer, No. 1 Aboriginal Health, 19­21, 23. 107. Boyer, No. 1 Aboriginal Health, 19. 108. Smylie, "Review of Aboriginal Infant Mortality Rates, 147. 109. Canada, Statistics Canada, Mortality rates among children and teenagers, http://www.statcan. gc.ca/pub/82-003-x/2012003/article/11695-eng.htm. 110. Canada, Statistics Canada, Select health indicators of First Nations people, http://www.statcan. gc.ca/daily-quotidien/130129/dq130129b-eng.htm. 111. First Nations Centre, First Nations Regional Longitudinal Health Survey, 114. 112. Kirmayer et al., Suicide Among Aboriginal People, xv, 22. 113. Australia, Department of the Prime Minister and Cabinet, Closing the Gap, http://www.dpmc.gov. au/pmc-indigenous-affairs/publication/closing-gap-prime-ministers-report-2015. 114. Canadian Medical Association, "Aboriginal Health Programming under Siege," E740. 115. TRC, AVS, Trudy King, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0381. 116. TRC, AVS, M. R. E. Linklater, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055. 117. Chansonneuve, Addictive Behaviours, 42­46. 118. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 20, 21, 28, 45. [RCMP-564517] 119. TRC, ASGAR, Stephen N. S. Thatcher, Affidavit in Supreme Court of BC, no date, 25­35. [RCMP564327]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3445,7 +3235,6 @@ clean_pagebreak: true
 122. Criminal Code, 1985, chapter C-46, section 274. 123. Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics,
 from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015). 124. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 45. [RCMP-564517] 125. Canada, Law Commission of Canada, Restoring Dignity, 151, 178. 126. Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/ IRS%20Settlement%20Agreement-%20ENGLISH.pdf. 127. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510. 128. TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-3975. 129. Canada, Statistics Canada, Adult Correctional Services in Canada 1995­1996, http://www.statcan. gc.ca/pub/85-002-x/85-002-x1997004-eng.pdf; Canada, Statistics Canada, Adult Correctional Services in Canada 2011­2012, http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng. htm#a5. 130. Canada, Statistics Canada, Adult Correctional Services in Canada, 2011­2012, http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5. 131. Canada, Statistics Canada, Adult Correctional Services in Canada, 2011­2012, http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5. 132. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Long Plain First Nation, Manitoba, 27 July 2010, Statement Number: 01-MB-26JY10-011. 133. TRC, AVS, Daniel Andre, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 23 May 2011, Statement Number: 2011-0202. 134. TRC, AVS, Grace Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-136. 135. Criminal Code, 1985, chapter C-46, section 718.2(e). 136. R. v. Gladue, 1999 CanLII 679 (SCC), para. 58­65. 137. R. v. Gladue, 1999 CanLII 679 (SCC), para. 64. 138. For a description of the process of preparing Gladue reports, see: Istvanffy, Gladue Primer. 139. R. v. Ipeelee, 2012 SCC 13 (CanLII), para. 81, 84. 140. Safe Streets and Communities Act, 2012, chapter 1. 141. There have been some recent cases in which courts have made decisions counter to the mandatory minimum provisions. See, for example: R. v. Smickle, 2012, ONSC 602 (CanLII). 142. Canada, Public Safety Canada, Fetal Alcohol Spectrum Disorder, 5, http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ftl-lchl-spctrm/ftl-lchl-spctrm-eng.pdf. 143. Tait, Fetal Alcohol Syndrome. 144. Tait, Fetal Alcohol Syndrome, xviii.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3456,7 +3245,6 @@ publicsafety.gc.ca/lbrr/archives/cn21451-eng.pdf. 147. R. v. Harris, 2002 BCCA 1
 12section9.pdf. 149. For a study that involved interviews with inmates in a minimum security institution designed
 specifically for Aboriginal inmates, see: Braun, Colonization, Destruction, and Renewal. See also: Waldram, The Way of the Pipe, 129­150; Crutcher and Trevethan, Examination of Healing Lodges, 52. 150. Nielson, "Canadian Aboriginal Healing Lodges." 151. British Columbia, Ministry of Justice, Corrections Branch, Aboriginal Programs and Relationships, Inclusivity, http://www.pssg.gov.bc.ca/corrections/docs/AboriginalStratPlan.pdf. 152. TRC, AVS, Chris Gargan, Statement to the Truth and Reconciliation Commission of Canada, Yellowknife, Northwest Territories, 30 October 2012, Statement Number: 2011-0430. 153. Corrections and Conditional Release Act, SC 1992, chapter 20, http://canlii.ca/t/52db0. 154. Bonta et al., "Risk Prediction," 127. 155. Canada, Statistics Canada, Youth Correctional Services in Canada 2011­2012, http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11917-eng.htm#a5; Canada, Department of Justice, Youth Justice Research, "A One-Day Snapshot," 3. These figures do not include Saskatchewan, which has a high rate of Aboriginal youth incarceration 156. Youth Criminal Justice Act, SC 2002, chapter 1, section 38(1). 157. Canada, Statistics Canada, "Youth Court Statistics 2011/2012," http://www.statcan.gc.ca/daily-quotidien/130613/dq130613d-eng.pdf ); Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011; Canadian Bar Association, Submission on Bill C-10, 8, http://www.cba.org/ cba/submissions/PDF/11-45-eng.pdf. Not all provinces and territories have seen a decrease in youth in correctional services. In fact, since 2005­06, rates have increased in Manitoba, Yukon, and Alberta. Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011, 5. 158. Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011, 7. 159. British Columbia, Office of the Provincial Health Officer, "Health, Crime and Doing Time," http:// www.health.gov.bc.ca/pho/pdf/health-crime-2013.pdf. 160. Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015). 161. TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 22 July 2011, Statement Number: 2011-0326. 162. Canada, Statistics Canada, Violent Victimization of Aboriginal People, http://wgc.ca/pub/85002-x/2011001/article/11415-eng.pdf. 163. Canada, Statistics Canada, Violent Victimization of Aboriginal Women, http://www.statcan.gc.ca/ pub/85-002-x/2011001/article/11439-eng.pdf. 164. Canada, Statistics Canada, Violent Victimization of Aboriginal People, 15, http://wgc.ca/pub/85002-x/2011001/article/11415-eng.pdf; Canada, Statistics Canada, Measuring Violence Against Women, 67; Native Women's Association of Canada, Voices of Our Sisters in Spirit, 6, http://www. nwac.ca/sites/default/files/download/admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3467,7 +3255,6 @@ clean_pagebreak: true
 167. TRC, AVS, Velma Jackson, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 6 January 2011, Statement Number: 01-AB-06JA11-003.
 168. Royal Canadian Mounted Police, Missing and Murdered Aboriginal Women, 3, http://www.rcmp-grc.gc.ca/pubs/mmaw-faapd-eng.pdf.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3480,7 +3267,6 @@ Reconciliation is in the best interests of all of Canada. It is necessary not on
 No Canadian can take pride in this country's treatment of Aboriginal peoples, and, for that reason, all Canadians have a critical role to play in advancing reconciliation in ways that honour and revitalize the nation-to-nation Treaty relationship.
 At the Truth and Reconciliation Commission of Canada's (trc) Traditional Knowledge Keepers Forum held in June 2014, Chief Ian Campbell said, "Our history is your history, as Canada ... until Canada accepts that ... this society will never flourish to its full potential."1
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3492,7 +3278,6 @@ Aboriginal peoples have always remembered the original relationship they had wit
 The destructive impacts of residential schools, the Indian Act, and the Crown's failure to keep its Treaty promises have damaged the relationship between Aboriginal and non-Aboriginal peoples. The most significant damage is to the trust that has been broken between the Crown and Aboriginal peoples. That broken trust must be repaired. The vision that led to that breach in trust must be replaced with a new vision for Canada; one that fully embraces Aboriginal peoples' right to self-determination within, and in partnership with, a viable Canadian sovereignty. If Canadians fail to find that vision, then Canada will not resolve long-standing conflicts between the Crown and Aboriginal peoples over Treaty and Aboriginal rights, lands, and resources, or the education, health, and well-being of Aboriginal peoples. Reconciliation will not be achieved, and neither will the hope for reconciliation be sustainable over time. It would not be inconceivable that the unrest we see today among young Aboriginal people could grow to become a challenge to the country's own sense of well-being and its very security.
 Reconciliation must become a way of life. It will take many years to repair damaged trust and relationships in Aboriginal communities and between Aboriginal and non-Aboriginal peoples. Reconciliation not only requires apologies, reparations, the relearning of Canada's national history, and public commemoration, but also needs real social, political, and economic change. Ongoing public education and dialogue are essential to reconciliation. Governments, churches, educational institutions, and Canadians from all walks of life are responsible for taking action on reconciliation in concrete ways, working collaboratively with Aboriginal peoples. Reconciliation begins with each and every one of us.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3504,7 +3289,6 @@ Of equal importance, non-Aboriginal children and youth need to comprehend how th
 The Royal Commission on Aboriginal Peoples
 In the summer of 1990, at Oka, Québec, the Mohawks of Kanesatake, the government of Québec, the Québec provincial police, and the Canadian military became embroiled in a violent confrontation over the town's plan to develop a golf course on Mohawk burial grounds located in a forested area known as "The Pines." The Mohawks' claim to that land and demands for the recognition of their traditional territory had gone unheeded for years by the federal government. The resulting confrontation, according to historian J. R. Miller, was "proof of Canada's failed Indian [land] claims policy."3 What had begun as a peaceful act of resistance by Mohawk people defending their lands took a violent turn.4 The "Oka crisis," as it became widely known in the media, led to a seventy-eight-day standoff and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3518,7 +3302,6 @@ The Royal Commission emphasized that Aboriginal peoples' right to self-determina
 In the years following the release of the rcap report, developing a national vision of reconciliation has proved to be challenging. In principle, Aboriginal peoples, governments, and the courts agree that reconciliation is needed. In practice, it has been difficult to create the conditions for reconciliation to flourish.
 The Indian Residential Schools Settlement Agreement, including the creation of the Truth and Reconciliation Commission of Canada, was an attempt to resolve the thousands of lawsuits brought against the government for cases of historical abuse. Its implementation has also been challenging. Canada and the churches have made apologies to Survivors, their families, and communities. Yet, Canadian government actions continue
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3531,7 +3314,6 @@ The Commission concurs with the view of S. James Anaya, un Special Rapporteur on
 It is perhaps best to understand the Declaration and the right of self-determination it affirms as instruments of reconciliation. Properly understood, self-determination is an animating force for efforts toward reconciliation--or, perhaps, more accurately, conciliation--with peoples that have suffered oppression at the hands of others. Self-determination requires confronting and reversing the legacies of empire, discrimination, and cultural suffocation. It does not do so to condone vengefulness or spite for past evils, or to foster divisiveness but rather to build a social and political order based on relations of mutual understanding and respect. That is what the right of self-determination of indigenous peoples, and all other peoples, is about.9
 Canada, as a member of the United Nations, initially refused to adopt the Declaration. It joined the United States, Australia, and New Zealand in doing so. It is not coincidence that all these nations have a common history as part of the British Empire. The historical
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3545,7 +3327,6 @@ Taking, in consultation and cooperation with indigenous peoples, appropriate mea
 The "Outcome Document" represented an important step forward with regard to implementing the Declaration in practical terms. The development of national action plans, strategies, and other concrete measures will provide the necessary structural and institutional frameworks for ensuring that Indigenous peoples' right to self-determination is realized across the globe.
 Canada issued a formal statement at the wcip, objecting to certain paragraphs of the document related to the principle of obtaining the "free, prior and informed consent" (fpic) of Indigenous peoples when states are making decisions that will affect their rights or interests, including economic development on their lands. Canada said,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3558,7 +3339,6 @@ Reflecting on the importance of the Declaration to First Nations, Inuit, and Mét
 We have struggled for generations for recognition of our rights. We have fought for our survival, dignity and well-being, and the struggle continues. Canada's denial of First Nations' land rights falls well short of the minimum standards affirmed by the Declaration and demonstrates a clear failure by Canada to implement its human rights obligations. Prime Minister Harper's apology for Canada's role in the Indian Residential Schools acknowledged that the policy of assimilation was wrong and has no place in our country. Yet Canada's policy of denying Aboriginal title and rights is premised on the same attitude of assimilation. It is time for this attitude and the policies that flow from it to be cast aside. The Declaration calls for the development of new relationships based on recognition and respect for the inherent human rights of Indigenous peoples.15
 The trc considers "reconciliation" to be an ongoing process of establishing and maintaining respectful relationships at all levels of Canadian society. The Commission therefore believes that the United Nations Declaration on the Rights of Indigenous Peoples is the appropriate framework for reconciliation in twenty-first-century Canada. Studying the Declaration with a view to identifying its impacts on current government laws, policy, and behaviour would enable Canada to develop a holistic vision of reconciliation that embraces
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3572,7 +3352,6 @@ Calls to Action
 43) We call upon federal, provincial, territorial, and municipal governments to fully adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples as the framework for reconciliation.
 44) We call upon the Government of Canada to develop a national action plan, strategies, and other concrete measures to achieve the goals of the United Nations Declaration on the Rights of Indigenous Peoples.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3585,7 +3364,6 @@ What were the objectives of those empire policies? Assimilation, integration, ci
 From 2010 to 2014, the United Nations Permanent Forum on Indigenous Issues undertook a number of studies and reports on the Doctrine of Discovery. During this same time period, the Settlement Agreement churches also began to examine the Christian thinking that had justified taking Indigenous lands and removing children from their families and communities. Writing about the Roman Catholic foundations of Aboriginal land claims in Canada, historian Jennifer Reid explains why the Doctrine remains relevant today.
 Most non-Aboriginal Canadians are aware of the fact that Indigenous peoples commonly regard land rights as culturally and religiously significant. Fewer nonnatives, I suspect, would consider their own connection with property in the same light, and fewer still would regard the legal foundation of all land rights in Canada as conspicuously theological. In fact, however, it is. The relationship between law and land in Canada can be traced to a set of fifteenth-century theological assumptions that have found their way into Canadian law.... The Doctrine of Discovery was the legal means by which Europeans claimed rights of sovereignty, property, and trade in regions they allegedly discovered during the age of expansion. These claims were made without consultation or engagement of any sort with the resident populations in these territories--the people to whom, by any sensible account, the land actually
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3598,7 +3376,6 @@ For many, that Catholic statement was inadequate. The doctrine's influence in We
 In 2014, the North American representative to the un Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the "Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress." The study concluded:
 With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an "abrogation process took place over the centuries" to invalidate such nefarious actions. Such papal renunciations do not go far enough. There is a pressing
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3614,7 +3391,6 @@ In February 2012, the Executive Committee of the World Council of Churches (wcc)
 The United Church of Canada responded to this call. At its meeting in March 2012, the Executive of the General Council of the United Church "agreed unanimously to disown the Doctrine of Discovery, a historical concept which has been used to rationalize the enslavement and colonization of Indigenous peoples around the world."28
 At the eleventh session of the un Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery. The statement said that "while churches have begun to repudiate this racist doctrine, States around the world have not." It recommended that states, in conjunction with Indigenous peoples, undertake legal and policy reform to remove "any remnants of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3628,7 +3404,6 @@ We recognize the Doctrine of Discovery and its long-term effects on our peoples 
 The Doctrine of Discovery and the related concept of terra nullius underpin the requirement for Aboriginal peoples to prove their pre-existing occupation of the land in court cases or to have their land and resource rights extinguished in contemporary Treaty and land-claims processes. Such a requirement does not conform to international law or contribute to reconciliation. Such concepts are a current manifestation of historical wrongs and should be formally repudiated by all levels of Canadian government.
 Our intention in so concluding is to highlight that there is an important distinction to be drawn between the Doctrine of Discovery and its related concepts and the several inherently unjust policies, laws, and principles to which they have given rise over the years. It would not be enough to simply repudiate the Doctrine of Discovery, for example, while still maintaining the requirement for Aboriginal people to prove the validity of their existence and territoriality. We would not suggest that the repudiation of the Doctrine of Discovery necessarily gives rise to the invalidation of Crown sovereignty. The Commission accepts that there are other means to establish the validity of Crown sovereignty without undermining the important principle established in the Royal Proclamation of 1763, which is that the sovereignty of the Crown requires that it recognize and deal with Aboriginal title in order to become perfected. It must not be forgotten that the terms of the Royal Proclamation were explained to, and accepted by, Indigenous leaders during the negotiation of the Treaty of Niagara of 1764.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3644,7 +3419,6 @@ The Royal Proclamation of 1763 and Treaty of Niagara, 1764
 The history of Treaty making in Canada is contentious. Aboriginal peoples and the Crown have interpreted the spirit and intent of the Treaties quite differently. Generally, government officials have viewed the Treaties as legal mechanisms by which Aboriginal peoples ceded and surrendered their lands to the Crown. In contrast, First Nations, Inuit, and Métis peoples understand Treaties as a sacred obligation that commits both parties to maintain respectful relationships and share lands and resources equitably.
 Indigenous peoples have kept the history and ongoing relevance of the Treaties alive in their own oral histories and legal traditions. Without their perspectives on the history of Treaty making, Canadians know only one side of this country's history. This story cannot simply be told as the story of how Crown officials unilaterally imposed Treaties on Aboriginal peoples; they were also active participants in Treaty negotiations.33 The history and interpretation of Treaties and the Aboriginal­Crown relationship as told by Indigenous
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3658,7 +3432,6 @@ The Proclamation uncomfortably straddled the contradictory aspirations of the Cr
 The Royal Proclamation was ratified by over 2,000 Indigenous leaders who had gathered at Niagara in the summer of 1764 to make a Treaty with the Crown.36 The Treaty negotiations, like earlier trade and peace and friendship Treaties, were conducted in accordance with Indigenous law and diplomatic protocol. John Borrows presents evidence that Aboriginal peoples, some fifty-four years after the Treaty of Niagara was negotiated and ratified, still remembered the promises that were made by the Crown. In 1818, a Crown representative, Captain Thomas G. Anderson, gave the following account of a meeting between Anishinaabe peoples and the Crown at Drummond Island in Lake Huron.
 The Chiefs did decamp, laying down a broad Wampum Belt, made in 1764.... Orcata [an Anishinaabe] speaker ... holding the Belt of 1764 in his hand ... said: Father, this my ancestors received from our Father, Sir. W. Johnson. You sent word to all your red children to assemble at the crooked place (Niagara). They heard your voice--obeyed the message--and the next summer met you at the place. You then laid this belt on a mat, and said--`Children, you must all touch this Belt of Peace. I touch it myself, that we may all be brethren united, and hope our friendship will never cease. I will
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3672,7 +3445,6 @@ This extraordinary document is part of the legal foundation of Canada. It is ens
 Across the country, Indigenous peoples also commemorated the anniversary, calling on Canadians to honour the spirit and intent of the Royal Proclamation. In British Columbia, where very few Treaties were signed, the First Nations Summit leaders issued a statement reminding Canadians that the principles set out in the proclamation were still relevant in present-day Canada. They said,
 With Confederation, the First Nations­Crown relationship has regrettably been guided by federal control under the constraints of the Indian Act, not by the principles articulated in the Proclamation.... The time has arrived for all Canadians to move into an era of recognition and reconciliation between First Nations and the Crown. Although there is general recognition of Aboriginal title and rights, far
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3686,7 +3458,6 @@ Call to Action
 45) We call upon the Government of Canada, on behalf of all Canadians, to jointly develop with Aboriginal peoples a Royal Proclamation of Reconciliation to be issued by the Crown. The proclamation would build on the Royal Proclamation of 1763 and the Treaty of Niagara of 1764, and reaffirm the nation-to-nation relationship between Aboriginal peoples and the Crown. The proclamation would include, but not be limited to, the following commitments:
 i. Repudiate concepts used to justify European sovereignty over Indigenous lands and peoples such as the Doctrine of Discovery and terra nullius.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3706,7 +3477,6 @@ v. Enabling those excluded from the Settlement Agreement to sign onto the Covena
 vi. Enabling additional parties to sign onto the Covenant of Reconciliation.
 Governments at all levels of Canadian society must also commit to a new framework for reconciliation to guide their relations with Aboriginal peoples.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3723,7 +3493,6 @@ iii. Engaging in ongoing public dialogue and actions to support the United Natio
 iv. Issuing a statement no later than March 31, 2016, from all religious denominations and faith groups, as to how they will implement the United Nations Declaration on the Rights of Indigenous Peoples.
 49) We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and terra nullius.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3735,7 +3504,6 @@ To this point, the country's civil laws continued to overlook the truth that the
 Failure to recognize such truths hinders reconciliation. Many Aboriginal people have a deep and abiding distrust of Canada's political and legal systems because of the damage they have caused. They often see Canada's legal system as being an arm of a Canadian governing structure that has been diametrically opposed to their interests. Not only has Canadian law generally not protected Aboriginal land rights, resources, and governmental authority, despite court judgments, but it has also allowed, and continues to allow, the removal of Aboriginal children through a child-welfare system that cuts them off from their culture. As a result, law has been, and continues to be, a significant obstacle to reconciliation. This is the case despite the recognition that courts have begun to show that justice has historically been denied and that such denial should not continue. Given these circumstances, it should come as no surprise that formal Canadian law and Canada's legal institutions are still viewed with suspicion within many Aboriginal communities.
 Yet, that is changing. Court decisions since the repatriation of Canada's Constitution in 1982 have given hope to Aboriginal people that the recognition and affirmation of their existing Treaty and Aboriginal rights in Section 35 of the Constitution Act, 1982 may be an important vehicle for change. However, the view of many Aboriginal people is that the utilization of the Government of Canada's court is fraught with danger. Aboriginal leaders and communities turn to Canada's courts literally because there is no other legal mechanism.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3748,7 +3516,6 @@ The United Nations Declaration on the Rights of Indigenous Peoples and the un "O
 Indigenous peoples have the right to access to and prompt decision through just and fair procedures for the resolution of conflicts and disputes with States or other parties, as well as to effective remedies for all infringements of their individual and collective rights. Such a decision shall give due consideration to the customs, traditions, rules and legal systems of the indigenous peoples concerned and international human rights.44
 In 2013, the un Expert Mechanism on the Rights of Indigenous Peoples issued a study, "Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples." It made several key findings that are relevant to Canada. The international study noted that states and Indigenous peoples themselves have a critical role to play in implementing Indigenous peoples' access to justice. Substantive changes are required within the criminal legal system and in relation to Indigenous peoples' rights to their lands, territories, and natural resources; political self-determination; and community well-being.45 The study made several key findings and recommendations, including the following:
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3764,7 +3531,6 @@ Indigenous peoples should explore the organization and running of their own trut
 These conclusions are consistent with this Commission's own views. We also concur with the 2014 report issued by S. James Anaya, the United Nations Special Rapporteur on the Rights of Indigenous Peoples, about the state of Canada's relationship with Indigenous peoples. He concluded that the
 Government of Canada has a stated goal of reconciliation, which the Special Rapporteur heard repeated by numerous government representatives with whom he met. Yet even in this context, in recent years, indigenous leaders have expressed concern that progress towards this goal has been undermined by actions of the Government that limit or ignore the input of indigenous governments and representatives in various decisions that concern them.... [D]espite positive steps, daunting challenges remain. Canada faces a continuing crisis when it comes to the situation of indigenous peoples of the country. The well-being gap between aboriginal and non-aboriginal people in Canada has not narrowed over the last several years, treaty and aboriginal claims remain persistently unresolved, indigenous women and girls remain vulnerable to abuse, and overall there appear to
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3779,7 +3545,6 @@ We have concluded that the right of self-government cannot reasonably be exercis
 The problem is that the historical Aboriginal nations were undermined by disease, relocations and the full array of assimilationist government policies. They were fragmented into bands, reserves and small settlements. Only some operate as collectivities now. They will have to reconstruct themselves as nations.49
 We endorse the approach recommended by the Royal Commission.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3791,7 +3556,6 @@ There are diverse sources of Indigenous law that hold great insight for pursuing
 The ajr report concluded that many more Aboriginal communities across the country would benefit from recovering and revitalizing their laws. Doing so would enable First Nations, Inuit, and Métis communities to remedy community harms and resolve internal conflicts as well as external conflicts with governments more effectively. Professor Val Napoleon, the project's academic lead, and Hadley Friedland, the project coordinator, said,
 We believe there is much hope that even the process of intentionally and seriously continuing ... [this work] will contribute to a truly robust reconciliation in Canada.... This work is vital for the future health and strength of Indigenous societies and has much to offer Canada as a whole.... Legal traditions are not only prescriptive, they are descriptive. They ascribe meaning to human events, challenges and aspirations. They are intellectual resources that we use to frame and interpret information, to reason through and act upon current problems and projects, to work toward our greatest societal aspirations. Finding ways to support Indigenous communities to access, understand and apply their own legal principles today is not just about repairing
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3806,7 +3570,6 @@ Survivors are more than just victims of violence. They are also holders of Treat
 The Commission agrees with Anishinaabe scholar and activist Leanne Simpson, who has urged Canadians not to think about reconciliation in narrow terms or to view Survivors only as victims. She said:
 If reconciliation is focused only on residential schools rather than the broader set of relationships that generated policies, legislation, and practices aimed at assimilation and political genocide, then there is a risk that reconciliation will "level the playing field" in the eyes of Canadians.... I also worry that institutionalization of a narrowly defined "reconciliation" subjugates treaty and nation-based participation by locking our Elders--the ones that suffered the most directly at the hands of the residential school system--into a position of victimhood. Of course, they are anything but victims. They are our strongest visionaries and they inspire us to vision alternative futures.53
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3819,7 +3582,6 @@ From the early 1990s onward, Aboriginal people and their supporters had been cal
 Although societal empathy for Aboriginal victims of abuse in residential schools is important, this alone will not prevent similar acts of violence from recurring in new institutional forms. There is a need for a clear and public recognition that Aboriginal peoples must be seen and treated as much more than just the beneficiaries of public good will. As holders of Treaty, constitutional, and human rights, they are entitled to justice and accountability from Canada to ensure that their rights are not violated.
 In his initial report, tabled in August of 2012, Pablo de Greiff, the first un Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical. Such measures enable victims of state violence to develop some confidence in the legitimacy
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3833,7 +3595,6 @@ From the outset, this Commission has emphasized that reconciliation is not a one
 The children and grandchildren of Survivors needed to hear the truth about what happened to their parents and grandparents in the residential schools. At the Commission's public events, many Survivors spoke in the presence of their children and grandchildren for the first time about the abuses they had suffered as children, and about the destructive ways of behaving they had learned at residential school. Many offered their own heartfelt apologies to their families for having been abusive, or unable to parent, or simply to say "I love you."
 Apologies are important to victims of violence and abuse. Apologies have the potential to restore human dignity and empower victims to decide whether they accept an apology or forgive a perpetrator. Where there has been no apology, or one that victims believe tries to justify the behaviour of perpetrators and evade responsibility, reconciliation is difficult, if not impossible, to achieve. The official apologies from Canada and the churches sent an important message to all Canadians that Aboriginal peoples had suffered grievous harms at the hands of the state and church institutions in the schools, and that, as the parties
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3848,7 +3609,6 @@ In every region of the country, Survivors and others have sent a strong message,
 Canada's apology
 June 11, 2008, was an important day for the Aboriginal peoples of Canada, and for the country as a whole. It has come to be known as the "Day of the Apology," the day when Prime Minister Stephen Harper, and the leaders of all other federal political parties, formally apologized in the House of Commons for the harms caused by the residential school system. In their presentations to the trc, many Survivors clearly recalled the day of the apology. They recalled where they were, who they were with, and, most importantly, how they felt. Many spoke of the intense emotions they had when they heard the prime minister acknowledge that it had been wrong for the government to have taken them away from their families for the purpose of "killing the Indian" in them. They talked of the tears that fell when they heard the words "We are sorry."
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3860,7 +3620,6 @@ I think as was heard here, what I'm so grateful for is that there's a growing ex
 The report of the Royal Commission on Aboriginal Peoples noted that for some time after settler contact, the relationship between Aboriginal and non-Aboriginal peoples had been one of mutual support, co-operation, and respect. Despite incidents of conflict, Aboriginal peoples' acceptance of the arrival of Europeans, and their willingness to participate with the newcomers in their economic pursuits, to form alliances with them in their wars, and to enter into Treaty with them for a variety of purposes, showed a wish to coexist in a relationship of mutual trust and respect.60 That aspect of the relationship was confirmed on the non-Aboriginal side by evidence such as the Royal Proclamation of 1763 and the Treaty of Niagara of 1764, as discussed earlier.
 The trust and respect initially established ultimately were betrayed. Since Confederation in 1867, the approach of successive Canadian federal governments to the Crown's fiduciary obligation to provide education for Aboriginal peoples has been deeply flawed. Equally important, the consequences of this broken trust have serious implications well beyond residential schools. The trust relationship and Canada's particular obligation to uphold the honour of the Crown with regard to Aboriginal peoples goes to the very heart of the relationship itself.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3872,7 +3631,6 @@ In Manitoba Métis Nation Inc. v. Canada (Attorney General) (2013), the Métis Nat
 broad purpose of S. 31 of the Manitoba Act was to reconcile the Métis community with the sovereignty of the Crown and to permit the creation of the province of Manitoba. This reconciliation was to be accomplished by a more concrete measure-- the prompt and equitable transfer of the allotted public lands to the Métis children. [para. 98]
 Ruling in favour of the Manitoba Métis Nation, the court observed that their "submissions went beyond the argument that the honour of the Crown gave rise to a fiduciary duty, raising the broader issue of whether the government's conduct generally comported with the honour of the Crown" (para. 87). The court found that although Section 31 promised that land grants to Métis peoples would be implemented "in the most effectual and equitable manner," this did not happen. "Instead, the implementation was ineffectual and inequitable. This was not a matter of occasional negligence, but of repeated mistakes and inaction that persisted for more than a decade. A government sincerely intent on fulfilling the duty that its honour demanded could and should have done better" (para. 128).
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3885,7 +3643,6 @@ The Crown's position as a fiduciary with regard to Aboriginal peoples is clearly
 Upholding the honour of the Crown, and disputing a legal challenge to an official's or department's action or decision, can sometimes give rise to conflicting legal obligations.
 In the Commission's view, those legal opinions should be available, as of right and upon request, to Aboriginal peoples, for whom the Crown is a fiduciary. Canadian governments and their law departments have a responsibility to discontinue acting as though they are in an adversarial relationship with Aboriginal peoples and to start acting as true fiduciaries. Canada's Department of Justice must be more transparent and accountable to Aboriginal peoples; this includes sharing their legal opinions on Aboriginal rights. As noted above, there is precedent for making this change. Not only has the United States Department of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3901,7 +3658,6 @@ Call to Action
 i. Aboriginal title claims are accepted once the Aboriginal claimant has established occupation over a particular territory at a particular point in time.
 ii. Once Aboriginal title has been established, the burden of proving any limitation on any rights arising from the existence of that title shifts to the party asserting such a limitation.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3915,7 +3671,6 @@ I was there at the apology. I thought I was on my way to reconciliation when I h
 A government apology sends a powerful symbolic message to citizens that the state's actions were wrong.67 As important as Canada's apology was, it did not simply mark a closure of the past. It also created an opening for Canadians to begin a national dialogue about restoring Aboriginal peoples to a just and rightful place within Canada. In their evaluation of where things stood in the years immediately following the apology, Aboriginal leaders identified a post-apology gap between the aspirational language of Canada's apology and Aboriginal peoples' continuing realities. Closing this gap is vital to reconciliation.
 Speaking to the Senate on June 11, 2009, the first anniversary of Canada's apology, Assembly of First Nations National Chief Phil Fontaine, who is also a Survivor, said,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3928,7 +3683,6 @@ Reconciliation must mean real change for all of our people in all the places we 
 National reconciliation involves respecting differences and finding common ground to build a better future together. Whether Survivors' hopes on the day of Canada's apology will ultimately be realized rests on our ability to find that common ground.
 Therefore, we believe that all levels of government must make a new commitment to reconciliation and accountability. The federal government, First Nations, Inuit, and Métis peoples, and all Canadians will benefit from the establishment of an oversight body that will have a number of objectives, including assisting discussions on reconciliation and making regular reports that evaluate progress on commitments to reconciliation. Progress on reconciliation at all other levels of government and civil society organizations also needs vigilant attention and measurement to determine improvements. In terms of public
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3946,7 +3700,6 @@ iv. Promote public dialogue, public/private partnerships, and public initiatives
 i. The number of Aboriginal children--including Métis and Inuit children--in care, compared with non-Aboriginal children, the reasons for apprehension, and the total spending on preventive and care services by child-welfare agencies.
 ii. Comparative funding for the education of First Nations children on and off reserves.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3964,7 +3717,6 @@ Call to Action:
 Church apologies
 There is an old and well-accepted adage that states, "It takes a village to raise a child." The removal of Aboriginal children from their villages was seen as a necessary step in the achievement of assimilation. However, not only did the Government of Canada take the children from their homes, but it also then proceeded to destroy the cultural and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3980,7 +3732,6 @@ The effects of this spiritual violence have been profound and did not end with t
 At the Saskatchewan National Event, Survivor and Elder Noel Starblanket, National Chief of the National Indian Brotherhood (later the Assembly of First Nations), talked about the intergenerational spiritual impacts of the residential schools. He said, "My great-grandfather ... was the first one to be abused by these churches and by these governments, and they forced his children into an Indian residential school and this began that legacy. They called him a pagan, a heathen ... and that was in the late 1800s. So I've been living with that in my family since then."70
 That Christians in Canada, in the name of their religion, inflicted serious harms on Aboriginal children, their families, and communities was in fundamental contradiction to what they purported to be their core beliefs. For the churches to avoid repeating their failures of the past, understanding how and why they perverted Christian doctrine to justify their actions is a critical lesson to be learned from the residential school experience.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -3993,7 +3744,6 @@ Given the sufferings that some indigenous children experienced in the Canadian R
 The media reported that National Chief Fontaine and other Aboriginal leaders who had met with the Pope said that the statement was significant for all Survivors. Fontaine told CBC News that although it was not an official apology, he hoped that the Pope's statement of regret would bring closure to the issue for residential school survivors. "The fact that the word `apology' was not used does not diminish this moment in any way," he said. "This experience gives me great comfort."72
 The Pope's statement of regret was significant to those who were present, and was reported widely in the media, but it is unclear what, if any, impact it had on Survivors, and their families and communities, who were not able to hear the Pope's words themselves. Many Survivors raised the lack of a clear Catholic apology from the Vatican as evidence that the Catholic Church still has not come to terms with its own wrongdoing in residential
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4006,7 +3756,6 @@ He directly addressed those who were abused as children by church clergy:
 You have suffered grievously and I am truly sorry. I know that nothing can undo the wrong you have endured. Your trust has been betrayed and your dignity has been violated. Many of you found that, when you were courageous enough to speak of what happened to you, no one would listen. Those of you who were abused in residential institutions must have felt that there was no escape for your sufferings. It is understandable that you find it hard to forgive or be reconciled with the Church. In her name, I openly express the shame and remorse that we all feel. At the same time, I ask you not to lose hope.... Speaking to you as a pastor concerned for the good of all God's children, I humbly ask you to consider what I have said ... [and that] you will be able to find reconciliation, deep inner healing and peace.74
 In Canada, for more than a century, thousands of First Nations, Inuit, and Métis children were subjected to spiritual, emotional, physical, and sexual abuse in Catholic-run residential schools. Other than a small private audience with Pope Benedict XVI in 2009, the Vatican has remained silent on the Roman Catholic Church's involvement in the Canadian residential school system. During the Commission's hearings, many Survivors told us that they knew that the Pope had apologized to Survivors of Catholic-run schools in Ireland. They wondered why no similar apology had been extended to them. They said: "I did not hear the Pope say to me, `I am sorry.' Those words are very important to me ... but he didn't say that to the First Nations people."75
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4021,7 +3770,6 @@ The apologies don't come readily. They don't come easily. And when we heard the 
 You know, our work is just beginning and we're going to hold the church's feet to the fire, other churches and Canada to make sure that this whole exercise of healing goes on for as long as it takes for us to recover from the impacts of our experiences in those residential schools.
 The other issue that comes up that we are addressing is having our native spiritual practice condemned initially not just by the United Church but all churches ... well, we now have our church supporting Native spiritual gatherings and we're going to
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4035,7 +3783,6 @@ Honouring Indigenous spirituality
 Many Survivors told the Commission that reconnecting with traditional Indigenous spiritual teachings and practices has been essential to their healing, with some going so far as to say "it saved my life." One Survivor said, "The Sun Dances and all the other teachings, the healing lodges, sweat lodges ... I know that's what helped me keep my sanity; to keep me from breaking down and being a total basket case. That's what has helped me-- the teachings of our Aboriginal culture and language."78 Losing the connections to their languages and cultures in the residential schools had devastating impacts on Survivors, their families, and communities. Land, language, culture, and identity are inseparable from spirituality; all are necessary elements of a whole way of being, of living on the land as Indigenous peoples. As Survivor and Anishinaabe Elder Fred Kelly has explained,
 To take the territorial lands away from a people whose very spirit is so intrinsically connected to Mother Earth was to actually dispossess them of their very soul and being; it was to destroy whole Indigenous nations. Weakened by disease and separated from their traditional foods and medicines, First Nations peoples had no
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4047,7 +3794,6 @@ Our Elders taught us that language is the soul of the nation, and the sound of o
 Spiritual fear, confusion, and conflict are the direct consequences of the violence with which traditional beliefs were stripped away from Indigenous peoples. This turmoil gives particular urgency to understanding the role of Canada's churches in effecting reconciliation with Indigenous peoples. A number of Survivors spoke to us about the many contradictions they now see between their adult knowledge of Christian ethics and biblical teachings and how they were treated in the schools. These contradictions indicate the spiritual fear and confusion that so many Survivors have experienced. Children who returned home from the residential schools were unable to relate to families who still spoke their traditional languages and practised traditional spirituality. Survivors who wanted to learn the spiritual teachings of their ancestors were criticized and sometimes ostracized by their own family members who were Christian, and by the church. Survivors and their relatives reported that these tensions led to family breakdown--such is the depth of this spiritual conflict. The cumulative impact of the residential schools was to deny First Nations, Inuit, and Métis peoples their spiritual birthright and heritage. In our view, supporting the right of Indigenous peoples to self-determination in spiritual matters must be a high priority in the reconciliation process. To be consistent with the United Nations Declaration, Indigenous peoples, who were denied the right to practise and teach their own spiritual and religious beliefs and traditions, must now be able to do so freely and on their own terms.81 For many, this is not easily done.
 Many Survivors and their families continue to live in spiritual fear of their own traditions. Such fear is a direct result of the religious beliefs imposed on them by those who ran the residential schools. This long-internalized fear has spanned several generations and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4061,7 +3807,6 @@ All religious denominations in Canada must respect this right, but the United, A
 Many Indigenous peoples who no longer subscribe to Christian teachings have found the reclaiming of their Indigenous spirituality important to their healing and sense of identity. Some have no desire to integrate Indigenous spirituality into Christian religious institutions. Rather, they believe that Indigenous spirituality and Western religion should coexist on separate but parallel paths.
 Elder Jim Dumont told the Commission about the importance of non-interference and mutual respect. He said that the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4074,7 +3819,6 @@ Presbyterian Rev. Margaret Mullin (Thundering Eagle Woman) put it this way:
 Can the Rev. Margaret Mullin/Thundering Eagle [W]oman from the Bear Clan be a strong Anishinaabe woman and a Christian simultaneously? Yes I can, because I do not have my feet in two different worlds, two different religions, or two different understandings of God. The two halves of me are one in the same Spirit. I can learn from my grandparents, European and Indigenous Canadian, who have all walked on the same path ahead of me. I can learn from Jesus and I can learn from my Elders.85
 Each of the Settlement Agreement churches has wrestled with the theological challenges and necessary institutional reforms that arise with regard to Indigenous spiritual beliefs and practices. At the same time, Aboriginal church members have taken a leadership role
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4089,7 +3833,6 @@ The United Church has also examined its theological foundations. In a 2006 repor
 Our development of the partnership model was an attempt to move beyond the paternalism and colonialism of 19th century missions. The current work to develop right relations with Aboriginal peoples is an attempt to move beyond a history of colonization and racism. This ongoing struggle to move beyond empire involves the recognition that our theology and biblical interpretation have often supported sexism, racism, colonialism, and the exploitation of creation.... Theologies of empire have understood God and men as separate from and superior to women, Indigenous peoples, and nature.89
 In 2012, the Executive of the General Council reported on the follow-up to the 2006 and 2009 reports on how to re-envision the church's theological purpose and restructure its institutions by shifting from a theology of empire to a theology of partnership.90
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4103,7 +3846,6 @@ On February 18, 2015, the United Church of Canada issued a statement, "Affirming
 In humility, the Church acknowledges its complicity in the degradation of Aboriginal wisdom and spirituality, and offers the following statements from its recent history. In doing so, the Church recognizes with pain that this is a complex and sensitive issue for some within Aboriginal communities of faith, who as a result of our Christianizing work, and the legacy of colonialism, are on a journey to restore harmony and spiritual balance....
 We have learned that `good intentions' are never enough, especially when wrapped in the misguided zeal of cultural and spiritual superiority. Thus, we have learned that we were wrong to reject, discredit, and yes, even outlaw traditional indigenous spiritual practice and ceremony; in amazing circles of grace, as we have begun to listen to the wisdom of the Elders, we have found our own faith enriched and deepened. And we are grateful. We know we have a long journey ahead of us. We are committed to make that journey in humility and partnership, engaging in the healing work of making "whole" our own spirituality, and acknowledging that holding both
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4117,7 +3859,6 @@ In terms of institutional reform, the Canadian Catholic Aboriginal Council, esta
 The Commission notes that all the Settlement Agreement churches have recognized the need to provide theological education and training for Aboriginal church members to take leadership positions within the churches and work in Aboriginal ministry programs. Beginning in 2007, the Churches' Council on Theological Education in Canada held a series of conferences that sought to encourage and deepen the exploration of questions with respect to Indigenous and Christian beliefs and the incorporation of Indigenous cultural and spiritual practices into Christian practices. Through these events, the council also sought to challenge post-secondary institutions to consider how best to prepare theological students for ministry in Canada, in consideration not only of Indigenous people, their culture and spirituality, but also of the need for churches to engage in healing and reconciliation between Aboriginal and non-Aboriginal peoples.
 The Toronto School of Theology made a public commitment to giving the same academic respect to Indigenous knowledge, including traditional Indigenous spiritual teachings, "as [to] traditions of Greek philosophy and modern science."95 This pledge was made
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4132,7 +3873,6 @@ Call to Action
 Church healing and reconciliation projects
 Beginning in the 1990s, the four Settlement Agreement churches began allocating specific funds for community-based healing and reconciliation projects. This work continued under the terms of the Settlement Agreement. Each of the defendant churches agreed to provide and manage funds specifically dedicated to healing and reconciliation. All the churches established committees, including Aboriginal representatives, to review and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4144,7 +3884,6 @@ approve projects. In broad terms, the reconciliation projects funded by the Sett
 The Four Season Cultural Camps of the Serpent River First Nation in Ontario, funded by the Anglican Church, used traditional practices of harvesting, food storage, storytelling, and related ceremonies to promote language and culture.100 The Anglicans also supported a wilderness retreat for young people at the Nibinamik First Nation at Summer Beaver, Ontario. It taught traditional life ways, while instilling a sense of self-confidence in the youth as they successfully completed the activities in the camp.101
 3) Education and relationship building. The Anglican and Roman Catholic churches still have relatively large numbers of Aboriginal members, so many of their initiatives focused on bringing their own Aboriginal and non-Aboriginal members together. The Anglican Church has worked to help build understanding and counter stereotypes among its members through anti-racism training. The Roman Catholic entities were among the core funders of the Returning to Spirit: Residential School Healing and Reconciliation Program. The program brings Aboriginal and non-Aboriginal participants together to gain new insights into the residential school experience and develop new communication and relationship-building skills.102
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4162,7 +3901,6 @@ Much of the current state of troubled relations between Aboriginal and non-Abori
 But education for reconciliation must do even more. Survivors told us that Canadians must learn about the history and legacy of residential schools in ways that change both minds and hearts. At the Manitoba National Event in Winnipeg, Allan Sutherland said,
 There are still a lot of emotions [that are] unresolved. People need to tell their stories.... We need the ability to move forward together but you have to understand
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4176,7 +3914,6 @@ I would like to see action taken as a result of the findings of this Commission.
 Non-Aboriginal Canadians hear about the problems faced by Aboriginal communities, but they have almost no idea how those problems developed. There is little understanding of how the federal government contributed to that reality through residential schools and the policies and laws in place during their existence. Our education system, through omission or commission, has failed to teach this. It bears a large share of the responsibility for the current state of affairs. It became clear over the course of the Commission's work that most adult Canadians have been taught little or nothing about the residential schools. More typically, they were taught that the history of Canada began when the first European explorers set foot in the New World. Nation building has been the main theme of Canada's history curricula for a long time, and Aboriginal peoples, with a few notable exceptions, have been portrayed as bystanders, if not obstacles, to that enterprise.
 Prior to 1970, school textbooks across the country depicted Aboriginal peoples as being either savage warriors or onlookers who were irrelevant to the more important history of Canada: the story of European settlement. Beginning in the 1980s, the history of Aboriginal people was sometimes cast in a more positive light, but the poverty and social dysfunction in Aboriginal communities were emphasized without any historical context to help students understand how or why these happened. This has left most Canadians with the view that Aboriginal people were and are to blame for the situations in which they find
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4189,7 +3926,6 @@ In the Commission's view, all students--Aboriginal and non-Aboriginal--need to l
 Survivors have also said that knowing about these things is not enough. Our public education system also needs to influence behaviour by undertaking to teach our children-- Aboriginal and non-Aboriginal--how to speak respectfully to, and about, each other in the future. Reconciliation is all about respect.
 The Commission's 2012 Interim Report made three recommendations directed at provincial and territorial governments:
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4204,7 +3940,6 @@ These education initiatives are significant, but it will be essential to ensure 
 agreed to additional pan-Canadian work in Aboriginal education to take place over the next two years, which will focus on four key directional ideas: support for Aboriginal students interested in pursuing teaching as a career; development of learning resources on Canadian history and the legacy of Indian Residential Schools that could be used by teacher training programs; sharing of promising practices in Aboriginal education; and ongoing promotion of learning about Indian Residential Schools in K­12 education systems.109
 In regions where curriculum and teacher training on residential schools have been introduced, it will be necessary to build on these early successes and evaluate progress
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4220,7 +3955,6 @@ i. Make age-appropriate curriculum on residential schools, Treaties, and Aborigi
 ii. Provide the necessary funding to post-secondary institutions to educate teachers on how to integrate Indigenous knowledge and teaching methods into classrooms.
 iii. Provide the necessary funding to Aboriginal schools to utilize Indigenous knowledge and teaching methods in classrooms.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4239,7 +3973,6 @@ This is consistent with the United Nations Declaration on the Rights of Indigeno
 Indigenous peoples have the right to the dignity and diversity of their cultures, traditions, histories and aspirations which shall be appropriately reflected in education and public information. [Article 15:1]
 States shall take effective measures, in consultation and cooperation with the indigenous peoples concerned, to combat prejudice and eliminate discrimination and to promote tolerance, understanding and good relations among indigenous peoples and all other segments of society. [Article 15:2]
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4252,7 +3985,6 @@ Feathers of Hope began as a First Nations youth forum but it quickly [became] a 
 Everyone, especially the young people ... need to learn of Canada's history, of our past, to truly try and understand our present. This needs to be taught in school, but it also needs to be heard first-hand from our family, our friends, and our other community members. This will begin the journey of healing together as a family or as a community because we can no longer live [with] a silence that hides our pain. So while youth want to know of their past, they are ready to move forward. They understand they need positive change, but they don't want to do this alone. We all need to come together so we can share, so we can grow, and then we can uplift one another, because that's what reconciliation is about.115
 Learning about the residential schools history is crucial to reconciliation, but can be effective only if Canadians also learn from this history in terms of repairing broken trust, strengthening a sense of civic responsibility, and spurring remedial and constructive
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4265,7 +3997,6 @@ For reconciliation to thrive in the coming years, it will also be necessary for 
 Through a trc-sponsored project at the Centre for Youth & Society at the University of Victoria, seven Aboriginal youth researchers embarked on a digital storytelling project, "Residential Schools Resistance Narratives: Strategies and Significance for Indigenous Youth." The project enabled youth researchers to learn about the critical role that resistance and resilience played in the residential schools and beyond, but also allowed them to reflect on their own identities and roles within their families and communities. One youth researcher said that "what started as a research job turned into a personal hunt for knowledge of my own family's history with residential schools." Others noted the importance of respecting and incorporating ceremony and protocols in their digital storytelling projects. Asma Antoine, the project coordinator, reported that the group learned the importance of
 knowing that when speaking to a Survivor ... you have to hear their past before you can hear their understanding of resistance. This project allowed the group [to have] a learning process that weaves [together] traditional [Indigenous] and Western knowledge to build our stories of resistance.... This research project has ignited a fire that shows in each digital story. The passion of resistance that validates the survival
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4280,7 +4011,6 @@ Research partnerships between universities and communities or organizations are 
 Call to Action
 65) We call upon the federal government, through the Social Sciences and Humanities Research Council, and in collaboration with Aboriginal peoples, post-secondary institutions and educators, and the National Centre for Truth and Reconciliation and its partner institutions, to establish a national research program with multi-year funding to advance understanding of reconciliation.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4294,7 +4024,6 @@ The Commission agrees. We believe that children and youth must have a strong voi
 Through direct participation in the trc's National Events, thousands of young people and their teachers across the country had the opportunity to learn about the residential schools and think about their own role and responsibility in reconciliation. The trc's Education Days were designed specifically for elementary and high school students and their teachers. Young people had the opportunity to listen to, and interact with, Elders and Survivors. They attended interactive workshops where they learned about the residential school history, resilience, and healing through the arts--painting, carving, storytelling, music, and film. They visited the Learning Places to walk through the Legacy of Hope Foundation display, "One Hundred Years of Loss," and to see posters and archival photographs of the residential schools from their own region.
 Education Days were well attended. For example, at the British Columbia National Event in Vancouver, approximately 5,000 elementary and high school students from across the province spent the day at the National Event. In advance of Education Day, teachers
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4308,7 +4037,6 @@ So there's a huge disconnect in terms of how the young people view the relevance
 So the curriculum on residential schools, which was previously barely addressed in the classroom, was revised to be a mandatory 25 hours of instruction, of which Ms. Brown and Ms. Tilden's video is a critical component.125
 In October of 2011, the trc­ictj initiative prepared and supported a group of Mi'kmaq youth reporters at the Halifax National Event. They interviewed Survivors and documented the trc event. At a follow-up retreat in the community, the young reporters discussed their experiences and produced a documentary called Our Legacy, Our Hope.126 In 2012, the documentary was presented at the Youth Dialogue during the trc's National Event
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4322,7 +4050,6 @@ Youth Forums and Dialogues are a vital component of education for reconciliation
 Call to Action
 66) We call upon the federal government to establish multi-year funding for community-based youth organizations to deliver programs on reconciliation, and establish a national network to share information and best practices.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4336,7 +4063,6 @@ The Commission emphasizes that several articles under the United Nations Declara
 · States shall provide redress through effective mechanisms which may include restitution, developed in conjunction with indigenous peoples, with respect to their cultural, intellectual, religious and spiritual property taken without their free, prior and informed consent or in violation of their laws, traditions and customs. [Article 11:2]
 · Indigenous peoples have the right to manifest, practise, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect and have access in privacy to their religious and cultural sites; the right to use and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4354,7 +4080,6 @@ e) Repatriating, on request, objects that are sacred or integral to the history 
 f ) Returning human remains to the family, community or nation of origin, on request, or consulting with Aboriginal advisers on appropriate disposition, where remains cannot be associated with a particular nation;
 g) Ensuring that Aboriginal people and communities have effective access to cultural education and training opportunities available through museums and cultural institutions. [Recommendation 3.6.4]135
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4367,7 +4092,6 @@ Appearing before the House of Commons Standing Committee on Canadian Heritage in
 [P]erhaps the most egregious flaw in the Canada Hall is its starting point. If you've been there, you will know that its telling of our national story begins not with the arrival of First Peoples but with the arrival of Europeans in the eleventh century. Colonization as a term or concept is not mentioned in Canada Hall. This is something we intend to correct. Canadians made it very clear to us during the public engagement process that the voices and the experiences of First Peoples must have a place in any narrative of Canadian history.... Canadians want us to be comprehensive, frank and fair in our presentation of their history. They want us to examine both the good and the bad from our past. We were urged to foster a sense of national pride without ignoring our failings, mistakes and controversies.139
 In July 2013, the Canadian Museum of Civilization and its partner, the Canadian War Museum, released a joint research strategy intended to guide the research activities at both institutions until 2023. "Memory and commemoration" is a key research theme;
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4380,7 +4104,6 @@ We are encouraged to note that much of what the museum's research strategy empha
 The Canadian Museum for Human Rights
 As a national public history institution, the new Canadian Museum for Human Rights (cmhr) in Winnipeg is mandated to "explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public's understanding of human rights, to promote respect for others, and to encourage reflection and dialogue."143 Speaking at the trc's Forum on the National Research Centre in Vancouver on March 3, 2011, cmhr President and Chief Executive Officer Stuart Murray talked about the museum's vision for, and role in, national reconciliation. He emphasized the prominent role of the cmhr's First Nations, Inuit, and Métis advisors, as well as the Elders Advisory Council,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4393,7 +4116,6 @@ The museum signalled its intention to create opportunities for Canadians to enga
 Speaking about the forthcoming 2017 commemoration of Canada's Confederation, Murray observed that Canada's human rights record is not unblemished, and that
 for many Aboriginal communities, this is not necessarily an event that warrants celebration. But by looking honestly and openly at our past, by engaging a diversity of voices and perspectives, and by celebrating what has been accomplished to overcome these mistakes, we will serve to make our nation more united, more proud, and more just. We can use this anniversary to continue on a journey of reconciliation.147 The Commission believes that, as Canada's 150th anniversary approaches in 2017, national reconciliation is the most suitable framework to guide commemoration of this significant historical benchmark in Canada's history. This intended celebration can be an opportunity for Canadians to take stock of the past, celebrating the country's accomplishments without shirking responsibility for its failures. Fostering more inclusive public
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4407,7 +4129,6 @@ Calls to Action
 67) We call upon the federal government to provide funding to the Canadian Museums Association to undertake, in collaboration with Aboriginal peoples, a national review of museum policies and best practices to determine the level of compliance with the United Nations Declaration on the Rights of Indigenous Peoples and to make recommendations.
 68) We call upon the federal government, in collaboration with Aboriginal peoples, and the Canadian Museums Association to mark the 150th anniversary of Canadian Confederation in 2017 by establishing a dedicated national funding program for commemoration projects on the theme of reconciliation.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4422,7 +4143,6 @@ Library and Archives Canada has developed various guides and resources related t
 In the case of documents related to residential schools, the problems associated with lac's dual function became apparent during the litigation period prior to the Settlement Agreement. During this time, with regard to its public education mandate, lac produced "Native Residential Schools in Canada: A Selective Bibliography" in 2002, and assisted Aboriginal people, academics, and other researchers who wished to access these holdings.150 But, because the residential schools litigation put the federal government in the position of being the major defendant in the court cases, the overriding priority for lac, as the custodian of federal government departmental records, was to meet its legal obligations to the Crown.
 Librarian and Archivist Emeritus Dr. Ian Wilson, Canada's former national archivist, described this tension. He explained that, as the residential school litigation intensified,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4436,7 +4156,6 @@ The TRC seeks full access to LAC records
 Schedule N to the Indian Residential Schools Settlement Agreement describes the mandate of the trc as well as the obligations of the parties to the Agreement to assist the Commission in its work. There is a provision that deals with the obligation of the parties to provide relevant records to the Commission. It states:
 In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4451,7 +4170,6 @@ In April 2012, the Commission was compelled to file a "Request for Direction" in
 In lac's view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
 Faced with the onerous task of conducting its own research through lac's vast holdings, Canada's position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments. The government's
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4467,7 +4185,6 @@ Second, the Settlement Agreement charged the trc with compiling an historical re
 Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century. In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada's possession would be archived in lac and would no longer be in the active or semi-active files of the departments of the Government of Canada. [para. 74]
 Fourth, it would have been obvious that the experienced staff at lac would have vastly more ability to identify and organize the relevant documents at lac than would the newly hired staff of the newly formed trc. It would have made little sense to give
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4480,7 +4197,6 @@ Library and Archives Canada's federal government departmental records pertaining
 The Joinet-Orentlicher Principles state, "The full and effective exercise of the right to truth is ensured through preservation of archives." Equally important, ready access to the archives must be facilitated for victims and their relatives, and for the purposes of research (principles 5, 14, 15, 16).158
 The Commission notes that in his August 2013 report to the United Nations Human Rights Council, Pablo de Greiff, Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of Non-Recurrence, made specific reference to the importance of archives. He found that both a truth commission's own records and those housed in national, regional, and local archives extend the life and legacy of the truth commission's work. Archives can serve as permanent sites where post-commission accountability and the right to truth can be realized.159 He further explained that archives "are a means of guaranteeing that the voices of victims will not be lost, and they contribute to a culture of memorialisation and remembrance. They also provide a safeguard against revisionism and denial--essential given the long duration and non-linearity of social reconciliation and integration processes."160 He concluded that "truth commissions and national archives contribute in a substantial manner to realizing the right to truth and may further
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4497,7 +4213,6 @@ iii. Commit more resources to its public education materials and programming on 
 i. Determine the level of compliance with the United Nations Declaration on the Rights of Indigenous Peoples and the United Nations Joinet-Orentlicher Principles, as related to Aboriginal peoples' inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
 ii. Produce a report with recommendations for full implementation of these international mechanisms as a reconciliation framework for Canadian archives.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4510,7 +4225,6 @@ Other regional agencies also hold critical information in their records. The trc
 I think it's incredibly important that all of the information comes out about what was a very deeply dark and disturbing event in Canadian history ... residential schools.... I'm here today to add to that body of knowledge on behalf of the government of British Columbia and the Vital Statistics Agency of bc.... The information on this flash drive is information about Aboriginal children between the ages of 4 and 19 years of age who died in British Columbia between the years 1870 and 1984.163
 As of 2014, in addition to the office in British Columbia, vital statistics offices in Alberta, Nova Scotia, Ontario, Saskatchewan, Yukon, and Nunavut had responded to the Commission's request for records. To complete the work begun by the Commission on the National Residential School Student Death Register, it will be critical for the National Centre for Truth and Reconciliation to obtain all records related to the deaths of residential school students.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4527,7 +4241,6 @@ Calls to Action
 74) We call upon the federal government to work with the churches and Aboriginal community leaders to inform the families of children who died at residential schools of the child's burial location, and to respond to families' wishes for appropriate commemoration ceremonies and markers, and reburial in home communities where requested.
 As Commissioners, we have been honoured to bear witness to commemoration ceremonies held by communities to remember and honour children who died in the residential schools. Such ceremonies have played an important role in the reconciliation process. At the Alberta National Event, the board members of the Remembering the Children Society offered an expression of reconciliation. They spoke about the process they undertook to identify children who had died while attending the Red Deer Industrial School. Richard Lightning said,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4541,7 +4254,6 @@ A working group was formed to organize the first [commemoration] feast, which wa
 Charles Wood then said,
 The Society has worked with the museum in developing a new standing exhibit and with the Waskasoo Park administration in the preparation of new interpretive signage at Fort Normandeau regarding the school history. We are grateful for the truth spoken of a painful shared history, the friendships we have formed, and the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4554,7 +4266,6 @@ Call to Action
 As infrastructure and resource development accelerates throughout Canada, the risk of damage to undocumented residential school cemeteries increases. Depending on the jurisdiction, environmental impact assessments, which include the assessment of heritage sites, are usually required prior to development. This generally involves a review of existing documentation, evaluation of the potential for heritage sites within the development zone, and also often a physical search. Such work is often done in phases, with preliminary review of centralized archives and databases to inform subsequent investigation. Local knowledge about residential cemeteries might not be readily accessible to non-local planners, resource managers, and impact assessors. Therefore, it is important that locally collected information is shared with agencies responsible for land-use planning, environmental impact assessment, and protection and regulation of cemeteries.
 Such information sharing is hindered by limited documentation, unclear jurisdictional responsibility, and uncoordinated consolidation of information. These problems could be addressed through the establishment of a registry of residential school cemeteries that could be available online. At a minimum, such a registry should include the identification,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4570,7 +4281,6 @@ ii. Information shall be sought from residential school Survivors and other Know
 iii. Aboriginal protocols shall be respected before any potentially invasive technical inspection and investigation of a cemetery site.
 The Commission believes that assisting families to learn the fate of children who died in residential schools; locating unmarked graves; and maintaining, protecting, and commemorating residential school cemeteries are vital to healing and reconciliation. Archives and government departments and agencies have a crucial role to play in this process. Equally important, archival records can help Survivors, their families, and communities to reconstruct their family and community histories. Yet, accessing such holdings is not without problems.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4584,7 +4294,6 @@ Archives may be viewed with distrust by First Nations, Inuit, and Métis peoples.
 With this understanding, the trc mandate called for the establishment of a new National Research Centre (nrc) to hold all the historical and newly created documents and oral statements related to residential schools, and to make them accessible for the future. This nrc, as created by the Truth and Reconciliation Commission of Canada, and now renamed the National Centre for Truth and Reconciliation (nctr), is an evolving, Survivor-centred model of education for reconciliation. Implementing a new approach to public education, research, and record keeping, the centre will serve as a public memory "site of conscience," bearing permanent witness to Survivors' testimonies and the history and legacy of the residential school system.169 Along with other museums and archives across the country, the centre will shape how the residential school era is understood and remembered.
 The concept of the National Centre for Truth and Reconciliation has deep roots. For many years, Survivors and their supporters called for a centre that would be their lasting legacy
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4597,7 +4306,6 @@ The National Centre for Truth and Reconciliation will play a key educational rol
 The centre will house trc records, including Survivors' oral history statements, artworks, expressions of reconciliation, and other materials gathered by the Commission, as well as government and church documents. It is intended to be a welcoming and safe place for Survivors, their families, and communities to have access to their own history. The centre has committed to creating a culturally rooted and healing environment where all Canadians can honour, learn from, and commemorate the history and legacy of the residential schools.
 Once the centre is fully operational, it will be well positioned to take a leadership role in forging new directions in residential school- and Indigenous rights-based research, establishing new standards and benchmarks for archival and museum policy, management, and operations, based on Indigenous and Western principles and best practices.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4612,7 +4320,6 @@ personally supporting survivors, their families, and all researchers in navigati
 On June 21, 2013, First Nations, Inuit, and Métis Survivors, Elders, the trc, the University of Manitoba and its partner institutions, along with other dignitaries, gathered in Treaty 1 territory of the Anishinaabe peoples and homeland of the Métis Nation for a signing ceremony at the University of Manitoba.178 The signing of a Trust Deed with the university marks the transfer of a sacred trust--a solemn promise that the Truth and Reconciliation Commission made to Survivors and all those affected by the residential schools as it travelled across the country, bearing witness to their testimonies.
 The nctr is committed to making all its holdings readily accessible to Survivors, their families, and communities, as well as to the public, educators, and researchers.179
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4628,7 +4335,6 @@ For Survivors who came forward at the trc's National Events and Community Hearin
 There were other memories too: of resilience; of lifetime friendships forged with classmates and teachers; of taking pride in art, music, or sports accomplishments; of becoming leaders in their communities and in the life of the nation. Survivors shared their memories with Canada and the world so that the truth could no longer be denied. Survivors also remembered so that other Canadians could learn from these hard lessons of the past. They want Canadians to know, to remember, to care, and to change.
 One of the most significant harms to come out of the residential schools was the attack on Indigenous memory. The federal government's policy of assimilation sought to break the chain of memory that connected the hearts, minds, and spirits of Aboriginal children to their families, communities, and nations. Many, but not all, Survivors have found ways
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4643,7 +4349,6 @@ At this point in time, we ask ourselves, "What does that anniversary mean for us
 Reshaping national history is a public process, one that happens through discussion, sharing, and commemoration. As Canadians gather in public spaces to share their memories, beliefs, and ideas about the past with others, our collective understanding of the present and future is formed.182 As citizens, our ideas, world views, cultural identities, and values are shaped not only in classrooms and museums or by popular culture, but also in everyday social relationships and patterns of living that become our way of life.183
 Public memory is dynamic--it changes over time as new understandings, dialogues, artistic expressions, and commemorations emerge. Public memory, much like national history, is often contentious. Although public memory can simply reinforce the colonial story of how Canada began with European settlement and became a nation, the process of remembering the past together also invites people to question this limited version of history.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4656,7 +4361,6 @@ The power of ceremony
 Sacred ceremony has always been at the heart of Indigenous cultures, law, and political life. When ceremonies were outlawed by the federal government, they were hidden away until the law was repealed. Historically and, to a certain degree, even at present, Indigenous ceremonies that create community bonds, sanctify laws, and ratify Treaty making have been misunderstood, disrespected, and disregarded by Canada. These ceremonies must now be recognized and honoured as an integral, vital, ongoing dimension of the truth and reconciliation process.
 Ceremonies also reach across cultures to bridge the divide between Aboriginal and non-Aboriginal peoples. They are vital to reconciliation because of their sacred nature
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4667,7 +4371,6 @@ Ceremonies enable us to set aside, however briefly, our cynicism, doubts, and di
 Those in attendance at trc events learned to acknowledge and respect Indigenous ceremonies and protocols by participating in them. The Commission intentionally made ceremonies the spiritual and ethical framework of our public education work, creating a safe space for sharing life stories and bearing testimonial witness to the past for the future.
 The Commission's National Events were designed to inspire reconciliation and shape individual and collective memory by demonstrating the core values that lie at the heart of reconciliation: respect, courage, love, truth, humility, honesty, and wisdom. These values are known by many Aboriginal peoples as the "Seven Sacred Teachings." They are also in the ancient teachings of most world religions.187 Each National Event focused on one of these teachings. Working closely with local Aboriginal communities and various regional organizations, representatives of the parties to the Settlement Agreement, and other government and community networks, the Commission took great care to ensure that the proper ceremonies and protocols were understood and followed throughout every National Event. Elders offered prayers and teachings at the opening and closing of each event. Smudges, sacred pipe and water ceremonies, cedar brushings, songs, and drumming occurred on a regular basis throughout. At each event, a sacred fire was lit and cared for by Elders and Fire Keepers. Water ceremonies were performed by the women who were recognized as the Protectors of the Waters. The sacred fire was also used for ongoing prayers and tobacco offerings, as well as to receive the tissues from the many tears shed during each event. The ashes from each of the sacred fires were then carried forward to the next National Event, to be added in turn to its sacred fire, thus gathering in sacred ceremony the tears of an entire country.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4680,7 +4383,6 @@ Regardless of the different individual experiences that children had as students
 In providing their testimonies to the trc, Survivors reclaimed their rightful place as members of intergenerational communities of memory. They remembered so that their families could understand what happened. They remembered so that their cultures, histories, laws, and nations can once again thrive for the benefit of future generations. They remembered so that Canada will know the truth and never forget.
 The residential school story is complicated. Stories of abuse stand in sharp contradiction to the happier memories of some Survivors. The statements of former residential school
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4693,7 +4395,6 @@ For Indigenous peoples, stories and teachings are rooted in relationships. Throu
 I never dreamed of learning to listen in such a powerful way. Storytelling, despite all the struggles, enabled me to respect and honour the Ancestors and the storytellers while at the same time sharing tragic, traumatic, inhumanely unbelievable truths that our people had lived. It was this level of integrity that was essential to storytelling.... When we make personal what we teach ... we touch people in a different and more profound way.190
 At a Community Hearing in St. Paul, Alberta, in January 2011, Charles Cardinal explained that although he did not want to remember his residential school experiences, he came forward because "we've got to let other people hear our voices." When he was asked how, given the history of the residential schools, Canada could be a better place, he replied that we must "listen to the people."191 When asked the same question in Beausejour, Manitoba, Laurie McDonald said that Canada must begin by "doing exactly what is happening now ... governments ... [have got to know] that they can never, ever, ever do this again."192 In Ottawa, Survivor Victoria Grant-Boucher said,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4705,7 +4406,6 @@ I have sat through this week having the honour of listening to the stories from 
 Survivors' life stories are teachings rooted in personal experience; the human relationships of their childhoods were scarred by those who harmed them in the schools. Their stories teach us about what it means to lose family, culture, community, self-esteem, and human dignity. They also teach us about courage, resilience, and resistance to violence and oppression. An ethical response to Survivors' life stories requires the listener to respond in ways that recognize the teller's dignity and affirm that injustices were committed. NonIndigenous witnesses must be willing to "risk interacting differently with Indigenous people--with vulnerability, humility, and a willingness to stay in the decolonizing struggle of our own discomfort ... [and] to embrace [residential school] stories as powerful teachings--disquieting moments [that] can change our beliefs, attitudes, and actions."195
 A number of former residential school staff came to the Commission to speak not only about their perspectives on the time they spent at the schools, but also about their struggles to come to terms with their own past. Florence Kaefer, a former teacher, spoke at the Manitoba National Event.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4719,7 +4419,6 @@ My parents were staff members of the Indian residential school in Norway House. 
 At the Atlantic National Event, Mark DeWolf spoke to us about his father, the Reverend James Edward DeWolf, who was the principal at two residential schools: St. Paul's in Alberta and La Tuque in Québec. He said,
 I'm quite hesitant to speak here this morning ... I'm not here to defend my father so much, as to speak part of the truth about the kind of person my father was. I think he was an exemplary principal of an Indian residential school.... Part of the story will be about what I saw around me, what my parents tried to do, however effective that was, however well-intentioned that was, however beneficial or not beneficial it
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4732,7 +4431,6 @@ The mandate of the Truth and Reconciliation Commission describes "reconciliation
 Speaking at the Saskatchewan National Event, trc Honorary Witness and a former member of parliament, the Honourable Tina Keeper, who is also a member of the Norway House Cree Nation, talked about the importance of honouring individual, family, and community relationships and memory, her own emotional involvement in the ratification of the Settlement Agreement, and the struggles surrounding Canada's apology. She underscored the strong contributions that Aboriginal peoples have to make to national healing and reconciliation.
 Yesterday was an incredible opportunity for me personally to let the tears flow, and they flowed all day long. And I didn't do that when I was in the House of Commons.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4745,7 +4443,6 @@ Although some Honorary Witnesses already had significant knowledge of Aboriginal
 When I came to take my place this morning, I knew the storyline, if you will. I knew what had happened. I had some idea of the consequences it [the residential school system] involved, but I had no real idea because I had not been able to witness it before ... the multi-generational emotion that is involved in what has happened to so many of the victims of the residential schools.... [Today] I heard, "We are only as sick as our secrets." That is an incentive to all that have kept these emotions and this history too secret, too long, to show the courage that so many of you have shown, and let those facts be known....
 There are cross-cultural difficulties here as we seek reconciliation, the reconciliation of people who have not been part of this experience with those who have. We are going to deal with cultural differences, but no one wants to be torn away from their roots. And there are common grounds here by which consensus can be built.... Reconciliation means finding a way that brings together the legitimate concerns of the people in this room, and the apprehensions, call them fear ... that might exist elsewhere in the country.... Among the things we have to do is to ensure that not only the stories of abuse as they touch First Nations and Aboriginal people, but also
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4758,7 +4455,6 @@ When I was invited to become an Honorary Witness, I thought I was prepared, havi
 Reconciliation is about Survivors speaking about their experiences, being heard and being believed, but it's also about a national shared history. As Canadians, we must be part of reconciling what we have done collectively with who we believe we are. To do that with integrity and to restore our honour, we must all know the history so we can reunite these different Canadas. 203
 The Commission also heard from a variety of other Aboriginal and non-Aboriginal witnesses from many walks of life. Some were there on behalf of their institution or organization. Some had close personal or professional ties to Aboriginal people, and others had none. Many said that the experience opened their eyes and was powerfully transformative. They commented on how much they had learned by listening to Survivors' life stories. This
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4771,7 +4467,6 @@ At the 2010 Manitoba National Event, Ginelle Giacomin, a high school history tea
 I was talking to a few students before I came this week to do this, and they said, "Well, what do you mean there are Survivors? That was a long time ago. That was hundreds of years ago." To them, this is a page in a history book.... So, I'm so blessed to have spent the past week sitting down one-on-one with Survivors and listening to their stories. And I have heard horrific things and the emotions. It's been very hard to hear. But what every single person I've spoken to has said is that "we are strong." And the strength is one thing that I'll carry with me when I leave. You carry on, and that's something that I want to bring back to my classrooms, is the strength of everyone that I spoke to and their stories. And it is so important for high school students, and all students in Canada, to be talking about this a lot more than they are. I just want to thank everyone involved for doing this, for educating me. I have a history degree in Canadian history. I learned more in the past five days about Canada than I have in three years of that degree.205
 The Commission's seven National Events, by all accounts, provided a respectful space for public dialogue. Over 150,000 Canadians came out to participate in them and in some 300 smaller-scale Community Events. One of the most common words used in describing them was "transformational." It will be up to others to determine their long-term effectiveness, and to judge this model's potential in terms of ongoing public education. However, as Commissioners of the Truth and Reconciliation Commission of Canada, we are both confident and convinced that public dialogue is critical to the reconciliation process.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4784,7 +4479,6 @@ Art is active, and "participation in the arts is a guarantor of other human righ
 Even prior to the establishment of the trc, a growing body of work, including Survivors' memoirs and works of fiction by well-known Indigenous authors, as well as films and plays, have brought the residential school history and legacy to a wider Canadian public, enabling them to learn about the schools through the eyes of Survivors. This body of work includes memoirs such as Isabelle Knockwood's Out of the Depths: The Experiences of Mi'kmaw Children at the Indian Residential School at Shubenacadie, Nova Scotia (1992), to the more recent works of Agnes Grant's Finding My Talk: How Fourteen Native Women Reclaimed Their Lives after Residential School (2004); Alice Blondin's My Heart Shook Like a Drum: What I Learned at the Indian Mission Schools, Northwest Territories (2009); Theodore Fontaine's Broken Circle: The Dark Legacy of Indian Residential Schools: A Memoir (2010); Bev Sellars's They Called Me Number One: Secrets and Survival at an Indian Residential School (2013); and Edmund Metatawabin and Alexandra Shimo's Up Ghost River: A Chief's Journey through the Turbulent Waters of Native History (2014).
 Works of fiction (sometimes drawn from the author's own life experiences), such as Tomson Highway's Kiss of the Fur Queen (1998), Robert Alexie's Porcupines and China Dolls (2009), or Richard Wagamese's Indian Horse (2012), tell stories about abuse, neglect, and loss that are also stories of healing, redemption, and hope. In 2012, the Aboriginal
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4797,7 +4491,6 @@ A notable component of successful healing programs was their diversity-- interve
 The Aboriginal Healing Foundation's findings make clear that creative art practices are highly effective in reconnecting Survivors and their families to their cultures, languages, and communities. In our view, this confirms yet again that funding for community-based healing projects is an urgent priority for Aboriginal communities.
 Art exhibits have played a particularly powerful role in the process of healing and reconciliation. In 2009, nationally acclaimed Anishinaabe artist Robert Houle, who attended the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4809,7 +4502,6 @@ A significant number of the statements gathered by the Commission also came to u
 The Commission funded or supported several arts-related projects. Early in its mandate, the trc sponsored the "Living Healing Quilt Project," which was organized by Anishinaabe quilter Alice Williams from Curve Lake First Nation in Ontario. Women Survivors and intergenerational Survivors from across the country created individual quilt blocks depicting their memories of residential schools. These were then stitched together into three quilts, Schools of Shame, Child Prisoners, and Crimes Against Humanity.
 The quilts tell a complex story of trauma, loss, isolation, recovery, healing, and hope through women's eyes. The sewing skills taught to young Aboriginal girls in the residential schools and passed along to their daughters and granddaughters are now used to stitch together a counter-narrative.213 This project also inspired the "Healing Quilt Project," which linked education and art. At the Manitoba National Event, as an expression of reconciliation, the Women's and Gender Studies and Aboriginal Governance departments at the University of Winnipeg gave the trc a quilt created by students and professors as part
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4823,7 +4515,6 @@ Residential school commemoration projects
 Commemoration should not put closure to the history and legacy of the residential schools. Rather, it must invite citizens into a dialogue about a contentious past and why this history still matters today. Commemorations and memorials at former school sites and cemeteries are visible reminders of Canada's shame and church complicity. They bear witness to the suffering and loss that generations of Aboriginal peoples have endured and overcome. The process of remembering the past together is an emotional journey of contradictory feelings: loss and resilience, anger and acceptance, denial and remorse, shame and pride, despair and hope. The Settlement Agreement identified the historic importance and reconciliation potential of such remembering by establishing a special fund for projects that would commemorate the residential school experience, and by assigning a role in the approval of these projects to the Truth and Reconciliation Commission of Canada.
 As previously noted in this report's section about the Commission's activities, commemoration projects across the country were funded under the terms of the Settlement Agreement. Twenty million dollars were set aside for Aboriginal communities and various
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4835,7 +4526,6 @@ The Commission, advised by the trc Survivor Committee, identified three elements
 Commemorating the life stories of Survivors strengthens the bonds of family and community memory that have been disrupted but not destroyed. Families grieve for all that was lost and can never be recovered. The act of commemoration remembers and honours those who are no longer living and comforts those for whom a history of injustice and oppression is still very much alive. Commemorations can also symbolize hope, signifying cultural revitalization and the reclaiming of history and identity. Even as they grieve, families envision a better future for children and youth and for generations yet unborn.
 The collective memory of Aboriginal peoples lives in places: in their traditional homelands and in the actual physical locations where residential schools once stood.217 On March 24, 2014, the Grand Council of Treaty 3 brought together Survivors, Elders, and others in Kenora, Ontario, for a final ceremony to mark commemorations that were held earlier at each site of the five residential schools that were located in the territory. Monuments had been placed at each of the sites. Richard Green, who coordinated the two-year memorial project, said, "This is a commemoration for all the sites together. This meeting is about honouring all the children and is part of remembering the legacy. Lest we forget, as they say. We can probably forgive, but we can never forget our history." He explained that the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4849,7 +4539,6 @@ The paintings from the Alberni residential school are part of a larger collectio
 There are over 750 paintings in the collection, including 36 paintings from the Alberni residential school. Aller also donated to the university his private papers, and hundreds of photographs, slides, and archival documents that detail his teaching philosophy and approach to art. Aller did not agree with the philosophy behind the residential schools. He saw art as a way to free students from their everyday environment and as a way for them to express their creativity, through either traditionally inspired works, or paintings that used the theories and ideas of the contemporary art world. The paintings from the Alberni residential school portray images of landscapes, people, animals, masks, and traditional stories, as well as some images of the school itself. Most of the artists signed their paintings, putting their age next to their name. In this sense, the children stand out; the anonymity that depersonalizes so much of the residential school history is removed.
 In 2010, University of Victoria's Dr. Andrea Walsh, who was in the early stages of a research project on the art collection, met with the Commissioners and we urged her to begin her research with ceremony. She turned to two Elders from the First Peoples House at the university to guide her in this process: Tousilum (Ron George), who is a residential school Survivor; and Sulsa'meeth (Deb George), his wife. They helped her to reach out to Survivors, Elders, and chiefs in Port Alberni in Nuu-chah-nulth territory when the group travelled there with the paintings. As community members leafed through the paintings drawn by children's hands so many years ago, memories were shared about the artists, the school, and the parents and communities they had left behind.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4863,7 +4552,6 @@ In September 2013, the paintings returned once again to the Learning Place at th
 Canada's public commemoration initiative
 The Commission takes note of the federal government's own national commemoration initiative, which was described as an "expression of reconciliation" when it was publicly
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4875,7 +4563,6 @@ The stories of residential school students were never told in this building, so 
 Because she told me to make it about hope, what I've tried to show in the design is all the positive things I've seen in my life. Despite residential schools, children, adults, and Elders dance in full regalia in celebration of who they are as Indigenous people. We see Métis youth learning fiddling and jigging with pride across the country. We see arenas full of Inuk Elders drum dancing, with little kids running around, speaking Inuktitut. We see whole communities come together in times of joy and in times of great grief. The lodges are growing, the traditional songs are being sung, the ceremonies are being taught, and the ceremonies are still practiced.
 I wish I could show the government that reconciliation has the potential to be so much more. I wish I could convince them that reconciliation is not an unattainable goal, if there's the will and the courage to discard old paternalistic ways of thinking and of behaviour. We need action, and where we need action, don't meet us with silence. Where we need support, don't accuse us of being a burden.... I wish I could speak to the hearts of mps, whether Conservative, or ndp, or Liberal, and let them know that renewal and reconciliation can be found between Aboriginal peoples and the rest of Canada through the sustained wellness of generations of Aboriginal people to come.222
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4887,7 +4574,6 @@ Although Canada's commemorative window was a significant gesture of reconciliati
 As we noted earlier, at the international level, the Joinet-Orentlicher Principles adopted by the United Nations have established that states have a responsibility to take measures to ensure that collective violence against a targeted group of people does not reoccur. In addition to providing compensation, making apologies, and undertaking educational reform, states also have a duty "to remember." Under Principle 2,
 A people's knowledge of the history of its oppression is part of its heritage and, as such, must be preserved by appropriate measures in fulfillment of the State's duty
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4902,7 +4588,6 @@ memorial policies contribute to, in particular ... providing symbolic reparation
 The report recommended that states and relevant stakeholders
 promote critical thinking on past events by ensuring that memorialisation processes are complemented by measures fostering historical awareness and support the implementation and outreach of high-quality research projects, cultural interventions that encourage people's direct engagement and educational activities.... States should ensure the availability of public spaces for a diversity of narratives conveyed in artistic expressions and multiply opportunities for such narratives to engage with each other.... [States must also] take into consideration the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4914,7 +4599,6 @@ The Commission believes that Canada's national heritage network also has a vital
 The study revealed the fundamental tensions that exist between the goals of Aboriginal peoples and Canada with regard to the commemoration of residential schools. Under the existing policies of Parks Canada's Historic Sites and Monuments Board of Canada National Program of Historical Commemoration, residential school sites do not meet the program criteria for heritage designation, which is based on Western heritage values of conservation and preservation.237 For Survivors, their families, and communities, commemorating their residential school experiences does not necessarily involve preserving the school buildings, but is intended instead to contribute to individual and collective healing. For example, a residential school located in Port Alberni, British Columbia, was demolished by Survivors and their families, who burned sage and cedar in ceremonies in order to "cleanse and allow the trapped spirits to finally be freed."238 Where commemoration activities have involved the destruction of a residential school structure, such actions are in direct conflict with Canadian heritage goals.239
 Ultimately, reconciliation requires a paradigm shift in Canada's national heritage values, policies, and practices that focus on conservation and continue to exclude Indigenous history, heritage values, and memory practices, which prioritize healing and the reclaiming of culture in public commemoration.240 For this to happen, Parks Canada's heritage and commemoration policies and programs must change.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4930,7 +4614,6 @@ iii. Developing and implementing a national heritage plan and strategy for comme
 81) We call upon the federal government, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools National Monument in the city of Ottawa to honour Survivors and all the children who were lost to their families and communities.
 82) We call upon provincial and territorial governments, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools Monument in each capital city to honour Survivors and all the children who were lost to their families and communities.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4946,7 +4629,6 @@ The Act did not enshrine Aboriginal language broadcasting as a priority: instead
 The report recommended that the Broadcasting Act be revised to address these gaps. As of 2014, these provisions of the Act remain unchanged.
 As Canada's national public broadcaster, the Canadian Broadcasting Corporation (cbc/ Radio-Canada) is responsible for fulfilling national broadcasting policy. For many years, it has been providing a minimum level of Aboriginal radio and television programming and news, in a few specific regions, including some Aboriginal-language programming, especially in northern Canada. In the Commission's view, the budget cuts to the cbc over the past decade have significantly reduced and further limited its capacity to provide
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4964,7 +4646,6 @@ iii. Continuing to provide dedicated news coverage and online public information
 i. Continuing to provide leadership in programming and organizational culture that reflects the diverse cultures, languages, and perspectives of Aboriginal peoples.
 ii. Continuing to develop media initiatives that inform and educate the Canadian public, and connect Aboriginal and non-Aboriginal Canadians.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4982,7 +4663,6 @@ Media coverage of residential schools was low. From June 1, 2011, to May 31, 201
 The report included expert opinions on its findings, including those of cbc journalist Duncan McCue, who observed that editorial opinions "are often rooted in century-old stereotypes rather than reality."252 He pointed out:
 Yes, protests often meet the test of whether a story is `newsworthy,' because they're unusual, dramatic, or involve conflict. Yes, Aboriginal activists, who understand the media's hunger for drama, also play a role by tailoring protests in ways that guarantee prominent headlines and lead stories. But, does today's front-page news of some traffic disruption in the name of Aboriginal land rights actually have its roots in a much older narrative--of violent and "uncivilized" Indians who represent a threat
 
-
 ---
 clean_pagebreak: true
 ---
@@ -4997,7 +4677,6 @@ Journalism's first obligation is to the truth.... Journalism does not pursue tru
 Its practitioners must be allowed to exercise their personal conscience. Every journalist must have a personal sense of ethics and responsibility--a moral compass. Each of us must be willing, if fairness and accuracy require, to voice differences with our colleagues.... This stimulates the intellectual diversity necessary to understand and accurately cover an increasingly diverse society. It is this diversity of minds and voices, not just numbers, that matters.256
 With respect to the history and legacy of residential schools, all the major radio and television networks and newspapers covered the events and activities of the Commission.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5011,7 +4690,6 @@ The Commission heard from Survivors that the opportunity to play sports at resid
 These woollen baseball pants carry a story of their own ... these are the baseball pants that I wore in 1957­58, as a fifteen-year-old incarcerated boy at the Fort Alexander residential school.... Little did I know that my mom would treasure and keep them as a memento of her youngest boy. When I leave this land, they won't have anywhere else to go, so I hope the Bentwood Box keeps them well....
 When we were little boys at Fort Alexander residential school, our only chance to play hockey literally did save our lives. A lot of people here will attest to that. As a young man, playing hockey saved me.... And later, playing with the Sagkeeng Old-Timers saved me again.... I came back twenty years later, fifteen years later and started playing with an old-timers hockey team in Fort Alexander.... In 1983, we ended up winning the first World Cup by an Indigenous team, in Munich, Germany.... So I'm including in this bundle, a story of the old-timers, a battalion of Anishinaabe hockey players who saved themselves and their friends by winning, not only winning in Munich, Germany, but in three or four other hockey tournaments in Europe....
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5027,7 +4705,6 @@ Calls to Action
 87) We call upon all levels of government, in collaboration with Aboriginal peoples, sports halls of fame, and other relevant organizations, to provide public education that tells the national story of Aboriginal athletes in history.
 88) We call upon all levels of government to take action to ensure long-term Aboriginal athlete development and growth, and continued support for the North American Indigenous Games, including funding to host the games and for provincial and territorial team preparation and travel.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5039,7 +4716,6 @@ Call to Action
 In 2005, Sport Canada developed the Aboriginal Peoples' Participation in Sports Policy, which recognized the unique circumstances of Aboriginal peoples and the role of sport as a vehicle for individual and community health and cultural revitalization. It recognized that Aboriginal peoples have their own culturally diverse, traditional knowledge and cultural teachings of play, games, and sports.262 However, no action plan was subsequently developed to implement the policy.263 In 2011, in preparation for revising the 2002 Canadian Sport Policy (csp), Sport Canada conducted a series of consultations across the country, including a roundtable on "Sport and Aboriginal Peoples." The roundtable summary report noted:
 Participants believe that the needs and issues of Aboriginal Peoples were not adequately reflected in the 2002 csp.... The feeling among the participants was that the previous policy had "no teeth."... The new csp should acknowledge the unique identity of Aboriginal Peoples, what Aboriginal Peoples can contribute to Canadian sport ... and make a clear commitment to action. The csp can support sport for Aboriginal Peoples by reflecting Aboriginal culture and realities, cross-cultural issues between Aboriginal and non-Aboriginal Peoples, and an understanding of the motivation behind the interest of Aboriginal Peoples in sport.... If the new policy doesn't reflect the needs and issues of Aboriginal sport, then it will not be relevant to the Aboriginal population.... It would be important to recognize that the barriers to sport extend beyond a lack of resources and gaps and weaknesses in the sport
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5053,7 +4729,6 @@ The 2010 Winter Olympics in Vancouver, British Columbia, were held on the tradit
 Corporate sector: Land, sustainability, and economic development
 Survivors and their family members told us that their hope for the future lies in reclaiming and regenerating their own cultures, spirituality, laws, and ways of life that are deeply connected to their homelands. Indigenous nations are already doing this work in their
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5067,7 +4742,6 @@ In the face of global warming, growing economic inequities, and conflicts over l
 We do live side-by-side and we need to work on a relationship to create or promote a common understanding among all our constituents ... we need to find the best way forward to consult with each other, regardless of what legal obligations might exist. I mean, that's just neighbourly, right? ... We share a lot of common interests in areas like resource development. We need to find ways to work together, to support one another on these difficult topics.268
 In 1977, the Report of the Mackenzie Valley Pipeline Inquiry recommended that a proposed natural gas pipeline down the Mackenzie Valley in the Northwest Territories not be built before Aboriginal land claims in the region were resolved and environmental concerns were addressed. Justice Thomas Berger, who led the inquiry, identified the potentially
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5079,7 +4753,6 @@ The 1996 Report of the Royal Commission on Aboriginal Peoples noted that, histor
 In the post-rcap period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments' duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.271 The court has ruled that governments can still infringe on Aboriginal rights if it can demonstrate that it is in the broader public interest to do so. In the Delgamuukw case, the court described the nature of that public interest:
 [T]he development of agriculture, forestry, mining and hydroelectric power, the general economic development of the interior of British Columbia, protection of the environment or endangered species, the building of infrastructure and the settlement of foreign populations to support those aims, are the kinds of objectives
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5092,7 +4765,6 @@ Between 2012 and 2014, several reports highlighted the fact that Canada is once 
 In 2012, Canada's Public Policy Forum, a non-profit organization, held a series of six regional dialogues across the country, bringing together Aboriginal leaders; senior federal, provincial, and territorial government officials; and representatives from industry, business, and financial institutions. The purposes of the dialogues were to discuss issues, identify best practices, and make recommendations for action on how to ensure that Aboriginal communities benefit from large-scale resource development projects. The resulting report, "Building Authentic Partnerships: Aboriginal Participation in Major Resource Development Opportunities," identified five key opportunities for action: (1) developing authentic partnerships among Aboriginal communities, industry, governments, and academic institutions by building trust; (2) developing human capital by removing barriers to education, training, and skills development for Aboriginal entrepreneurs, workers, and leaders; (3) enhancing community control over decision making; (4) promoting entrepreneurship and business development; and (5) increasing financial participation.275 The report concluded:
 Natural resource companies are recognizing that their operational success relies on strong, authentic community engagement. Private sector initiatives have
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5103,7 +4775,6 @@ In November 2013, after eight months of consultations with representatives from 
 In December 2013, a group of current and former high-profile leaders from Aboriginal communities, business, banking, environment organizations, and federal and provincial governments released a report, "Responsible Energy Development in Canada," summarizing the results of a year-long dialogue. They concluded that Canada is facing an "energy resource development gridlock." In their view, the potential economic and social benefits derived from the exploitation of Canada's rich natural resources must be weighed against the potential risks to Aboriginal communities and their traditional territories, and must also address broader environmental concerns associated with global warming.279 They emphasized that there are significant barriers to reconciliation, including conflicting values, lack of trust, and differing views on how the benefits of resource development should be distributed and adverse effects be mitigated.280 The report identified four principles for moving forward on responsible energy resource development: (1) forging and nurturing constructive relationships, (2) reducing cumulative social and environmental impacts, (3) ensuring the continuity of cultures and traditions, and (4) sharing the benefits fairly.281
 Writing about the 2014 Supreme Court of Canada decision in Tsilhqot'in Nation v. British Columbia, Kenneth Coates, Canada Research Chair in Regional Innovation at the University of Saskatchewan, and Dwight Newman, law professor and Canada Research
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5116,7 +4787,6 @@ Business faces both challenges and opportunities when engaging with indigenous p
 In the Commission's view, sustainable reconciliation on the land involves realizing the economic potential of Indigenous communities in a fair, just, and equitable manner that respects their right to self-determination. Economic reconciliation involves working in partnership with Indigenous peoples to ensure that lands and resources within their traditional territories are developed in culturally respectful ways that fully recognize Treaty and Aboriginal rights and title.
 Establishing constructive, mutually beneficial relationships and partnerships with Indigenous communities will contribute to their economic growth, improve community health and well-being, and ensure environmental sustainability that will ultimately benefit Indigenous peoples and all Canadians. Unlike with the residential schools of the
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5131,7 +4801,6 @@ iii. Provide education for management and staff on the history of Aboriginal peo
 We are all Treaty people: Communities, alliances, and hope
 The Commission believes that reconciliation cannot be left up to governments, the courts, and churches alone. There must also be dialogue and action in communities across the country. Reconciliation must happen across all sectors of Canadian society. Canadians still have much to learn from each other. Past generations of newcomers faced injustices and prejudice similar to those experienced by residential school students and
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5143,7 +4812,6 @@ a ceremonial pipe, a sacred pipe, which when you bind the two sides together--th
 The world has changed in another way as well; the old dichotomy of white people versus Indians no longer applies. Look around at Canada today. There are the descendants of Europeans. There are the descendents of Indigenous peoples. But there are also the descendants of Arab nations, of Iran, of the Slavic nations, of Africa, of the Caribbean, Southeast Asian, Chinese, and Japanese peoples. The challenge of reconciliation may have begun between Indigenous peoples and Europeans, but now the project of reconciliation will be undertaken by the children of all those nations that I just mentioned. And though the world has changed, and Canada has changed, we still have a long way to go.... We are all in this together. Let us commit to removing the political, economic, and social barriers that prevent the full realization of that vision [of reconciliation] on these lands. Let us raise up the residential school Survivors, and their example of courage, grace, and compassion, in whose footsteps we walk towards that brighter day.284
 At the community level, where contact between Aboriginal and non-Aboriginal peoples is often minimal or marred by distrust and racism, establishing respectful relationships involves learning to be good neighbours. This means being respectful--listening to, and learning from, each other; building understanding; and taking concrete action to improve relationships. At the Victoria Regional Event, intergenerational Survivor Victoria Wells said,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5157,7 +4825,6 @@ what it was that a fourth-generation grandson of settler people needed to know i
 We also heard that day from Mayor Bill Elliot, from the nearby city of Wetaskiwin. He explained that prior to the trc's Community Hearing, he, along with Grade Ten students and others from Hobbema and Wetaskiwin, had attended a workshop with Survivors. Listening to their residential school experiences helped those who attended to begin to understand how deeply the residential schools had scarred Survivors, their families, and the whole community. He said,
 I think it helped the people of Wetaskawin come to an understanding of some of the trials and tribulations that our neighbours to the south have been going through all
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5170,7 +4837,6 @@ The cities of Vancouver, Toronto, Edmonton, and Calgary have also issued proclam
 We are blessed to have so many different cultures in this place, and all of us who come from afar ... have been incredibly lucky to be able to come to this place. Many of us come from families, from clans, from cultures, that were wiped out, that had to leave. We were forced off our territories, and somehow we've managed to make a home here. That's largely because of those First Nations ancestors who welcomed us ... who made it possible for refugees, for people of broken cultures all over the world to settle here, to stay here, even though our predecessors and our ancestors turned it right around and terrible things have happened. I think the strength that is in Aboriginal peoples across Canada is something for the world to learn from, something that we can apply to the big decisions that we have to make in our governments, our communities, our cities.
 When I hear the strength in Survivors, when I hear the phrase "brave children," when I think about brave Elders, I think "brave culture"--that bravery and that determination to learn from this past and to make the best decisions about how we look after each other, how we take care of each other, and those that need that help the most.... That we lift each other up; that we take care of the land and the sea that we inherited for the generations to come.291
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5183,7 +4849,6 @@ Reconciliation is a shared experience.... The residential schools were done [to 
 Kevin Takahide Lee, an intergenerational Survivor of the internment of Japanese Canadians during the Second World War, said,
 I acknowledge that we are on Coast Salish lands. It was also on these very lands here at the pne [Pacific National Exhibition fairgrounds] that my family was held during the war before being sent to the internment camp. It is my parents and grandparents who are Survivors.... [They] never talked about what happened in the internment camps ... even after the Japanese-Canadian redress happened ... hearing these stories from our Elders is very rare.... When I was four or five, I came here to the pne as most families do.... When it came to going inside the barn here, just two doors away, my grandmother would not come in. That's because that livestock building was used to hold her and other women and children, during the war, for months.... When I was a child, I couldn't comprehend this, but as an adult, I understand.... This is
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5195,7 +4860,6 @@ I grew up rejecting the stereotypical [identity] of the Chinese person because I
 Danny Richmond, an intergenerational Holocaust Survivor, said,
 My grandmother and grandfather lived through things in their twenties that I can't even begin to imagine ... for my people, this history is still an open wound ... what can I tell you that will give you understanding of this? ... It's always been part of my life.... Because the Holocaust was at such a widespread global level ... who is the perpetrator? Every day, people were implicated ... and there were systems and nations involved ... so there's no one person I can accept an apology from. The German government has apologized. It's about the reconciliation of trust in humanity that this kind of persecution won't happen again to the Jews or globally.... Reconciliation is about making sure that none of our communities suffer that persecution again ... for me it's about guarding our institutions to make sure they aren't continuing this kind of persecution ... we've had the apology from the government but how are we checking in to see how we're doing today? ... We need to create a National Day of Reconciliation that deals with these past human rights abuses, and educates [people] about what [what happens when we] dehumanize people. Canada was a safe haven for my family but it's also a nation with a lot of
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5210,7 +4874,6 @@ Ali Kazimi said,
 I came [to Canada] from India thirty years ago.... One of the things that became apparent to me right away was that I came [here] with my own baggage of stereotypes [of Aboriginal peoples]. These were defined by what I had seen in Hollywood films and comic books.... I spent a lot of time in Toronto going to soup kitchens, hanging out with people, trying to understand what the current reality is of First Nations people in an urban centre like Toronto. It was an incredible learning experience. It really humbled me. It really opened my eyes.... I remember having those discussions with people who would challenge me, and those challenges were absolutely essential.... That led me to my own question.... How do I fit into this landscape?
 Many Canadians feel that Canadian identity and cultural identity is somehow defined by this universal humanism. On the flip side, we have Prime Minister Harper who says Canada has no history of colonialism. They do the same thing. They deny colonialism and racism and [attitudes of ] white superiority ... whose legacy we
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5223,7 +4886,6 @@ Becoming citizens
 In preparing to become Canadian citizens, all immigrants to Canada study a booklet called Discover Canada. It explains, "To understand what it means to be Canadian, it is important to know about our three founding peoples--Aboriginal, French and British." It says the following about Aboriginal peoples:
 The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago. They were well established here long before explorers from Europe first came to North America. Diverse, vibrant First Nations cultures were rooted in religious beliefs about their relationship to the Creator, the natural environment and each other. Aboriginal and treaty rights are in the Canadian Constitution. Territorial rights were first guaranteed through the Royal Proclamation of 1763 by King George III, and established the basis for negotiating treaties with the newcomers--treaties that were not always fully respected. From the 1800s until the 1980s, the federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture. The schools were poorly funded and inflicted hardship on the students; some were physically abused. Aboriginal languages and cultural practices were mostly prohibited. In 2008, Ottawa formally apologized to the former students. In today's Canada, Aboriginal peoples enjoy renewed pride and confidence, and have made significant achievements in agriculture, the environment, business and the arts.299
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5240,7 +4902,6 @@ Calls to Action
 94) We call upon the Government of Canada to replace the Oath of Citizenship with the following:
 I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada including Treaties with Indigenous Peoples, and fulfill my duties as a Canadian citizen.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5253,7 +4914,6 @@ As Canadians, we share a responsibility to look after each other and acknowledge
 How do we do this? Through sharing our personal stories, legends and traditional teachings, we found that we are interconnected through the same mind and spirit. Our traditional teachings speak to acts such as holding one another up, walking together, balance, healing and unity. Our stories show how these teachings can heal their pain and restore dignity. We discovered that in all of our cultural traditions, there are teachings about reconciliation, forgiveness, unity, healing and balance.
 We invite you to search in your own traditions and beliefs, and those of your ancestors, to find these core values that create a peaceful harmonious society and a healthy earth.302
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5275,7 +4935,6 @@ Thinking must change.
 The way we talk to, and about, each other must change.
 All Canadians must make a firm and lasting commitment to reconciliation to ensure that Canada is a country where our children and grandchildren can thrive.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5287,7 +4946,6 @@ Endnotes
 ti, In Defense of Mohawk Land; Miller, Lethal Legacy; Simpson and Ladner, This is an Honour Song. 5. On the place of media in shaping popular opinion on the role of warriors in conflicts with the state,
 see: Valaskakis, Indian Country. On warriors and warrior societies in contemporary Indigenous communities, see: Alfred and Lowe, "Warrior Societies," 6. Letters from Prime Minister Brian Mulroney to Tony Penikett, Government Leader, Government of the Yukon Territory, 15 November 1990, and Dennis Patterson, Government Leader, Government of the Northwest Territories, 15 November 1990, PCO 2150-1, Ident. No. 34788, TRC Document Number TRC3379. 7. Canada, Royal Commission on Aboriginal Peoples, Report, 1:675­697. 8. United Nations, Declaration on the Rights of Indigenous Peoples, Article 43, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf. 9. Anaya, "Right of Indigenous Peoples," 196. 10. Canada, Aboriginal Affairs and Northern Development Canada, "Canada's Endorsement," http:// www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). 11. Canada, Aboriginal Affairs and Northern Development Canada, "Canada's Endorsement," http:// www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). 12. United Nations General Assembly, "Outcome Document," A/RES/69/2, 25 September 2014, http:// www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/2. 13. Canada, Permanent Mission of Canada to the United Nations, "Canada's Statement on the World Conference," http://www.canadainternational.gc.ca/prmny-mponu/canada_un-canada_onu/ statements-declarations/other-autres/2014-09-22_WCIPD-PADD.aspx?lang=eng. 14. Amnesty International Canada et al., "Canada Uses World Conference," http://www.fns.bc.ca/pdf/ Joint_Public_Statement_re_Canada_attack_on_UNDRIP_Sept_24_2014.pdf. 15. John, "Survival, Dignity, Well-Being," 58. Grand Chief John, an executive member of the First Nations Summit Task Group in British Columbia, participated in the development of the Declaration. He is a former co-chair of the North American Indigenous Peoples Caucus and will serve as a North American Representative to the United Nations Permanent Forum on Indigenous Issues until 2016. See: First Nations Summit, http://www.fns.bc.ca/about/e_john.htm. 16. Tsilhqot'in Nation v. British Columbia, 2014 CanLII 44 (SCC), para. 73. 17. Tsilhqot'in Nation v. British Columbia, 2014 CanLII 44 (SCC), para. 97. 18. TRC, AVS, Sol Sanderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108. 19. Reid, "Roman Catholic Foundations," 5. 20. The Permanent Observer Mission of the Holy See explains its role and function at the United Nations as follows: "The Holy See ... is the central government of the Roman Catholic Church. As such, the Holy See is an institution, which under international law and in practice, has a legal personality that allows it to enter into treaties as the juridical equal of a State.... The Holy See maintains full diplomatic relations with one hundred seventy-seven (177) countries out of the one hundred ninety-three (193) member countries of the UN.... The Holy See enjoys by its own choice
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5295,7 +4953,6 @@ clean_pagebreak: true
 366 · Truth & Reconciliation Commission
 the status of Permanent Observer at the United Nations, rather than of a full Member. This is due primarily to the desire of the Holy See to obtain absolute neutrality in specific political problems." See: UN Permanent Observer Mission of the Holy See, "A Short History," http://www.holyseemission.org/about/history-of-diplomacy-of-the-holy-see.aspx (accessed 19 February 2015). 21. UN Permanent Observer Mission of the Holy See, Statement to Economic and Social Council, Discussion on the reports, "Impact on Indigenous Peoples," http://www.ailanyc.org/wp-content/ uploads/2010/09/Holy-See.pdf (accessed 20 January 2015). 22. For example, in a study of how the doctrine was used to justify colonization, American legal scholar Robert A. Williams Jr. observed that the United States Supreme Court decision issued by Chief Justice John Marshall in 1823 in the case of Johnson v. McIntosh 21 U.S. 543 (1823), "represents the most influential legal opinion on indigenous peoples' human rights ever issued by a court of law in the Western world. All the major English-language-speaking settler states adopted Marshall's understanding of the Doctrine of Discovery and its principle that the first European discoverer of lands occupied by non-Christian tribal savages could claim a superior right to those lands under the European Law of Nations. Canada, Australia, and New Zealand all followed Marshall's opinion as a precedent for their domestic law on indigenous peoples' inferior rights to property and control over their ancestral lands." See: Williams, Savage Anxieties, 224. See also: Williams, American Indian; Miller et al., Discovering Indigenous Lands; Newcomb, Pagans in the Promised Land, 2008. 23. United Nations Economic and Social Council, Permanent Forum on Indigenous Issues, "Study on the Impacts of the Doctrine," http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/ N1424184.pdf?OpenElement. 24. Anglican Church of Canada, General Synod 2010, Resolution A086 R1, http://archive.anglican.ca/ gs2010/resolutions/a086/. 25. Sison, "Primate's Commission." See also: Anglican Church of Canada, "Message to the Church," http://www.anglican.ca/primate/communications/commission-on-discovery-reconciliation-justice. See also: Anglican Church of Canada, "Learning to Call One Another Friends," http://www. anglican.ca/primate/files/2014/06/PCDRJ_June2014_Update.pdf. 26. World Council of Churches, What Is the World Council of Churches?, http://www.oikoumene.org/ en/about-us (accessed 15 April 2015). Settlement Agreement signatories the Anglican Church of Canada, the Presbyterian Church in Canada, and the United Church of Canada are members of the WCC. 27. World Council of Churches, Statement on the doctrine of discovery, http://www.oikoumene.org/ en/resources/documents/executive-committee/bossey-february-2012/statement-on-the-doctrine-of-discovery-and-its-enduring-impact-on-indigenous-peoples (accessed 20 March 2015). 28. Executive of the General Council of the United Church of Canada, Meeting Summary, March 24­26, 2013, http://www.united-church.ca/files/general-council/gc40/gce_1203_highlights.pdf (accessed 20 March 2015). 29. United Nations Permanent Forum on Indigenous Issues, "Joint Statement," http://www.afn.ca/ uploads/files/pfii_2012_­_doctrine_of_discovery_­_joint_statement_fe.pdf (accessed 20 March 2015). 30. United Nations Permanent Forum on Indigenous Issues, "Study on the Impacts of the Doctrine," para. 13, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pdf?OpenElement (accessed 14 March 2015). For the views of the court on the need for reconciliation, John cited Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73 (CanLII), para. 20. For the judicial notice on colonialism, Snow cited R. v. Ipeelee, 2012 SCC 13 (CanLII), para. 60.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5306,7 +4963,6 @@ The challenge of reconciliation · 367
 Contract, Covenant; Ray, Miller, and Tough, Bounty and Benevolence. 34. The Treaty commissions in Ontario, Saskatchewan, and Manitoba have developed public educa-
 tion programs and materials designed to teach Canadians, particularly children and youth, about the Treaties. See, for example: Treaty Relations Commission of Manitoba, Public Education/Learning Centre, http://www.trcm.ca/public-education/learning-centre/ (accessed 15 April 2015). 35. Borrows, "Wampum at Niagara," 160­161. 36. Miller, Compact, Contract, Covenant, 72. 37. Capt. Thomas G. Anderson, "Report on the Affairs of the Indians of Canada, Section III," Appendix No. 95 in Appt T of the Journals of the Legislative Assembly of Canada, vol. 6 (1818), cited in Borrows, "Wampum at Niagara," 166. 38. Capt. Thomas G. Anderson, "Report on the Affairs of the Indians of Canada, Section III," Appendix No. 95 in Appt T of the Journals of the Legislative Assembly of Canada, vol. 6 (1818), cited in Borrows, "Wampum at Niagara," 167­168. 39. The Governor General of Canada, his Excellency the Right Honourable David Johnston, Speech delivered at the Symposium in Honour of the 250th Anniversary of the Royal Proclamation of 1763, Gatineau, Que., October 7, 2013, http://www.gg.ca/document.aspx?id=15345&lan=eng. 40. First Nations Summit, "Royal Proclamation Still Relevant," http://www.fns.bc.ca/pdf/FNS_Oped_re_250th_anniver_of_Royal_Proclamation_10_07_13.pdf (accessed 5 December 2014). 41. Steve Rennie, "Idle No More Protestors Mark 25th Anniversary of Royal Proclamation," Canadian Press, October 7, 2013, http://www.thestar.com/news/canada/2013/10/07/idle_no_more_protesters_mark_250th_anniversary_of_royal_proclamation.html. For more on the Idle No More movement, see: The Kino-nda-niimi Collective, The Winter We Danced. 42. Legal scholar Robert A. Williams Jr. explains the Gus-Wen-Tah or Two-Row Wampum as "a sacred treaty belt ... comprised of a bed of white wampum shell beads symbolizing the sacredness and purity of the treaty agreement between the two sides. Two parallel rows of purple wampum beads that extend down the length of the belt represent the separate paths travelled by the two sides on the same river. Each side travels in its own vessel: the Indians in a birch bark canoe, representing their laws, customs, and ways, and the whites in a ship, representing their laws, customs, and ways." See: Williams Jr., Linking Arms Together, 12­13. 43. "Two-Row Wampum Centers Idle No More Toronto Rally, Not the Royal Proclamation," October 9, 2013, BasicNews.ca, http://basicsnews.ca/two-row-wampum-centers-idle-no-more-toronto-rallynot-the-royal-proclamation/. 44. United Nations, Declaration on the Rights of Indigenous Peoples, Article 40, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf. 45. United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, "Access to Justice," 23, http://www.ohchr.org/Documents/Issues/IPeoples/ EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5318,7 +4974,6 @@ nc-aandc.gc.ca/eng/1100100014597/1100100014637. 50. TRC, AVS, Stephen Augustine,
 Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049. 51. Friedland, "IBA Accessing Justice and Reconciliation," 18, quoting Chief White, Snuneymuxw
 First Nation, 16 November 2012, http://indigenousbar.ca/indigenouslaw/wp-content/uploads/2013/04/iba_ajr_final_report.pdf (accessed 15 April 2015). Funding for the AJR project was provided by the Ontario Law Foundation. The Academic Lead for the project was Professor Val Napoleon, Law Foundation Professor of Aboriginal Justice and Governance, University of Victoria, Faculty of Law. The project coordinator was Hadley Friedland, PhD candidate, Vanier Scholar, University of Alberta, Faculty of Law. 52. On the importance of recognizing that victims of violence are also holders of rights, see: de Greiff, "Report of the Special Rapporteur," 2012, 10, para. 29, http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf. 53. Simpson, Dancing on Our Turtle's Back, 22. 54. TRC, AVS, Honourable Steven Point, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: BCNE304. 55. Stanton, "Canada's Truth and Reconciliation Commission," 4. 56. Castellano, Archibald, and DeGagné, "Introduction," in Castellano, Archibald, and DeGagné, From Truth to Reconciliation, 2­3. 57. de Greiff, "Report of the Special Rapporteur," 2012, 10­12, http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf. 58. Wab Kinew, "It's the Same Great Spirit," Winnipeg Free Press, October 22, 2012. 59. TRC, AVS, Shawn A-in-chut Atleo, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202. 60. Canada, Royal Commission on Aboriginal Peoples, Report, 1:38. 61. R. v. Sparrow, 1990 CanLII 104 (SCC). See also: Guerin v. R., 1984 CanLII 25 (SCC); Delgamuukw v. BC, 1997 CanLII 302 (SCC); Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73 (CanLII). 62. Manitoba Métis Federation Inc. v. Canada (Attorney General), 2013 SCC 14 (CanLII), Appellants Factum, para. 94, citing Manitoba Court of Appeal ruling Manitoba Métis Federations Inc. v. Canada (Attorney General) et al., 2010 MBCA 71, paras. 533, 534. 63. The Solicitor's Opinions on Native American issues can be found at: http://www.doi.gov/solicitor/ opinions.html (accessed 25 March 2015). 64. On the unfair burden of proof placed on Aboriginal peoples and the need to shift the onus onto the Crown, see, for example: Borrows, Recovering Canada, 101. 65. Canada, Royal Commission on Aboriginal Peoples, Report, 1:8. The Commission adopts the definition of "civic trust" put forward by justice scholar Pablo de Greiff as it relates to the role of apologies in reconciliation processes: "Trust involves an expectation of ... commitment to the norms and values we share ... not the thick form of trust characteristic of relations between intimates, but rather `civic' trust ... that can develop among citizens who are strangers to one another,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5326,7 +4981,6 @@ clean_pagebreak: true
 The challenge of reconciliation · 369
 but who are members of the same political community.... Trusting an institution, then, amounts to knowing that its constitutive rules, values, and norms are shared by participants and that they regard them as binding.... Reconciliation, minimally, is the condition under which citizens can trust one another as citizens again (or anew).... It presupposes that both institutions and persons can become trustworthy, and this is not something that is merely granted but earned." See: de Greiff, "Role of Apologies," 125­127. 66. TRC, AVS, Eugene Arcand, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202. 67. On the role of official apologies in reparations and reconciliation, see, for example: Barkan and Karn, Taking Wrongs Seriously; de Greiff, "Role of Apologies"; James, "Wrestling with the Past"; Nobles, Politics of Official Apologies; Tavuchis, Mea Culpa. 68. Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45. Other speakers included National President Mary Simon, Inuit Tapiriit Kanatami; Métis National Council President Clément Chartier; and Kevin Daniels, Interim National Chief, Congress of Aboriginal Peoples. 69. TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: SP203. 70. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035. 71. Vatican, Communiqué of the Holy See Press Office, April 29, 2009, http://www.vatican.va/resources/resources_canada-first-nations-apr2009_en.html. 72. "Pope Expresses `Sorrow' for Abuse at Residential Schools," CBC News, April 29, 2009, http://www. cbc.ca/news/world/pope-expresses-sorrow-for-abuse-at-residential-schools-1.778019. 73. Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html. 74. Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html. 75. TRC, AVS, Commissioner Wilton Littlechild, speaking at Oblates of St. Mary Immaculate gathering in St. Albert, Alberta, 2 May 2011, Statement Number: SC012. 76. In the Learning Places at National Events, there were information posters on the schools in the region, the Legacy of Hope Foundation exhibit, an information booth on the Missing Children Project, interactive maps, and a writing wall where people could offer their personal reflections. At each event in or near the Learning Place, the Settlement Agreement churches also organized a Churches Listening Area.  The intent was to provide an opportunity for those Survivors who wished to do so to speak personally with a church representative about their residential school experience. When requested, church representatives also offered apologies to Survivors. 77. TRC, AVS, Alvin Dixon, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE302. 78. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055. 79. Kelly, "Confession of a Born Again Pagan," 20­21, 39. 80. TRC, AVS, Jennie Blackbird, Statement to the Truth and Reconciliation Commission of Canada, Muncey, Ontario, 16 September 2011, Statement Number: 2011-4188.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5343,7 +4997,6 @@ globalization/report.pdf (accessed 22 March 2015). 89. United Church of Canada, 
 pcpmm_empire.pdf (accessed 22 March 2015). 90. United Church of Canada, The Executive of the General Council, March 24­26, 2012, Adden-
 dum H: Covenanting for Life, http://www.united-church.ca/files/general-council/gc40/addenda_2012-03-2426_executive.pdf (accessed 22 March 2015). 91. Presbyterian Church in Canada, "Presbyterian Statement," https://ecumenism.net/2015/01/presbyterian-statement-on-aboriginal-spiritual-practices.htm (accessed 17 March 2015). 92. United Church of Canada, "Affirming Other Spiritual Paths," http://www.united-church.ca/files/ aboriginal/schools/affirming-other-spiritual-paths.pdf (accessed 17 March 2015). 93. Canadian Conference of Catholic Bishops, "Let Justice Flow," 24­25, http://www.cccb.ca/site/images/stories/pdf/let_justice_flow_like_a_mighty_river.pdf (accessed 22 March 2015). 94. Canadian Catholic Aboriginal Council, Mandate, http://www.cccb.ca/site/eng/commissions-committees-and-aboriginal-council/aboriginal-council/canadian-catholic-aboriginal-council (accessed 22 March 2015). 95. TRC, AVS, Dr. Alan L. Hayes, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 2 June 2012, Statement Number: SE020. 96. MacKenzie, "For Everything There Is a Season," 89. 97. "Toronto Urban Native Ministry," cited in Bush, "How Have the Churches Lived out Their Apologies," 16. 98. Presbyterian Church in Canada, Acts and Proceedings of the 137th General Assembly, 368. 99. Healing Fund, Anglican Church, 2008, cited in Bush, "How Have the Churches Lived out Their Apologies," 24­25.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5354,7 +5007,6 @@ The challenge of reconciliation · 371
 102. Bush, "How Have the Churches Lived out Their Apologies," 18. 103. The Aboriginal Healing Foundation (AHF) was mandated to provide funding and support for
 Aboriginal community-based healing projects. For more on the history of the AHF and the circumstances surrounding the closure, see: Spear, "Full Circle," http://www.ahf.ca/downloads/full-circle-2.pdf (accessed 28 April 2015). 104. TRC, AVS, Allan Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-067. 105. TRC, AVS, Esther Lachinette-Diabo, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24Nov10-020. 106. TRC, AVS, Charlotte Marten, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 9 October 2013, Statement Number: SP127. 107. Education scholar Penney Clark's study identifies how Aboriginal peoples have been portrayed in Canadian history textbooks and how gaps in the history impact students. See: Clark, "Representations of Aboriginal People," 96­98, 103­111. 108. Council of Ministers of Education, "Developments on Indian Residential Schools by Jurisdiction," July 2014, email correspondence from Christy Bressette, Coordinator, Aboriginal Education, Council of Ministers of Education, Canada to Truth and Reconciliation Commission of Canada, 18 July 2014, TRC Document Number TRC3353. 109. Council of Ministers of Education, "Education Ministers Signal Transformation Key," http://cmec. ca/278/Press-Releases/Education-Ministers-Signal-Transformation-Key-to-the-Future.html?id_ article=826. 110. Freedom of conscience and religion is protected under Section 2 of the Canadian Charter of Rights and Freedoms, and Section 3 of Québec's Charter of Human Rights and Freedoms. 111. S.L. v. Commission scolaire des Chênes, 2012 SCC 7 (CanLII), p. 237. 112. Educator and scholar Marie Battiste's work on decolonizing and transforming the education system has informed the Commission's thinking on this issue. See: Battiste, Decolonizing Education, 175­191. 113. Education scholars Megan Boler and Michalinas Zembylas describe this way of teaching as a "pedagogy of discomfort" that requires both educators and students to "move outside their comfort zones" in constructive ways that can "radically alter their worldviews." See: Boler and Zembylas, "Discomforting Truths," 111. See also: Sheppard, "Creating a Caring Classroom." 114. See, for example, studies by education scholars: Immordino-Yang and Domasio, "We Feel, Therefore We Learn"; Schonert-Reichl and Hymel, "Educating the Heart." See also: Mary Gordon's initiative, Roots of Empathy, "an evidence-based classroom program that has shown significant effect in reducing levels of aggression among school children while raising social/emotional competence and increasing empathy," http://www.rootsofempathy.org/ (accessed 15 April 2015). See also: Gordon, Roots of Empathy. 115. TRC, AVS, Samantha Crowe, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014. Statement Number: ABNE401. For more information on the project, see: Ontario Provincial Advocate for Children and Youth, "Feathers of Hope: A First Nations Youth Action Plan, 2014," http://www.inspiritfoundation.org/files/6114/0656/0111/Feathersof-Hope_report.pdf (accessed 15 April 2015).
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5372,7 +5024,6 @@ Video, Our Legacy, Our Hope, at: http://www.youtube.com/watch?v=Xz2SUV0vFCI. 128
 ictj-program-report-children-and-youth. 129. TRC, AVS, Centre for Global Citizenship Education and Research, Statement to the Truth and
 Reconciliation Commission of Canada, Edmonton, Alberta, 27 March 2014, Statement Number: ABNE102. 130. Bolton, "Museums Taken to Task," 146­147. 131. Buchanan, "Decolonizing the Archives," 44. 132. Morse, "Indigenous Human Rights," 2, 10. 133. The decisions state that "the laws of evidence must be adapted in order that this type of evidence be accommodated and placed on an equal footing with the types of historic evidence that courts are familiar with, which largely consists of historical documents." See: Reasons for Decision, Delgamuukw v. British Columbia, 1997 CanLII 302 (SCC), para. 87. On the honour of the Crown, see, for example: R. v. Sparrow, 1990 CanLII 104 (SCC); Haida Nation v. British Columbia Minister of Forests, 2004 CanLII 73 (SCC); Delgamuukw v. British Columbia, 1997 CanLII 302 (SCC). 134. Legal scholar Bradford W. Morse makes this point. See: Morse, "Indigenous Human Rights," 12, 26. 135. Canada, Royal Commission on Aboriginal Peoples, Report, 5:232­233. 136. They have done so in accordance with their legislated mandate. Canada's Museums Act (1990) provides the legislative framework for museums. See: Museums Act (1990), chapter 3, section 3, http:// laws-lois.justice.gc.ca/PDF/M-13.4.pdf. The Act was amended in 2008 to include the Canadian Museum for Human Rights.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5381,7 +5032,6 @@ The challenge of reconciliation · 373
 137. Bolton, "Museums Taken to Task," 151. 138. On December 12, 2013, Bill C-7, An Act to amend the Museums Act in order to establish the Cana-
 dian Museum of History, received Royal Assent, thus officially establishing the legislative authority to "rebrand" the Canadian Museum of Civilization. Neither the original Museums Act nor the amendment made specific reference to Aboriginal peoples. See: http://www.parl.gc.ca/LegisInfo/ BillDetails.aspx?Language=E&Mode=1&billId=6263562&View=3. See also: "Civilization Museum Now the Canadian Museum of History," CBC News, December 12, 2013, http://www.cbc.ca/news/ canada/ottawa/civilization-museum-now-the-canadian-museum-of-history-1.2461738. 139. House of Commons Standing Committee on Canadian Heritage, 41st Parliament, 1st session, June 5, 2013, http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=6209352&Language=E&Mode=1&Parl=41&Ses=1 (accessed 12 January 2014). 140. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 7, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf. 141. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 8­9, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy. pdf. 142. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 10, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf. 143. Canadian Museum for Human Rights, https://humanrights.ca/about (accessed 15 April 2015). 144. President and CEO, Stuart Murray, Canadian Museum for Human Rights, Speech to the Truth and Reconciliation Commission of Canada's National Research Centre Forum, March 3, 2011, Vancouver, BC, https://humanrights.ca/about-museum/news/speech-delivered-president-and-ceo-stuart-murray-truth-and-reconciliation (accessed 15 April 2015). 145. Jake Edmiston, "Indian Residential Schools or Settler Colonial Genocide? Native Group Slams Human Rights Museum over Exhibit Wording," National Post, June 8, 2013, http://news.nationalpost. com/news/canada/indian-residential-schools-or-settler-colonial-genocide. 146. Canadian Museum for Human Rights, Statement from the President and CEO: Use of "Genocide" in relation to treatment of Indigenous peoples in Canada, July 26, 2013, http://museumforhumanrights.ca/about-museum/news/statement-president-and-ceo-use-genocide-relation-treatment-indigenous-peoples. 147. Canadian Museum for Human Rights, President and CEO Stuart Murray, speech delivered at "2017 Starts Now" forum, May 3, 2013, https://humanrights.ca/about-museum/news/speech-deliveredcmhr-president-and-ceo-stuart-murray-2017-starts-nowdebute. 148. Library and Archives Canada, "Collection Development Framework," March 30, 2005, 7­8, http:// www.collectionscanada.gc.ca/obj/003024/f2/003024-e.pdf. 149. Library and Archives Canada, "Aboriginal Heritage," http://www.bac-lac.gc.ca/eng/discover/aboriginal-heritage/Pages/introduction.aspx#d. 150. Library and Archives Canada, "Native Residential Schools in Canada," http://www.collectionscanada.gc.ca/native-residential/index-e.html (accessed 15 April 2015). 151. Wilson, "Peace, Order and Good Government," 239. 152. "New Exhibition Reflecting the Uniqueness of the Inuit Experience of Residential Schools Launched at Library and Archives Canada," media release, March 4, 2009, http://www.collectionscanada.gc.ca/013/013-380-e.html. See also: Legacy of Hope Foundation, http://wherearethechildren.ca/en; Legacy of Hope Foundation, http://weweresofaraway.ca/ (accessed 15 April 2015).
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5393,7 +5043,6 @@ clean_pagebreak: true
 156. Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII). 157. Professor Terry Cook, University of Manitoba, long-time archivist at the National Archives, Fellow
 of the Association of Canadian Archivists, and a Fellow of the Royal Society of Canada, makes this point. See: Cook, "Evidence, Memory, Identity," 111. 158. United Nations Commission on Human Rights, Sub-Commission on the Prevention of Discrimination and Protection of Minorities, The Administration of Justice and the Human Rights of Detainees: Question of the Impunity of Perpetrators of Human Rights Violations (Civil and Political) (revised final report prepared by Mr. Joinet to the Sub-commission decision 1996/199) UN Doc. E/CN.4/ Sub,2/1997/20/Rev.1, 1997-10-02; updated by UN DocE/CN.4/2005/102 (18 February 2005), and UN Doc E/CN.4/2005/102/Add.1 (8 February 2005), cited in Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument. December 13, 2012, note 35, 14, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf. 159. de Greiff, "Report of the Special Rapporteur," 2013, 22, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015). 160. de Greiff, "Report of the Special Rapporteur," 2013, 23, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015). 161. de Greiff, "Report of the Special Rapporteur," 2013, 29, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015). 162. Several prominent archivists have noted this trend. See, for example: Cook, "Evidence, Memory, Identity"; Wilson, "Peace, Order and Good Government"; Harris, "Archival Sliver"; Jimerson, "Archives for All." 163. TRC, AVS, Peter Cunningham, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE201. 164. Rev. Fausak is also General Council Liaison Minister, Indigenous Justice and Residential Schools, United Church of Canada. 165. TRC, AVS, Remembering the Children Society, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 29 March 2014, Statement Number: ABNE302. Based on their experience, United Church of Canada staff, in collaboration with the Remembering the Children Society, developed an educational resource with guidelines for other communities wishing to develop their own commemoration projects for residential school cemeteries and unmarked burials. See: United Church of Canada, Residential Schools Update, January 2012, http://develop. united-church.ca/files/communications/newsletters/residential-schools-update_120101.pdf (accessed 16 April 2015). 166. The United Church of Canada's online resources are available at: http://thechildrenremembered. ca/. Anglican Church online resources and school histories are available at: http://www.anglican. ca/relationships/trc. Presbyterian Church of Canada's online resources are available at: http:// www.presbyterianarchives.ca/RS%20-%20Home%20Page.html (accessed 15 April 2015).
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5403,7 +5052,6 @@ The challenge of reconciliation · 375
 168. Ian Wilson makes this point. See: Wilson, "Peace, Order and Good Government," 238. 169. This is based on the concept and philosophy of "sites of conscience," as described by the Interna-
 tional Coalition of Sites of Conscience, which is "a global network of historic sites, museums and memory initiatives connecting past struggles to today's movements for human rights and social justice," See: International Coalition of Sites of Conscience, http://www.sitesofconscience.org/ (accessed 15 April 2015). 170. Truth and Reconciliation Commission of Canada, "Sharing Truth: Creating a National Research Centre on Residential Schools," Forum, Vancouver, British Columbia, March 1­4, 2011. Videos of the forum can be viewed at: http://www.trc.ca/websites/trcinstitution/index.php?p=513. 171. Georges Erasmus, Truth and Reconciliation Commission of Canada, "Sharing Truth: Creating a National Research Centre on Residential Schools," Forum, Vancouver, British Columbia, 2 March 2011, https://vimeo.com/207788339. 172. Centre for Truth and Reconciliation Administrative Agreement, clauses 9 (c), (d), 11 (a), (e), http:// chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agreement.pdf. 173. As of April 2015, existing partners included: The National Association of Friendship Centres, Legacy of Hope Foundation, Canadian Museum for Human Rights, University of British Columbia, Lakehead University, University College of the North, University of Winnipeg, Red River College, Archives of Manitoba, University College of the North, L'Université de Saint-Boniface, St. John's College, St. Paul's College, Manitoba Museum, Centre for Indigenous Environmental Resources, and the Sandy-Saulteaux Spiritual Centre. It is anticipated that more partners will be added as the centre develops. See: National Centre for Truth and Reconciliation, Our Partners, http://umanitoba.ca/centres/nctr/partners.html (accessed 15 April 2015). 174. Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 6­7, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf. 175. Sue McKemmish, Shannon Faulkhead, and Lynette Russell, "Distrust in the Archive: Reconciling Records," Archival Science 11 (2011): 212, cited in Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2011, 11, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf. 176. Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 11­12, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf. 177. Fontaine v. Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 12­13, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf. 178. University of Manitoba, "Historic Agreement Signed on National Aboriginal Day," 21 June 2013, http://umanitoba.ca/news/blogs/blog/2013/06/21/historic-agreement-signed-on-national-aboriginal-day/. 179. Such access will be "subject to privacy law and culturally appropriate protocols," Truth and Reconciliation Commission of Canada and the University of Manitoba, Centre for Truth and Reconciliation Trust Deed, 21 June 2013, 3­4, http://umanitoba.ca/admin/indigenous_connect/media/ IND-00-013-NRCAS-TrustDeed.pdf. 180. Centre for Truth and Reconciliation, http://umanitoba.ca/centres/nctr/reconciliation.html (accessed 16 April 2015). See also: Centre for Truth and Reconciliation Administrative Agreement,
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5411,7 +5059,6 @@ clean_pagebreak: true
 376 · Truth & Reconciliation Commission
 http://chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agreement.pdf. 181. TRC, AVS, Jessica Bolduc, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014, Statement Number: ABNE401. 182. The Commission's definition of "public memory" is based on the work of historians who study public memory. For example, James Opp and John C. Walsh define "public memory" as "memories that are made, experienced, and circulated in public spaces and that are intended to be communicated and shared," See: Opp and Walsh, Placing Memory, 9. John Bodnar says that "public memory" is "a body of beliefs and ideas about the past that help [sic] a public or society understand both [sic] its past, present, and by implication, its future," See: Bodnar, Remaking America, 15. 183. Historian W. James Booth makes this important point in his study of how communities of memory are established, maintained, or disrupted through everyday habits and practices. See: Booth, Communities of Memory, 45. 184. In its report "Strengthening Indigenous Rights through Truth Commissions: A Practitioner's Resource," the International Center for Transitional Justice identifies four thematic areas where commissions must rethink widely held assumptions in the field of transitional justice in order to become more responsive to Indigenous rights. These include: a) moving beyond a state-centric approach; b) moving beyond an individualistic form of analysis; c) moving beyond a focus only on recent violations; and d) moving beyond an overreliance on archival and written sources. See: International Center for Transitional Justice, "Strengthening Indigenous Rights," 3­5, https://www. ictj.org/sites/default/files/ICTJ-Truth-Seeking-Indigenous-Rights-2012-English.pdf. 185. Chamberlin, If This Is Your Land, 238­239. 186. Schirch, Ritual and Symbol, 1­2. 187. Truth and Reconciliation Commission of Canada, "Atlantic National Event Concept Paper," 4, http://www.myrobust.com/websites/atlantic/File/Concept%20Paper%20atlantic%20august%20 10%20km_cp%20_3_.pdf. 188. In 2015, the Bentwood Box was on temporary loan to the Canadian Museum for Human Rights, where it was part of a public exhibit. 189. Campbell, "Remembering for the Future," 30. See also: Campbell, Our Faithfulness to the Past. 190. Qwul'sih'yah'maht (Thomas), "Honouring the Oral Traditions," 253. 191. TRC, AVS, Charles Cardinal, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-005. 192. TRC, AVS, Laurie McDonald, Statement to the Truth and Reconciliation Commission of Canada, Beausejour, Manitoba, 4 September 2010, Statement Number: 01-MB-3-6SE10-005. 193. TRC, AVS, Victoria Grant-Boucher, Statement to the Truth and Reconciliation Commission of Canada, Ottawa, Ontario, 25 February 2011, Statement Number: 01-ON-05-FE11-004. 194. TRC, AVS, Desarae Eashappie, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112. 195. Regan, Unsettling the Settler Within, 13. 196. TRC, AVS, Florence Kaefer, Statement to Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111. 197. "Teacher Seeks Healing through Truth Commission," CBC News, Manitoba, June 18, 2010, http:// www.cbc.ca/news/canada/manitoba/story/2010/06/18/mb-truth-reconciliation-healing-teachers-winnipeg.html.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5430,7 +5077,6 @@ Matarraso in correspondence with van Erven, March 19, 2008. 208. David Garneau, 
 Garneau, "Imaginary Spaces," 38. 209. Garneau, "Imaginary Spaces," 33­34. 210. Archibald et al., Dancing, Singing, Painting, 18. 211. Andrea Ratuski, "Residential School Art Series Awarded to U of M," CBC News, September 24, 2013,
 http://www.cbc.ca/news/canada/manitoba/scene/residential-school-art-series-awarded-to-uof-m-1.1865994. 212. Morris and Helen Belkin Art Gallery, http://www.belkin.ubc.ca/past/witnesses (accessed 16 April 2015); University of British Columbia Museum of Anthropology, http://moa.ubc.ca/portfolio_ page/speaking-to-memory/ (accessed 16 April 2015). 213. Robertson, "Threads of Hope," 87, 99­101. 214. University of Winnipeg, "UWinnipeg Healing Quilt Gifted to TRC Commissioners," 17 June 2010, http://www.uwinnipeg.ca/index/uw-news-action/story.364/title.uwinnipeg-healing-quilt-gifted-to-trc-commissioner. 215. Dewar et al., "Practicing Reconciliation," 5­6. 216. Full descriptions of the 2011­12 commemoration projects can be found online at: http://www.aadnc-aandc.gc.ca/eng/1370974213551/1370974338097 (accessed 15 April 2015). For 2012­13 commemoration projects, see: http://www.aadnc-aandc.gc.ca/eng/1370974253896/1370974471675 (accessed 15 April 2015). 217. Hague defines place as "a geographic space that is defined by meanings, sentiments and stories rather than by a set of co-ordinates." See: Cliff Hague, "Planning and Place Identity," in Cliff Hague and Paul Jenkins, eds., Place Identity, Participation and Planning (New York, 2005), 4, cited in Opp and Walsh, Placing Memory, 5. 218. Alan S. Hale, "Treaty 3 Holds Commemoration Ceremony for Survivors of District Residential School System," Kenora Daily Miner and News, March 25, 2014, http://www.kenoradailyminerandnews.com/2014/03/25/treaty-3-holds-commemoration-ceremony-for-survivors-of-district-residential-school-system.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5447,7 +5093,6 @@ bc/comm-board/Transparence-Transparency.aspx (accessed 15 April 2015). 227. Park
 Commemoration, http://www.pc.gc.ca/clmhc-hsmbc/ncp-pcn.aspx (accessed 15 April 2015). 228. Joinet-Orentlicher Principles, cited in United Nations Human Rights Council, "Report of the Special
 Rapporteur," 8, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ ListReports.aspx. 229. United Nations Human Rights Council, "Report of the Special Rapporteur," 14, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. 230. United Nations Human Rights Council, "Report of the Special Rapporteur," 19, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. The Special Rapporteur is referencing the commemoration projects undertaken as part of the Settlement Agreement. 231. United Nations Human Rights Council, "Report of the Special Rapporteur," 20­21, http://www. ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. 232. United Nations Human Rights Council, "Report of the Special Rapporteur," 21­22, http://www. ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. 233. United Nations Human Rights Council, "Report of the Special Rapporteur," 22, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. 234. The study was based on research conducted by Trina Cooper-Bolam and based in part on her experiences as the Legacy of Hope's former executive director, her work with the Aboriginal Healing Foundation, and her role as a project leader for the Assembly of First Nations and the Aboriginal Healing Foundation's national commemoration project. See: Cooper-Bolam, "Healing Heritage," 8­9, 106­107. 235. Cooper-Bolam, "Healing Heritage," 108­109. 236. Cooper-Bolam, "Healing Heritage," 109. 237. Cooper-Bolam, "Healing Heritage," 61­63.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5458,7 +5103,6 @@ The challenge of reconciliation · 379
 original_Language_and_Broadcasting_2004.pdf. 243. CBC/Radio-Canada, "Going the Distance," 48. The annual report also provides information
 on CBC's Aboriginal-languages programming and news coverage. See: http://www.cbc.radio-canada.ca/_files/cbcrc/documents/annual-report/2013-2014/cbc-radio-canada-annual-report-2013-2014.pdf. In 2013, Statistics Canada published this data as part of the National Household Survey conducted in 2011. See: Statistics Canada, Aboriginal Peoples in Canada, 2011, 4, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-eng.pdf. 244. Aboriginal Peoples Television Network, Annual Report, 2013, http://aptn.ca/corporate/PDFs/ APTN_2013_AnnualReport_ENG.pdf. 245. Aboriginal Peoples Television Network, Corporate Factsheet, http://aptn.ca/corporate/facts.php (accessed 18 March 2015). 246. Canada, Royal Commission on Aboriginal Peoples, Report, 5:103­104. 247. Canada, Royal Commission on Aboriginal Peoples, Report, 2:614. 248. See, for example: Anderson and Robertson, Seeing Red. 249. Journalists for Human Rights is a media development organization that provides education and resources to "help journalists build their capacity to report ethically and effectively on human rights and governance issues in their communities." See: http://www.jhr.ca/en/aboutjhr_learnabout.php (accessed 15 April 2015). 250. Journalists for Human Rights, "Buried Voices," August 2013, 18­19, http://www.documentcloud. org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015). 251. Journalists for Human Rights, "Buried Voices," 5­6, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015). 252. Journalists for Human Rights, "Buried Voices," 16, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015). 253. Journalists for Human Rights, "Buried Voices," 19, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1. 254. Miller, Lethal Legacy, vi. 255. Miller, "Ipperwash and the Media," 11, 14. 256. Miller, "Ipperwash and the Media," 19­20, 22­23. 257. TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: AB202. 258. TRC, AVS, Laura Robinson, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE202. 259. "Law Society Throws Support behind Reconciliation Initiatives," Gazette: Law Society of Upper Canada, 11 December 2014, http://www.lawsocietygazette.ca/news/law-society-throws-support-behind-reconciliation-initiatives/. 260. Mason and Koehli, "Barriers to Physical Activity," 103­105.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5474,7 +5118,6 @@ nipeg, Manitoba, 25 June 2014, Statement Number: SE048. 268. Jeff Lee, "Tsilhqot
 tember 24, 2014, A6. 269. Canada, Northern Frontier, Northern Homeland, 1:1, 82­83. Beginning in the 1980s, several
 land-claims agreements were signed across the North, including the Inuvialuit Final Agreement (1984), the Gwich'in Comprehensive Land Claim Agreement (1992), the Sahtu Dene and Métis Comprehensive Land Claim Agreement (1994), and the Tlicho Agreement (2005) in the Northwest Territories.  Although there have been attempts to revitalize the Mackenzie Valley pipeline project, with the participation of a coalition of Aboriginal partners, as of 2014, it remained unclear as to whether the project would proceed. See: Brent Jang, "Gas Exports from B.C. Seen as Key to Reviving Pipeline," Globe and Mail, February 2, 2014, http://www.theglobeandmail.com/report-on-business/ industry-news/energy-and-resources/gas-exports-from-bc-said-key-to-reviving-pipeline/article16657138/; Jeff Lewis, "Northwest Territories Eyes Revival of Mackenzie Valley Pipeline Project," Financial Post, June 11, 2013, http://business.financialpost.com/2013/06/11/northwest-territories-eyes-revival-of-mackenzie-valley-pipeline-project/?__lsa=c5d4-608a. 270. Canada, Royal Commission on Aboriginal Peoples, Report, 1:466­504. 271. See, for example: Delgamuukw v. British Columbia, 1997 CanLII 302 (SCC); Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73 (CanLII); Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69 (CanLII); Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43; Tsilhqot'in Nation v. British Columbia, 2014 SCC 44; Grassy Narrows First Nation v. Ontario (Natural Resources), 2014 SCC 48. 272. Delgamuukw v. British Columbia, 1997 CanLII 302 SCC, para. 165. 273. Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73 (CanLII), para. 53, cited in Newman, Rule and Role of Law, 10, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Final.pdf. 274. Newman, Rule and Role of Law, 13, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Final.pdf. 275. Public Policy Forum, "Building Authentic Partnerships," 7. 276. Public Policy Forum, "Building Authentic Partnerships," 6. 277. Eyford, "Forging Partnerships," 3, 7, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/ pdf/publications/ForgPart-Online-e.pdf.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5493,7 +5136,6 @@ Alberta, 25 July 2013, Statement Number: SP125. 289. TRC, AVS, Bill Elliot, Stat
 ton, Alberta, 29 March 2014, Statement Number: ABNE301. 290. Reconciliation Canada, "City of Vancouver Council Unanimously Support," http://reconciliation-
 canada.ca/city-of-vancouver-council-unanimously-support-city-of-reconciliation-framework/. See also: Report from City Manager to Vancouver City Council, "Framework for City of Reconciliation," http://former.vancouver.ca/ctyclerk/cclerk/20141028/documents/rr1.pdf. 291. TRC, AVS, Gregor Robertson, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE102. 292. Kim Harvey, Be the Change: Young People Healing the Past and Building the Future, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476. 293. Kevin Takahide Lee, Be the Change: Young People Healing the Past and Building the Future, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476. 294. Caroline Wong, Be the Change: Young People Healing the Past and Building the Future, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476. 295. Danny Richmond, Be the Change: Young People Healing the Past and Building the Future, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476. 296. TRC, AVS, Akua Benjamin, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B. 297. TRC, AVS, Ali Kazimi, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
 
-
 ---
 clean_pagebreak: true
 ---
@@ -5504,5 +5146,3 @@ clean_pagebreak: true
 300. Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
 301. Video recordings of the Walk for Reconciliation are available at: Reconciliation Canada, http://reconciliationcanada.ca/2013/09/ (accessed 15 April 2015).
 302. Elders Statement, "A Shared Tomorrow." The statement and video recording of the Elders Circle are available at: Reconciliation Canada, http://reconciliationcanada.ca/explore/elders-statement/ (accessed 15 April 2015).
-
-
